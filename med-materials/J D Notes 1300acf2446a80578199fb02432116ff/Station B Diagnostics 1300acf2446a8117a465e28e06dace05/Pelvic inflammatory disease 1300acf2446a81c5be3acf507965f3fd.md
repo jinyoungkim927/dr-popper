@@ -1,0 +1,296 @@
+# Pelvic inflammatory disease
+
+***Case:** A 35yo female with hx of prior chlamydial infection presents with low-grade fever, vaginal
+discharge, lower abdominal pain, cervical motion tenderness and intermenstrual bleeding. On
+abdominal examination there is lower abdominal tenderness on deep palpation. On pelvic exam,
+there is cervical motion tenderness and a mucopurulent vaginal discharge.*
+
+- PDx and DDx
+    - PDx
+        - PID
+        - Suprapubic pain, abnormal bleeding, discharge, cervical tenderness, past STI history and low grade fever
+    - DDx for pelvic pain and discharge
+        - Gynaecological
+            - **Ectopic pregnancy**
+            - Adenomyosis
+            - **Endometriosis (pelvic pain)**
+            - Ovarian torsion
+        - Infectious **(lower reproductive tract would explain discharge)**
+            - Cervicitis
+            - Vulvovaginitis
+                - Trichomoniasis
+                - Candidiasis
+                - Bacterial vaginosis
+        - **Neoplasia (pelvic pain)**
+            - Benign
+                - Leiomyoma, endometrial polyp
+            - Malignant
+                - Leiomyosarcoma
+                - Ovarian, endometrial, cervical Ca
+- What is PID?
+    - Acute or subclinical infection of the upper female reproductive tract
+        - Involves any or all of the uterus, fallopian tubes and ovaries
+        - Results in:
+            - Endometritis, salpingitis, oophoritis
+            - Peritonitis, perihepatitis
+            - Tubo-ovarian abscess
+- Common clinical symptoms of PID?
+    - Acute PID
+        - **Often asymptomatic - only noticed when investigated for tubal factor infertility**
+        - Pain
+            - Suprapubic, often bilateral
+            - Often < 2 weeks in duration
+            - Can be post-coital or dyspareunia
+            - On examination
+                - **Cervical motion, uterine and adnexal tenderness on bimanual palpation**
+        - Abnormal uterine bleeding in 1/3 (post-coital, inter-menstrual, menorrhagia)
+        - Abnormal vaginal or endocervical discharge
+        - Fever (if severe)
+        - Urinary symptoms (e.g. frequency)
+    - Chronic PID
+        - Chronic abdominal pain (may not have bleeding or discharge)
+        - Weight loss
+        - **Infertility**
+- Pathogenesis and causative organisms of PID?
+    - Disruption of normal protective barriers of the female reproductive tract
+        - Ascending (often polymicrobial) infection
+    - Causes
+        - STIs (85%)
+            - C. trachomatis (more common)
+            - N. gonorrhoea (more clinically severe)
+            - M. genitalium
+        - Enteric organisms (rare)
+            - S. pyogenes
+            - E. coli
+            - Enterococci, Klebsiella
+- Normal protective mechanisms from PID?
+    - Endocervical canal (barrier function)
+        - Thick cervical mucus
+        - Endometrial shedding
+        - Small canal
+    - Commensal micro-organisms of the genital tract
+    - Normal innate and adaptive immune responses
+    - Behavioural defences
+        - Barrier contraception
+        - Frequent STI screening
+- Risk factors for PID?
+    - Non-modifiable
+        - Age < 25
+        - Past Hx of PID or STI
+    - Modifiable
+        - Sexual activity
+            - Active
+            - Multiple partners
+            - No use of barrier contraception
+        - Instrumentation
+            - E.g. previous D&C or IUDs
+- Investigative approach to PID
+    - **Diagnosis**
+        - Clinical diagnosis (empirical antibiotics should not be delayed) which can be supported by investigations
+            - Sexually active women with lower abdominal pain demonstrating examination findings:
+                - Tenderness (cervical motion, uterine, adnexal)
+                - Purulent or bloody PV discharge
+        - **Cause may not be specifically identified in up to 70% of cases**
+    - Gold standard, for treatment-resistant complicated cases in laparoscopy
+        - Identifies tubal erythema, oedema, adhesions, purulent exudate
+    - Ancillary
+        - Bedside
+            - Urine and swabs
+                - **First-catch urine and endocervical swab (STIs)**
+                    - NAAT for N. gonorrhoea, C. trachomatis, M. genitalium
+                    - Microscopy of vaginal discharge
+                        - WCC present
+                        - May have Gram negative diplococci (Neisseria)
+                    - Culture (N. gonorrohoea)
+                - High vaginal swab MCS
+                    - Bacterial vaginosis (T. vaginalis)
+                - MSU MCS
+                    - UTI
+                - **B-hCG (exclude ectopic)**
+        - Labs
+            - FBC (raised WCC) → poor sensitivity and specificity for PID
+            - Inflammatory markers
+            - UEC (? pyelonephritis)
+            - **HIV screen**
+            - **Serology for syphilis**
+                - **VDRL and RPR**
+                - **TPPR and FTA-ABS**
+        - Imaging
+            - **Transvaginal US (rule out DDx)**
+                - Findings may only be seen in late PID
+                    - Endometritis, salpingitis, TOA
+                    - Free pelvic fluid in abdomen (e.g. Pouch of Douglas)
+- Culture requirements for N. gonorrhoea
+    - Neisseria spp. are fastidious, G-negative cocci which require enriched media (e.g. chocolate blood agar)
+    - **Selective culture on Thayer-Martin agar**
+        - Chocolate blood agar + antibiotics with inhibit other organisms (vancomycin, trimethoprim, colistin, nystatin)
+            - Gram positive: vancomycin
+            - Gram negative (except Neisseria): TMP and colistin
+            - Fungal: nystatin
+    - Note: if **a culture is a negative on Thayer-Martin agar**, and the patient has clinical PID, the causative organism is most likely Chlamydia
+- Management of PID
+    - Non-pharmacological
+        - Notifiable disease (chlamydia, gonorrhoea)
+            - Contact tracing and encourage sexual partners to visit doctor
+                - 6 months with chlamydia
+                - 2 months with gonorrhoea
+            - **Abstain from sexual intercourse during treatment**
+        - Education
+            - Barrier contraception (protects against STI and pregnancy)
+            - Complications of PID
+        - **Post-treatment testing in 3 months**
+            - Re-test for chlamydia and gonorrhoea
+    - Pharmacological
+        - Non-severe
+            - **Ceftriaxone 500mg IM or IV (once off) (Neisseria)**
+            - **Doxycycline 100mg PO BD for 14 days (Chlamydia)**
+                - Azithromycin 1g PO single dose (repeat one week later) **[if pregnant]**
+            - **Metronidazole 400mg PO BD for 14 days (anaerobes - mycoplasma, trich)**
+        - Severe
+            - Ceftriaxone 2g IV OD OR cefotaxime
+            - Azithromycin 500mg IV OD
+            - Metronidazole 500mg IV BD
+        - Note: gentamicin if penicillin allergy
+        - Patient should imrpove within 48-72h
+    - Surgical
+        - if TOA evident on U/S, consider drainage using US guided aspiration or laparoscopy
+    - Grading severity of PID
+        - Presence of any of the following = severe:
+            - Severe pain
+            - Fever > 38
+            - Systemic features
+            - Sepsis
+            - Suspected tubo-ovarian abscess
+- Complications of PID
+    - Acute
+        - Tubo-ovarian abscess (high risk of rupture)
+        - Peritonitis → septic shock
+        - Peri-hepatitis → Fitz-Hugh-Curtis syndrome
+    - Chronic
+        - Chronic or recurrent PID
+        - Inflammation or damage to the fallopian tubes
+            - Tubal factor infertility
+            - Ectopic pregnancy
+        - Inflammation of the abdominal contents
+            - Adhesions and bowel obstruction
+        - Increased risk of ovarian Ca (unclear reasoning)
+
+- Fitz-Hugh-Curtis syndrome
+    - Rare complication of PID involving inflammation of the liver capsule and ‘violin-string’ adhesions of the peritoneum to the liver
+- Chlamydia trachomatis
+    - Obligate intracellular organisms (unable to make own ATP)
+        - Cell wall lacks peptidoglycan (B-lactams ineffective)
+    - Forms
+        - **E**lementary body (small, dense)
+            - “**E**nfectious” and **E**nters cell via **E**ndocytosis
+            - Transforms into reticulate body
+        - **R**eticulate body
+            - **R**eplicates in cell by fission
+            - **R**eorganises into elementary bodies
+    - Complications
+        - Reactive arthritis (Reiter)
+        - Follicular conjunctivitis
+        - Non-gonococcal urethritis
+        - PID
+    - Diagnosis
+        - PCR (NAAT)
+        - Cytoplasmic inclusions (reticulate bodies) seen on Giemsa stain
+    - Management
+        - Azithromycin (preferred)
+        - Doxycycline (+ concomitant ceftriaxone for possible concomitant gonorrhoea)
+    - Serotypes of C. trachomatis
+        - A, B, C
+            - Chronic infection
+            - Causes blindess from follicular conjunctivitis in Africa
+        - D-K
+            - Urethritis (PID)
+            - Ectopic pregnancy
+            - Neonatal pneumonia
+            - Neonatal conjunctivitis
+        - L1-L3
+            - Lymphogranuloma venerum
+                - Small, painless ulcers → swollen, painful inguinal lymph nodes which can ulcerate (buboes)
+            - Manage with doxycycline
+- Treponema pallidum (syphilis)
+    - Caused by spirochete (T. pallidum)
+    - Forms
+        - Primary syphilis
+            - Localised disease presenting with painless chancre (A)
+            - Diagnosis
+                - Fluorescent or dark-field microscopy can visualise treponemes in fluid from chancre
+                - VDRL positive in 80% of patients (B)
+        - Secondary syphilis
+            - Disseminated disease with constitutional symptoms
+                - Maculopapular rash (includes palms and soles) (C, D)
+                - Condylomata lata (smooth, painless, wart-like white lesions on genitals) (E)
+                - Lymphadenopathy
+                - Patchy hair loss
+            - Diagnosis
+                - Confirm with dark-field microscopy
+                - Serology (VDRL/RPR → non-specific)
+                    - Confirm with specific test (FTA-ABS)
+            - Note: latent serology = positive serology without symptoms
+        - Tertiary syphilis
+            - Findings
+                - Gummas (chronic granulomas) (F)
+                - Aortitis (destruction of vasa vasorum)
+                - Neurosyphilis (tabes dorsalis - general paresis)
+                - Argyll-Robertson pupil
+                    - Constricts with accommodation but not reactive to light
+            - Diagnosis (neurosyphilis)
+                - Test spinal CSF with VDRL, FTA-ABS, PCR
+        
+        ![Screenshot 2023-09-21 at 10.40.07 pm.png](Pelvic%20inflammatory%20disease%201300acf2446a81c5be3acf507965f3fd/Screenshot_2023-09-21_at_10.40.07_pm.png)
+        
+    - Diagnosis of syphilis
+        - **Requires ≥ 1 positive non-treponemal assay and a positive treponemal test**
+        - Direct testing
+            - Darkfield microscopy
+                - Can miss 20% of positive cases, especially if antibiotics given
+            - PCR
+        - Serological testing
+            - Non-treponemal (non-specific, inexpensive and widely available)
+                - VDRL (venereal disease laboratory test)
+                - RPR (rapid plasma reagin test)
+                - **Both detect antibodies to cardiolipin in blood and non-specific for syphilis**
+                    - False **P**ositives in **VDRL**
+                        - Pregnancy
+                        - Viral infections (e.g. EBV, hepatitis)
+                        - Drugs (e.g. chlorpromazine, procainamide)
+                        - Rheumatic fever (rare)
+                        - Lupus and leprosy
+            - Treponemal (specific)
+                - TPPR (T. pallidum particle agglutination assay)
+                    - Detects specific serum antibodies to T. pallidum
+                - FTA-ABS (fluorescent treponemal antibody absorption assay)
+    - Management
+        - Benzylpenicillin (IM) (single dose)
+            - IV benzylpenicillin if neurosyphilis (OD for 14 days)
+        - Consider doxycycline PO BD for 14 days
+            - IM ceftriaxone IM or IV for 10-14 days
+        - **Note: Jarisch-Herxheimer reaction**
+            - Flu-like syndrome (fever, chills, headache, myalgia) after antibiotics started for syphilis due to killed spirochetes releasing toxins
+        
+- Microbiology of other STIs
+    - Mycoplasma genitalium
+        - Cannot be Gram stained → no cell wall
+        - Diagnose via NAAT
+        - Anaerobic
+    - Trichomonas vaginalis
+        - Motile protozoa (flagella)
+        - Classically presents with foul-smelling, frothy, yellow-green purulent discharge
+        - Diagnose with wet mount preparation
+    - Candida albicans
+        - Dimorphic fungi
+            - Forms oval, budding yeast with hyphae at 20-25 degrees
+            - Forms germ tubes at 37 degrees
+        - Diagnose with KOH test on wet mount preparation
+    - Bacterial vaginosis (Gardnerella vaginalis)
+        - Pleomorphic, Gram-variable rod
+            - Not painful (unlike vaginitis)
+            - Overgrowth of bacterial spp. with decreased lactobacilli levels
+        - Diagnosed with ≥ 3 of Amsel criteria
+            - Clue cells on wet mount (vaginal epithelial cells covered in G. vaginalis)
+            - Vaginal pH > 4.5
+            - Positive Whiff test (intensified fish odour after adding 1-2 drops of KOH)
+            - Thin gray-white discharge

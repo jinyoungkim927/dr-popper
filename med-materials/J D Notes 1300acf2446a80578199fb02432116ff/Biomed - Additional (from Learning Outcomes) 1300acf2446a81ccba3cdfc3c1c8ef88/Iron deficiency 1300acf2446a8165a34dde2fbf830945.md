@@ -1,0 +1,56 @@
+# Iron deficiency
+
+- Causes
+    - Inadequate intake
+        - Diet (haem iron from animal sources are more readily absorbed)
+            - Excess milk or juice intake in children
+        - Malabsorption
+            - Coeliac disease
+            - Atrophic gastritis
+            - Chronic PPI or antibiotic use
+    - Excessive losses
+        - Bleeding from any site (most Fe in RBCs)
+            - Occult GI bleeding, parasitic
+            - Blood donations
+            - Heavy menstrual bleeding
+            - Pregnancy and childbirth
+- Physiology
+    - Absorbed in small intestine via DMT1 in enterocytes
+        - If body stores are adequate
+            - Sequestered as ferritin
+        - If iron levels are low
+            - Fe is bound to transferrin via ferroportin and transported to cells for metabolism
+    - Enters cells via transferrin receptor
+- Clinical symptoms
+    - Anaemia
+        - Fatigue, weakness
+    - Pica and ice craving (compulsion to eat non-food substances)
+    - Restless leg syndrome (correlated to reduced iron in CNS)
+    - Signs
+        - Cheiletis
+        - Atrophic glossitis
+        - Koilonychia (spoon nails)
+        - Pallor
+- Management of iron deficiency
+    - General
+        - Consider if severe or life-threatening anaemia
+            - RBC transfusion often indicated
+        - Monitor iron levels and response to treatment
+        - Manage underlying causes of deficiency
+    - Iron replacement therapy
+        - Oral
+            - Preferred as generally effective, available, cheap and safe
+                - Not suitable for individuals with ongoing loss, IBD, CKD or intolerant to AEs
+            - Absorption can be impaired with food intake or medications which reduce acid (PPIs, antacids)
+                - Vitamin C may improve iron absorption
+            - AEs
+                - GI side effects (nausea, metallic taste, diarrhoea, vomiting, pain) are very common
+        - IV
+            - Use in severe iron deficiency or in conditions where oral iron is not suitable (e.g. malabsorption, intolerant)
+                - LMW iron dextran, ferric carboxymaltose (similar efficacy, varies in cost)
+                - HMW iron dextran no longer used due to allergic reactions
+            - AEs
+                - Risk of allergic reactions and anaphylaxis
+                    - Decreased rates with modern formulations of IV iron
+                - Risk of iron overload and secondary haemochromatosis
+                    - Increased infection risk

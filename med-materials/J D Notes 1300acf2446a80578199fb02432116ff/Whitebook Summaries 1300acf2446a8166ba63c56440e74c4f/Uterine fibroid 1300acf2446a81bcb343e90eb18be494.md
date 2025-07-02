@@ -1,0 +1,109 @@
+# Uterine fibroid
+
+## SPIEL
+
+- I saw a cut up of a uterine fibroid from a 37 F who had an elective myomectomy. The remainder of the clinical history is unknown as they were a private patient
+    - Indication for pathology is to **exclude malignant change of the leiomyoma into a leiomyosarcoma**
+- Macroscopic
+    - 7 fibroids were received in formalin
+        - Largest fibroid measured 150mm max diameter by 90mm by 50mm
+        - It was firm and grey-white in appearance
+    - External surface is smooth and irregular
+        - Numerous large nodules and masses
+        - There are some small areas of haemorrhage
+    - The fibroid was sectioned
+        - **Cut surface was smooth and homogenous with a whorled appearance**
+        - No signs of necrosis
+- Microscopic
+    - **Bundles of smooth muscle cells which mimic the appearance of normal myometrium**
+    - May see foci of fibrosis, calcification and degenerative softening
+    - **Often surrounded by a pseudocapsule of compressed areolar tissue and smooth muscle cells**
+        - Contains few blood vessels and lymphatic vessels
+        - **Distinguishes fibroids from adenomyosis which tends to be more diffusely organised in the myometrium**
+
+![Screenshot 2023-10-22 at 4.35.28 pm.png](Uterine%20fibroid%201300acf2446a81bcb343e90eb18be494/Screenshot_2023-10-22_at_4.35.28_pm.png)
+
+- What is leiomyoma? Epidemiology? Risk factors?
+    - Benign proliferations of smooth muscle cells of the myometrium
+        - Typically occur in women of childbearing age and then regress during menopause
+    - Epidemiology
+        - Most common benign gynaecological tumour in pre menopausal women
+        - Incidence of clinical symptoms is higher in African ethnicity
+    - Risk factors
+        - Associated with hyperoestrogenic states
+            - Early menarche
+            - Use of OCP before age 16
+            - Increase in BMI
+        - Protective factors
+            - Progestin only contraceptives
+            - Multiparity
+- Leiomyomas - clinical symptoms
+    - Many are asymptomatic and require no treatment
+    - FIBROIDS
+        - Frequency and retention of urine (hydronephrosis)
+        - **Iron deficiency anaemia (secondary to bleeding)**
+        - Bleeding abnormalities (heavy menstrual bleeding, postcoital spotting)=
+        - **Reproductive difficulties (dysfunctional labor, premature labour)**
+        - Obstipation and rectal pressure
+        - **Infertility**
+        - Dysmenorrhoea and dyspareunia
+        - **Symptomless (most common)**
+    - Pelvic pain is often not part of the symptom complex unless vascular compromise is present
+- Classification of uterine fibroids
+    - By location
+        - Submucosal (beneath endometrium)
+            - Often associated with heavy or prolonged bleeding
+        - Intramural (in muscular wall of uterus)
+            - Most common type
+        - Subserosal (beneath uterine serosa)
+    - A parasitic leiomyoma is a pedunculated fibroid which becomes attached to the pelvic viscera or omentum and develops its own blood supply
+    
+    ![Screenshot 2023-10-22 at 4.35.11 pm.png](Uterine%20fibroid%201300acf2446a81bcb343e90eb18be494/Screenshot_2023-10-22_at_4.35.11_pm.png)
+    
+- Pathophysiology of leiomyoma
+    - Comprised of monoclonal cells arising from the myometrium
+        - Genetic predisposition, steroid hormone factors, growth factors and angiogenesis may all play a role
+    - Leiomyomas have an increased expression of both oestrogen and progesterone receptors when compared to normal myometrium
+        - Complex hormonal response
+            - Growth may be stimulated by ovarian steroids, oestrodiol and progesterone
+            - Size of fibroids often decline after menopause when hormone levels fall
+    - Some leiomyomas can enlarge to outgrow their blood supply resulting in infarction and degeneration → pain
+    - **Rare to develop into leiomyosarcoma (thought to be separate neoplastic entities)**
+- Diagnosis of leiomyoma
+    - Comprehensive history and physical examination
+        - May be palpated on bimanual pelvic examination or abdominal examination
+        - Non-tender irregularly enlarged uterus with cobblestone protrusions
+    - Principal diagnostic investigations
+        - Pelvic ultrasound
+            - Fibroids = areas of hypoechogenicity among normal myometrial material
+        - Pelvic MRI
+            - Can help determine the extent of vascularisation or degeneration of leiomyomas
+            - Better defines the relationship to serosal and mucosal surfaces
+            - Helps distinguish from adenomyosis
+        - Hysterosalpingogram and hysteroscopy
+            - Can help distinguish fibroids from polyps
+            - Can aid imaging of the location and size of uterine fibroids
+- Management of leiomyoma
+    - Expectant management is appropriate for most cases which are asymptomatic and unequivocal (exclusion of other causes of pelvic mass)
+        - Monitor every 6 months if actively growing fibroids
+    - Non-hormonal options (NSAIDs, TXA)
+        - Treat dysmenorrhoea, anaemia, heavy menstrual bleeding
+    - Hormonal options
+        - COCP
+        - Progestins (mini-pill, Mirena IUD)
+        - GnRH agonists (goserelin, leuprolide)
+            - Found to shrink fibroids and decrease bleeding by decreasing circulating oestrogen
+    - Surgical
+        - Myomectomy (surgical resection of ≥ 1 fibroid from the uterine wall)
+            - High chance of fibroid recurrence in 5 years
+        - Hysterectomy (definitive)
+- What would you expect to see in leiomyosarcoma
+    - Often solitary lesions which most often occur in post-menopausal women
+    - Macroscopic
+        - Soft, haemorrhage, necrotic masses
+    - Microscopic
+        - Evidence of tumour necrosis
+        - Evidence of neoplasia
+            - Cytological atypia
+            - Increased mitotic activity
+        - May resemble well-differentiated leiomyoma or look widely anaplastic

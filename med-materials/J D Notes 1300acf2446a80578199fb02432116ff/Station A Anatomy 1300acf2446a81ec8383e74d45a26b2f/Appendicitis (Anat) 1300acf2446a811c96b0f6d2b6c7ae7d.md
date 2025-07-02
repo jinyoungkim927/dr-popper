@@ -1,0 +1,206 @@
+# Appendicitis (Anat)
+
+## Past Question: **Appendicitis** (anatomy)
+
+*A 16-year-old patient presents with anorexia, nausea and abdominal pain that started in the mid-abdomen and later localised to the right lower quadrant.*
+
+- Differentials for RLQ pain
+    - Gastrointestinal
+        - Inflammatory
+            - Appendicitis
+            - IBD (Crohn’s in particularly)
+            - Meckel’s diverticulitis
+        - Infectious
+            - Mesenteric adenitis (more common in younger children, typically viral)
+            - Gastroenteritis
+        - Obstructive
+            - Inguinal hernia (especially if incarcerated)
+            - Bowel obstruction
+                - Children - malrotation (Ladd’s bands) or intussusception
+                - Elderly - caecal volvulus
+    - Urinary
+        - Infectious: UTI, cystitis, pyelonephritis
+        - Renal calculi
+    - Gynaecological
+        - Ectopic pregnancy
+        - Endometriosis
+        - Ovarian torsion, cyst rupture
+        - PID
+    - Male genital
+        - Testicular torsion
+        - Epididymitis
+- Further information on history
+    - HOPC
+        - Characterise the pain
+            - Acute onset, severe pain (initial periumbilical) which can be colicky or constant, often dull and poorly localised
+                - Localises to the RIF
+        - Associated symptoms
+    - PMHx
+        - Risk factors for ectopic pregnancy (PID, tubal surgery or drainage, previous abdominopelvic surgery)
+        - Recent viral infection (mesenteric adenitis)
+        - Previous episodes of pain
+        - Sexual history
+        - Surgical history
+    - Meds/Allergies (guide management, identify contraindications)
+    - FHx
+        - History of cancer
+    - SHx
+        - Smoking, alcohol, drugs
+        - Diet
+- Symptoms and signs of appendicitis
+    - Symptoms of appendicitis
+        - Migratory pain - periumbilical → RLQ
+            - Initially dull, poorly localised - may be constant or colicky
+            - Note: children often present with generalised abdominal pain
+        - Associated with fever, anorexia and vomiting
+    - Signs of appendicitis
+        - Localised tenderness in RLQ over McBurney’s point
+            - Inferior 1/3 of line from ASIS to umbilicus
+        - Signs of peritonism
+            - Guarding
+            - Rebound tenderness
+            - Rovsing’s sign
+                - pain in RLQ with compression over the LLQ
+        - Signs used to localise the appendix
+            - Retrocaecal appendix → psoas sign
+                - RLQ with passive right hip extension (as inflamed appendix lies against psoas major)
+            - Pelvic appendix → obturator sign
+                - RLQ pain with internal rotation of a flexed right hip (inflamed appendix against obturator internus)
+- Risk factors for appendicitis
+    - Most common between ages 10-35
+    - Men > women
+    - Recurrent infections → lymphoid hyperplasia
+    - Association with cystic fibrosis in children
+- Investigative approach to appendicitis
+    - A clinical diagnosis reliant on history and examination
+    - Clinical scores
+        - Alvarado score (MANTRELS)
+            - Migration of pain (1)
+            - Anorexia (1)
+            - Nausea (1)
+            - Tenderness in RLQ (2)
+            - Rebound pain (1)
+            - Elevated temperature (1)
+            - Leukocytosis (2)
+            - Left-shift of WBC (1)
+        - Total of 10
+            - Score < 4 = >95% probability appendix is ruled out
+            - Score of 4 or more suggests imaging and surgical consultation
+        - There is a validated paediatric appendicitis score
+    - Ancillary investigations
+        - Bedside
+            - Blood gas (with any signs of peritonism to identify sepsis)
+            - U/A (rule out UTI from DDx)
+        - Labs
+            - B-hCG (rule out ectopic pregnancy)
+            - FBC and CRP (leukocytosis and inflammation)
+            - Group and hold and coagulation studies (pre-operative workup)
+            - UEC, LFTs, lipase (exclude other DDx)
+        - Imaging
+            - Ultrasound
+                - Used as a screening tool or 1st line in pregnant women and children
+                - Findings
+                    - Focal pain over McBurney’s point with compression
+                    - Non-compressible appendix with double-wall thickness diameter of > 6mm
+                    - Increased echogenicity of inflamed periappendiceal fat
+                    - Fluid in RLQ
+            - CT AP with contrast
+                - Enlarged appendiceal double-wall thickness (>6mm)
+                - Peri-appendiceal fat stranding
+            - CXR → investigate pneumoperitoneum
+- Pathogenesis of appendicitis
+    1. Obstruction of the appendiceal lumen (most common cause)
+        1. Causes: lymphoid tissue hyperplasia (children, young adults), appendiceal faecolith and stasis (adults), neoplasm (uncommon), parasitic infection (uncommon)
+    2. Ongoing mucosal secretions = increased intraluminal pressure and distension
+    3. Impairment of venous and lymphatic outflow → swelling and oedema
+    4. Compression of appendiceal blood vessels → ischaemia and necrosis
+        1. Note: appendicular artery is an end-artery which is vulnerable to oedema or thrombosis from inflammation
+    5. Loss of epithelial integrity (inflammation) → bacterial translocation and suppurative inflammmation
+    6. Fibrinoexudative reaction on serosal surface → irritation of parietal peritoneum
+- Complications of appendicitis
+    - Acute
+        - Gangrenous appendicitis (infarction)
+        - Perforation → generalised peritonitis, ileus, septic shock
+    - Subacute
+        - Abscess (appendiceal or periappendicular)
+            - Drainage may protect against fistulation
+                - 4cm is a guide (smaller = antibiotics, larger = drainage)
+        - Phlegmon formation
+    - Chronic
+        - Adhesion formation (secondary to peritonitis or surgery
+            - Further risk of SBO
+    - General surgical and anaesthetic risks for treatment
+- Management of appendicitis
+    - Initial management
+        - Concurrent assessment and resuscitation as needed guided by primary survey (A-E approach)
+        - Supportive therapy
+            - Bowel rest → NBM
+            - Commence IV fluid and electrolyte maintenance
+            - Analgesia
+    - Definitive management
+        - Empirical antibiotics (awaiting surgery)
+            - Note: simple, non-complicated appendicitis may be treated with 1-3 days of IV antibiotics until clinical improvement with an oral course for a total of 7-10 days
+            - Ampicillin, gentamicin, metronidazole
+                - If gentamicin contraindicated → ceftriaxone
+                - If penicillin hypersensitivity → clindamycin
+            - If acute, non-perforated appendicitis - cease antibiotics after surgery
+            - If acute, perforated appendicitis
+                - Total 5 days (IV + oral) antibiotics post appendicectomy
+        - Surgical appendicectomy
+            - +/- Surgical drainage of abscess may be indicated
+            - +/- Ileocaecal resection may be indicated for phlegmon
+- Appendiceal positions and impact on clinical presentation
+    - Most important positions
+        - Retro-caecal or retrocolic (75%)
+            - Flank or back pain (high appendix below R costal margin)
+            - Psoas sign
+            - May have rigidity
+        - Pelvic (20%)
+            - Suprapubic or pelvic pain
+            - Urinary and bowel symptoms (frequency, dysuria, diarrhoea, tenesmus)
+            - Obturator sign
+        - Pre-ileal or post-ileal (5%)
+            - Vomiting and diarrhoea (irritation of distal ileum)
+- Vascular supply of appendix
+    - Arterial
+        - Appendicular artery from SMA
+    - Venous
+        - Appendicular vein → SMV → portal vein
+    - Vascular supply contained within mesoappendix
+- Lymphatic drainage of appendix
+    - Appendicular lymph nodes (within mesoappendix) → ileocolic lymph nodes → superior mesenteric nodes → intestinal lymph trunk → cisterna chyli
+- Innervation of appendix
+    - Ileocolic branch of superior mesenteric plexus
+        - PSNS: vagus nerve
+        - SNS: lesser splanchnic nerve (T10-T11)
+    - Afferent sensory fibres via SNS fibres to enter the spinal cord at T10-T11 dermatome level
+- Explain migratory pain and involved dermatomes in appendicitis
+    - Initial pain in acute appendicitis is visceral
+        - Activation of visceral afferent fibres which travel with the sympathetic supply to the appendix
+            - Fibres → superior mesenteric plexus → lesser splanchnic nerve → dorsal root ganglia of T10-T11
+            - Interpretation of pain signals is one that originates from the T10-11 dermatome (periumbilical region)
+    - Delayed somatic pain once inflammation spreads to the serosa and irritates the parietal peritoneum
+        - Pain migrates to the RLQ and becomes sharply localised
+            - Somatic nerve fibres originate from the dorsal root ganglia of T12-L1
+            - Carried by right subcostal nerve and/or L1 lumbar nerve
+    - Note: midline visceral pain as the visceral organs are supplied with bilateral afferents (embryonic midline structure)
+        - Lateralises with somatic pain which has better somatotopic mapping
+- Macroscopic and microscopic features
+    - Macroscopic
+        - Large, distended appendix (due to oedema)
+        - Serosal surface demonstrates signs of acute inflammation
+            - Erythema with congested blood vessels and fibrinosuppurative exudation
+        - Internal surface
+            - Thickened and oedematous wall
+            - Distended lumen with purulent fluid
+            - Hyperaemic mucosa
+    - Microscopic
+        - Transmural inflammation with the hallmarks of acute inflammation
+            - Vascular dilation and congestion, oedema, infiltration of inflammatory cells (neutrophils predominant)
+            - Lymphoid hyperplasia (likely reactive)
+
+- What is a faecolith + significance
+    - A stony mass of compacted faeces which occur in severe cases of stool stasis with faecal impaction
+        - Form around a nidus in layers
+        - May contain calcification visible on radiographs
+    - Can precipitate appendicitis or diverticulitis when obstructing the lumen

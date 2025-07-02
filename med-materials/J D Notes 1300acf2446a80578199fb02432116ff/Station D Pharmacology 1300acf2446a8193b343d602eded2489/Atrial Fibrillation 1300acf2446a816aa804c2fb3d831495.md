@@ -1,0 +1,337 @@
+# Atrial Fibrillation
+
+**Case:** *62F presents with palpitations and dizziness. OE: obese, HR 108 irregularly irregular. Given the following ECG strip:*
+
+![Screenshot 2023-08-03 at 4.59.28 pm.png](Atrial%20Fibrillation%201300acf2446a816aa804c2fb3d831495/Screenshot_2023-08-03_at_4.59.28_pm.png)
+
+- **Interpret ECG - PDx?**
+    - Rhythm strip shows an irregularly irregular narrow-complex rhythm with absent P waves
+        - Atrial fibrillation → SVT characterised by uncoordinated atrial activation resulting in an irregular ventricular response due to intermittent conduction through the AV node
+- **AF, epidemiology, clinical features**
+    - Epidemiology
+        - Affects 1-2% of Australian population
+    - Clinical features
+        - Usually asymptomatic
+            - May have chest pain, palpitations, syncope, fatigue, dyspnoea
+        - Signs
+            - Irregularly irregular pulse
+            - May have pulse deficit between apex of heart and radial pulse (due to premature ventricular contractions = low stroke volume = no transmission of pressure to arm)
+- **Classifications of AF**
+    - Haemodynamic instability
+        - Unstable
+            - Signs of haemodynamic instability (e.g. chest pain, altered mental status, APO, hypotension, shock)
+        - Stable
+    - Ventricular rate
+        - AF with rapid ventricular response (rate > 100-110)
+        - AF with slow ventricular response (< 60)
+    - Onset and duration
+        - New onset
+            - New presentation or diagnosis regardless of duration
+        - Paroxysmal
+            - Resolves within 7 days of onset (treatment or spontaneously)
+            - Frequence of recurring episodes may vary
+        - Persistent
+            - Continuous for > 7 days
+        - Long-standing
+            - Continuous for > 1 year
+        - Permanent
+            - Therapeutic attempts no longer made to convert to or maintain sinus rhythm unless patient and doctor agree to do so
+    - Mitral valve involvement
+        - Valvular
+            - Moderate or severe mitral stenosis or artificial valve
+        - Non-valvular
+- **Risk factors or causes of AF**
+    - Reversible causes of AF
+        - Sympathomimetic
+            - Excess caffeine, cocaine, amphetamines
+            - Phaeochromocytoma
+        - Electrolyte imbalances
+            - Hypomagnesaemia
+            - Hypokalaemia
+        - Endocrine
+            - Thyrotoxicosis
+        - Infection - fever
+    - General vascular risk factors
+        - Older age
+        - HTN, smoking, DM, obesity, OSA
+    - Intrinsic cardiac risk factors
+        - IHD
+        - VHD (esp. mitral heart disease causing lengthening of atria)
+        - CCF
+        - Arrhythmogenic
+            - Pre-excitation tachycardia (e.g. WPW)
+            - Sick sinus syndrome (SA dysfunction)
+            - Congenital channelopathies
+    - Non-cardiac
+        - Pulmonary disease (COPD, PE, pneumonia)
+        - CKD
+        - Chronic excessive alcohol consumption
+- Investigative approach to AF
+    - Principal diagnostic investigations
+        - ECG +/- Holter monitoring to assess correlation between fibrillation and symptoms
+        - Echocardiogram (TTE)
+            - Required in all patients with new onset AF → identify atrial thrombi
+            - Assess cardiac function
+    - Ancillary investigations
+        - Identify possible underlying cause
+            - FBC - anaemia, infection
+            - TFTs - hyperthyroidism
+            - Metabolic - UECs, CMP, serum glucose
+            - Consider troponins, BNP, D-dimer, serum or urine toxicology
+        - Plan management
+            - Coagulation panel
+            - LFTs
+        - Imaging
+            - CXR - rule out DDx, pulmonary disease
+- **Management approach to AF?**
+    - Initial acute management
+        - Address and correct reversible causes (electrolyte imbalances, associated illnesses)
+        - Consider immediate and/or long term anticoagulation
+    - Acute AF
+        - Haemodynamically unstable
+            - Primary survey, concurrent resuscitation, call for senior help
+            - Rhythm control
+                - First line → emergency electrical cardioversion
+                    - Pre-treatment with anti-arrhythmic agents
+                    - Pre-cardioversion anticoagulation (LMWH, UFH)
+        - Haemodynamically stable
+            - Onset < 48h
+                - Rhythm or rate control may be attempted
+                - Start heparin anticoagulation if delayed
+            - Onset > 48h (increased risk of thrombus)
+                - Rate control only
+    - Chronic AF
+        - Rate control is generally first line
+        - Rhythm control used as first line if:
+            - High risk (e.g. Hx of TIA or stroke)
+            - Persistent symptoms despite adequate rate control
+            - Inability to achieve rate control
+    - Anticoagulation
+        - Valvular AF
+            - Required in all patients (if no contraindications present)
+        - Non-valvular AF
+            - Guided by CHA2DS2-VASc score
+- **Difference between rhythm and rate control**
+    - Rhythm control
+        - Goal to restore coordinated atrial contraction
+        - Consider in patients:
+            - Who have already been treated with anticoagulants for ≥ 3 weeks
+            - Have had echocardiography has rule out the presence of LA thrombus
+            - Haemodynamically unstable
+        - Attempt
+            - Electrical cardioversion
+            - Pharmacological
+                - 1st line (no IHD and normal LB function)
+                    - Flecainide
+                        - Use in combination with AV nodal blocking drug (e.g. B-blocker, non-dihydropyridine CCB) to decrease risk of conversion to atrial flutter (1:1)
+                    - Sotalol
+                - 2nd line
+                    - Amiodarone (first-line in IHD and/or abnormal LV function)
+            - **Surgical**
+                - **Catheter ablation (pulmonary vein isolation)**
+    - Rate control
+        - Goal is to normalise the ventricular heart rate < 110 BPM to improve filling and CO
+        - Pharmacological
+            - 1st line
+                - Beta blockers (cardioselective - bisoprolol)
+                - Non-dihydropyridine CCB (avoid in CCF as negative inotropes) (e.g. verapamil)
+            - 2nd line
+                - Amiodarone
+                - Digoxin (in patients with concomitant CCF)
+            - Rate control drugs should not be used in patients with WPW (can accelerate conduction down accessory pathway)
+        - Surgical
+            - AV node ablation
+            - Implantation of permanent ventricular pacemaker
+- **Compare atrial fibrillation and atrial flutter**
+    - Atrial fibrillation
+        - Uncoordinated atrial contraction
+        - Affects both atria but typically originates in the LA
+        - No discernable P waves on ECG
+        - Manage with rate control, rhythm control and anticoagulation
+    - Atrial flutter
+        - Continuous rapid atrial contraction (300/min) with regular conduction through the AV node (e.g. 2:1 (150) or 4:1 (75))
+        - Often originates in the RA due to a re-entry circuit in the atrium
+        - Saw tooth waves on ECG
+        - Manage with good rate control > rhythm control (more tachycardiac) + anticoagulation
+- **Complications of AF**
+    - Acute
+        - Haemodynamic compromise
+    - Chronic
+        - Mural thrombi formation → systemic embolisation (eg. stroke)
+- **What is the CHA2Ds2-VASc score?**
+    - Score which evaluates risk of TIA or stroke or systemic emboli from AF
+        - 2 points
+            - Age ≥ 75
+            - Previous stroke, TIA, thromboembolism
+        - 1 point
+            - CCF, hypertension, diabetes, age ≥ 65, vascular disease
+    - Men ≥ 2 or women ≥ 3 should be started on oral anticoagulation
+    - What is the HAS-BLED score
+        - Score which estimates the risk of major bleeding secondary to anticoagulation
+            - Hypertension (1) stroke (1)
+            - Abnormal renal (1) or liver function (1)
+            - Bleeding history or predisposition (1)
+            - Labile INR (1)
+            - Age > 65 (1)
+            - Predisposing drugs (1) or EtOH use (1)
+        - Interpretation
+            - 0 points = low risk
+            - 1-2 points = moderate risk
+            - ≥ 3 points = high risk (use caution and regularly review)
+- **Compare DOACs and warfarin**
+    
+    **Comparative advantages**
+    
+    | Warfarin | DOACs |
+    | --- | --- |
+    | Can be used in renal impairment | No need for routine laboratory monitoring |
+    | Preferred drugs in valvular AF | Fewer drug interactions |
+    | More readily reversible | Lower rates of intracranial bleeds  |
+    
+    Note: rivaroxaban can be used in renal impairment
+    
+    Note: warfarin is teratogenic and needs bridging with heparin (5 days)
+    
+- Anti-arrhythmic drugs
+    - Indication
+        - Used to prevent recurrent arrhythmias and restore sinus rhythm in patients with cardiac arrhythmias
+    
+    ![Screenshot 2023-08-05 at 11.52.30 am.png](Atrial%20Fibrillation%201300acf2446a816aa804c2fb3d831495/Screenshot_2023-08-05_at_11.52.30_am.png)
+    
+    - Classes
+        - Class I
+            - Block voltage sensitive Na+ channels (fast Na channels)
+            - Prevent excitation
+            - Ia
+                - e.g. quinidine, procainamide
+                - Mechanism
+                    - Bind to open or refractory Na+ channels → inhibit action potential propagation
+                    - Reduce or even blocks conduction (prolongs AP duration)
+                - AEs
+                    - QT prolongation
+                    - Atrial flutter
+                    - Re-entry and ventricular arrhythmias
+            - Ib
+                - e.g. lidocaine
+                - Mechanism
+                    - Stabilises membrane → associates with open channels in Phase 0 and many are blocked by AP peak
+                    - Dissociates rapidly in time for next AP (weak blockade of Na channels)
+            - Ic
+                - e.g. flecainide, encainide
+                - Mechanism
+                    - Associates and dissociates slowly (strong blockage of Na channels(
+                        - Steady state of block
+                    - Extends duration of effective refractory period in both AV node and accessory tracts
+                - Indicated in paroxysmal AF, AF cardioversion, and WPW-linked recurrent tachyarrhythmias
+                - Contraindication
+                    - Low ejection fraction
+                    - Contraindicated following MI (pro-arrhythmogenic)
+        - Class II
+            - B-adrenoceptor antagonists
+                - e.g. atenolol, metoprolol, carvedilol
+            - Use
+                - Reduces mortality following MI (ventricular dysrhythmias post MI often due to increased SNS activity)
+                - Can prevent paroxysmal AF
+                - Rate control in AF
+                - Atrial flutter
+                - Ventricular arrhythmias
+            - Mechanism
+                - Reduces rate and conduction
+                    - Inhibits B-adrenergic activation of adenylate cyclase → decreased cAMP → decrease Ca → decreased SA and AV node activity
+                    - Prolongs AV node repolarisation and PR interval (prevents recurrent SVT)
+            - AEs
+                - Sedation
+                - Hyperkalaemia
+                - AV block, bradycardia, heart failure
+                - Dyslipidaemia
+        - Class III
+            - e.g. amiodarone
+                - Prolongs cardiac action potential duration, refraction and reduces re-entry
+            - Indicated to prevent WPW-linked tachycardia, other SVTs and refractory AF
+            - Mechanism
+                - Blocks K+ channels involved in cardiac repolarisation
+                - Increases effective refractory period of AP (terminates SVTs, slows AV node)
+            - AEs
+                - QT prolongation → pro-arrhythmogenic
+                - Photosensitive rash
+                - Thyroid, liver, neurological and GI effects
+        - Class IV
+            - Calcium channel antagonists
+                - Useful for AV node arrhythmias (upstroke dependent on Ca)
+                - e.g. verapamil, diltiazem
+            - Mechanism
+                - Blocks voltage-sensitive L-type Ca channels → slows conduction in SA and AV nodes (AP propagation linked to inward Ca channel) → partial AV block → reduces HR and SVTs
+                    - May shorten AP plateau → reduced contraction force
+                    - Prolongs AV node repolarisation and PR interval
+            - Indications
+                - Prevent SVTs
+                - Atrial flutter
+                - Multifocal atrial tachyarrhythmia
+            - Contraindicated in WPW and VT
+            - AEs
+                - AV block
+                - Bradycardia
+                - Depression of SA node
+                - Heart failure, constipation, flushing, oedema
+    - Divided by MoA
+        - Decreased rate and contractility
+            - B-blockers
+                - Mechanism: blocks SNS activation
+                    - Heart → blocks opening of Na and Ca channels
+                        - Reduced HR (difficulty triggering APs in SA node and depolarising conduction system (AV node))
+                        - Blocked tachycarrhythmias
+                        - Decreased contractility (reduced activation of myosin)
+                    - Kidney → reduced renin and RAAS activation
+                - AEs
+                    - Bradycardia and AV block
+                    - Fatigue, dizziness
+                    - Sleep disturbances, neuropsychiatric manifestations
+                    - Hyperkalaemia
+                    - Elevated TAGs and BSL
+                    - If non-selective → bronchospasm and peripheral vasoconstriction
+            - Ca2+ channel blockers
+                - Mechanism
+                    - Arteries - reduced activation of myosin → decreased contractility
+                    - Heart (if cardioselective)
+                        - Decreased HR and contractility
+                - AEs
+                    - Reflex tachycardia
+                    - Orthostatic hypotension
+                    - Flushing, dizziness, headache, peripheral oedema
+        - Na blockers
+            - e.g. procainamide (1a), lignocaine (1b), flecainade (1c)
+            - Mechanism
+                - Binds to open or refractory Na channels → inhibits AP propagation
+                    - Blocks myocyte depolarisation
+                - State dependent → degree of block is greater if channels are frequently activated (e.g. faster tachycardia)
+            - Indications
+                - Rhythm control in AF (esp. 1a, 1c)
+                - Other tachyarrhythmias
+            - AEs
+                - Increased risk of re-entrant tachycardias (e.g. atrial flutter) as conduction velocity through accessory pathways is slowed
+                    - APs are more likely to reach the junction with the main pathway after its refractory period is over
+                - Other drug specific AEs (CNS depression or excitation, AV block)
+            - Contraindications
+                - Symptomatic bradycardia or cardiogenic shock
+                - 2nd or 3rd degree heart block
+                - Post-MI (arrhythmogenic)
+        - K blockers
+            - e.g. amiodarone, sotalol
+            - Mechanism
+                - Blocks K channels involved in cardiac repolarisation → prolongs myocyte depolarisation (cardiac AP duration)
+                - Increased refractory period which prevents re-entry tachycardia
+            - Indications
+                - Rate or rhythm control in AF, atrial flutter
+                - Other tachyarrhythmias (e.g. supraventricular, some use in ventricular)
+            - AEs
+                - Increased risk of ectopic beats during refractory period → VT
+                - QT prolongation and pro-arrhythmogenic effects (e.g. torsades de pointes)
+                - Amiodarone specific:
+                    - Photosensitive rash, skin discolouration (grey-blue)
+                    - ILD
+                    - Thyroiditis
+                    - Corneal deposits
+                    - GI issues
+                    - Liver toxicity
+                    - Neurological issues
+                    - Heart failure

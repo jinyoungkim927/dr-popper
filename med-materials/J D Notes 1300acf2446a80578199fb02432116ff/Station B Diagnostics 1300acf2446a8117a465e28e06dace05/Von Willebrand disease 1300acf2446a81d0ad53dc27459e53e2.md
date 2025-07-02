@@ -1,0 +1,333 @@
+# Von Willebrand disease
+
+## Case Protocol 8 – **von Willebrand disease**
+
+*An 18-year-old woman was brought by ambulance to the Emergency Department with uncontrolled haemorrhage following extraction of a wisdom tooth at a dentist’s surgery. She had always “bruised easily” and often experienced “heavy periods”, but there had been no previous operations.*
+
+[](https://lh4.googleusercontent.com/M0M-An9_Z5OWHFk3W66qSWuDSrqBTvBj4pBABrnBLRWaOnhyFCkKQHmHMDCrvar7Y7e5r8F1yMB3sSy7s_h2qr1QQGd5CShh4fy0no8gbXIYPrn_v1mD2wiPXJ1eGwYKzTkVp43nCWnAXCY0mhpPdQ)
+
+*On examination, she was pale and extremely anxious, with cool extremities. Vital signs were as shown opposite.*
+
+- Provisional Dx
+    - von Willebrand factor disease
+        - Easy bruising, menorrhagia, and haemorrhage post dental procedures suggests disorder of **primary haemostasis**
+        - Long standing suggests **inherited**
+- Differentials for bleeding diathesis
+    - Disorders of primary haemostasis
+        - Inability to form a platelet plug due to disorder of blood vessels, platelets or vWF
+            - Presentation: superficial mucocutaneous bleeding which occurs immediately after minor trauma, skin lacerations or dental extractions (i.e. mucosa)
+                - Form petechiae and ecchymoses - often controllable
+        - Causes
+            - Platelets
+                - Thrombocytopaenias
+                    - E.g. ITP, TTP, HUS
+                    - Bone marrow failure
+                - Platelet function abnormalities
+                    - Congenital - vWF disease, Bernard-Soulier syndrome
+                    - Acquired - uraemia, NSAID use
+            - Blood vessels
+                - Congenital (Ehlers-Danlos syndrome type 4), acquired (vasculitis)
+    - Disorders of secondary haemostasis
+        - Inability to form an adequate fibrin clot due to disorder of factors, proteins
+            - Presentation: delayed, massive bleeds often internal (joints, muscle, GIT, genitourinary)
+        - Causes
+            - Clotting factor deficiencies
+                - Haemophilia A, B, C
+                - Vitamin K deficiency
+                - Liver failure
+                - Consumptive - DIC
+                - Anticoagulation therapy
+            - Excess fibrinolysis
+                - Deficiencies in plasmin or plasminogen inhibitors
+    - Both
+        - DIC (consumption of platelets, clotting factors, fibrinogen)
+        - Severe liver failure (decreased synthesis of TPO, clotting factors)
+- Physiology of platelet and vWF function
+    - Activated platelets bind to damaged endothelium via GpIa molecules and indirectly via GpIb molecule (binds to vWF which binds to exposed collagen)
+        - Platelets bind fibrinogen via GpIIb/IIIa
+    - vWF
+        - Synthesised by endothelial cells and megakaryocytes
+        - Primary haemostasis
+            - Acts as a platelet adhesion molecule (binds platelets to exposed collagen via GpIb)
+        - Secondary haemostasis
+            - Binds factor VIII and prevents its degradation
+        - Types
+            - 1: quantitative decrease in vWF
+            - 2: functional decrease in vWF (abnormalities of binding)
+            - 3: complete deficiency
+- What is vWF disease
+    - A disorder which causes a mild-moderate reduction in vWF (most common form is type 1 - AD)
+    - vWF has two main physiological contributions
+        - Forms a necessary bridge between subendothelial collagen and glycoprotein Ib on platelet surfaces
+            - Helps form bridges between platelets to aid aggregation
+            - Necessary for platelet adherence and aggregation
+            - Deficiency = failure of primary haemostatic plug
+        - Carrier for Factor VIII (required for intrinsic cascade) → contributes to secondary haemostatic plug
+            - Deficiency = prolongation of aPTT
+- Approach to Hx and exam in bleeding disorders
+    - Aim: determine mechanism of bleeding diathesis and possible underlying cause
+    - History
+        - Presenting complaint
+            - Characterise the bleeding event
+                - Location
+                - Nature of injury (minor or major trauma)
+            - Complications of bleeding event (dizziness, palpitations, confusion, headache)
+        - Identify and characterise pattern of historical bleeds
+            - New onset of bleeding tendency? Tendency since childhood
+            - Suggestive of primary haemostasis disorder
+                - Superficial mucocutaneous bleeds (epistaxis, dental)
+                - Petechiae and ecchymoses
+                - Controllable with direct pressure
+            - Suggestive of secondary haemostasis disorder
+                - Significant, massive bleeds (often deep in body - haemarthroses, deep muscle haematomas, GI and GU tract bleeds)
+                - Results in excessive bleeding post-trauma
+        - Medication Hx (anticoagulation)
+        - FHx of bleeding diatheses
+        - SHx - EtOH
+    - Examination
+        - Haematological exam
+            - Thrombocytopaenia (petechiae, mucosal membrane petechiae, ecchymoses)
+            - Anaemia - pallor
+            - Malignancy - bony tenderness, lymphadenopathy
+        - Abdominal examination
+            - Signs of liver failure - portal hypertension
+            - Splenomegaly
+- Investigative approach for von Willebrand disease
+    - Principal screening and diagnostic investigations
+        - Coagulation studies
+            - Normal PT, elevated aPTT
+        - vWF antigen → low
+            - Abnormal = score < 30% or score < 50% with bleeding
+        - Ristocetin cofactor assay (cofactor for vWF and platelet binding - functional) → low
+            - Surrogate measure of effective binding between vWF and Gp1b on platelet membrane
+            - Concordance between vWF and ristocetin indicates type 1
+                - Type 2 has a primary deficit in functional binding (RCo-vWF assay)
+        - Factor VIII (may be decreased)
+            - vWF protects VIII from proteolysis (DDx is haemophilia A (VIII deficiency))
+        - Note:
+            - Repeat vWF antigen and ristocetin cofactor assay to confirm diagnosis
+            - Tests to identify subtype
+                - vWF multimer analysis
+                - Further functional assays
+                    - Ristocetin induced platelet aggregation (type 2B)
+                    - Factor VIII level to vWF-Ag (type 2N)
+    - Ancillary
+        - FBC (anaemia (if other cause), platelet levels)
+        - Blood film
+        - Iron studies - investigate Fe deficient anaemia
+        - Consider bone marrow biopsy and trephine if considering malignancy
+        - Genetic testing for vWF mutation
+- Interpret the haematology and coagulation results
+    
+    ![Screenshot 2023-06-19 at 5.08.07 pm.png](Von%20Willebrand%20disease%201300acf2446a81d0ad53dc27459e53e2/Screenshot_2023-06-19_at_5.08.07_pm.png)
+    
+    - FBC
+        - Microcytic hypochromic anaemia
+            - Iron deficiency due to chronic heavy menstrual bleeding (as per case)
+        - Thrombocytosis
+            - Likely reactive in response to bleeding
+    - Tests of haemostasis
+        - Prolonged aPTT → abnormal intrinsic and/or common pathway
+        - Normal PT → normal extrinsic and common pathway
+        - Low vWF
+        - Low RCo-vWF assay
+    - Summary
+        - Results consistent for vWF deficiency
+            - Justifies the need for the specific ristocetin test (measures vWF functional activity by measuring induced platelet aggregation through adding ristocetin)
+        - As both vWF Ag and RCo-vWF assay are low → quantitative drop in vWF (type 1)
+- Inheritance pattern of vWF disease
+    - vWD is the most common inherited bleeding disorder (1:100)
+        - Types 1 and 2 are inherited via autosomal dominant pattern
+        - Type 3 (absolute deficiency) inherited via autosomal recessive pattern
+        - Demonstrates variable penetrance within families
+    - Acquired vWD is possible - has been linked to the following conditions
+        - Antibody-mediated decreases (monoclonal gammopathies, autoimmune diseases)
+        - Shear stress-induced proteolysis (aortic stenosis, HOCM)
+        - Decreased synthesis (hypothyroidism)
+- Management of vWF disease
+    - Goal: replace deficient protein at time of spontaneous bleeding or before invasive procedures
+    - Initial management
+        - Primary survey - concurrent assessment and resuscitation as needed
+        - Haemostatic measures (e.g. pressure)
+    - Emergency management - major bleeding
+        - Cryoprecipitate - emergency management
+            - Contains Factor VIII, Factor XIII, fibronectin, vWF
+        - Transexamic acid → stabilises clot formation
+            - Analogue of the amino acid lysine → reversibly binds lysine receptors on plasminogen and decreases conversion to plasmin
+                - Prevents fibrin degradation
+    - Choices in minor bleeding
+        - Desmopressin (DDAVP) - used in type 1 vWD
+            - Stimulates release of vWF from Weibel-Palade bodies in endothelial cells
+        - Recombinant vWF
+            - Can be given for patients with severe recurrent bleeding
+        - Conjugated oestrogens increase vWF levels (increase clotting factor production)
+        - Factor VIII concentrate (monitor as it can cause thrombosis)
+- Is vWF patient at risk of spontaneous bleeding (haemarthroses)
+    - Prolonged internal haemorrhage (including haemarthrosis) is a feature of secondary haemostasis disorders
+        - E.g. Haemophilia A (Factor VIII) or B (IX)
+    - vWF classically presents with mucocutaneous bleeding (abnormality of platelet-vessel wall interaction)
+        - Still at increased risk as vWF complexes with Factor VIII to transport it in the circulation
+- Differentiating between different disorders of haemostasis
+    - Interpreting PT and aPTT for bleeding diatheses
+        
+        
+        | PT | aPTT | Interpretation |
+        | --- | --- | --- |
+        | Normal | Normal | Isolated platelet pathology (e.g. thrombocytopaenia) |
+        | Normal | Prolonged | Defect of intrinsic pathway (VIII, IX, XI, XII - DDx: haemophilia A, B and vWF) [mixing study should be performed]  |
+        | Prolonged | Normal | Defect of extrinsic pathway (III, VII, X) - initiate vitamin K challenge |
+        | Prolonged | Prolonged | Defect of common pathway (I, II, V, X) or multiple factors in both pathways (supratherapeutic warfarin) |
+- Explain the tests of haemostasis (bleeding time, PT, aPTT)
+    - Prothrombin time (extrinsic pathway)
+        - Time taken to produce fibrin polymers after adding tissue factor (thromboplastin) and calcium
+            - Tissue factor expressed by injured endothelial cells which binds VIIa
+        - Causes of PT prolongation
+            - Anticoagulant therapy
+            - Vitamin K deficiency
+            - Liver disease
+            - DIC
+    - Activated partial thromboplastin time (intrinsic)
+        - Time taken to produce fibrin polymers after adding phospholipids
+            - Formation of activated factor VIII in intrinsic pathway dependent on Ca and phospholipids
+        - Causes of aPTT prolongation
+            - Anticoagulant therapy
+            - Liver disease
+            - DIC
+            - vWD
+            - Inherited deficiency of VIII (haemophilia A), IX (haemophilia B), XI (haemophilia C)
+            - Antiphospholipid syndrome
+    - Mixing study
+        - Patient’s plasma is mixed with normal plasma
+            - If the prolonged aPTT is caused by a lack of clotting factors, the factors in the normal plasma will normalise the aPTT
+            - If factor inhibitor antibodies present, aPTT will stay prolonged (e.g. lupus anticoagulant)
+                - Note: lupus anticoagulant prolongs aPTT in vitro (binds phospholipids needed) but is prothrombotic in vivo (promotes aggregation by binding to platelet phospholipids)
+- Normal inhibitors of haemostasis
+    - Tissue factor pathway inhibitor - inhibits TF
+    - Thrombomodulin
+        - Expressed on surface of endothelial cells, monocytes, dendritic cells → converts thrombin to an anticoagulant enzyme
+    - Antithrombin III
+        - Degrades thrombin and factor Xa, activates tPA
+    - Protein C and S
+        - S is the cofactor → form activated protein C complex which inhibits Factor Va and VIIIa
+            - Vitamin K dependent synthesis (shorter half-life than vitamin K dependent coagulation factors)
+            - Factor V Leiden → resistance to Protein C inactivation of Factor V
+    - Prostacyclin and NO
+        - Secreted by endothelial cells to inhibit platelet aggregation and promote vasodilation
+    - Non-specific inhibitors (protease inhibitors in plasma)
+- Normal process of fibrinolysis
+    - Fibrinolysis is the degradation of the fibrin network by plasmin
+    - Tissue injury → release and activation of plasminogen activators (tPA, urokinase, Factor XIa, Factor XIIa)
+        - Conversion of plasminogen to plasmin → deactivation and proteolysis of fibrin and fibrinogen → release of fibrin degradation products
+- Haemophilia - genetics, pathophysiology
+    - Haemophilia - genetic mutations which confer deficiency of one of the clotting factors
+        - Haemophilia A (80%) → Factor VIII deficiency
+            - X-linked recessive
+            - 60% have severe disease
+        - Haemophilia B (20%) → Factor IX deficiency
+            - X-linked recessive
+            - 50% have severe disease
+        - Haemophilia C (XI deficiency) is very rare → autosomal recessive
+    - Severity of disease based on clinical evidence of haematomas (spontaneous or post-trauma) and activity levels of the relevant factor
+    - Recurrent haemoarthroses and deep tissue haematomas is classical symptoms
+- DDx for thrombocytopaenia
+    - Increased destruction
+        - Immune
+            - Idiopathic thrombocytopaenia purpura (ITP) - excess phagocytosis
+            - Secondary (e.g. SLE)
+        - Microangiopathy
+            - TTP, HUS, DIC
+        - Drug-induced
+        - Hypersplenism
+    - Decreased production
+        - Bone marrow disease
+        - Nutritional deficiency
+        - Viral infections (HIV, HCV, EBV, CMV)
+        - Liver disease
+        - Congenital thrombocytopaenia
+- ITP
+    - Autoimmune disorder where antibodies form against platelet factors
+        - Commonly Gp1b (binds vWF) or GpII/IIIb (binds fibrinogen)
+    - These platelets covered by IgG are vulnerable to opsonisation and phagocytosis by splenic macrophages and Kupffer cells in the liver
+        - Results in premature removal of platelets from the circulation by the reticuloendothelial system
+- MAHA (general) - pathophysiology
+    1. Widespread damage to endothelial cells of the microcirculation
+    2. Activation of the coagulation cascade (increased TF present)
+    3. Platelet adherence and activation
+    4. Excessive thrombosis
+        1. End-organ damage
+        2. Fragmentation of RBCs (haemolytic anaemia)
+        3. Consumption of clotting factors and platelets → severe bleeding
+- TTP
+    - Deficiency of ADAMTS13 → inadequate breakdown of vWF multimers
+        - Accumulation of vWF leads to platelet adhesion and microthrombi formation
+        - Fragmentation of RBCs → haemolytic anaemia
+- HUS
+    - Mostly due to infectious toxins which activate endothelial cells (e.g. Shiga toxin (Shigella dysenteriae) or Shiga-like toxin (enterohaemorrhagic E.coli strain))
+- DIC
+    - Develops due to activation of pro-coagulant pathways and impairment of physiological anticoagulant pathways
+    - Causes
+        - Sepsis (especially Gram-negative bacteria)
+        - Malignancy - haematological or solid organ tumour (pancreatic, NSCLC, ovarian)
+        - Trauma - surgery, crush injuries, rhabdomyolysis, burns, fat embolism
+        - Obstetric complications - pre-eclampsia, HELLP syndrome, amniotic fluid embolism
+        - Organ failure - ARDS, pancreatitis
+        - Toxins - snake bites
+- Indications for whole blood and platelet transfusions
+    - Whole blood transfusions
+        - Rarely used except for massive transfusions (significant blood loss) or elective
+    - Packed RBC transfusion
+        - Increases O2 carrying capacity in anaemic patients with clinical symptoms and abnormal lab results (indication based on Hb)
+            - < 70g/L
+            - < ~90g/L with clinical signs or symptoms of impaired O2 transport
+        - One infusion increases Hb by ~ 10g/L
+    - Platelet transfusions
+        - Prophylactic (no bleeding)
+            - < 10 x 10^9 (bone marrow suppression or failure)
+            - < 50 x 10^9 (surgery, invasive procedures, childbirth)
+        - Therapeutic
+            - < 20 (minor bleeding)
+            - < 50 (massive haemorrhage)
+        - Note: platelets not appropriate for ITP in absence of haemorrhage
+    - Other products
+        - Fresh frozen plasma
+            - Cellular components removed → used for clotting factors, multiple factor deficiency, bleeding with abnormal coagulation parameters, major invasive procedures
+        - Cryoprecipitate
+            - Clotting factors (fibrinogen, Factor VIII, Factor XIII), vWF, fibronectin
+        - Clotting factors
+        - Antithrombin III
+- Principles and techniques of blood grouping and cross-matching whole blood prior to transfusions
+    - Blood grouping
+        - ABO antibodies fix complement and cause intravascular haemolysis
+            - E.g. A blood = A RBC antigen and Anti-B serum antibody
+                - Can receive A and O blood
+        - Rhesus (transmembrane protein) → Rh D is highly immunogenic
+            - Rh - patients from antibodies to D antigen if exposed to D-positive cells (causes severe haemolytic disease of the newborn)
+                - Anti D antibodies cause opsonisation but do not fix complement (extravascular haemolysis)
+    - Pre-transfusion testing
+        - Blood typing
+            - ABO and Rh testing of recipient blood
+                - Haemagglutination test (RBC clumping induced by specific antibodies for erythrocyte antigens)
+            - Compatibility testing (patient serum and prospective donor RNCs)
+                - Cross match recipient plasma with potential donor cells (indirect Coombs)
+                    - Patient’s serum incubated with test RBCs and then incubated with anti-human antibodies
+                        - Antibodies bind to any patient antibodies which reacted to the test RBCs and cause agglutination of the RBCs (positive result)
+                - Note direct Coombs (patient RBC and anti-human Ig)
+                    - Tests for autoimmune haemolytic anaemia
+                    - Used to detect antibodies or complement proteins attached to the patient’s own RBCs
+                        - Blood sample taken and RBCs washed and incubated with anti-human Ig (Coombs reagent - anti-IgG or anti-C3b)
+                            - If red cells agglutinate, the DAT is positive
+- Adverse reactions to blood products
+    - Immunological
+        - Urticaria and anaphylaxis (type 1 hypersensitivity)
+        - Acute haemolytic transfusion reaction
+            - Due to ABO incompatibility
+                - Causes intravascular haemolysis, hypotension, renal failure, DIC
+        - Delayed haemolytic transfusion reaction
+            - Occurs due to production or re-emergence of antibodies
+        - Febrile non-haemolytic transfusion reaction
+            - Thought to be due to donor leukocytes releasing cytokines (fever, chills, rigors)
+    - Non-immunological
+        - Infection
+        - Volume overload
+        - Iron overload
+        - Hyperkalaemia

@@ -1,0 +1,48 @@
+# Vasculitides
+
+![Untitled](Vasculitides%201300acf2446a81e99d88cdc9e3744df7/Untitled.png)
+
+- Large-vessel
+    - Giant cell arteritis
+        - Clinical features
+            - Unilateral headache
+            - Jaw claudication
+            - May lead to irreversible blindness (ophthalmic artery occlusion)
+        - Pathology
+            - Focal granulomatous inflammation
+            - Raised ESR
+        - Management
+            - High-dose corticosteroids
+    - Takayasu arteritis
+        - Granulomatous thickening and narrowing of aortic arch and proximal great vessels
+        - Pulseless disease (weak upper extremity pulses)
+            - Fever, night sweats
+            - Arthritis, myalgia
+- Medium vessel
+    - Polyarteritis nodosa
+        - Associated with HBV (30%)
+        - General symptoms (fatigue, weight loss, malaise) + abdominal pain + melaena
+            - Often involves renal and visceral vessels
+        - Pathology
+            - Innumerable renal microaneurysms and spasms on arteriogram (string of pearls appearance)
+            - Different stages of transmural inflammation with fibrinoid necrosis
+    - Kawasaki disease
+        - Classically affects children < 4
+        - Features (CRASH and Burn)
+            - Conjunctival injection
+            - Rash (polymorphous → desquamating)
+            - Adenopathy (cervical)
+            - Strawberry tongue (oral mucositis)
+            - Hand-foot changes (oedema, erythema)
+            - **Fever**
+        - Risk of coronary artery aneurysms, thrombosis or rupture which can cause death
+        - Management
+            - IVIG
+            - Aspirin
+- Small vessel
+    - ANCA-small vessel vasculitis
+        - Microscopic polyangiitis
+        - GPA
+        - eGOPA
+    - IgA vasculitis (Henoch-Schonlein)
+    - Anti-GBM

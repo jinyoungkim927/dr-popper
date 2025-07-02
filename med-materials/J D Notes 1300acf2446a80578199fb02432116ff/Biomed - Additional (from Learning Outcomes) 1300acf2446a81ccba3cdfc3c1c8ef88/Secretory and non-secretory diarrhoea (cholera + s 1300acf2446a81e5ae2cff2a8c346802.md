@@ -1,0 +1,88 @@
+# Secretory and non-secretory diarrhoea (cholera + salmonella)
+
+- Approach to diarrhoea (5-step approach)
+    - Rule out mimics (faecal incontinence, impaction and overflow)
+    - Rule out medications as a cause (e.g. antacids, nutritional supplements, antibiotics)
+    - Distinguish acute diarrhoea (≤ 2 weeks) and chronic diarrhoea (≥ 4 weeks)
+    - Categorise as inflammatory, fatty or watery (via stool test)
+        - Inflammatory (frequent, small-volume, bloody)
+            - Leukocytes or faecal calprotectin in stool
+            - Raised CRP or ESR
+        - Fatty stools (greasy, bulky stools which are difficult to flush)
+            - Floating stools indicates increase gas production by bacteria
+            - Due to malabsorption or maldigestion
+                - Sudan stain for screening
+                - Timed stool collection (100g fat diet and ≥ 7g of fat in 24h is diagnostic)
+        - Watery
+            - Osmotic
+                - Ingestion of poorly absorbed ions or sugars
+                - Stool volume decreased with fasting
+            - Secretory
+                - Disruption of epithelial electrolyte transport
+                - Stool volume maintained with fasting
+- Cholera
+    - Caused by Vibrio cholerae
+        - Comma-shaped, Gram-negaitve bacteria
+        - Transmitted primarily through contaminated drinking water but may also be present in food
+    - Pathogenesis
+        - Non-invasive and remain within the intestinal lumen
+        - Virulence factors
+            - Flagella (motility and attachment)
+                - Allow efficient bacterial colonisation
+            - Secreted metalloproteinase
+                - Haemagluttinin activity which aids bacterial detachment and stool shedding
+            - Preformed enterotoxin (cholera toxcin)
+                - Endocytosed and delivered to endoplasmic reticulum in the cell
+                    - Stimulates adenylate cyclase and increased cAMP
+                        - Opens CFTR (cystic fibrosis transmembrane conductance regulator)
+                    - Releases chloride ions into the lumen
+                        - Also decreases Na and HCO3 absorption
+                - Results in osmotic gradient and massive secretory diarrhoea
+    - Clinical features
+        - Most people are asymptomatic and suffer mild diarrhoea
+        - Severe disease = abrupt onset of watery diarrhoea and vomiting
+            - Can lead to dehydration, hypotension, electrolyte imbalances, shock and death
+    - Diagnosis
+        - Clinical suspicion
+        - Isolation or identification by stool MCS
+            - Selective thiosulfate-citrate-bile salts agar
+    - Fluid replacement is critical
+- Salmonella
+    - Members of Enterobacteriaceae family of Gram-negative bacilli
+        - Salmonella typhi (typhoid fever)
+        - Non-typhoid Salmonella spp → gastroenteritis
+            - Transmission through contaminated food (raw or undercooked meat, poultry, egg, milk)
+            - Most common in elderly people and children
+    - Pathogenesis
+        - Few viable organisms necessary to cause infection
+        - Virulence factors
+            - Genes encode a type III secretion system able to transfer bacterial proteins into M cells (special epithelial cells which overlie gastric lymphoid follicles) and enterocytes
+                - Activate host cell mechanisms and bacterial uptake into phagosomes where they can multiply
+            - Secrete a molecule which attracts neutrophils into the lumen and potentiates mucosal damage
+    - Stool culture essential for diagnosis
+    - Typhoid fever
+        - Caused by Salmonella typhi (endemic) and S. paratyphi (travellers)
+            - Transmission from person to person or via contaminated food and water
+        - Disease course
+            - Acute infection
+                - Anorexia, abdominal pain
+                - Bloating, nausea and vomiting
+                - Bloody diarrhoea
+            - Followed by short asymptomatic phase
+                - Bacteraemia and fever with flu-like symptoms
+                    - Blood cultures may prompt antibiotic treatment
+                    - Otherwise, febrile period associated with abdominal tenderness which may mimic appendicitis
+                        - Rose spots may be seen in chest and abdomen
+                        - Can lead to encephalopathy, seizures, endocarditis, cholecystitis
+        - Pathogenesis
+            - Bacteria taken up by M cells and engulfed by macrophages within lymphoid tissue
+                - Infection results in Peyer patches enlarging into plateau-like elevations
+                - Mucosal shedding creates oval ulcers along the long axis of the ileum (blood diarrhoea)
+            - S. typhi and paratyphi can disseminate via lymph and blood to cause reactive hyperplasia of draining LNs
+                - Splenomegaly and typhoid nodules (scattered foci of parenchymal necrosis)
+- Pseudomembranous colitis
+    - Generally caused by C. difficile and associated with antibiotics
+    - Results in formation of pseudomembranes
+        - Made of an adherent layer of inflammatory cells and debris at sites of colonic mucosal injury
+            - Denuded surface epithelium
+            - Superficial lamina propria contains a dense neutrophil infiltrate and occasional fibrin thrombi within capillaries

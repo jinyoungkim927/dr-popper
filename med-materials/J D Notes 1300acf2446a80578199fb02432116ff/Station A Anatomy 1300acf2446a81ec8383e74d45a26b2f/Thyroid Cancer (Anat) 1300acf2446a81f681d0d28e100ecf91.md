@@ -1,0 +1,206 @@
+# Thyroid Cancer (Anat)
+
+**40yo M with anterior lump just right to midline, on thyroid. No associated lymphadenopathy or weight loss. Lump elevated with swallowing.**
+
+- PDx and DDx
+    - PDx: thyroid mass (elevates with swallowing)
+        - Most concerned about a thyroid neoplasia (adenoma, carcinoma)
+    - DDx for a neck lump
+        - Cyst
+        - Lipoma
+        - Lymphadenopathy
+            - Reactive, malignancy
+        - Salivary gland pathology
+            - Infectious, malignancy
+        - Thyroid pathology
+            - Neoplasia (adenoma, carcinoma)
+            - Multinodular goitre
+            - Endocrine (Graves, Hashimoto’s)
+        - Congenital
+            - Thyroglossal duct cyst
+            - Branchial cleft cyst
+- Risk factors for thyroid cancer
+    - Present in 4-6.5% of thyroid nodules
+    - Higher in certain groups
+        - Children
+        - Adults < 30 years
+        - PMHx of head or neck irradiation
+        - FHx of thyroid cancer
+- Investigative approach to thyroid cancer
+    - Definitive diagnostic investigations
+        - TSH
+            - Higher TSH suggests malignancy (due to loss of function of thyroid)
+        - Thyroid US and FNAB [for known or suspected nodules]
+            - US
+                - Confirm nodularity
+                - Suspicious features of sonography
+                    - Solid and hypoechoic lesions (darker)
+                    - ≥ 1.5cm by largest diameter
+                    - Calcifications
+                    - Irregular margins
+            - Gold standard (obtains cytological Dx)
+        - Note: evaluation depends on TSH level
+            - TSH low suggests hyperthyroidism
+                - Thyroid scan (radionuclide iodine - Tc99m or I-123)
+    - Ancillary
+        - Thyroid antibody testing
+            - TPO if suspicious of hypothyroid due to Hashimoto’s
+            - TRAb if Graves
+        - Thyroid nuclear medicine scan if ?hyperthyroidism
+        - Investigations to look for complications of hyperthyroidism
+            - ECG
+            - FBC
+            - Serum lipids
+            - BSL
+- Management approach to thyroid cancer
+    - Guided by diagnostic categories (Bethesda classification) obtained from FNAB
+    - Benign nodules (Bethesda II)
+        - e.g. hyperplastic nodules, colloid adenomas, nodular goitres
+        - **Surveillance**
+            - Periodic thyroid US and repeat FNAB in 12 months if suspicious features on US
+        - If symptomatic or cosmetic concerns
+            - **Lobectomy or US guided ablation**
+    - Indeterminate cytology (Bethesda III)
+        - Molecular testing and repeat FNAB
+    - Suspicious for malignancy (Bethesda V)
+        - Refer for surgery
+    - Malignant (Bethesda VI)
+        - e.g. papillary, medullary thyroid, thyroid lymphoma, anaplastic, metastases
+        - Refer for surgery
+    - Note: surgical management includes
+        - Total or near-total thyroidectomy
+            - Removal of all thyroid tissue and attempting to preserve RLN, SLN and vascular supply to parathyroid glands
+        - Unilateral lobectomy and isthmusectomy
+- Complications of thyroidectomy
+    - Wound seroma or **haematoma**
+        - Note: haematoma can be fatal due to airway occlusion
+    - **Hypocalcaemia (removal of parathyroid glands)**
+    - **Hoarseness**
+        - **Transient → vocal cord oedema from intubation (common)**
+        - Persistent is rare (vocal cord palsy due to nerve injury to arytenoid dislocation)
+    - **Injury to recurrent laryngeal nerve**
+        - Likely during ligation of inferior thyroid artery
+            - Leads to dysphagia and dysphonia
+        - Vocal cord paresis / neuropraxia
+            - Transient → due to traction injury of the RLN
+            - May require speech therapist for rehabilitation
+        - **Paralysis → permanent**
+            - Risk of aspiration
+            - Dyspnoea/stridor
+    - **Injury to the external branch of the superior laryngeal nerve**
+        - Loss of supply to cricothyroid → affects tenor voice
+    - Tracheal or oesophageal injury
+        - Dysphagia
+    - Horner’s syndrome (transection of ipsilateral SNS fibres)
+- Is a nerve transection permanent
+    - It is possible to repair the nerve, and should be attempted if identified intraoperatively to promote synkinesis
+        - Direct end-to-end anastomosis
+        - Direct implantation of nerve ending into thyroarytenoid muscle
+        - Muscle nerve pedicle grafting with ansa cervicalis
+- Types of thyroid cancer (pathology)
+    - Adenoma
+        - Benign neoplasms of follicular epithelium
+            - May be functional (toxic adenomas)
+        - Usually solitary
+        - Histology
+            - **Well-demarcated from surrounding parenchyma by intact capsule**
+                - Capsule integrity is key to differentiate from carcinoma
+            - Compression of adjacent tissue
+            - Cells in uniform follicles containing colloid
+            - May have atypia
+            - **May have Hurthle cells (bright, eosinophilic, granular cytoplasm)**
+    - Papillary carcinoma
+        - **Most common (85%) and best prognosis**
+            - Associated with activation of MAP kinase pathway
+            - Increased risk with RET/PTC rearrangements and BRAF mutations
+        - Histology
+            - **Empty appearing nuclei with central clearing**
+                - **Orphan Annie clear-eyed nuclei**
+                - May have pseudoinclusions due to invagination of cytoplasm
+            - **Psammoma bodies**
+                - Small laminated spherical bodies with dystrophic calcification
+            - Papillary architecture is common (fibrovascular cores)
+        
+        ![Screenshot 2023-10-09 at 12.02.22 pm.png](Thyroid%20Cancer%20(Anat)%201300acf2446a81f681d0d28e100ecf91/Screenshot_2023-10-09_at_12.02.22_pm.png)
+        
+    - Follicular carcinoma
+        - Good prognosis
+            - Associated with mutations in PI-3K/AKT signalling pathway
+            - **Tend to metastasise haematogenously to lungs, bone, liver**
+        - Histology
+            - Uniform small follicles common (well differentiated)
+                - May see Hurthle cell variants
+            - Differentiated from adenoma by capsular or vascular invasion
+            - If nuclear features suggest papillary carcinoma, designate as follicular variant of papillary cancers
+        
+        ![Screenshot 2023-10-09 at 12.02.40 pm.png](Thyroid%20Cancer%20(Anat)%201300acf2446a81f681d0d28e100ecf91/Screenshot_2023-10-09_at_12.02.40_pm.png)
+        
+        ![Screenshot 2023-10-09 at 12.04.47 pm.png](Thyroid%20Cancer%20(Anat)%201300acf2446a81f681d0d28e100ecf91/Screenshot_2023-10-09_at_12.04.47_pm.png)
+        
+    - Medullary carcinoma of thyroid
+        - **From parafollicular ‘C’ cells**
+            - Produce calcitonin
+            - Associated with MEN2A and 2B **(RET mutations)**
+        - Histology
+            - Multicentricity (multiple lesions in both lobes) is common in familial cases
+            - Polygonal to spingle shaped cells
+                - Form nest, trabeculae or follicles
+            - Amyloid deposits are present in adjacent stroma (distinctive feature)
+                - Stains Congo red
+        
+        ![Screenshot 2023-10-09 at 12.08.38 pm.png](Thyroid%20Cancer%20(Anat)%201300acf2446a81f681d0d28e100ecf91/Screenshot_2023-10-09_at_12.08.38_pm.png)
+        
+    - Undifferentiated or anaplastic carcinoma
+        - Typically presents with a rapidly enlarging neck mass
+            - Compressive symptoms (e.g. dyspnoea, dysphagia)
+        - Older patients
+            - Very poor prognosis (mortality almost 100%)
+            - **Associated with TP53 mutation and other oncogenes (RAS)**
+            - Often associated with a PMHx of well-differentiated thyroid carcinoma
+        - Histology
+            - Bulky masses which grow beyond thyroid capsule into adjacent neck structures
+            - Patterns of histology
+                - Large, pleomorphic giant cells
+                - Spindle cells with sarcomatous appearance
+                - Mixed spindle or giant cell lesions
+- What is lymphatic drainage?
+    - Lymph drainage runs in the interlobular connective tissue, often near the arteries
+        - Pass initially to pre-laryngeal, pre-tracheal and para-tracheal lymph nodes
+    - **Pre-laryngeal drain to upper deep cervical nodes**
+    - **Pre-tracheal and para-tracheal to lower deep cervical nodes**
+    - Some may drain directly into brachiocephalic lymph modes or thoracic duct
+- How do metastases occur?
+    - Local invasion
+        - Extra-thyroid extension to trachea, oesophagus
+        - Anaplastic carcinoma tends to grow rapidly and can compromise vital structures
+    - Lymphatic spread **[papillary more common]**
+        - Cervical lymph nodes (prelaryngeal, pretracheal, paratracheal)
+            - Deep cervical chain
+    - Haematogenous spread **[follicular more common]**
+        - **Lung**, liver, bone
+- What is the relation of the vessels to the nerve?
+    - Right recurrent laryngeal nerve is close to anterior or posterior branches of the inferior thyroid artery at the inferior pole of the thyroid gland
+    - Left RLN is less likely to be injured as it has a more vertical ascent from the superior mediastinum
+        - Still in close proximity at the inferior pole
+    
+    ![Screenshot 2023-10-09 at 12.23.02 pm.png](Thyroid%20Cancer%20(Anat)%201300acf2446a81f681d0d28e100ecf91/Screenshot_2023-10-09_at_12.23.02_pm.png)
+    
+- Recurrent laryngeal nerve (course)
+    - Course
+        - Arise from the vagus in the inferior part of the neck
+        - Right RLN
+            - Loops inferior to the R subclavian artery at T1-T2 level
+        - Left RLN
+            - Loops inferior to the arch of the aorta at the T4-T5 level
+                - Posterior to ligamentum arteriosum
+        - Both ascend superiorly to the posteromedial aspect of the thyroid gland
+            - Ascend in the tracheo-oesophageal groove
+            - Enters larynx posterior to cricothyroid joint through fibres of inferior pharyngeal constrictor
+                - Becomes inferior laryngeal nerve at this point
+    - Function
+        - Motor
+            - All intrinsic muscles of larynx (except cricothyroid)
+                - Open, close and adjust tension of vocal cords
+                - Posterior cricoarytenoid → only muscle which can open the vocal cords
+        - GVA fibres from infraglottic region
+        - Sensory, secretomotor and motor fibres to cervical segments of oesophagus and trachea

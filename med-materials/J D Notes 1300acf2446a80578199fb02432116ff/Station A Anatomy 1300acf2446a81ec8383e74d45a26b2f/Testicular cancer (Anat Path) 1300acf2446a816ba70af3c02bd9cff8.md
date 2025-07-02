@@ -1,0 +1,202 @@
+# Testicular cancer (Anat/Path)
+
+*A 36-year-old businessman sought medical advice because of a painless mass in the left side of his scrotum, which had been present for three weeks. He was otherwise well apart from a history of surgical treatment for an undescended left testis as a child. Examination revealed a 5 x 3 cm, non-tender, firm mass at the upper pole of the left testis. It was possible to get above the lesion and it did not transilluminate.*
+
+- PDx
+    - Testicular cancer (seminomatous is most common in this demographic)
+        - Patient is the right age demographic (20-40 years)
+        - Painless non-transilluminating scrotal mass which is scrotal in origin (lesion can be reached above)
+- DDx for testicular mass
+    - Neoplastic
+        - Germ cell tumours (90%)
+            - Seminomatous tumours (50%)
+            - Non-seminomatous tumours
+                - Embryonal carcinoma
+                - Yolk sac tumour
+                - Choriocarcinoma
+            - Teratomas
+        - Non-germ cell
+            - Sex cord stromal tumours (e.g. Leydig, Sertoli)
+            - Non-Hodgkins Lymphoma
+            - Non-testicular tumours (e.g. lipoma)
+    - Non-neoplastic
+        - Indirect inguinal hernia (unable to get above lesion)
+        - Cystic (transillumination)
+            - Varicocoele
+                - Clinical presentation
+                    - “Bags of worms”
+                    - Non-transilluminating
+                    - Increases in size with Valsalva manouevre
+                - Why is the L testicle more prone
+                    - Longer course of gonadal vein and sharp angle of insertion into L renal vein
+                        - Predisposes to slower drainage and increased hydrostatic pressure
+                - Note: R sided varicocoele is more suspicious of RCC
+            - Hydrocoele
+                - Painless accumulation of fluid in the sac around the testis → derived from tunica vaginalis
+                - Usually idiopathic but may be congenital
+                    - Congenital
+                        - Communicating hydrocoele → failure of closure of processus vaginalis
+                    - Acquired
+                        - Trauma, tumour, torsion
+                        - Infectious → filariasis
+            - Haematocoele
+        - Epididymo-orchitis
+        - Torsion (unlikely to be painless)
+- Investigative approach to testicular cancer
+    - Definitive Dx
+        - Radical inguinal orchiectomy → excisional biopsy
+            - Gold standard for diagnosis
+        - Presumptive Dx before surgery is based on:
+            - **Clinical Hx and examination**
+            - **Tumour markers**
+                - **B-hCG**
+                - **LDH**
+                - **aFP**
+            - **Testicular ultrasound**
+    - Ancilary
+        - Bedside
+            - UA (DDx UTI or STI)
+        - Labs
+            - FBC (WCC for inflammation)
+            - **Tumour markers (staging, prognostics, monitoring recurrence)**
+            - Urine MCS and PCR (gonorrhoea, chlamydia)
+            - CRP or ESR
+            - UEC
+            - IGRA for TB
+            - Pre-operative (coags, G&H)
+        - **Imaging**
+            - **Testicular UA**
+            - Staging
+                - CT AP
+                - CXR
+- Is percutaneous biopsy performed in testicular cancer
+    - Contraindicated due to risk of tumour seeding along the needle tract
+    - Due to different lymph drainage of testes and scrotum, may lead to metastases to inguinal nodes
+        - Testes → para-aortic LNs
+        - Scrotum → inguinal LNs
+- What US findings may be seen in testicular cancer
+    - Seminoma
+        - Typically well defined, hypoechoic lesions without cystic areas
+    - Non-seminoma
+        - Heterogenous
+        - Calcifications
+        - Cystic areas
+        - Indistinct margins
+- Risk factors for testicular cancer
+    - Germ cell neoplasia in situ (premalignant)
+    - Crypto-orchidism
+        - Incomplete descent of testis
+        - Higher risk of tumour in higher undescended testes
+        - **Increased risk in both ipsilateral and contralateral testis**
+    - Hypospadias
+    - Personal history of testicular cancer
+    - Family history → strong link
+    - Other disorders
+        - HIV infection
+        - Androgen insensitivity syndrome
+        - Peutz-Jegher syndrome
+- Types of testicular tumours
+    - Germ cell tumours (90%)
+        - **Seminomatous tumours (50%)**
+            - Resemble primordial germ cells or early gonocytes
+            - Comparable to ovarian dysgerminoma
+            - Rare in children and adults > 50 years
+        - Non-seminomatous tumours
+            - Embryonal carcinoma
+            - Yolk sac tumour
+            - Choriocarcinoma
+        - Teratomas
+    - Non-germ cell
+        - Sex cord stromal tumours (e.g. Leydig, Sertoli)
+        - **Non-Hodgkins Lymphoma (most common in men > 60)**
+        - Non-testicular tumours (e.g. lipoma)
+- Testicular cancer - staging
+    - TNM staging (1-3)
+        - Tumour: local invasion
+        - Nodes: number involved and size
+        - M: distant metastases
+    - Consider serum tumour markers (B-hCG, aFP, LDH_
+        - Performed after orchiectomy to define stages 1-3
+- Tumour markers in testicular cancer
+    - B-hCG (half-life 24-36h) and aFP (half-life 5 days) → germ cell tumours
+        - Seminomas
+            - B-hCG (10% positive)
+            - aFP (never positive)
+        - Non-seminomas
+            - pB-hCG and/or aFP → 95%
+                - B-hCG in choriocarcinoma
+                - aFP in 90% of yolk sac tumours
+    - Androgens and oestrogens may be raised in some sex cord stromal tumours (esp. Leydig)
+    - LDH
+        - Less specific but elevated in all GCTs (40-60%)
+    - Clinical application
+        - Aids presumptive Dx prior to orchiectomy
+        - Post-orchiectomy prognostication (staging)
+        - Monitor response to treatment
+        - Monitor recurrence
+- Compare seminomas and non-seminomas histology
+    - Seminomas
+        - Macroscopic
+            - Well demarcated
+            - No necrosis or haemorrhage
+            - White or grey cut surface
+        - Microscopic
+            - Sheets of uniform polygonal cells separated by fibrous septa
+                - Often associated with lymphocytic infiltrate
+                - Neoplastic cells look homogenous
+            - Cells have large cytoplasm and central prominent nuclei/nucleoli
+                - “Fried-egg” appearance
+    - Non-seminomas
+        - Subtypes
+            - Embryonal carcinoma
+                - Ill-defined invasive masses with foci of haemorrhage and necrosis
+                - Poorly differentiated, pleomorphic cells in cords, sheets or papillae
+            - Yolk-sac tumour (endodermal sinus tumour)
+                - Schiller-Duval bodies → resemble primitive glomeruli
+            - Choriocarcinoma (most aggressive)
+                - Diffuse proliferation of mononuclear (cytotrophoblasts) or multinuclear (syncytiotrophoblasts)
+            - Teratoma
+                - Highly variable
+                - Often cystic
+                - Contains derivatives from all germ cell layers
+        - Compared to seminomas
+            - Later stage presentation
+            - More biologically aggressive (haematogenous routes)
+            - Less radiosensitive
+- Pathways of metastasis for seminomas and non-seminomas
+    - Seminomas
+        - Progress slowly and rarely metastasise (70% remain localised)
+        - Primarily lymphatic spread to para-aortic nodes, mediastinal nodes, supraclavicular nodes (via thoracic duct)
+    - Non-seminomas
+        - Progress quickly and metastasise early
+        - Primarily haematogenous spread
+            - Lungs, liver, bone, brain
+- Hormonal effects from testicular tumours
+    - 5% of germ cell tumours present systemic endocrine effects (e.g. gynaecomastia)
+        - Hormonal effects strongly associated with sex cord stromal tumours
+    - Leydig cell tumours
+        - Can produce androgens or oestorgen
+            - Androgens = sexual precocity in boys
+            - Oestrogens = gynaecomastia, impotence, loss of libido in men
+    - Sertoli cell tumours
+        - Predominantly oestrogen → gynaecomastia, impotence, loss of libido
+    - Note: most sex cord stromal tumours are benign
+    - Note: choriocarcinoma can produce excess B-hCG (hyperemesis, hyperthyroidism, gynaecomastia)
+- Management of testicular cancer
+    - Depends on patient and disease factors
+    - May include:
+        - Radical inguinal orchiectomy +/- retroperitoneal lymph node dissection
+            - Primary treatment
+            - Histopathology used to confirm diagnosis
+        - Sperm banking and counselling prior to surgery
+        - Adjuvant chemoradiotherapy in some cases
+
+- What is Prehn’s sign (testicle)
+    - Positive when there is pain relief when lifting the testicle
+        - More likely epididymitis > torsion
+    - Inferior sign to Doppler US to rule out testicular torsion
+- Embryology of reproductive tracts
+    - Mesonephric (Wolffian) duct
+        - Primordium for male urogenital structures (seminal vesicles, epididymis, ductus deferens)
+    - Paramesonephric (Mullerian) dict
+        - Primordium for female urogenital structures including fallopian tubes, uterus, cervix, upper 1/3 of vagina

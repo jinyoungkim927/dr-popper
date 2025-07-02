@@ -1,0 +1,309 @@
+# Renal calculi
+
+## Case Protocol 37 – **Renal Calculi**
+
+*A 36-year-old man presented to the Emergency Department with severe right loin pain. The pain had been present "on and off" for the past six hours, with each attack of pain lasting approximately 30 minutes. The patient recalled a similar episode of pain six months previously that had resolved spontaneously. Examination revealed a distressed man, pale and tachycardic. The abdomen was soft and non-tender, and no other abnormalities were detected on physical examination.*
+
+- PDx and DDx
+    - PDx: renal colic from nephrolithiasis
+        - Given loin-groin colicky pain + haematuria + previous episode (likely passed stone)
+    - DDx
+        - Causes of ureteric obstruction
+            - Intraluminal
+                - Calculi
+                - Clots from malignancy, PCKD
+            - Mural
+                - TCC
+                - Strictures (iatrogenic, chronic calculi)
+            - Extramural
+                - Neoplasm (RCC)
+                - Endometriosis
+                - Retroperitoneal fibrosis
+        - Other serious causes of pain (often constant pain v. colicky)
+            - Renal
+                - **Pyelonephritis** or UTI
+                - Renal vein thrombosis
+            - Vascular or cardio
+                - **AAA**
+                - Atypical MI
+            - GIT
+                - PUD +/- perforation
+                - Pancreatitis
+                - Cholecystitis
+                - Appendicitis
+                - Bowel obstruction
+            - Genital
+                - Female
+                    - Ectopic pregnancy
+                    - Ovarian torsion
+                - Male
+                    - Testicular torsion
+- Clinical features of renal calculi
+    - Pain
+        - Varies from mild to severe
+        - Radiates from flank to inner thigh (loin to groin)
+        - Colicky
+    - **Haematuria** (gross or microscopic)
+    - Associated Sx
+        - **Nausea and vomiting**
+        - Dysuria
+        - Urgency
+- Risk factors for renal calculi
+    - Male
+    - PMHx or FHx of nephrolithiasis
+    - Obesity
+    - Diet
+        - Low fluid intake
+        - High red meat or wine (high urate content)
+    - Hypercalciuria
+        - HyperPTH
+        - Sarcoidosis
+    - Hyperuricosuria
+        - Gout
+        - Chemotherapy
+        - Drugs (e.g. low dose aspirin, cyclosporin, thiazides, EtOH)
+    - Congenital
+        - PCKD
+        - Medullary sponge kidneys
+- Investigative approach to renal calculi
+    - Principal diagnostic investigations
+        - **Diagnosis of nephrolithiasis is confirmed with imaging of KUB**
+            - CT KUB (non-contrast)
+                - Best diagnostics → high sensitivity and specificity
+                - Can establish calculi site and size
+            - US KUB (if CT unavailable → e.g. pregnancy)
+    - Ancillary
+        - Bedside
+            - **B-hCG → exclude pregnancy or ectopic**
+        - **Urine studies**
+            - **UA and MCS**
+                - Haematuria, visualise crystals
+                - DDx (infection)
+            - **24h urine profile**
+                - Measure volume and creatinine clearance
+                - Urine pH
+                - Concentrations of Ca, oxalate, uric acid, citrate (composition guides preventative management)
+        - Labs
+            - FBC → raised WCC may support UTI
+            - UEC + CMP
+                - AKI
+                - Hypercalcaemia or hyperuricaemia (risk factors)
+            - Urine MCS → rule out UTI
+            - Exclude DDx
+                - LFT (biliary)
+                - Lipase (pancreatitis)
+- Interpret the following lab results (renal calculi). What extra information would be useful for interpretation?
+    
+    ![clip_image002 (23).png](Renal%20calculi%201300acf2446a8169ab3bdde9619e9305/clip_image002_(23).png)
+    
+    - Interpretation
+        - Low Na
+        - High UEC
+            - AKI secondary to obstruction
+        - High Ca and urea (risk factors for renal calculi)
+    - Extra information which would be useful?
+        - Difference between serum and urine levels
+        - Albumin levels → need corrected Ca
+        - Calcium may be falsely elevated if tourniquet was in place for too long
+- Renal calculi - what could account for the following CT scan finding: *5 mm radiodense lesion 2 cm lateral to the body of the fifth lumbar vertebra. DDx?*
+    
+    ![Screenshot 2023-09-24 at 4.00.55 pm.png](Renal%20calculi%201300acf2446a8169ab3bdde9619e9305/Screenshot_2023-09-24_at_4.00.55_pm.png)
+    
+    - Likely renal calculi (Ca containing → radio-opaque)
+    - DDx (varies depending on location in question stem)
+        - Artery or venous calcification
+        - Calcification of mesenteric LNs
+        - Cholelithiasis (over R kidney)
+        - Faecolith (hardened faeces)
+        - Pancreatic calcification in chronic pancreatitis
+- Pathogenesis of renal calculi
+    - Cause often obscure, likely involves multiple predisposing factors:
+        - Increase solute conc. in urine (hence, supersaturation)
+            - Calcium
+                - Hypercalcaemia
+                    - HyperPTH, tumour lysis
+                - Elevated oxalate (IBD)
+                    - In intestine, calcium normally binds oxalate and stones are excreted in faeces
+                    - With fatty acid malabsorption, calcium preferentially binds FFAs and leads to excess oxalate which is absorbed into circulation
+            - Uric acid
+                - Gout
+                - Diet (high protein, alcohol)
+                - CKD
+        - Decrease in inhibitor conc.
+            - Citrate (normally forms soluble complex w/ Ca)
+            - Magnesium (forms soluble complex with oxalate)
+            - Pyrophosphate
+        - Changes in urine pH
+            - Acid for uric acid stones
+            - Alkaline for calcium or struvite stones
+        - Nidus for formation
+            - Bacterial pathogens
+        - Stasis
+            - Low flow and low volume of urine (e.g. dehydration)
+        - Infection
+- Types of renal stones? Why is this clinically relevant?
+    - Calcium containing (80%)
+        - Examples
+            - **Calcium oxalate (most common: 70-80%)**
+            - Calcium phosphate (15%)
+        - More common in males, > 30 years
+        - Radio-opaque
+    - **Uric acid (~8%)**
+        - Associated with acidic urine or gout
+    - Rare (< 5%)
+        - Struvite (PO4, NH3, Mg) (1%)
+            - Associated with **chronic infection** by urease producing organisms
+        - Hereditary
+            - Cystine (1-2%)
+                - Associated with AR genetic abnormality in renal transport of amino acids
+            - Xanthine
+    - Clinical relevance
+        - Can aid clinical decision making and appropriate treatment and prevention
+            - E.g. calcium oxalate stones are hard and may not fragment as easily from SWL
+        - Uric acid stones may need gout treatment for prevention
+- Which subtypes of renal calculi are less likely to be visualised on X-ray?
+    - Most calculi are radio-opaque (60-90%)
+        - Calcium-containing stones
+        - Struvite stones (mostly opaque, can be lucent)
+    - Radiolucent stones
+        - Uric acid stones
+        - Cystine stones
+        - Xanthine stones
+        - Medication stones
+- Complications of nephrolithiasis
+    - Pain → renal colic
+    - Infections
+        - UTI
+        - Acute pyelonephritis
+        - Risk of urosepsis
+    - Ureteric obstruction
+        - Acute
+            - AKI
+            - Ulceration and increased pressure can predispose to ureteric rupture
+        - Chronic
+            - Local inflammation → stricture formation
+                - Ureteric dilation +/- hydronephrosis
+                - CKD (increased intratubular pressure → atrophy and fibrosis)
+- Management of renal calculi
+    - Conservative
+        - Analgesia
+        - Maintain adequate hydration to promote stone passing
+        - Antiemetics (if N&V)
+    - Definitive
+        - Manage underlying cause
+            - E.g. uric lowering therapy for gout
+        - Stone removal depends on size
+            - < 5mm often pass spontaneously
+            - < 10mm - pharmacological (relax smooth muscle)
+                - A-antagonist (tamsulosin)
+                - dCCB (nifedipine)
+            - ≥ 10 mm - procedural intervention
+                - **Consult urology if AKI, urosepsis, N&V, refractory pain**
+                - Shock-wave lithotripsy (SWL)
+                    - Fragmentation using acoustic pulse
+                - Rigid and flexible ureteroscopy (URS)
+                    - Transurethral endoscopy → basket extraction, laser fragmentation
+            - ≥ 20 mm
+                - Percutaneous nephrolithotomy (PNL) +/- stenting
+
+- Staghorn calculi
+    - Upper urinary tract stones which involve the renal pelvis and extend into at least 2 calyces
+        - Technically all types of stones can form staghorn but 75% are comprised of struvite carbonate-apatite
+    - Often develop in the context of urease-producing bacteria (e.g. Proteus, Klebsiella, Pseudomonas)
+
+Past question: kidney stones (anatomy)
+
+- Ureter - course
+    - Paired hollow muscular tubes which are located retroperitoneally
+        - Arise from the renal pelvis and connect the kidney to the bladder
+    - Abdominal course
+        - Ureters pass down psoas major, under the peritoneum (sagittal plane medial to the tips of lumbar transverse processes)
+            - Superficial to genitofemoral nerve
+            - Deep to gonadal vessels
+        - Further relations depend on the side:
+            - Right - crossed by:
+                - Duodenum
+                - Vessels (R colic, ileocolic, SMA branches)
+                - Root of mesentery
+            - Left
+                - Lateral to the IMA vessels
+                - Crossed by
+                    - Left colic vessels
+                    - Apex of sigmoid mesocolon
+    - Pelvic course
+        - Enters the pelvis by leaving the psoas at the bifurcation of the common iliac artery (at sacroiliac joint)
+        - Runs superficial to the external iliac vessels and down the wall of the pelvis
+            - Anterior to internal iliac vessels and posterior to ovary
+    
+    ![paste-e65833a40c8279b7a236b27ad9dc09b093075fa5.jpg](Renal%20calculi%201300acf2446a8169ab3bdde9619e9305/paste-e65833a40c8279b7a236b27ad9dc09b093075fa5.jpg)
+    
+- Describe the bony landmarks for the course of the ureter
+    - Rib 12 (origin of ureter course)
+    - Tip of transverse processes of L2 - L5
+        - Ureters run medial to this sagittal plane as they pass over psoas major
+    - Pelvic brim at sacroiliac joint
+        - Where ureters pass over common iliac bifurcation
+    - Ischial spines
+        - Where ureters turn medially to cross the pelvic floor
+- How does the ureter enter the bladder?
+    - Run obliquely through the bladder wall and reach their orifice at the upper lateral walls of the trigone
+        
+        ![F7.large.jpg](Renal%20calculi%201300acf2446a8169ab3bdde9619e9305/F7.large.jpg)
+        
+    
+    ![paste-028e4ba59571cbdb34215cf869f867c0b6f38761.jpg](Renal%20calculi%201300acf2446a8169ab3bdde9619e9305/paste-028e4ba59571cbdb34215cf869f867c0b6f38761.jpg)
+    
+- Ureter - arterial and venous drainage
+    - Arterial supply of the ureter varies and there is significant anastomosis in the adventitia
+        - Upper
+            - Branches from the renal artery
+        - Middle
+            - Gonadal artery branches
+            - Common or internal iliac branches
+        - Lower (pelvic)
+            - Superior and inferior vesical branches
+            - Middle rectal
+    - Venous drainage
+        - Renal veins
+        - Gonadal veins
+        - Internal iliac veins
+- Ureter - innervation
+    - Receive SNS and PSNS supply. GVA run with SNS supply
+        - SNS (T11-L2) via lesser, least and lumbar splanchnic nerves
+            - Synapse on coeliac, renal and superior hypogastric plexuses
+            - GVA return to DRG of T11-L2
+        - PSNS from S2-4 lateral horns → pelvic splanchnic nerves → inferior hypogastric plexus
+    - Pain is referred to corresponding dermatomes (given GVA pathway)
+        - T11 → band below umbilicus (branch of posterior intercostal)
+        - T12 → brand inferior to T11 (subcostal nerve)
+        - L1 → groin and external genitalia
+            - Iliohypogastric, ilioinguinal, genitofemoral
+        - L2 → anterior and lateral superior thigh
+            - Genitofemoral and lateral femoral cutaneous nerve
+- Anatomical basis for renal colic pain
+    - Stone in ureter → **peristaltic contraction of ureter on stone leads to intermittent raised intraluminal pressure (colicky pain)** → irritates pain fibres
+        - Carried via **GVA on sympathetic fibres → DRG of T11-L2 → spinothalamic tract**
+        - Hence, pain is referred to corresponding dermastomes
+            - T11 → band below umbilicus (branch of posterior intercostal)
+            - T12 → band inferior to T11 (subcostal)
+            - L1 → groin and external genitalia
+            - L2 → anterior or lateral superior thigh
+- Ureter - lymphatic
+    - Follows arterial supply
+        - Abdominal → para-aortic nodes
+        - Pelvis → internal iliac LNs
+- Ureter - histology
+    - Mucosa
+        - Lined by transitional epithelium
+        - No muscularis mucosae
+        - Stellate lumen in histological specimens
+            - Round in vivo
+    - Muscularis externa
+        - Intertwining helices of inner longitudinal, middle circular and outer longitudinal
+    - Adventitia
+- Locations for stone impaction in ureter
+    - Unilateral in 80% of cases
+    - Impact in sites of anatomical narrowing
+        - Pelviureteric junction
+        - Pelvic brim (when crossing the iliac vessels)
+        - Vesicoureteric junction

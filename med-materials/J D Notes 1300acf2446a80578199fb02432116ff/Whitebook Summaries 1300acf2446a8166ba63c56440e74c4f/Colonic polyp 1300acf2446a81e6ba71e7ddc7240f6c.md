@@ -1,0 +1,97 @@
+# Colonic polyp
+
+## SPIEL
+
+- I observed the cut-up of a colonic polyp that was removed from the sigmoid colon by colonoscopy from a 70M who presented with a positive iFOBT and change in bowel habit
+- Macroscopic
+    - Intact polyp received in formalin
+        - Measured 15mm with a 3mm stalk
+    - The polyp was pedunculated (lobular head with a slender stalk)
+    - Smooth mucosal velvety surface with ulceration and signs of haemorrhage
+    - The specimen was bisected and embedded
+        - The cut surface was inked.
+- Microscopic
+    - Architecture
+        - Tubular adenoma with moderate differentiation
+            - Fibrous desmoplastic response noted
+            - Ulceration of epithelium and haemorrhage
+        - Abnormal cells were confined to the mucosa (did not extend beyond muscularis mucosa or propria)
+    - Cellular
+        - Tall columnar cells representing severely dysplastic glandular cells of the colonic mucosa
+        - Features of neoplasia evident
+            - Hyperchromatic nuclei
+            - Multiple mitotic figures
+            - Increased nuclei:cytoplasm ratio
+            - Pleomorphism
+- Significance
+    - Colonic adenoma demonstrating signs of neoplasia
+        - Confined to mucosa
+    - **High-risk conventional adenoma with high grade dysplasia**
+        - **Patient should undergo surveillance colonoscopy in 3 years**
+
+- Pathogenesis of colonic adenoma
+    - Colorectal carcinoma are malignant neoplasms arising from the epithelium of the colon or rectum → majority are adenocarcinoma
+        - There are two pathways
+    - Adenoma-carcinoma sequence (APC/B-cateinin)
+        - Accounts for 80% of sporadic CRC
+            - Often tubular or tubulovillous adenocarcinomas
+        - Sequence:
+            - Two hits to APC tumour suppressor gene (germline/somatic + somatic)
+            - Loss of negative regulation of B-catenin and accumulation of B-catenin
+                - Proliferation and adenoma formation
+            - Accumulation of other mutations (KRAS → proto-oncogene; p53)
+                - Further proliferation, apoptosis resistance, dysregulated signalling, dysplasia
+                - Results in carcinoma
+    - DNA mismatch repair pathway (accounts for 20% of CRC)
+        - Often sessile serrated adenocarcinomas
+        - Sequence:
+            - Germline (small minority → HNPCC) or somatic mutation in repair pathways **(e.g. MSH2, MSH6)**
+            - Microsatellite instability and accumulation of further mutations
+                - Genetic hypermutability
+            - If mutations occur in regions which promote proliferation OR suppress apoptosis OR result in dysregulated signalling
+                - Cancer
+            
+- Complications
+    - Conversion of adenoma to adenocarcinoma and CRC
+    - Local
+        - **Bleeding** → iron deficiency anaemia
+        - **Bowel obstruction** → third spacing (shock), perforation, peritonitis, sepsis
+        - Malabsorption → fluid and electrolyte imbalances
+        - **Fistula** (e.g. vesicorectal)
+    - Disseminated
+        - Metastases → lung, liver, bone, brain
+    - Systemic
+        - Cachexia
+        - VTE and PE
+        - DIC
+- How do you stage CRC
+    - TNM staging system (correlates with Duke’s A-D)
+        - Stage 1
+            - T1 (submucosa) or T2 (muscularis propria)
+        - Stage 2
+            - T3 or T4 (invades beyond propria and invades other organs or structures)
+        - Stage 3
+            - Any T
+            - N1 or N2 (regional LNs)
+        - Stage 4
+            - M1 (distant)
+- Common methods of spread for CRC
+    - Local spread
+        - Depends on the location of the original tumour
+            - May involve pelvic organs (e.g. uterus, prostate, urinary bladder)
+    - Lymphatic spread
+        - SMA or IMA nodal drainage (R v. L sided)
+        - Rectal nodes → superficial inguinal → external iliac → common iliac
+    - Haematogenous
+        - Portal venous system → liver
+        - Distal rectum → inferior rectal vein → IVC → lungs
+        - Other → brain, bone, peritoneum
+- How does pathologist determine which pathway a tumour followed (morphology, IHC?)
+    - Morphology can give a clue (tubulovillous in APC, sessile serrated in MMR)
+    - Cytogenetics
+        - Mutated genes (e.g. APC, TP53, KRAS)
+            - May be seen in APC pathway
+    - Immunohistochemistry for microsatellite instability
+        - MLH1, MSH2, MSH6
+    - Note: immunohistochemistry can be used to determine the cell origin of certain cancers
+        - In CRC, it is commonly CK20+, SATB2+ , CK7-

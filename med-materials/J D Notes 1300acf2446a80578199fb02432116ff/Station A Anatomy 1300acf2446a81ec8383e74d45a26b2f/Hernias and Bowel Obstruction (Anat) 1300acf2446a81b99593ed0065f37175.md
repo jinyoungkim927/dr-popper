@@ -1,0 +1,386 @@
+# Hernias and Bowel Obstruction (Anat)
+
+## Past Question: **Femoral hernia** (anatomy)
+
+**Case:** *A 55-year-old man is brought by ambulance to the ED. He is complaining of nausea, vomiting and abdominal pain. His abdomen is soft, non-distended with a lump that “does not go away’’ in the inguinal region. He has guarding to upper and lower abdomen with palpation. He has a history of diabetes.*
+
+- Temp: 35.9
+- HR: 100bpm
+- RR: 28
+- BP: 157/80
+- SpO2: 100% RA
+- BSL: 10.4 mmol/L
+
+- Abdominal pain - emergency causes
+    - GIT
+        - SBO
+        - Ischaemic colitis
+        - Ascending cholangitis
+        - Peptic ulcer disease
+        - Acute pancreatitis
+        - Appendicitis
+    - Genitourinary system
+        - Ectopic pregnancy (female)
+        - Torsion - testicular or ovarian
+- Causes of small bowel obstruction
+    - Most common
+        - **Adhesions**
+        - **Hernias**
+        - **Small bowel tumours**
+            - Benign (95%) - adenoma, lipoma, fibroma
+            - Malignant (5%)
+                - Primary (carcinoid, adenocarcinoma, lymphoma, GIST)
+                - Secondary (e.g. melanoma)
+        - Strictures (e.g. IBD)
+    - Mechanical causes
+        - Extra-mural
+            - Adhesions (post-surgery, Crohns, ruptured appendicitis)
+            - Volvulus
+            - Hernia
+            - Mass (tumour)
+        - Mural
+            - Haematoma
+            - Strictures
+            - Malignancy
+        - Luminal
+            - Foreign body (bezoar)
+            - Intussusception
+            - Gallstones (gallstone ileus)
+    - Functional causes
+        - Paralytic ileus (e.g. surgery, peritonitis, medications (opiates, anticholinergics), electrolyte disturbance (e.g. hypokalaemia)
+        - Pseudo-obstruction - can be acute or chronic
+            - Tends to affect the colon → Sx of recurrent abdominal distension with no mechanical cause
+- Causes of a large bowel obstruction
+    - Neoplastic
+        - **CRC**
+    - Non-neoplastic
+        - **Volvulus** (especially sigmoid)
+        - **Strictures** (post-operative, diverticular disease, IBD)
+        - Hernia
+    - Functional (”pseudo-obstruction”)
+        - Post-operative ileus
+        - Electrolyte imbalances (hypokalaemia)
+        - Medications - opioids
+        - Autonomic dysfunction (DM)
+- Differentials for a groin lump
+    - Above the inguinal ligament
+        - Inguinal hernia
+            - Indirect - due to congenital failure of processus vaginalis to close properly
+                - Peritoneal viscus may enter the scrotum
+            - Direct (often acquired, related to older age)
+                - Due to weakening of the transversalis fascia → often through the inguinal triangle
+        - Lymphadenopathy
+        - Males (young)
+            - Undescended testis (crypto-orchidism)
+        - Cyst
+        - Lipoma
+    - Below the inguinal ligament
+        - Femoral hernia
+            - More common in females (wider canal), greater risk of strangulation
+        - Lymphadenopathy
+        - Saphena varix
+            - Dilation of saphenous vein where it joins the femoral vein
+        - Femoral aneurysm
+- Approach to history and examination for a hernia
+    - History
+        - Presenting complaint
+            - Characterize lump – unilateral, presenting on standing/lying down, painful
+            - Symptoms of obstruction – constipation, obstipation, nausea and vomiting
+            - Symptoms of strangulation – tenderness
+            - Symptoms of peritonitis/rupture – fever, abdominal pain, sweating
+            - Malignancy symptoms
+        - Past history
+            - Previous hernias
+            - Inciting events
+            - Previous surgery
+    - Examination
+        - General inspection
+            - Assess fluid status
+        - Abdominal exam
+            - Look for signs of peritonism, scars
+        - Hernia examination
+            - Assess patient whilst standing (and then supine)
+            - Determine whether:
+                - Unilateral or bilateral
+                - Reducible or incarcerated
+                - Painful (suggests strangulation)
+            - Cough impulse test
+                - Place fingers over hernia site and ask patient to cough. Impulse should be palpable
+            - Ring occlusion test
+                - Reduce hernia (or ask patient to reduce → sometimes with standing)
+                - Occlude the deep inguinal ring from the outside (midpoint)
+                    - Ask patient to cough or tense intra-abdominal muscles
+                    - If hernia reappears, it is travelling through the inguinal triangle (direct) and not the canal
+                - Note: deep inguinal ring at the midpoint of the inguinal ligament (halfway between ASIS and pubic tubercle)
+- Clinical manifestations of bowel obstruction
+    - Cardinal symptoms
+        - Abdominal pain (cramping, colicky)
+            - Classic: peri-umbilical (SBO), suprapubic (LBO)
+        - Distension
+        - Nausea and vomiting
+            - Occurs earlier and more pronounced with proximal obstruction
+        - Constipation/obstipation
+    - Examination findings
+        - Systemic
+            - Dehydration (tachycardia, orthostatic hypotension, dry mucous membranes, oliguria)
+            - Fever (associated with complications)
+        - Abdominal inspection
+            - Distension, scars from previous surgery
+        - Abdominal palpation
+            - Hernias, masses
+            - Pain
+        - Abdominal auscultation
+            - High pitching ‘tinkling’ bowel sounds
+                - Sounds become more hypoactive with progressive obstruction
+        - Abdominal percussion
+            - Hyper-resonance unless the obstruction is fluid-filled (dull)
+        - Digital rectal examination
+            - May identify faecal impaction or rectal mass as a cause of obstruction
+            - Blood may indicate tumour, ischaemia, intussusception
+- Investigative approach to hernia (and bowel obstruction)
+    - Hernia is often a clinical diagnosis
+        - Ultrasound may be useful to identify occult hernias and characterise the contents of the hernial sac
+        - Other imaging (CT abdomen pelvis with contrast) may help with excluding differentials and help differentiate between types of hernia)
+    - Ancillary investigations (for bowel obstruction)
+        - Bedside
+            - Blood gas (ischaemia and shock - elevated lactate, acidosis)
+            - Monitoring for vital signs
+        - Laboratory findings
+            - FBC, CRP → leukocytosis, inflammation
+            - Serum lactate (ischaemia)
+            - UEC, CMP (electrolyte derangements due to vomiting, poor PO intake)
+            - Consider blood cultures if peritonitic
+            - Pre-operative bloods
+                - Group and hold
+                - Coagulation studies
+            - Rule out DDx for abdominal pain
+                - LFTs
+                - Lipase
+                - B-hCG (females)
+        - Imaging
+            - Groin U/S
+                - Can administer dynamic manoeuvres (supine, standing, Valsalva, compression)
+            - CT abdomen and pelvis (locate hernia)
+            - General for SBO
+                - Erect AXR
+                - Gastrografin study (imaging, helps accelerate bowel motility)
+- Imaging findings for bowel obstruction
+    - AXR
+        - Evidence of bowel obstruction
+            - Dilated bowel loops (SB > 3cm, LB > 6cm, caecum > 9cm)
+                - SB: predominantly central location
+                - LB: predominantly peripheral
+            - Multiple air-fluid levels (>3)
+                - Suspicious if > 2.5cm in width or air-fluid levels of different heights within the same bowel loop
+            - Visible valvulae conniventes
+            - Empty rectum
+        - Evidence of bowel perforation → pneumoperitoneum
+        - Evidence of underlying aetiology
+            - Coffee-bean sign - sigmoid volvulus
+    - Abdominal CT
+        - Evidence of complications
+            - Ischaemia
+                - Decreased contrast enhancement of bowel wall
+                - Increased bowel wall thickness (>3mm)
+                - Gas in mesenteric veins
+                - Free intra-abdominal fluid
+        - Evidence of CRC
+            - Mass
+            - Apple-core sign
+    - Ultrasound
+        - Target sign - intussusception
+- How to differentiate between small and large bowel obstruction
+    
+    
+    | Pain location | Peri-umbilical | Infra-umbilical |
+    | --- | --- | --- |
+    | Pain character | Colicky to constant | Continuous |
+    | Vomiting | Early | Late/absent - while ileocaecal valve is competent |
+    | Distension | Mild to moderate | Severe - while ileocaecal valve is competent |
+    | Constipation or obstipation | May be present | Marked |
+- Risk factors for a hernia
+    - Non-modifiable
+        - Male sex
+        - Increased age
+        - FHx of hernia
+        - Prematurity (patent processus vaginalis)
+        - Pregnancy
+    - Modifiable
+        - Increased intra-abdominal pressure
+            - Chronic constipation
+            - Obesity
+            - Chronic cough
+            - Weight lifting
+        - Weakening of abdominal wall
+            - Previous surgeries (incisional)
+            - Smoking
+- Anatomy of a femoral hernia
+    - Protrusion of a peritoneal viscus (+/- bowel) through the femoral ring into the femoral canal and triangle = femoral hernia
+    - Borders of the femoral canal
+        - Anterior: inguinal ligament
+        - Medial: lacunar ligament
+        - Lateral: femoral vein
+        - Posterior: pectineus muscle, pectineal ligament,
+    - Contents of the femoral canal
+        - The canal is a space in the medial part of the femoral sheath (continuation of femoral ring)
+            - Pathway for lymph from the deep inguinal nodes → abdomen
+                - Cloquet node - uppermost node in the groin under inguinal ligament
+            - Allows for expansion of the femoral vein
+        - Contents: lymphatic vessels, deep inguinal nodes
+    - Femoral triangle (borders)
+        - Lateral: sartorius muscle
+        - Medial: adductor longus
+        - Superior: inguinal ligament
+    - Contents of femoral triangle
+        - Contents (medial to lateral) [NAVEL]
+            - Nerve - femoral
+            - Artery
+            - Vein
+            - Empty space - femoral canal
+            - Lymphatics
+        - Note: the femoral nerve enters the thigh lateral to the femoral sheath
+    - Femoral sheath
+        - Extension of the extraperitoneal fascia derived from transversalis (anterior) and psoas (posterior)
+        - Contains the artery, vein and femoral canal
+- Definition and types of hernia
+    - A hernia is an abnormal protrusion of an organ or tissue through an abnormal opening in the wall/cavity that normally contains it
+    - Types of hernia
+        - Behaviour
+            - Reducible → contents can be returned to location of origin
+            - Irreducible → contents cannot be returned to location of origin
+            - Obstructed → bowel in hernia is obstructed, blood supply intact
+            - Incarcerated → chronically irreducible hernia
+            - Strangulated → blood supply compromised
+        - Location
+            - Inguinal (direct or indirect in relation to inferior epigastric vessels)
+            - Incisional
+            - Femoral
+            - Umbilical
+            - Epigastric (through linea alba)
+            - Spigellian (through the semilunar line)
+            - Hiatal (e.g. diaphragmatic)
+- Management of a hernia
+    - Initial management
+        - If signs of incarceration
+            - Primary survey and resuscitation as needed
+            - Fluid and electrolyte replacement, analgesia
+            - Antibiotics (if signs of bowel compromise)
+    - Definitive management
+        - Surgical repair
+            - Signs of strangulation or bowel obstruction → urgent
+            - Signs of incarceration (without strangulation) → attempt reduction
+            - Uncomplicated → elective surgical repair or monitor cautiously (patient and surgeon preference)
+        - Approaches
+            - Open or laparoscopic surgery with or without mesh
+                - Hernioplasty - mesh reinforcement
+                - Herniorraphy - repair of wall without mesh
+            - Consider bowel resection if necrotic bowel
+- Complications of a hernia
+    - Hernia-related
+        - Incarceration → chronically irreducible
+        - Obstruction → obstructed bowel however adequate blood supply
+            - Electrolyte disturbances
+            - Abdominal pain, nausea and vomiting
+            - Risk of perforation → peritonitis
+        - Strangulation
+            - Compromised blood supply
+                - Compression at neck of hernia or twisting of hernia sac → gangrene → perforation → peritonitis
+    - Treatment-related
+        - Seroma, haematoma
+        - Bladder injury
+        - Surgical site infection
+        - Anaesthetic risks
+- Management of bowel obstruction
+    - Initial management
+        - Hospital admission with urgent surgical evaluation
+        - Volume resuscitation and correction of electrolyte and metabolic abnormalities
+        - Bowel rest (NBM)
+        - Gastrointestinal decompression (NG tube) for significant distension, nausea and vomiting
+        - Antibiotics may be indicated in those with suspected bowel compromise
+    - Definitive management
+        - Surgical correction
+            - If bowel compromise
+            - If underlying cause is amenable to surgery (hernia, volvulus, neoplasia)
+        - Expectant management
+            - Serial investigations for signs of any clinical deterioration → surgery
+            - Gastrografin (hypertonic, water soluble contrast)
+                - Increases osmotic load - decreases wall oedema
+- How can a bowel obstruction lead to shock
+    - Stasis in intestinal lumen → increased intraluminal pressure → ischaemia → necrosis and perforation → septic shock
+    - Third spacing of fluid → hypovolaemic shock
+
+## Past Question: **Inguinal hernia** (anatomy)
+
+- Define the inguinal canal and its boundaries
+    - Inguinal canal
+        - An oblique intramuscular slit and passage  superior to the medial half of the inguinal ligament which transmits structures from the lower anterior abdomen to the external genitalia
+    - Boundaries
+        - 2MALT (superior, anterior, inferior, posterior)
+            - 2 superior muscles
+                - Transversus abdominis
+                    - Arises from lateral 1/2 of inguinal ligament
+                    - Starts in the anterior wall of the canal and passes over the cord
+                        - Becomes tendinous to reach the pectineal line as conjoint tendon
+                - Internal oblique
+                    - Arises from lateral 2/3 of inguinal ligament
+            - 2 anterior aponeuroses
+                - External oblique aponeurosis
+                - Internal oblique aponeurosis (supports lateral aspect)
+            - 2 inferior ligaments
+                - Lacunar ligament (medial)
+                    - Fills angle between inguinal ligament and pectineal line
+                - Inguinal ligament
+            - 2 posterior ‘T’
+                - Conjoint tendon (union of aponeurosis of TA and IO)
+                    - Medial
+                - Transversalis fascia (lateral)
+- What are the contents of the inguinal canal
+    - Men
+        - Spermatic cord + ilioinguinal nerve
+        - Contents of the spermatic cord
+            - Arteries
+                - Testicular
+                - Cremasteric
+                - Artery to vas deferens
+            - Nerves
+                - Genital branch of genitofemoral nerve
+                - Sympathetic fibres
+            - Other
+                - Pampiniform plexus
+                - Ductus deferens
+                - Lymphatics (to para-aortic if testes, external iliac for coverings)
+            - Layers
+                - External spermatic fascia
+                - Cremasteric fascia
+                - Internal spermatic fascia
+    - Women
+        - Round ligament of the uterus + ilioinguinal nerve
+- Components of a hernia
+    - Fundus
+    - Body
+        - Commonly contains either omentum (omentocoele) or intestine (enterocoele)
+    - Neck
+        - Usually well-defined but may be absent
+        - Diameter of neck contributes to risk of strangulation
+    - Coverings
+        - Derived from layers of the abdominal wall
+- Describe the descent of the testes and pathway for weakness
+    - Embryological origin of the testes is near the kidneys
+        - Descend by moving inferior and anteriorly (movement is relative → due to elongation of the body)
+        - Gubernaculum facilitates descent (attached to the inferior pole of the testis to the base of the primordial scrotum)
+            - Passes through inguinal canal
+        - Peritoneal outpouching (processus vaginalis) precedes the testis through the inguinal canal
+    - Testis passes through the inguinal canal with associated neurovascular bundle and ducts
+    - The deep and superficial inguinal rings remain as defects in the continuity of the abdominal wall
+- Describe borders of Hesselbach’s triangle (and significance)
+    - Medial: lateral edge of rectus abdominis
+    - Inferior: inguinal ligament
+    - Superolateral: inferior epigastric vessels
+    - Note: anatomy of epigastric vessels
+        - Superior epigastric → terminal branch of the internal thoracic artery
+        - Inferior epigastric → branch of the external iliac artery
+        - Superficial epigastric → branch of the femoral artery
+- Floor of Hesselbach triangle? what structure runs along it?
+    - Covered by peritoneum and transversalis fascia
+    - Crossed by medial umbilical ligament (remnant of obliterated umbilical artery
+        - Divides triangle into medial and lateral parts

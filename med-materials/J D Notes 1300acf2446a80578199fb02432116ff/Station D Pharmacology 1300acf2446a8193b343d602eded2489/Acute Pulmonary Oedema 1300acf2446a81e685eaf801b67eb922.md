@@ -1,0 +1,248 @@
+# Acute Pulmonary Oedema
+
+**Case:** *An elderly male patient with history of stage 2 CKD, left ventricular failure, AF, and other comorbidities. 2 days prior had started taking diclofenac for knee pain/osteoarthritis. His other medications include: metoprolol, quinapril, frusemide, digoxin, warfarin.Patient is now presenting acutely with shortness of breath, paroxysmal nocturnal dyspnoea. His BP is 160/90mmHg.*
+
+- Case specific:
+    - Presentation of acute dyspnoea, PND  and medical history suggests APO from fluid overload secondary to medication interactions between NSAIDs, diuretic and ACE inhibitor
+    - Differentials
+        - APO and other causes of acute dyspnoea
+- Definition of APO
+    - Rapid buildup of fluid in the alveoli and lung interstitium which has extravasated from pulmonary circulation
+        - Accumulation of fluid = impaired gas exchange, decreased lung compliance
+            - Presents as dyspnoea and hypoxia
+- Causes of acute pulmonary oedema
+    - Many precipitants for APO
+    - Cardiogenic
+        - Left ventricular failure
+            - Acute coronary syndrome (acute MI)
+            - Arrhythmias
+            - Pericarditis, myocarditis, endocarditis
+            - Valvular dysfunction (aortic stenosis, mitral regurgitation)
+        - Increased intravascular volume
+            - Fluid overload (may have extra-cardiac causes)
+            - Non-compliance with fluid restriction or diuretics
+            - Renal failure
+        - Pulmonary venous outflow obstruction
+            - Mitral valve stenosis
+    - Non cardiogenic
+        - High output states
+            - SIRS and sepsis
+            - Anaemia
+            - Thyrotoxicosis
+        - Systemic increase of vascular permeability
+            - Pancreatitis (SIRS)
+            - Eclampsia
+            - DIC
+            - Burns
+        - Toxins or environmental
+            - Toxic inhalation
+            - High altitude pulmonary oedema, decompression illness
+        - Other
+            - Head injury, intracranial haemorrhage
+            - Drugs (NSAIDs, CCBs, naloxone)
+            - Pulmonary embolus
+- Pathophysiology of APO
+    - Cardiogenic
+        - Occurs when cardiac output drops despite an increase in systemic resistance
+            - Blood returning to the left atrium exceeds blood leaving left ventricle
+        - Results in backward failure and increased pulmonary venous pressure (and capillary pressure)
+            - Leads to net filtration of transudate out of capillaries
+    - Non-cardiogenic
+        - Pathological processes which act either directly or indirectly on the pulmonary vascular permeability
+            - Results in protein leakage from capillaries which increases interstitial oncotic pressure and fluid drawn from capillaries
+- Predisposing and precipitating factors of cardiogenic APO
+    - Predisposing conditions
+        - LV systolic dysfunction (CAD, cardiomyopathy, VHD)
+        - LV diastolic dysfunction (decreased compliance)
+            - Hypertrophic or restrictive cardiomyopathies
+        - Mitral stenosis
+        - Renovascular hypertension
+    - Precipitating factors
+        - Increased preload
+            - Volume overload
+            - Valvular pathology (acute aortic or mitral regurgitation)
+        - Decreased contractility
+            - AMI
+            - Decompensated CCF
+        - Increased afterload
+            - Hypertensive crisis
+            - Valvular pathology (critical AS)
+- Investigative approach to APO
+    - Principal diagnostic investigations
+        - Erect CXR
+        - Findings of APO on CXR
+            - Alveolar oedema
+                - Air-space opacification in a batwing distribution
+                - Bilateral peri-hilar lung shadowing
+            - kerley B lines
+                - Visible interstitial septal lines (peripheral first)
+                - may also see peri-Bronchial cuffing (’tram tracking’, ‘doughnut sign’)
+            - Cardiomegaly
+                - Cardiothoracic ratio > 50% on PA
+                    - Cannot measure on AP as objects nearer the X-ray tube appear artificially enlarged
+            - Dilated upper lobe vessels
+                - Venous congestion
+            - Effusion (costophrenic angle and fissures)
+    - Other investigations
+        - Bedside
+            - Vitals (ECG, pulse oximetry)
+            - Blood gas
+                - Look for acid-base disturbance (differential)
+                - Supported by hypoxaemia, decreased A-a gradient
+        - Labs
+            - FBC and inflammatory markers
+            - Serial troponins and NT-proBNP
+            - TFTs
+            - UEC, CMP, LFT, lactate
+                - Identify end organ dysfunction
+                - Rule out AKI, electrolyte derangements
+        - Imaging
+            - Echocardiogram (quantify HF)
+- Non-selective NSAIDs
+    - E.g. ibuprofen, naproxen, diclofenac
+    - Mechanism
+        - Inhibition of COX-1 and COX-2 enzymes
+            - Reduced synthesis of prostaglandins, prostacyclins and thromboxane A2 from arachidonic acid
+        - Note:
+            - COX-1 (constitutive)
+                - Failure of GI protective mechanisms (mucosa blood flow, bicarbonate secretion, prostaglandins)
+                - Failed platelet activation
+                - Inhibitions vasodilation of afferent arterioles (affects TGF)
+            - COX-2 (inducible with inflammation)
+                - Anti-inflammatory, analgesia, anti-pyrexia
+            - Greater production of leukotrienes by 5-lipooxygenase —> bronchoconstriction
+    - Adverse effects
+        - GI: gastritis, GI bleeding, peptic ulcer disease
+        - CVS: bleeding, increased MI and stroke risk
+            - Particularly with COX-2 selective (reduces prostacyclin, thus pro-thrombotic)
+        - Renal: AKI (afferent arteriole constriction)
+        - Respiratory: bronchospasm
+            - Shunts AA pathway towards leukotrienes
+        - Hypersensitivity - anaphylaxis, SJS
+    - Precautions/contraindications
+        - Avoid in known CVD, CKD, active PUD or GI bleeding, asthmatics
+        - Teratogen in 3rd trimester —> premature closure of DA, impaired real development, prematurity risk
+- B1-blockers
+    - e.g. metoprolol, bisoprolol
+        - Mechanism
+            - Reduced effects of noradrenaline and adrenaline on:
+                - Heart (decrease HR and contractility)
+                - Kidney (reduced renin release)
+        - Adverse effects
+            - Bradycardia, heart block, hypotension, decrease exercise tolerance
+            - Bronchospasm (B2 action)
+            - Dysregulated glucose (B2) and lipid metabolism (B3)
+            - Insomnia, disturbed dreams
+        - Precautions or CI
+            - Bradycardia
+            - Heart block (2nd or 3rd degree)
+            - Sinus sinus syndrome
+            - Heart failure
+            - High falls risk (postural hypotension)
+- ACE inhibitors
+    - E.g. ramipril, quinapril, enalapril
+    - Mechanism
+        - Reduces production of angiotensin II
+            - Increase bradykinin levels —> prevents peripheral vasoconstriction (precipitates vasodilation)
+            - Reduce renal Na reabsorption (directly and via aldosterone)
+            - Reduce ADH production (increased permeability of distal tubule
+                - Insertion of aquaporin into apical membrane (mediated by V2 recetors)
+    - Adverse effects (CAPTOPRIL)
+        - **C** - Cough
+        - **A - Angioedema**
+        - **P** - Potassium levels increase
+        - **T - Taste disturbances**
+        - **O** - Orthostatic hypotension + first dose hypotension
+        - **P - Pregnancy contraindicated**
+        - **R** - Renal failure in renal artery stenosis (bilateral)
+        - **IL - Idiosyncratic Leukopenia**
+    - Precautions/contraindications
+        - Should not take in combination with NSAIDs and diuretic
+        - Bilateral renal stenosis → increased risk of renal failure
+        - Avoid in pregnancy (especially 2nd and 3rd trimesters)
+- Loop diuretics
+    - E.g. frusemide
+    - Mechanism
+        - Blocks the Na/K/2Cl transporter in the thick aLH
+            - Prevents Na reabsorption (site of 20% of Na retention)
+            - Limits the maximum concentrating capacity of the nephron
+        - Thus - rapid and intense diuresis with short duration of action (4-6 hours)
+    - Adverse effects (OHHHH DAANGG)
+        - **O**totoxicity
+        - **H**ypokalaemia
+        - **H**ypocalcaemia
+        - **H**ypomagnasaemia
+        - **H**yponatraemia
+        - **D**ehydration (hypovolaemia)
+        - **A**llergy
+        - Metabolic **a**lkalosis
+        Interstitial **n**ephritis
+        - **G**out
+        - **G**IT upset
+    - Precautions/contraindications
+        - Hypokalaemia
+        - Renal impairment
+- Cardiac glycosides
+    - E.g. digoxin
+    - Mechanism
+        - Inhibits Na/K/ATPase pump in cardiac myocytes
+            - Increased intracellular Na levels in cardiac myocyte
+                - Decreased activity of 3Na/Ca2+ exchanger
+                - Increased intracellular Na
+        - Results in increased ionotropy and decreased chronotropy (rate controller)
+            - Due to effect in stimulating PSNS to slow SA and AV node activity
+    - Adverse effects
+        - Hyperkalaemia
+        - Cholinergic - nausea, vomiting, diarrhoea
+        - Xanthopsia (yellow filtering effect of eyes due to cataracts)
+        - Cardiac - arrythmias, AV block
+        - Note: small therapeutic range (toxic)
+            - Cardiac arrhythmias, nausea and vomiting, blurry vision
+    - Precautions/contraindications
+        - Ventricular failure
+        - Poor compliance (needs careful monitoring)
+            - Toxicity most related to increased arrhythmia risk
+- Triple whammy in APO
+    - NSAIDs
+        - Decrease PGE2 (afferent arteriole vasoconstriction) —> decrease eGFR
+    - ACE inhibitors
+        - Decrease AngII (efferent arteriole vasodilation) → decrease eGFR
+    - Diurectics
+        - Reduce plasma volume → decreased perfusion pressure and eGFR
+- Management of APO
+    - Assess patient (primary survey)
+        - Establish IV access and continuous monitoring
+    - Main priority is to identify and treat the precipitating cause
+        - Cease offending medications
+        - Consider causes (ACS, PE, arrythmia, valvular disease) which may need **definitive management urgently**
+            - Give amiodarone infusion
+    - Acute management
+        - Improve oxygenation and decrease fluid overload
+            - Posture (seat patient upright)
+            - High-flow O2 (if < 95%)
+                - Use CPAP (100% O2) if <92% → forces fluid back into interstitium
+            - IV furosemide (20-80mg)
+                - Use spironolactone if unresponsive
+        - Decrease cardiac demand
+            - IV nitrates (glyceryl trinitrate)
+                - Increase NO synthesis and decrease cardiac demand due to decreased preload and hydrostatic pressure in pulmonary vasculature
+                - Causes coronary artery dilation (improves myocardial ischaemia)
+            - Morphine (vasodilator, anxiolytic and analgesic)
+        - Manage haemodynamic state
+            - If hypertensive → B-blocker
+            - If hypotensive
+                - Dobutamine (B1 agonist)
+                - Milrinone (PDE inhibitor —> increased cAMP → increased intracellular Ca → increase contractility)
+    - Supplementary measures
+        - Fluid and salt restriction
+        - Initiate weight monitoring
+    - Note: LMNOP
+        - Lasix, morphine, nitrates, oxygen, posture
+
+- What cardiovascular risks with NSAIDs
+    - Increase blood volume
+        - Hypertension
+        - Fluid retention (increase tubular reabsorption of sodium)
+        - Reduced renal perfusion
+    - Increased risk of myocardial ischaemia and stroke
+        - Inhibition of prostacyclin > TxA2 (COX-2 selective)

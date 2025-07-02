@@ -1,0 +1,152 @@
+# Peripheral Vascular Disease
+
+## Case Protocol 38 – **Peripheral Vascular Disease**
+
+*You are an “on-call” surgical resident asked to see a 73 year-old man who died in his sleep 12hrs after undergoing surgery to bypass an occluded right popliteal artery. You have not seen him previously. His wife, who is very keen for you to sign the death certificate, tells you that he was known to have suffered from intermittent claudication in the right leg for the previous six months, with recent onset of nocturnal pain in the right calf. He had received treatment for systemic hypertension for the past 18 years and had a history of angina for the past 2 years.*
+
+- PDx and DDx
+    - PDx: PVD secondary to atherosclerosis with b/g HTN and metabolic disease
+    - DDx for intermittent claudication and nocturnal pain
+        - Vascular
+            - Critical limb ischaemia, acute arterial occlusion
+            - DVT
+            - Vasculitis
+        - MSK
+            - Chronic compartment syndrome
+            - Arthritis
+        - Neurological
+            - Peripheral neuropathy
+            - Neurogenic claudication (spinal stenosis)
+            - Sciatic pain and nerve root irritation
+        - Other
+            - Cellulitis
+            - Muscle cramps
+    - Note: differentiating vascular and spinal claudication
+        - Vascular relieved by rest
+        - Neurogenic is classically relieved by sitting (lumbar flexion reduces spinal canal stenosis)
+- Pathophysiology of intermittent claudication and nocturnal pain
+    - Calf pain secondary to atherosclerotic plaques in the arterial lumen of the right femoral artery, decreasing distal blood flow
+    - Intermittent claudication
+        - Fixed atherosclerotic lesions → patients symptomatic if stenosis ≥ 70-75%
+        - Moderate areas of stenosis are asymptomatic at reat
+            - During exercise, an increase in O2 demand with limited blood supply leads to inadequate perfusion and ischaemia
+    - Recent onset of nocturnal pain
+        - Suggests complete or near-complete occlusion of the vessel (90%)
+            - Likely due to increasingly severe stenosis but may be a complication of atherosclerosis (rupture, thrombosis) or thromboembolism
+            - Nocturnal as the supine position at night removes the positive effect of gravity which helps blood flow
+                - Pain relieved by hanging leg down over the side of the bed
+        - Note: sudden pain suggests plaque disruption with thrombosis
+- Abnormalities at autopsy in blood vessels
+    - Significant atherosclerotic narrowing of the lumen of the R popliteal artery (possibly complicated by thrombosis)
+    - Abdominal aorta may display signs of aneurysm or mural thrombus
+    - Atherosclerotic plaques in other vessels (typically those with high shear stress such as branch points). Common areas include
+        - Aorta (esp. infrarenal)
+            - Most striking at branch points such as renal arteries or mesenteric arteries
+        - Coronary arteries
+        - Thoracic aorta, femoral and popliteal arteries
+        - Internal carotid arteries and middle cerebral arteries
+        - Vertebrobasilar arteries
+- Renal artery stenosis and hypertension
+    - Renal artery stenosis, secondary to atherosclerosis, is the most common cause of secondary hypertension
+        - Results in decreased blood flow to the kidney (JG cells and reduced Na to macula densa) → stimulates renin release from JG cells
+        - Renovascular hypertension due to RAAS activation in response to chronically underperfused kidney typically occurs when stenosis ≥ 50% in diameter
+    - Note: chronic hypertension tends to affect the unaffected kidney (glomerulosclerosis)
+    - Action of aldosterone
+        - Binds MC receptors in DCT, migrates to nucleus and modulates gene transcription
+            - Upregulates Na/K exchangers in DCT or CD
+            - Upregulates ENaC
+            - Stimulates Na and H2O absorption from gut
+- Investigative approach to PVD
+    - Examination
+        - Signs of arterial insufficiency
+            - Trophic changes (shiny skin, loss of hair)
+            - Nail dystrophy
+            - Ulcers
+            - Cold to touch
+        - Loss of peripheral pulses
+        - Beurger’s test (pallor of elevation, dependent rubor from reactive hyperaemia)
+    - Definitive investigations
+        - Ankle-brachial index (uses Doppler U/S to detect pulse wave)
+            - < 0.5 = severe
+            - < 0.9 = PVD
+            - ≥ 1.3 = calcified vessels → toe-brachial index may be used
+        - Doppler imaging/US may be useful to assess morphological abnormalities of vessels and flow and turbulence within a vessel
+        - CT angiography (often prior to invasive angiogram)
+            - Angiogram is most invasive but definitive (segmental narrowing, occlusion, calcification)
+    - Ancillary
+        - Labs
+            - FBC
+            - UEC (renal function important for CT angiogram)
+            - LFTs
+            - Lipid screen
+            - BSL and HBA1c
+- What factors may have increased the risk of MI in the perioperative period
+    - Hypotension is common in the operative and post-operative period
+        - Leads to decreased myocardial perfusion → ischaemia
+        - Commonly secondary to blood loss, dehydration (decreased PO intake), vasodilation (anaesthesia, analgesics)
+    - Hypoxia (further decreases myocardial O2 supply) → pulmonary atelectasis, opioids, respiratory depression, PE
+    - Acute plaque change and thrombosis
+    - Tachycardia in context of pre-existing stenosis
+    - Other
+        - Old age
+        - DM, HC, Hx of atherosclerotic disease
+- Arterial supply of the lower limbs
+    - Branches of internal iliac to lower limb
+        - Gluteal arteries
+            - Superior and inferior gluteals via GSF
+        - Obturator artery (medial compartment of thigh)
+            - Anterior branch → pectineus, obturator externus, adductor muscles, gracilis
+            - Posterior → deep gluteal muscles
+    - Femoral artery
+        - Course:
+            - Continuation of external iliac as it passes under the inguinal ligament and enters femoral triangle
+            - Continues down thigh in adductor canal → passes through adductor hiatus
+                - Forms popliteal artery behind knee
+        - Branches
+            - Superficial epigastric artery
+            - Superficial circumflex iliac artery
+            - External pudendal artery
+            - Profunda femoris artery (arises laterally in femoral triangle, travels posterior and distal)
+                - Perforating branches → muscles of medial and posterior thigh
+                - Lateral femoral circumflex
+                    - Wraps around anterolateral side of femur to supply lateral thigh
+                - Medial femoral circumflex
+                    - Wraps around posterior side of femur → supplies neck and head
+    - Popliteal artery
+        - Course
+            - Enters posterior compartment from popliteal fossa (between gastrocnemius and popliteus)
+                - Passes under tendinous arch of soleus → deep region of posterior compartment
+        - Branches
+            - Anterior tibial artery
+                - Passes through aperture in interosseous membrane to supply anterior compartment of leg
+                - Continues onto dorsal aspect of foot as dorsalis pedis
+            - Posterior tibial artery
+                - Supplies posterior and lateral compartments of leg
+                - Course
+                    - Continues into sole of the foot via tarsal tunnel
+                - Branches
+                    - Circumflex fibular artery
+                        - Lateral through soleus and around neck of fibula to connect with anastomotic network around knee
+                    - Fibular artery
+                        - Descends along lateral side of posterior compartment
+                        - Branches to fibularis muscles in lateral compartment
+            - Sural branches
+                - Two branch from the popliteal on each side to supply gastrocnemius, soleus and plantaris
+            - Genicular branches
+                - Supply collateral circulation to the knee
+- Venous supply of the lower limbs
+    - Deep venous system lies beneath the fascia and share names with the major arteries of the lower limbs
+        - Popliteal vein runs into adductor canal to form femoral vein. Formed by union of:
+            - Some veins from dorsal venous arch form the anterior tibial vein
+            - Medial and lateral plantar veins combine to form the posterior tibial and fibular veins
+        - Profunda femoris vein drains into distal section of femoral vein
+    - Superficial veins of the lower limb run in subcutaneous tissue
+        - Great saphenous vein
+            - Origin: dorsal venous arch of foot and dorsal vein of great toe
+                - Ascends up medial side of leg (passes anterior to medial malleolus) and posterior to medial condyle at the knee
+                - Receives tributaries → drains into the femoral vein inferior to inguinal ligament
+        - Small saphenous vein
+            - Formed by dorsal venous arch of foot and dorsal vein of little toe
+                - Travels up posterior leg (posterior to lateral malleolus) → empties into popliteal vein in the popliteal fossa
+
+![image.png](Peripheral%20Vascular%20Disease%201300acf2446a811a8649e2bb53f75ed9/image.png)

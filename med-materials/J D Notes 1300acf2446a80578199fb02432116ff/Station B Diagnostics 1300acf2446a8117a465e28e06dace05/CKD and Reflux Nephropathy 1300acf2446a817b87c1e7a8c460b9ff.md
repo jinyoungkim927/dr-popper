@@ -1,0 +1,346 @@
+# CKD and Reflux Nephropathy
+
+## Case Protocol 27 – **Reflux nephropathy**
+
+[](https://lh3.googleusercontent.com/TDpPAu47SFu7bjsi8gDDyqEOGv1uLcrSssJkE5deUBxoYZsX0wJ1rPJaBje2dg27DKvO3mhCJyEsvqKrUUuHl67hyVJCQEwlvjtA8TXrARrPLAn6HyYlPD5O8WLZX72nzNFmqWKp7okfBh3N9YSESQ)
+
+*A 25-year-old woman presented with anorexia, lethargy and pallor. She had a long history of recurrent urinary tract infections, and had suffered from several episodes of acute pyelonephritis during her childhood, though none had occurred in the last five years. Over the past 12 months she had noticed increasing nocturia.*
+
+- PDx (include reasoning) and DDx
+    - PDx: CKD
+        - Given Hx of anorexia, lethargy, pallor and increasing nocturia, raised urea and creatinine, low HCO3
+        - Most common causes in Australia are DM and HTN
+            - Given patient age, more concerned about GN or congenital predisposition
+                - Hx of recurrent UTIs and pyelonephritis suggest reflux nephropathy as the cause
+    - DDx
+        - Other causes of CKD
+            - Diabetic nephropathy
+            - Glomerulonephritis
+            - Hypertension
+            - Congenital (PCKD, reflux)
+            - Others (toxins, amyloidosis)
+        - Other causes of acute nephrotic syndrome (given proteinuria)
+            - FSGS, membranous nephropathy
+            - Minimal change disease
+- Explain clinical signs in this case and relevance to CKD
+    - Signs and symptoms
+        - Nocturia
+            - Tubular dysfunction and loss of ability to concentrate urine
+        - Hypertension
+            - Multifactorial and bidirectional (HTN causes CKD and vice versa)
+            - Na and H2O retention leads to:
+                - Volume overload
+                - Alterations in RAAS system
+                - SNS overdrive
+        - Proteinuria
+            - Indicates damage to the basement membrane
+        - Pallor
+            - Anaemia secondary to decreased EPO
+    - Investigations
+        - Elevated urea and creatinine
+            - Inability to excrete metabolic waste
+        - Decreased HCO3
+            - Buffering of metabolic acidosis and decreased synthesis by PCT
+- What is the significance of nocturia in this case
+    - Nocturia and polyuria reflects tubular disease and a decreased ability to reabsorb water and concentrate urine
+- Investigative approach to reflux nephropathy and CKD
+    - Principal diagnostics
+        - Calculate renal function
+            - UEC (eGFR)
+            - Urine ACR (stage kidney failure)
+        - Look for causes
+            - Bedside
+                - Early morning spot urine
+                    - Urinalysis (haematuria, proteinuria, pyuria, glycosuria)
+                    - MCS (rule out infection, look for casts)
+                    - ACR or PCR
+                - 24h urine collection
+                    - Total protein excretion
+                    - Creatinine clearance
+            - Imaging
+                - Morphological assessment
+                    - Renal ultrasound or CT urogram
+                        - Assess morphology (dysgenesis, cysts), size, hydronephrosis
+                - Functional assessment
+                    - Voiding cystourethrogram
+                    - Nuclear medicine scans
+                        - DMSA scan (detects scarring from frequent infections) [static]
+                        - MAG3 or DTPA scan (assesses perfusion and urine production) [dynamic]
+            - **Consider renal biopsy**
+- CKD - definition and staging (KDIGO)
+    - Defined by the presence of kidney damage or decreased kidney function for ≥ 3 months
+    - CKD staging is stratified based on the risk of progression and or complications
+        - Important to guide management, monitoring and patient education
+    - Note: stages separated by cause of disease, GFR (6 categories) and albuminuria (3 categories)
+        - Divided into moderate, high and very high risk (yellow, orange, red)
+    
+    ![Screenshot 2023-09-17 at 3.32.11 pm.png](CKD%20and%20Reflux%20Nephropathy%201300acf2446a817b87c1e7a8c460b9ff/Screenshot_2023-09-17_at_3.32.11_pm.png)
+    
+- What is GFR? What is the gold standard of measurement and how else can it be measured?
+    - Glomerular filtration rate is the amount of fluid transferred between the glomerular capillaries and Bowman’s space per unit time
+        - GFR = Kf (change in forces out of capillary - forces into capillary) [Starling’s]
+            - Kf = capillary permeability to fluid constant
+            
+            ![paste-da6570e5f4593ac14e16071206176c2aab59d4c2.jpg](CKD%20and%20Reflux%20Nephropathy%201300acf2446a817b87c1e7a8c460b9ff/paste-da6570e5f4593ac14e16071206176c2aab59d4c2.jpg)
+            
+    - Gold standard of measurement is inulin clearance
+        - Inulin is freely filtered at the glomerulus and neither absorbed nor secreted
+            - GFR = (urine [inulin] * urine flow rate)/plasma [inulin]
+        - Able to be performed with a 24h urine collection however not feasible in the healthcare system due to invasive renal vein sampling for inulin
+    - Estimated GFR
+        - Able to use creatinine (metabolite of creatine breakdown within muscle)
+            - Filtered creatinine approximates excreted creatinine (freely filtered and minimal absorption or secretion)
+        - Formula for creatinine clearance
+            - GFR = (urine [Cr] * urine flow rate) / plasma [Cr]
+        - Equations to calculate eGFR
+            - CKD-EPI
+                - Accounts for serum Cr, age, sex, ethnicity (African American)
+            - Others (Cockcroft-Gault, MDRD)
+        - Limitations of creatinine as a measure of eGFR
+            - Variation with muscle mass (greater muscle mass increases creatinine → can lead to false estimation)
+                - Exercise close to testing can be a confounder
+            - eGFR is slower to change than real GFR (measure of byproduct in creatinine and not an accurate visualisation of acute changes in GFR (e.g. AKI))
+                - Only useful for STABLE RENAL FUNCTION
+- CKD - causes (major, anatomical framework)
+    - Most common
+        1. Diabetes
+        2. Hypertension
+        3. GN
+    - Anatomical framework
+        - Glomerular
+            - Primary and secondary causes of glomerulonephritis (nephrotic or nephritic)
+            - Includes DM
+        - Vascular
+            - Large or medium vessel
+                - Bilateral renal artery stenosis → ischaemic nephropathy
+            - Small vessel
+                - Hypertensive nephropathy
+            - Sickle cell disease
+        - Tubulointerstitial
+            - Drug-induced
+                - Drugs causing acute interstitial nephritis
+                    - Antibiotics, NSAIDs, 5-ASA, PPIs
+                - Other:
+                    - Analgesics (paracetamol)
+                    - Cisplatin
+                    - Cyclosporin, tacrolimus
+                    - Lithium toxicity
+            - Systemic diseases
+                - Autoimmune
+                - Toxin-induced (e.g. heavy metals)
+        - Congenital
+            - Renal dysplasia OR hypoplasia OR agenesis
+            - PCKD
+            - Reflux nephropthy
+        - Post-renal obstructive
+            - Malignant
+                - Myeloma
+                - Invasive bladder, prostate, cervical cancer
+            - Severe BPH
+- CKD - complications
+    - Fluid and electrolyte balance
+        - Metabolic acidosis
+        - Na and H2O retention
+            - Peripheral oedema or pulmonary oedema
+            - Hypertension
+            - CCF
+        - Hyperkalaemia (arrhythmogenic)
+    - Calcium and phosphate homeostasis
+        - Hypocalcaemia and hyperphosphataemia → secondary hyperparathyroidism
+        - Renal osteodystrophy
+            - Bone pain and pathological fractures
+    - Uraemia
+        - Nausea and anorexia
+        - **Pericarditis**
+        - Pruritis
+        - Platelet dysfunction (increased bleeding)
+        - Asterixis and **encephalopathy**
+    - Haematological
+        - EPO failure → anaemia
+        - Note: coagulopathy due to uraemia
+    - Neuromuscular
+        - Encephalopathy (uraemia)
+        - Peripheral neuropaty and myopathy
+    - Other
+        - Dyslipidaemia
+        - Growth retardation and developmental delay
+- Why is there acidosis in reflux nephropathy
+    - Chronic reflux nephropathy classically results in type 1 RTA and a non-AGMA
+        - Type 1 RTA is due to failure of the DCT to secrete acid
+            - **Reflux nephropathy is retrograde and hence primarily causes injury to distal nephron structures where H/K exchangers exist**
+        - Note: progression to FSGS will result in acid retention and an AGMA as there is now concomitant PCT injury and decreased GFR
+    - Multifactorial
+        - Impaired buffering
+            - Decreased NH3 synthesis and NH4+ excretion
+            - Decreased HCO3 synthesis and decreased absorption in the PCT
+        - Hyperkalaemia
+            - Stimulates H/K exchangers
+        - Failure of H+ excretion and various acids (e.g. PO4 and SO4)
+- Why is there glycosuria in CKD despite euglycaemia
+    - Glucose is a small molecule which is freely filtered at the glomerulus
+        - Normally actively reabsorbed in the PCT (via SGLT1/2)
+        - This is limited by a tubular maximum as there are a fixed number of transporters which can become saturated
+    - **Damage to the PCT (tubular damage) in CKD results in a decrease in the total number of nephrons or tubules**
+        - Hence, a decrease in transports and renal threshold for glucose falls
+            - I**mpairs reabsorption**
+- Explain the electrolyte disturbances in CKD
+    - High urea and creatinine
+        - Renal failure leads to decreased GFR and retention of urea and creatinine
+    - Low HCO3
+        - Reduced synthesis and absorption in the PCT
+        - Consumption in metabolic acidosis
+    - Hyperkalaemia
+        - Failure of renal excretion
+    - Hyperchloraemia
+        - Compensatory reabsorption of Cl in response to low HCO3 to maintain electrical neutrality
+        - Results in normal anion gap metabolic acidosis
+- Explain ammonia synthesis in the kidney and relevance to CKD
+    - Ammonia is synthesised in the PCT from glutamine (by product of urea cycle)
+        - Via an enzymatic process which is upregulated in acidosis
+    - Process
+        - Synthesised ammonia is secreted into the PCT, reabsorbed in the thick aLH and secreted into the collecting duct via:
+            - Non-ionic diffusion and diffusion trapping
+                - Ammonia enters lumen of collecting duct, binds to H+ and is unable to diffuse back (as it is charged)
+            - Active transport of NH4+
+        - Note: ammonia binds to H+ to form ammonium and allows for the excretion of acid
+            - When functional nephrons decline in CKD, initial acid excretion is maintained by increased NH3 synthesis and NH4+ excretion
+        - Over time, NH4+ excretion decreases resulting in metabolic acidosis
+- Vesicoureteral reflux - pathophysiology
+    - VUR refers to the retrograde passage of urine from the bladder to the upper urinary tract
+        - Predisposes to recurrent pyelonephritis and subsequent renal scarring
+    - Characteristic lesions include:
+        - Irregular cortical scarring (especially at poles) associated with distortion and dilation of the underlying calyceal system
+        - Decreased renal growth → small kidneys
+        - Dilation of the ureter
+        - Glomerular disease
+            - Typically presents as FSGS (nephrotic syndrome)
+                - Focal (affects some glomeruli)
+                - Segmental (parts of the glomeruli undergo sclerosis)
+            - Develops in both the affected and contralateral kidney (possible due to hypertension-mediated changes)
+    - How does VUR progress to CKD
+        - Loss of nephrons leads to glomerular capillary and systemic hypertension in remaining nephrons
+            - Results in glomerulosclerosis
+            - Thus, inexorable progression to ESKD once 50-60% of nephrons are lost
+        - Severe infection → widespread parenchymal destruction → ESKD in childhood
+        - Likelihood of developing into CKD is dependent on the severity of VUR
+        
+        ![Screenshot 2023-09-17 at 3.56.20 pm.png](CKD%20and%20Reflux%20Nephropathy%201300acf2446a817b87c1e7a8c460b9ff/Screenshot_2023-09-17_at_3.56.20_pm.png)
+        
+- Types of VUR
+    - Primary
+        - Most common form
+        - Occurs due to a congenitally short intravesical ureter which allows retrograde movement of urine back up into the ureters during bladder contraction
+            - Often the ureters enter at the superolateral aspect of the bladder and have a long and oblique intramural course
+            - This anatomy creates a valve-like effect where the ureters are occluded when the bladder is full and also during micturition
+    - Secondary
+        - Caused by abnormally high voiding pressure in the bladder which results in failure of closure of the uretero-vesical junction during bladder contraction
+        - May be due to:
+            - Anatomical abnormalities (e.g. posterior urethral valves)
+            - Functional abnormalities (e.g. neurogenic bladder)
+- What features on an IV pyelogram would suggest vesicoureteric reflux
+    - IV pyelogram uses IV contrast to visualise the urinary system
+        - Contrast is injected into the venous circulation, cleared by the kidneys and excreted
+        - IV pyelogram is no longer used as it has been replaced by ultrasound and/or CT
+    - Findings on IVP
+        - Small kidneys with an irregular cortical outline
+        - Focal cortical scarring, especially at the poles
+            - Associated with distortion and dilation of the underlying calyceal system
+        - Dilation of the ureter (severe cases)
+- Would a voiding cysto-urethrogram be useful in this case
+    - **No**
+        - Patient has no episodes of pyelonephritis in the last 5 years and it is unlikely that she is experiencing ongoing reflux
+        - Possible that UTIs in this patient are related to sexual activity and hence, a VCUG is unlikely to be useful in this patient
+    - Method
+        - A voiding cysto-urethrogram (VCUG) is an investigation where the urethra is catheterised and contrast is injected into the bladder
+            - Patient voids and radiographs are taken which allows visualisation of VUR
+    - Usefulness of VCUG in adults
+        - VUR is most commonly caused by a short intramural length of ureter in the bladder wall → inadequate compression during detrusor contraction → reflux
+            - In most cases, VUR is present at or before birth and resolves as the intramural course gets bigger with age
+                - Resolves by age 5-10 in most cases
+        - As a result, VCUG are only done in children
+- Would a renal biopsy be indicated in this case of VUR?
+    - Not indicated as the cause of renal impairment can be determined by imaging and thus a biopsy would not contribute to management
+    - If doubts are raised around the nature of glomerular disease, a biopsy may be performed under radiological guidance
+
+- Management of CKD
+    - Prevention and management of risk factors
+        - Lifestyle factors (HTN, diabetes)
+            - Improve diet and promote regular physical activity
+            - Cease smoking and alcohol
+        - Pharmacological
+            - ACEi and ARBs are renoprotective for HTN
+            - SGLT2 inhibitors have been shown to be renoprotective and useful for DM
+    - Prevent and management complications
+        - Diet (low salt, low K, avoid high protein)
+        - Anaemia
+    - Counsel and prepare for dialysis
+        - Education around PD or HD
+        - Fistula operations
+- Indications for acute dialysis
+    - AEIOU
+        - Acidosis
+        - Electrolyte derangements
+            - E.g. hyperkalaemia
+        - Intoxication (SLIME)
+            - Salicylates
+            - Lithium
+            - Isopropanolol
+            - Methanol
+            - Ethylene glycol
+        - Oedema or fluid overload
+        - Uraemia (complications)
+            - Encephalopathy
+            - Pericarditis
+- What is PCKD
+    - Two types (AD (adult onset) and AR (infant onset)
+        - AD PCKD
+            - Mutation in PKD1 (15% - worse prognosis) or PKD2
+            - Presentation
+                - Renal
+                    - Gross haematuria
+                    - Palpable and enlarged kidneys
+                    - Flank or abdominal pain
+                    - Recurrent UTIs and nephrolithiasis
+                - Extra-renal
+                    - Cysts (commonly hepatic)
+                    - Cerebral saccular aneurysms (10%)
+                    - Cardiac valvular defects (esp. mitral prolapse)
+        - AR PCKD
+            - Often presents with severe renal impairment in utero → oligohydramnios → Potters sequence
+- Causes of increasing urinary frequency
+    - Increased urine volume
+        - Polyuria
+            - Polydipsia
+                - Psychogenic
+                - Iatrogenic (anticholinergics)
+                - Diabetes insipidus)
+            - Fluid overload
+                - CCF
+                - Hypoalbuminaemia (cirrhosis, nephrotic syndrome)
+            - Diuresis
+                - Dietary (caffeine, alcohol)
+                - Increased osmotic load → uncontrolled DM
+                - Metabolic disturbances (e.g. hypercalcaemia)
+                    - Secondary to hyperparathyroidism or malignancy
+                - Renal tubular acidosis
+                - Iatrogenic - diuretics
+            - Diabetes insipidus
+        - Decreased bladder capacity
+            - Congenital (small bladder)
+            - Behavioural (untrained, poor voiding habits)
+            - Mechanical
+                - External compression (e.g. tumours)
+                - Pelvic floor relaxation
+                - Cysto-/urethrocoele
+        - Increased stimulation of micturition
+            - Infection (cystitis, urethritis, vaginitis)
+            - Endocrine (atrophic vaginitis)
+            - Neurogenic
+                - Autonomic neuropathy
+                - Spinal cord injury, cauda equina syndrome
+        - Mechanical (inadequate voiding = chronic stimulation)
+            - Bladder outlet obstruction (stone, malignancy)
+            - Neoplastic (decreased bladder capacity and/or increased stimulation)
+                - Bladder, rectal, prostate or cervical
+        - Night-time specific
+            - Sleep-related disorders (OSA, restless leg)

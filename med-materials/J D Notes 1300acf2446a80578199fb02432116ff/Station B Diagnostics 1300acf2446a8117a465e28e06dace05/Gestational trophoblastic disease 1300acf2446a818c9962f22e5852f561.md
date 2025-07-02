@@ -1,0 +1,179 @@
+# Gestational trophoblastic disease
+
+**Case:** *A woman presents to your clinic after missing her last menstrual period and subsequently taking a pregnancy test, which was positive 3 months ago. Over the last few days, she developed pelvic discomfort, small amounts of per vaginal bleeding, hyperemesis gravidarum and a distended uterus. On testing, her ß-HCG was double the normal range for a normal pregnancy. Ultrasound was performed and no foetal heart sounds or parts were identified.*
+
+- PDx and DDx
+    - PDx: gestational trophoblastic disease given:
+        - B-hCG is higher than a normal pregnancy
+        - No identifiable foetal parts
+        - Hyperemesis
+        - PV bleeding and distended uterus
+    - Likely to be a molar pregnancy (complete) given severe and symptomatic presentations
+    - DDx
+        - Ectopic pregnancy
+        - Spontaneous abortion or miscarriage
+            - Pregnancy loss < 20 weeks GA or foetus < 400g (if gestation unknown)
+        - Invasive mole or choriocarcinoma (malignant GTD)
+        - Pelvic tumour
+            - Cervical, ovarian or endometrial Ca
+- Principal investigative approach to GTD
+    - Serial B-hCG
+        - Useful to confirm elevated levels and monitor treatment
+            - Levels should normalise rapidly after management
+        - **Diagnostic if > 100 000 milli-IU/mL (mIU/mL)**
+            - More elevated in complete molar pregnancy and choriocarcinoma
+    - Transabdominal and transvaginal US (examine uterus and identify presence of pregnancy or trophoblastic disease)
+        - **If findings are equivocal for a normal pregnancy, and B-hCG is not diagnostic (common in partial mole), repeat weekly until sure**
+        - Findings
+            - Normal
+                - Gestational sac (5 weeks)
+                - Yolk sac (6 weeks)
+                - Foetal pole with heart tones (7 weeks)
+                - Crown-rump measurement (for GA)
+            - Complete
+                - No foetal parts and lack of heart tones
+                - Echogenic mass interspersed with many hypoechogenic cystic spaces
+                    - ‘Snowstorm’ appearance due to diffuse hydropic villi
+                - No amniotic fluid
+            - Partial
+                - Foetal parts may be visualised and some heart tones detectable
+                - Amniotic fluid is present
+                - Increased placental thickness
+                - Placenta may have abnormal findings (e.g. cystic)
+    - Dilation and curettage (suction) with histopathology
+        - Atypical products of conception
+            - Numerous chorionic villi including large dysmorphic hydropic villi or fibrotic villi
+        - Can do tissue karyotyping and cytogenetics on DNA extracted directly from products of conception
+- Ancillary investigations in GTD
+    - Labs
+        - FBC, G&H, coags
+            - Screens for anaemia secondary to haemorrhage
+            - Helps prepare for D&C and anti-D Ig if needed
+        - Inflammatory markers
+        - UEC and urine PCR
+            - AKI secondary to pre-eclampsia
+            - Volume and electrolytes post-vomiting
+        - TFTs (hyperthyroidism)
+        - LFT and LDH for bony metastases
+        - Serum testosterone if virilisation present
+    - Imaging
+        - CXR
+            - Lungs are the most common site of metastases in GTN
+        - Further imaging if evidence of metastases
+            - CT CAP
+            - CT or MRI brain
+            - Whole body PET
+- What is GTD and types of GTD?
+    - GTD is abnormal proliferation of placental trophoblastic tissue which produces B-hCG
+        - B-hCG is secreted by syncytiotrophoblast after implantation to support the corpus luteum
+    - Types
+        - Hydatidiform mole (80%)
+            - Histology
+                - Contains all types of trophoblasts and recognisable villous architecture
+            - Partial (90%)
+                - Pathogenesis
+                    - Implantation of genetically abnormal zygote
+                    - Egg with haploid set of chromosomes fertilised by two sperms
+                        - 69XXX, 69XYY or 69XXY
+                - Specifiers
+                    - Focal hyperplastic trophoblastic tissue and swelling/hydropic chorionic villi
+                    - Often contains foetal material with spontaneous death at 8-9 weeks
+                - Behaviour
+                    - Vaginal bleeding
+                    - No change in uterine size
+                    - Pelvic tenderness
+                    - Often misdiagnosed as miscarriage
+            - Complete (10%)
+                - Pathogenesis
+                    - Implantation of genetically abnormal zygote
+                    - Fertilisation of an empty egg which does not contain any chromosomes by 2 sperm or 1 sperm which duplicates
+                        - 46XX in 90%
+                        - 46XY in 10%
+                - Specifiers
+                    - No foetal appearance
+                    - ‘Snowstorm’ appearance on US
+                        - Diffuse circumferential hyperplastic trophoblastic tissue and hydropic chorionic vili
+                    - Often miscarries at 16-18 weeks
+                - Behaviour
+                    - Vaginal bleeding in T1
+                    - Uterus size > normal for GA
+                    - Pelvic pressure or pain
+                    - Passage of vesicles
+                    - Endocrine manifestations **(due to hyper-elevated B-hCG)**
+                        - Hyperemesis gravidarum
+                        - Hyperthyroidism (B-hCG has thyrotropin effect)
+                        - Pre-eclampsia (if occurring < 20 weeks is highly suggestive)
+                            - **New onset gestational HTN with proteinuria or end-organ dysfunction**
+                        - Ovarian theca lutein cysts (adnexal mass, virilisation)
+        - Invasive mole
+            - Local invasion into myometrium, vascular spaces or vagina and broad ligament
+            - 90% due to molar pregnancy
+            - Differentiated from choriocarcinoma due to presence of hydropic villi
+        - Gestational trophoblastic neoplasia
+            - Mutation of either a molar pregnancy or normal placental tissue
+                - Loss of villous architecture
+                - Trophoblastic types may be limited
+            - Choriocarcinoma
+                - 50% from normal placental tissue and 50% from molar pregnancies
+                - Histopathology
+                    - Destructive growth into myometrium of sheets of cytotrophoblasts (mono-nuclear) and syncytiotrophoblasts (multi-nucleated) without chorionic villi
+                    - Intermediate trophoblasts may be present
+                - Behaviour
+                    - Highly malignant but fairly good cure rate
+                    - Post-partum PV vleeding
+                    - Inadequate uterine regression post delivery
+                    - Multiple theca lutein cysts
+                    - Additional Sx from metastases
+            - Placental site trophoblastic tumours
+            - Epithelioid trophoblastic tumours
+- Risk factors for GTD
+    - All GTD
+        - Prior molar pregnancy
+        - Extremes of maternal age (< 16; > 35)
+        - Prior spontaneous abortion or difficulty conceiving
+    - Risk factors for progression of complete mole → GTN
+        - Excessive uterine enlargement
+        - B-hCG ≥ 100 000 IU
+        - Palpable ovarian cysts
+        - Previous C-section
+- Complications of GTD
+    - Progression of molar pregnancy to invasive mole or choriocarcinoma (distant metastases, uterine rupture (rare))
+    - Theca-lutein cysts due to overstimulation with B-hCG
+        - Susceptible to torsion, infarction and haemorrhage
+    - **Hyperemesis gravidarum**
+        - **Can lead to hypokalamia, hypochloraemic metabolic alkalosis, ketosis, dehydration**
+    - Hyperthyroidism (stimulation by B-hCG)
+    - **Pre-eclampsia (hypertension, proteinuria, end organ damage)**
+        - **HELLP (haemolysis, elevated liver enzymes, low platelets)**
+        - **Eclampsia (seizures + coma)**
+    - DIC
+    - Infection, sepsis, shock
+    - Complications of management
+        - Post-evacuation respiratory distress syndrome
+            - Due to embolisation of trophoblastic tissue
+        - **Asherman’s syndrome**
+            - **Fibrous adhesions in uterine cavity secondary to D&C**
+        - Haemorrhage (secondary to biopsy)
+- Management of GTD
+    - Hydatidiform mole
+        - Management
+            - Uterine evacuation with D&C
+                - Followed with oxytocin to reduce bleeding
+            - Monitor B-hCG levels weekly
+                - Usually over 8-12 weeks until < 5mIU/mL and undetectable in consecutive readings over 3 weeks
+            - Methotrexate if unresolved (B-hCG not decreasing, histology showing GTN)
+            - Advise to not get pregnant for another year
+            - Support and counselling for grief and future pregnancy planning
+        - Prognosis
+            - Most patients achieve normal reproductive function after recovery
+            - Risk of GTN
+                - Partial (< 5%)
+                - Complete (15-20%)
+    - Choriocarcinoma
+        - Management
+            - Dilatation and suction curettage
+            - Methotrexate
+            - Surgery
+            - Monitor B-hCG for at least 12 months
+        - Prognosis
+            - Fairly good cure rates of 95-100%

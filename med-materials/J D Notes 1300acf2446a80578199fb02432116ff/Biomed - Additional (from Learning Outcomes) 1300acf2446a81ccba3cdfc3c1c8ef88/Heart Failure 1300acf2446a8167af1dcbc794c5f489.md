@@ -1,0 +1,228 @@
+# Heart Failure
+
+- Definition and categories
+    - Heart failure is a complex clinical syndrome which results from either functional or structural impairment of ventricles resulting in symptomatic LV dysfunction
+    - Symptoms are due to inadequate cardiac output which is insufficient to meet the metabolic demands of the body
+    - Categories
+        - Heart failure with reduced ejection fraction (HFrEF)
+            - EF ≤ 40%
+        - Heart failure with preserved ejection fraction (HFpEF)
+            - EF ≥ 50%
+        - Heart failure with mid-range EF (HFmrEF)
+            - EF between 40-50%
+- Causes
+    - Most common causes
+        - Ischaemic heart disease
+        - COPD
+            - Smoking leads to increased CAD risk
+            - Can result in pulmonary hypertension and RHF
+        - Hypertension
+        - Cardiomyopathy
+        - Rheumatic heart disease (developing countries)
+    - Coronary artery disease (CAD)
+        - Chronic and acute ischaemia causes direct damage to the myocardium and leads to remodelling and scar formation
+            - Results in inadequate relaxation in diastole and impaired contraction in systole
+                - Decreases contractility and cardiac output
+        - Scar formation may correlate with aneurysm formation which further impairs contractile formation and relaxation
+        - Myocardial infarction causes dyssynchronous contraction of the infarcted segment, subsequent remodelling of the ventricle, ventricular dilation with annular dilation, mitral regurgitation which predispose to HF and CO
+    - Hypertension
+        - Higher afterload results in an compensatory hypertrophy of the cardiac muscle to maintain normal CO
+            - With continued uncontrolled BP, apoptosis and fibrosis may result
+            - LVH increases myocardial stiffness and can cause ischaemia → HFrEF and HFpEF
+    - Valvular heart disease
+        - Aortic and pulmonary stenosis can increase afterload and may cause AF
+        - In regurgitation, persistent volume overload can cause enlargement and functional impairment
+    - Cardiomyopathies
+        - Disease of functional and structural heart muscle abnormalities in the absence of other causes (e.g. CAD, HTN, valvular)
+        - Can be divided into five types which can each be genetic or acquired
+            - Dilated (e.g. alcoholic)
+            - Hypertrophic (e.g. AD HOCM)
+            - Restrictive (e.g. cardiac amyloidosis)
+            - Arrhythmogenic right ventricular
+            - Unclassified (e.g. Takotsubo)
+- Physiology
+    - Performance of LV function and stroke volume is related to preload (venous return and ventricular EDV) and afterload (resistance during ejection from aorta and wall stress)
+    - Frank-Starling curve explains the relationship between SV or CO and left ventricle end-diastolic volume
+        - Steep positive relationship between increased cardiac filling pressures and increased SV and CO
+        - In heart failure, the Frank-Starling curve is right-shifted
+            - This represents decreased contractility and a higher pressure is required to achieved the same cardiac output
+            - In advanced disease, the curve is flattened which suggests that augmentation in venous return and LVEDP fails to increase stroke volume
+    - In HFpEF
+        - Same underlying pathophysiology to HFrEF however it occurs in response to increased ventricular stiffness and altered relaxation than abnormalities of CO in HFrEF
+            - Results in concentric LVH
+            - Shifts the pressure-volume curve to the left
+    - HF causes activation of the neurohumoral systems to maintain perfusion of vital organs
+        - SNS
+            - HF causes decreased carotid baroreceptor response which increases SNS and thus, cardiac contractility and HR, vasoconstriction and increased afterload
+        - RAAS
+            - Activation of RAAS with low renal perfusion from HF causes salt and water retention + increases preload (aldosterone + ADH)
+            - Also increases Ang II which leads to vasoconstriction and more salt and water retention
+                - These components stress the ventricular wall and cause dilatation (remodelling) and worsen ventricular function
+        - ADH
+        - Other vasoactive substances (brain natriuretic peptide, NO, endothelin)
+    - All these compensatory mechanisms in HF cause negative remodelling of the heart (inflammation, apoptosis, hypertrophy, fibrosis)
+        - Worsens LV function
+- Investigative approach
+    - Largely a clinical diagnosis based on careful history, physical examination, laboratory and imaging data
+    - Principal diagnostic investigations
+        - ECG
+            - May show previous MI, arrhythmias, LV hypertrophy
+        - Transthoracic echocardiogram
+            - Aids the diagnosis of HF and classify HF by ejection fraction
+        - BNP or N-terminal pro-BNP
+            - Supports the clinical diagnosis of HF (ambulatory patient) and supports the diagnosis of acutely decompensated HF (hospitalised)
+    - Ancillary
+        - Labs
+            - FBC (rule our anaemia as a cause of symptoms)
+            - UEC and CMP
+                - Hyponatraemia in chronic HF
+                - Renal dysfunction (medication response, secondary to HF)
+            - Fasting BGLs, lipid profiles
+            - LFTs
+            - TFTs
+            - Consider genetic testing for cardiomyopathies
+        - Imaging
+            - CXR (findings relevant to HF)
+            - Consider cardiac CT or MRI
+                - Can help evaluate coronary arteries
+                - MRI can aid with identification of aetiology (infiltrative, ischaemic, hypertrophic)
+- ACC/AHA Stages and NYHA Functional Classification
+    
+    
+    | ACC/AHA Stages | Description |
+    | --- | --- |
+    | A | At high risk for HF, without structural heart disease or symptoms |
+    | B | Structural heart disease but without signs or symptoms of HF |
+    | C  | Structural heart disease with prior or current symptoms of HF |
+    | D | Refractory HF requiring specialised interventions |
+    
+    | NYHA Functional Classification | Description |
+    | --- | --- |
+    | I | No limitation of physical activity. Ordinary physical activity does not cause symptoms of HF |
+    | II | Slight limitation of physical activity. Comfortable at rest, ordinary physical activity does cause symptoms |
+    | III | Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity causes symptoms of HF |
+    | IV | Unable to carry on any physical activity without symptoms of HF; symptoms of HF at rest |
+- Radiological appearance
+    - Cardiomegaly
+        - Cardiac - thoracic width ratio > 50%
+    - Kerley B lines
+        - Interstitial oedema
+    - Pleural effusions
+        - Secondary to volume overload
+- Management approach + Pharmacology
+    - Non-pharmacological
+        - Lifestyle modifications
+            - Sodium and fluid restriction (if overload)
+            - Caloric supplementation (if cardiac cachexia)
+        - Aerobic exercise training (can reverse LV remodelling in stable patients)
+        - Control HTN, DM and lipid disorders
+        - Cessation of smoking, alcohol and IVDU
+    - Pharmacological (HFrEF)
+        - ACEi or ARB
+            - ARNI
+                - e.g. sacubitril (neprilysin inhibitor) + valsartan (ARB)
+                - Mechanism
+                    - Sacubitril blocks the action of neprilysin which prevents the breakdown of natriuretic peptides (prolongs favourable effects)
+                        - **The natriuretic system antagonises RAAS promotes vasodilation, natriuresis and diuresis**
+                            - Decreases BP, lowers SNS tone, reduces aldosterone levels
+                    - Neprilysin also breaks down Ang II and thus, combination with ARB is necessary to block the effect of excess Ang II
+                        - Also prevents breakdown of bradykinin and cannot be used with ACEi due to risk of angioedema
+                - Use
+                    - HFrEF and HFpEF
+                    - Replace ACEi or ARB and in conjunction with standard of care
+                        - Requires 36h washout period if switching from ACEi
+                - AE
+                    - Angioedema
+                    - Hypotension
+                    - Cough
+                    - Hyperkalaemia
+                    - Renal failure
+                - CI
+                    - Hypersensitivity
+                    - History of angioedema with ACEi or ARB
+            - Can replace with hydralazine and nitrates (if contraindicated)
+        - Beta-blocker (cardioselective)
+            - Carvedilol, bisoprolol, metoprolol XR
+        - Loop diuretics (symptomatic relief for volume overload)
+            - No survival benefit
+        - SGLT-2 inhibitors (cardioprotective)
+            - CI in symptomatic hypotension, CKD ≥ 4
+        - Mineralocorticoid receptor antagonists (spironolactone) for severe HF and EF ≤ 35%
+    - Pharmacological (HFpEF)
+        - Volume overload
+            - Loop diuretics (prior to initiating other pharmacologics)
+        - Dual SGLT2 inhibitor and mineralocorticoid receptor antagonists
+            - Indicated in patients with HFpEF and elevated BNP (>100) or NT-proBNP (>300)
+            - Discuss with endocrinologist if DM
+            - Do not replace RAAS blocker if CKD (discuss with nephrologist)
+        - Control BP (B-blockers, ACEi or ARB)
+    - Surgical (if EF ≤ 35% after 3 months of ACEi/ARB + B-blocker)
+        - Implantable cardioverter-defibrillator
+        - Cardiac resynchronisation therapy
+
+- Acute decompensated heart failure
+    - Clinical syndrome of new or worsening signs and symptoms of HF which lead to hospitalisation
+    - Causes for new onset ADHF
+        - Coronary artery disease
+            - ACS (MI, rupture)
+        - Arrhythmias
+            - AF, atrial flutter
+            - Ventricular tachycardia, VF
+        - Myocarditis
+        - Acute valvular syndromes
+            - Infective endocarditis
+            - Papillary muscle rupture
+            - Leaflet tear, chordae rupture
+            - Thrombosed prosthetic valve
+        - Progressive valvular disease
+        - Cardiomyopathies
+        - Poorly controlled hypertension (e.g. renovascular disease)
+    - Clinical manifestations
+        - ADHF without pulmonary oedema
+            - Seen in patients with new-onset HF or acute decompensation of chronic HF
+                - No cardiogenic shock or hypertensive crisis
+                - May be minimal pulmonary congestion
+            - Accounts for 50%-70% of all HF admissions
+                - More gradual onset
+                - Primary alteration is progressive fluid retention and systemic congestion
+            - Symptoms
+                - Progressive dyspnoea (most common complaint)
+                - Abdominal or peripheral congestion (abdominal pain, swelling)
+        - ADHF with severe pulmonary oedema
+            - Pulmonary oedema seen in around 15%, severe in 3%
+            - Rapid onset of symptoms or signs of HF, frequently with a SBP > 180
+                - History of poorly controlled hypertension
+                - Predominantly pulmonary congestion > systemic congestion (minimal weight gain)
+            - Severe dyspnoea, anxiety, pink frothy sputum
+                - Sensation or drowning, suffocation
+            - Use of accessory muscles of respiratory, tachypnoea
+            - Noisy respiration, coarse crepitations bilaterally
+            - Hypoxaemia
+        - Cardiogenic shock
+            - SBP < 90, cutaneous pallor, mental confusion
+                - Signs of end organ hypoperfusion (fatigue, altered mental status, electrolyte derangements)
+            - Diminished pulse pressure
+        - High-output heart failure
+            - Warm extremities, pulmonary congestion, tachycardia, wide pulse pressure
+        - Right heart failure
+            - Primary right-sided valvular disease or pulmonary disease
+                - Exclude acute PE
+    - Management
+        - Goals
+            - Identify aetiology and address precipitating factors
+            - Optimise long-term oral therapy
+            - Symptomatic relief of treatments
+            - Vasodilators to decrease preload and afterlod
+            - Identify patients who might benefit from:
+                - Revascularisation (if ACS)
+                - Cardiac resynchronisation (if arrhythmias, risk of SCD)
+                - Anticoagulant therapy
+        - Monitor and treat haemodynamic instability and arrhythmias
+            - Use NIV if APO
+        - Symptomatic management
+            - Volume removal (diuresis)
+                - Loop diuretics are firstline
+                    - Consider second diuretic if insufficient
+            - Vasodilators (nitroprusside, GTN)
+                - Adjuvant to diuresis for symptom relief but avoid if significant valvular disease or hypotension
+        - Continue ACEi/ARB and B-blocker if no contraindication (e.g. worsening renal function)

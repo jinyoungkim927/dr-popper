@@ -1,0 +1,587 @@
+# AKI, Nephrotic, Nephritic Syndrome
+
+**Case:** *A 47-year-old male presents with peripheral leg oedema, hypertension and tachypnoea. Urinalysis showed red blood cells, protein and casts. EUC results show raised urea and creatinine.*
+
+![Screenshot 2023-09-10 at 4.01.22 pm.png](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/Screenshot_2023-09-10_at_4.01.22_pm.png)
+
+- PDx + DDx
+    - Patient has haematuria, oliguria, hypertension and peripheral oedema which is consistent with nephritic syndrome
+        - Raised urea and creatinine fits KDIGO definition for an AKI
+    - DDx
+        - Pre-renal AKI
+            - Hypovolaemia
+            - Hypotension
+        - Renal
+            - ATN (ischaemic or nephrotoxic (e.g. drugs, medications, contrast)
+            - Acute GN (rapid progressive GN, HUS)
+            - Post-streptococcal GN or IgA nephropathy
+            - Acute interstitial nephritis
+        - Post-renal
+            - Renal calculi
+            - BPH
+            - Neoplasm of urinary tract
+- AKI - definition, features
+    - Defined as the abrupt loss of renal function (KDIGO):
+        - Increase in serum creatinine > 1.5x from baseline
+        - Urine output < 0.5mL/kg/hr for > 6 hours
+        - Note: Stage 1-3 AKI depends on differing duration of oliguria (or anuria) and the degree of serum creatinine rise from baseline
+    - Causes of AKI can be divided into:
+        - Pre-renal
+        - Renal
+        - Post-renal
+    - Other complications include:
+        - Volume overload → APO
+            - Due to decreased fluid excretion
+        - Metabolic acidosis
+            - Due to impaired excretion of acid and bicarbonate reabsorption
+        - Hyperkalaemia
+            - Decreased reabsorption of Na in tubules and consequently, less K+ excreted
+        - Hypocalcaemia + hyperphosphataemia
+        - Uraemic encephalopathy and changes in mental status
+- Causes of AKI
+    - Most common
+        1. ATN and pre-renal causes
+        2. Obstructive pathology
+        3. GN and AIN
+    - Pre-renal
+        - Shock → ATN (tubular are highly metabolically active)
+            - Cardiogenic
+            - Hypovolaemic
+            - Distributive
+        - Vascular
+            - Aortic dissection
+            - Systemic thromboembolus
+            - Renal vein thrombosis
+        - Cardiorenal or hepatorenal syndrome
+    - Intra-renal
+        - Vascular
+            - Small vessels
+                - MAHA
+                - Malignant hypertension, eclampsia
+                - Vasculitis
+        - Glomeruli
+            - GN
+        - Tubular
+            - Medication induced
+                - NSAIDs, ACEi, diuretics (due to ischaemia)
+            - Toxin
+                - Contrast
+                - Pigment (e.g. rhabdomyolysis)
+        - Interstitial
+            - Drug
+                - Antibiotics
+                - NSAIDs and 5-ASA
+                - Immunomodulators
+                - PPIs
+            - Systemic rheumatological
+                - SLE, sarcoidosis, Sjogrens
+            - Infections
+    - Post-renal
+        - Renal stones and/or ureteric strictures
+        - Tumours
+            - BPH
+            - Cancer of bladder, prostate, cervix
+        - Iatrogenic
+            - Blocked IDC or strictures
+- Where is potassium stored? How does hyperkalaemia occur
+    - Potassium is the major intracellular cation
+        - Homeostasis depends upon diet and elimination of potassium by the GIT and kidneys
+            - Note: aldosterone enhances K+ excretion through its actions of the principal cells of the collecting duct
+    - Causes of hyperkalaemia
+        - AKI
+            - Reduced GFR = reduced excretion of K+
+            - Metabolic acidosis = buffer intracellular K+ for extracellular H+ via H/K exchanger
+        - Other causes
+            - Reduced or impaired excretion
+                - Renal failure
+                - Endocrine (hypoaldosteronism
+                - **Drugs (K-sparing diuretics, ACEi/ARB)**
+            - Extracellular shift
+                - Acidosis
+                - Insulin deficiency
+                - **Drugs (non-selective B-blockers, digoxin)**
+            - Extracellular release
+                - Pathological
+                    - Haemolysis
+                    - Tumour lysis syndrome
+                    - Rhabdomyolysis
+                - Pseudohyperkalaemia
+                    - Prolonged use of tourniquet
+                    - Use of cannula without flushing
+                    - Delayed laboratory analysis
+- Complications from hyperkalaemia
+    - Concerned particularly with K ≥ 7 mmol
+    - **Arrhythmias**
+        - Characteristic ECG changes in hyperkalaemia
+            - 5.5-6.4 mmol
+                - Increased extracellular K+ shifts the resting membrane potential closer to the depolarisation threshold
+                    - **Increases myocardial excitability and leads to arrhythmias**
+                - Findings
+                    - **Hyper-peaked T waves**
+                    - Shortened QT interval
+                    - **PR prolongation** (first degree heart block)
+            - 6.5-8mmol
+                - Prolonged hyperkalaemia and raised resting membrane potential results in Na+ channels (phase 0) to inactivate
+                    - Hence, **less Na+ channels available to respond to depolarising signal and a decrease in excitability** (widened QRS)
+                - Findings
+                    - Diminishment or loss of P waves (initially becomes flatter)
+                    - Widened QRS complexes
+            - ≥ 8mmol
+                - Sine waves
+                - Eventually leads to VF or VT → pulseless electrical activity and asystole
+    - Other problems
+        - **Ascending muscle weakness**
+        - **Fatigue**
+- Management of hyperkalaemia
+    - Medical emergency
+        - Primary survey and resuscitation (A-E approach)
+            - 2 x large bore cannulas
+            - ECG and vitals monitoring
+    - **Treat the underlying cause (e.g. different causes of acidosis)**
+        - Discontinue drugs which increase serum K+ (ACE inhibitors, B-blockers, heparin)
+        - Correct hypovolaemia
+    - **Membrane stabilisation**
+        - IV **calcium gluconate**
+            - Antagonises the membrane excitability of the heart (useful with ECG changes)
+    - Move K+ intracellularly
+        - **Insulin + dextrose**
+            - Stimulates Na/K/ATPase
+        - **IV salbutamol (or nebulised)**
+            - B2 agonist → stimulates Na/K/ATPase
+    - Increase K+ elimination
+        - Urinary excretion: diuretics (e.g. frusemide) + normal saline (assume adequate renal function)
+        - Oral excretion: **K+ binders (e.g. PO resonium)**
+        - **Dialysis (definitive)**
+
+- Actions of the RAAS system
+    
+    ![paste-2df0b61734bac80028002a4ae7e9d4138dca5ee2.jpg](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/paste-2df0b61734bac80028002a4ae7e9d4138dca5ee2.jpg)
+    
+    ![paste-18c576bae4ae92168669aa479390e5f8e557c1d1.jpg](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/paste-18c576bae4ae92168669aa479390e5f8e557c1d1.jpg)
+    
+- Features of nephrotic and nephritic syndrome
+    - Nephrotic syndrome
+        - Proteinuria (> 3g a day)
+        - Hypoalbuminaemia
+        - Peripheral oedema
+        - Hyperlipidaemia
+            - Compensatory increase in hepatic synthesis of LDL
+        - Hypercoagulability
+            - Loss of anticoagulant and pro-fibrinolytic proteins
+            - Increased hepatic synthesis of pro-coagulant proteins
+    - Nephritic syndrome
+        - Hypertension
+        - Oliguria
+        - Haematuria
+        - Oedema
+    
+    ![Screenshot 2023-09-10 at 4.21.04 pm.png](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/Screenshot_2023-09-10_at_4.21.04_pm.png)
+    
+- What is GFR and how do you calculate it?
+    - GFR (glomerular filtration rate) is the volume of blood filtered by the glomeruli per minute (mL/min)
+        - Gold standard measurement is to use inulin (freely filtered and not secreted by renal tubules)
+            - However, accurate measurement requires invasive sampling of the renal vein and hence, serum creatinine is the next best substitute
+        - Limitations to serum creatinine
+            - Renal function must be stable
+            - Can be distorted by extremes in muscle mass or diet
+    - CKD-EPI equation is commonly used
+        - Accounts for age, sex, body mass (ethnicity - African-American)
+- ECG manifestations in hypokalaemia
+    - T-wave flattening and inversion
+        - Prominent U waves
+    - ST segment depression
+
+## Case Protocol 32 – **Nephrotic Syndrome**
+
+*A 47-year-old woman was seen in the outpatient clinic complaining of swelling of the feet and ankles. She had a thirteen-year history of severe seropositive rheumatoid arthritis treated with gold and NSAIDs. There was bilateral pitting ankle oedema and symmetrical polyarthritis, with typical rheumatoid deformities of her hands and feet. Apart from mild hypertension, the remainder of the physical examination was normal.*
+
+Regina is a 48F with a 20 year history of T1DM. Her main complaint is ankle swelling and orbital swelling with frothy urine.
+
+- PDx and DDx
+    - PDx
+        - Nephrotic syndrome → given clinical features including prominent oedema
+    - DDx
+        - Causes of nephrotic syndrome
+        - Other causes of bilateral oedema
+            - CCF
+            - Hypothyroidism
+            - Iatrogenic (e.g. dCCB)
+            - Liver failure
+- Causes of nephrotic syndrome
+    - Most common causes
+        - Secondary (diabetes, SLE, amyloidosis)
+        - Primary causes
+            - FSGS (adults)
+            - Membranous GN (adults)
+            - Minimal change disease (children)
+    - Podocyte effacement
+        - Minimal change disease
+        - Focal segmental glomerulosclerosis
+    - Basement membrane thickening and immune complex deposition
+        - Membranous nephropathy
+        - Membranoproliferative GN
+    - Fenestrated endothelial damage
+        - Diabetic nephropathy
+- Investigative approach
+    - Principal diagnostic
+        - Urine studies
+            - 24h urine protein
+            - Urine ACR and PCR (early morning)
+            - Consider MCS (fatty casts)
+        - Labs
+            - UEC and eGFR
+            - LFTs (albumin)
+            - Serum lipid panel
+            - Coagulation studies (hypercoagulable)
+    - Ancillary
+        - Labs
+            - FBC
+            - Rheumatological screen (antibodies)
+            - Infectious serology
+        - Imaging
+            - Renal US (rule out structural cause)
+        - Renal biopsy unless contraindicated
+- What are the features of nephrotic syndrome? what clinical problems may arise as a result
+    - Nephrotic syndrome = glomerular disease which results in **massive proteinuria > 3.5g/day**
+    - Clinical findings
+        - Hypoalbuminaemia
+            - Pitting oedema
+        - Hypogammaglobulinaemia
+            - Increased risk of infections
+        - Loss of antithrombin III, protein C and S
+            - Hypercoagulable state
+            - Exacerbated by compensatory liver synthesis of procoagulant proteins (e.g. fibrinogen)
+        - Hyperlipidaemia
+            - Hepatic synthesis of lipoproteins to compensate for hypoalbuminaemia
+            - Leads to accelerated atherosclerosis and fatty casts in urine
+        - Protein malnutrition
+            - Growth retardation
+        - Loss of transferrin
+            - Anaemia
+- Explain the relationship between proteinuria and ankle oedema. Anasarca?
+    - Proteinuria (mostly albumin) → decreased plasma oncotic pressure within the intravascular space
+        - Increases net filtration pressure and fluid movement through the capillary membrane (oedema)
+    - Note: anasarca = state of massive widespread oedema affecting all tissues
+        - Nephrotic syndrome oedema often presents as early morning periorbital or pedal oedema but can advance to ascites, APO, pleural effusions
+    
+    ![clip_image002-3a931d3445ff45bc5e5696d3ceec945b188fb4a9.jpg](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/clip_image002-3a931d3445ff45bc5e5696d3ceec945b188fb4a9.jpg)
+    
+- Describe the main features and function of the glomerular filtration barrier
+    - Glomerulus consists of an anastomotic network of capillaries
+        - The glomerular filtration barrier is responsible for filtration of plasma according to size and charge selectivity
+    - Three main components of barrier
+        - **Fenestrated endothelium** (70-100 microm)
+        - Basement membrane (type IV collagen, heparan sulfate) **[electron-dense central layer]**
+        - **Visceral epithelial layer**
+            - Foot processes of podocytes
+            - Slit diaphragms (20-30nm wide)
+        - Note: **mesangial cells lie between the capillaries and provide structure to the glomerulus**
+            - Can contract to influence the surface area for filtration and GFR
+    - Contribution to effective filtration of plasma
+        - Charge
+            - **All three layers contain negative-charged glycoproteins** which prevent the entry of negatively charged molecules (e.g. albumin)
+        - Size
+            - **Fenestrated capillary endothelium and slit diaphragm** (between foot processes)
+            - Allows only **small molecules**
+    
+    ![clip_image002-b49adc0f1b278fd200ab1c4617cdde4de94855d1.png](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/clip_image002-b49adc0f1b278fd200ab1c4617cdde4de94855d1.png)
+    
+- How can proteinuria occur in nephrotic syndrome? (refer to GBM and filtration)
+    - Changes in the structural integrity of the basement membrane
+    - Changes in the normal negative charge of the basement membrane
+    - Note: proteinuria may be selective (albumin and other LMW proteins) or non-selective (globulin, transferrin, HMW proteins)
+- Association between nephrotic syndrome and malignancy
+    - Nephrotic syndrome may be a marker of malignancy
+        - Lymphoma → minimal change disease
+        - Solid tumours (lung, GIT) → membranous nephropathy
+        - Multiple myeloma → nephrotic syndrome (secondary to amyloid deposition)
+- Association with RA treatment and nephrotic syndrome
+    - RA rarely involves the kidney however DMARDs can affect the kidneys
+        - NSAIDs, penicillamine, gold can lead to membranous nephropathy (and less commonly minimal change disease)
+    - Long-standing RA can also lead to amyloidosis
+- Focal segmental glomerulosclerosis (macroscopic, microscopic), general information
+    - Most common cause of nephrotic syndrome on adults (more prevalent in Hispanic, African-American)
+        - Often idiopathic but may be associated with VUR, HIV, sickle cell disease
+    - May progress to CKD
+        - 50% within 10 years
+        - Poor tendency for spontaneous resolution and poor steroid response
+    - Macroscopic
+        - Small, shrunken kidneys
+        - Focal and irregular cortical scarring
+        - Distortion and dilation of underlying calyces and ureter
+    - Microscopic
+        - Light microscopy
+            - Focal and segmental glomerulosclerosis (only parts of some glomeruli)
+            - Diffuse tubulo-interstitial nephritis with tubular atrophy and dilation
+            - Interstitial fibrosis
+            - Hypertensive arteriolosclerosis
+        - Negative on immunofluorescence
+        - Electron microscopy
+            - Effacement of podocyte foot processes
+- Minimal change disease (findings, clinical results)
+    - Most common cause of nephrotic syndrome in children
+        - Often idiopathic (e.g. infection, immunisation)
+            - Often has a good response to steroids (T-cell mediated damage)
+            - Less associated with hypertension
+    - Findings
+        - Light microscopy
+            - Normal glomeruli (may see lipids in PCT cells)
+            - IF - negative
+            - EM - effacement of podocyte foot processes
+    - Results in selective proteinuria
+        - Loss of albumin
+        - No loss of Ig and HMW proteins
+- Membranous nephropathy
+    - Second most-common cause of primary nephrotic syndrome (Caucasian adults)
+    - Pathophysiology
+        - Caused by immune complex deposition to antigens in the GBM
+            - Many cases are associated with antibodies to PLA2 receptor (phospholipase A2)
+        - Causes
+            - Idiopathic (most common)
+            - Secondary
+                - Infection (HBV, HCV, syphilis)
+                - Neoplastic (lung, CRC)
+                - Autoimmune (SLE)
+                - Drugs (NSAIDs, probenecid)
+        - Often does not respond to steroid therapy
+            - 40% progress to ESKD within 2-20 years
+    - Findings
+        - Light microscopy
+            - Thick GBM
+        - IF
+            - Granular appearance due to IgG and C3 deposition
+        - EM
+            - Subepithelial deposits with “spike and dome” appearance
+                - Due to proliferation of GBM around deposits
+- Diabetic nephropathy and nephrotic syndrome (pathophysiology, findings)
+    - Pathophysiology
+        - Damage to glomerular filtration barrier
+            - Hyperglycaemia → non-enzymatic glycosylation of endothelium (hyaline arteriolosclerosis)
+            - Affects efferent arteriole > afferent arteriole
+                - High filtration pressure at glomerulus = **hyperfiltration injury** = **microalbuminuria** with eventual progression to nephrotic syndrome
+                - Hence, ACE inhibitors slow progression of hyperfiltration induced damage
+    - Findings
+        - Sclerosis and expansion of mesangium
+            - Nodular glomerulosclerosis (Kimmelstiel-Wilson nodules)
+        - Podocyte loss
+        - GBM thickening (collagen deposition) and increased permeability
+        - Endothelial damage
+    - Results in non-selective proteinuria
+
+- Albuminuria and proteinuria ranges
+    - Normal
+        - < 30mg/24h albumin or < 150mg/24h total protein
+    - Microalbuminuria
+        - 30-300 mg/24h
+    - Macroalbuminuria
+        - ≥ 300mg/24h
+    - Nephrotic range protein
+        - ≥ 3.5g/24h OR ≥ 200mg/mmol protein-creatinine ratio
+- Causes of non-glomerular proteinuria
+    - Overflow proteinuria
+        - Due to increased production of LMW proteins (<60kD)
+            - Exceeds resorptive capacity of PCˇ
+        - Causes: MGUS, multiple myeloma, haemolysis (haemoglobinuria), rhabdomyolysis (myoglobinuria)
+    - Tubular proteinuria
+        - < 2g/day of total protein lost with no albuminuria
+        - Due to inadequate reabsorption of LMW proteins
+        - Causes: ischaemia, drugs (NSAIDs)
+- Immunofluorescence in glomerular diseases
+    - Immune complex deposition is the main mechanism of injury in glomerular diseases
+        - May arise from circulating antibody-antigen complexes or those which form in-situ
+    - Circulating immune complex nephritis → granular deposition
+        - IgA nephropathy
+        - SLE
+        - Post-streptococcal GN
+    - In-situ immune complex formation → linear deposition
+        - Goodpasture’s (anti-GBM)
+        - Note: membranous GN has a granular appearance (exception)
+    - ANCA-associated GN does not react to IF
+    
+    ![Screenshot 2023-09-12 at 9.57.38 pm.png](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/Screenshot_2023-09-12_at_9.57.38_pm.png)
+    
+
+## Case Protocol 18 – **Nephritic Syndrome**
+
+[](https://lh3.googleusercontent.com/bg3km5CWwj8znLbVybw-3Y-QI12HEvJCAx_8yCvNrSUrESdHB9LY4jXXI5Ow1AsbUj75rLHv3k3_h8p_Wp9WmeSlhwh6myN1NISQv4J24U-5d1zJp9VgrxNr8dX1osu4Wa3ZryIj0mCG1LsSe6MJcA)
+
+*A 45-year-old man complained of progressive lethargy and swelling of the ankles over the past three weeks. Examination revealed a pale and ill-looking man with pitting oedema of both ankles. The JVP was raised 3 cm, there was a fourth heart sound and crepitations were heard at both lung bases. Microscopy of fresh urinary sediment showed granular and red cell casts. Over the next 24 hours the total urine volume was 400 ml.*
+
+- PDx and DDx
+    - PDx: nephritic syndrome (AKI)
+        - Given glomerular haematuria, proteinuria, oliguria, hypertension
+    - Causes of nephritic syndrome
+        - **Acute post-streptococcal GN**
+        - **IgA nephropathy**
+        - Rapidly progressive (crescenteric) GN
+            - Anti-GBM GN
+            - ANCA-positive vasculitis GN
+        - Membranoproliferative GN (can be mixed)
+        - Diffuse proliferative GN (can be mixed)
+        - Alport syndrome
+            - Genetic disorder with a defect in type IV collagen
+                - Results in thinning and splitting of the GBM
+            - Clinical features
+                - Haematuria
+                - Hearing loss
+                - Ocular disturbances
+    - Consider other causes of AKI
+        - Pre-renal - shock
+        - Renal - ATN, infections, drugs
+        - Post-renal - calculi, malignancy
+- Define oliguria and anuria
+    - The daily urine production which is inadequate to allow elimination of the body’s daily solute load despite maximal urinary concentration
+        - Exact volume would vary between patients
+        - Defined in KDIGO criteria as < 0.5mL/kg/min
+    - Anuria = absence of urine output
+        - < 100mL/day
+    - Normal urine output = 1-2mL/kg/hr
+- Characteristic features of nephritic syndrome and reasons
+    - Haematuria with RBC casts in urine
+        - Damage to glomerular filtration barrier allows RBCs to pass through
+            - Also permits some proteinuria and albuminuria (< 3.5g/day classically)
+        - Precipitation of Tamm-Horsfall proteins with RBCs = casts
+            - Aided by decreased flow of filtrate
+    - Oliguria
+        - Secondary to reduced GFR due to multifactorial glomerular damage
+            - **Glomerular vasoconstriction and capillary thrombosis**
+            - Compression of the glomerular tuft (due to adaptive cellular proliferation)
+                - Decreased tubular lumen
+    - Azotaemia
+        - Decreased GFR resulting in increased serum urea
+    - Hypertension
+        - Glomerular vasoconstriction (inflammation) → decreased GFR and renal perfusion
+            - RAAS activation (renin release from JG apparatus)
+            - Retention of Na and H2O → worsens fluid overload and increased intravascular fluid volume
+                - Action of AngII (vasoconstriction) + volume overload = increased CO and BP
+    - Oedema
+        - Note: **decreased GFR = fluid retention**
+        - Exacerbated by RAAS activation
+    - Biopsy findings
+        - Hypercellular and inflamed glomeruli (pink)
+- Classification of proliferative glomerulonephritis
+    - Proliferative glomerulonephritis is caused by diffuse hyperplasia or hypercellularity of the glomerular tuft (inculding endothelial, mesangial and epithelial structures)
+        - There is often, but not always, inflammatory cell infiltration
+    - Histopathology classification
+        - Mesangio-proliferative
+        - Membrano-proliferative
+        - Focal segmental
+        - Rapidly progressive (crescenteric)
+    - Aetio-pathophysiology (2015 joint Consensus Report Mayo Clinic + Renal Pathology Society)
+        - Pauci-immune
+            - Anti-GBM
+            - ANCA positive vasculitis
+                - c-ANCA: (proteinase 3) → GPA
+                - pANCA: (myeloperoxidase) → MPA
+                - Either or both → eGPA
+        - Immune complex mediated
+            - Monoclonal any Ig → monoclonal gammopathy associated
+            - Polyclonal all Ig → lupus nephritis
+            - Polyclonal IgG dominant → post-strep GN
+            - Polyclonal IgA dominant → IgA nephropathy
+        - Complement mediated
+            - C3 GN
+- Acute post-streptococcal GN (pathophys, epidemiology, clinical presentation, Ix, prognosis)
+    - Arises most commonly 2-4 weeks after Group A streptococcus infection (S. pyogenes) of the skin or pharynx
+        - Due to a type III hypersensitivity reaction to the M protein and immune complex deposition
+    - Epidemiology
+        - Most commonly in children (2-12 yo)
+        - Males 2:1
+    - Presentation
+        - Haematuria
+        - Oliguria
+        - Hypertension
+        - Periorbital and peripheral oedema
+    - Investigations
+        - Labs
+            - Positive anti-streptolysin O titre
+            - Positive anti-DNAase B antibodies
+            - Decreased C3 levels due to consumption
+        - Microscopy
+            - Light microscopy
+                - **Hypercellular and inflamed glomeruli on H&E stain**
+            - Immunofluorescence
+                - “**Starry sky” granular appearance** due to Ig and **C3 deposition** along GBM
+            - Electron microscopy
+                - **Subepithelial immune complex (’humps’)**
+        
+        ![paste-10fc5fd67b12ed6e7e5e08bf2d945a16e757fd50.jpg](AKI,%20Nephrotic,%20Nephritic%20Syndrome%201300acf2446a81f8bdb1d337f4ad218b/paste-10fc5fd67b12ed6e7e5e08bf2d945a16e757fd50.jpg)
+        
+    - Manage supportively and treat complications
+        - Fluid and Na restriction
+            - Loop diuretics for hypertension and oedema
+        - Consider dialysis for severe cases
+    - Prognosis
+        - Children rarely progress to renal failure (1%)
+        - Adults
+            - 25% get rapid progressive GN
+            - Some others get a gradual decline into ESKD
+- Rapidly progressive (crescenteric) GN (microscopy)
+    - Severe form of nephritic syndrome which progresses to ESKD within weeks to months
+        - Caused by different disorders
+    - Microscopy
+        - H&E light microscopy → crescents in Bowman’s space (composed of fibrin and macrophages)
+        - Immunofluorescence pattern gives clues to the cause:
+            - Linear pattern: Goodpasture’s syndrome
+            - Granular: post-streptococcal or diffuse proliferative GN
+            - Negative: granulomatosis with polyangiitis (Wegener) or eosinophilic granulomatosis with polyangiitis (Churg-Strauss)
+- IgA nephropathy (Berger)
+    - Classically presents during childhood as episodic gross or microscopic haematuria with red cell casts
+        - Often after mucosal infection (e.g. gastroenteritis)
+    - Findings
+        - Light microscopy: mesangial proliferation
+        - Immunofluorescence: IgA immune complex deposition in mesangium
+    - May slowly progress to ESKD
+- Membranoproliferative GN
+    - Cause of either nephrotic or nephritic syndrome
+    - Pathophysiology
+        - Caused by immune complex deposition → subdivided based on location
+            - Type 1: subendothelial (HBV and HCV associated)
+            - Type 2: intramembranous (dense deposit disease)
+                - Associated with low C3 levels
+    - Findings
+        - H&E: thick GBM with ‘tram-track’ appearance
+        - Immunofluorescence: granular
+- Investigative approach to renal disease
+    - Filter by most important investigations to the case
+    - Bedside
+        - U/A → haematuria, proteinuria
+        - Blood gas → metabolic acidosis
+        - BSL → diabetes
+        - ECG → pericarditis
+    - Labs
+        - **Urine**
+            - **24h urine protein (> 3.5g = nephrotic)**
+            - **Albumin to creatinine ratio (diabetic nephropathy or nephrotic syndrome)**
+            - **MCS (of MSU for UTI)**
+            - **Urine volume (via catheter)**
+        - FBC
+            - Leukocytosis in infection, anaemia in renal failure
+        - UEC
+            - eGFR → used to assess renal function
+        - CMP + PTH
+            - Assess renal osteodystrophy
+        - Serum albumin → nephrotic syndrome
+        - Coags
+            - Hypercoagulability in nephrotic syndrome
+        - Serum FLC → amyloidosis, multiple myeloma
+        - **Glomerulonephritis screen**
+            - **ANA, ENA (SLE)**
+            - Pauci-immune
+                - **ANCA (microscopic polyangiitis, EGPA, GPA)**
+                - **Anti-GBM (Goodpastures)**
+            - Immune complex mediated
+                - **Anti-streptolysin, anti-DNAase B**
+                - **Serum IgA (IgA nephropathy)**
+            - Complement mediated
+                - **Complement levels (C3, C4)**
+        - Infectious
+            - **HBV and HCV serology**
+            - HIV serology (p24 antibody-antigen, RT PCR)
+            - VDRL PCR (syphilis)
+    - Imaging
+        - Renal U/S +/- bladder scan
+        - CT KUB
+            - Non-contrast (stones)
+            - Contrast (tumours)
+        - Renal biopsy in some cases

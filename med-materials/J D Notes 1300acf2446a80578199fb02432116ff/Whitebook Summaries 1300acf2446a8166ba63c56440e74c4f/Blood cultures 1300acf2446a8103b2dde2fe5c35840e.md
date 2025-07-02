@@ -1,0 +1,100 @@
+# Blood cultures
+
+## SPIEL
+
+- I saw a demonstration of how blood cultures were processed in the laboratory
+    - Patient was a 65F with suspected sepsis secondary to pneumonia
+- Indications
+    - Patients with fever, tachycardia or hypotension (suspected sepsis by SIRS criteria) with or without a suspected focus of infection
+    - The threshold for investigation is lower in patients who are immunocompromised
+- Collection
+    - Two samples (3 in infective endocarditis) are collected via venepuncture from different sites over 2h
+        - Minimum interval between samples is 10 mins
+        - Reasoning:
+            - 10 min interval to avoid detection of transient bacteraemia
+            - ≥ 2 samples to avoid contaiminants
+        - Ideally taken prior to antibiotic therapy
+            - If not, take ASAP and from peripheral sites
+    - 10mL of blood within each culture bottle
+        - Fill aerobic bottle first (air in needle) before anaerobic needle
+    - Bottle incubated for 5 days at 37 degrees (BacTec Blood Culture system)
+        - System consists of incubator and agitator (promote mixing of sample periodically)
+- Results
+    - Preliminary results reported within 48h
+        - Positive (colour change in disc at the bottom of the bottle due to CO2 production)
+        - Negative → samples discarded after 5 days
+    - For positive samples:
+        - Gram stain (of sample from bottle) within 30 mins
+            - Guides empirical therapy for clinician
+        - Subculture is then grown on solid media
+            - MALDI-TOF after 4h
+                - Mass spectrometer which allows detection of the strain
+            - Sensitivity testing
+                - Basic nutrient agar is used and culture (suspended in water) is poured over
+                    - Dried for even inoculation
+                - Place disc of antibiotic on cultured organism and leave overnight
+                - ‘Ring’ of growth inhibition around disc suggests sensitivity (organism unable to grow)
+                    - Zone of inhibition is usually 6mm (same size as disc)
+                    - Smaller for larger molecule antibiotics:
+                        - e.g. gentamicin (4mm) and vancomycin (2mm)
+            - May perform further microbiological testing to confirm species:
+                - Haemolysis testing
+                    - Sample grown on horse blood agar
+                    - Alpha-haemolysis = partial or incomplete haemolysis
+                        - Appears green on HBA
+                        - S. pneumoniae or S. viridans
+                    - Beta-haemolysis = complete haemolysis
+                        - Yellow or transparent area around colonies
+                            - Indicates the presence of haemolysin
+                        - S. pyogenes
+                        - S. aureus
+                    - Non-haemolytic (gamma)
+                        - S. epidermidis
+                        - Enterococcus
+                - Catalase test
+                    - Catalase breaks down H2O2 into O2
+                        - Detected as bubbles in agar
+                    - Positive = staphylococcus, enterobacteriae
+                    - Negative = streptococcus, enterococcus
+                - Coagulase test
+                    - S. aureus is coagulase positive
+                        - Coagulase is an enzyme which leads to coagulation of blood in plasma
+                    - Tested by two saline drops on two different slides (one test, one control)
+                        - Add drop of rabbit plasma to test sample and see if the sample clumps
+                        - Both clump suggests autoagglutination
+                - Optochin sensitivity
+    - In this case, Gram stain showed a Gram-positive streptococcus species (arranged in rows)
+        - Catalase negative
+        - Optochin sensitive
+        - Alpha-haemolytic
+    - Consistent with S. pneumoniae
+
+- What is contained in an aerobic and anaerobic bottle?
+    - Nutrient broth
+        - Allows growth of organisms until there is enough to be cultured on agar
+        - Includes water, nitrogen, growth factors, trace elements
+    - Anti-coagulants
+        - Neutralises natural bactericidal action of blood
+    - Resin beads
+        - Inhibits antibiotics if present
+    - **Differences between aerobic and anaerobic bottles**
+        - Aerobic bottles contain oxygen
+        - Anaerobic tube has a reducing agent (glucose) and thioglycolate which consumes any oxygen in the sample
+- What is MacConkey agar?
+    - A selective medium designed to detect Gram negative bacteria (E. coli particularly)
+        - Bile salts and crystal violet dye inhibit growth of Gram-positive bacteria
+        - pH indicator and lactose can differentiate lactose fermenting colonies (turn agar pink) from non-lactose fermenting (colourless)
+- What is MALDI-TOF
+    - Indicated to identify atypical organisms
+    - Matrix Assisted Laser Desorption/Ionisation (MALDI)
+        - Sample is mixed in large quantity of matrix
+        - Matrix absorbs UV light and converts into heat energy which vaporises the sample
+    - Time of Flight Mass Spectrometry
+        - Charged ions are generated on the sample slide
+            - Particles are accelerated through an electric field
+        - Ions with a smaller mass and higher charge move through the drift space faster until they reach the detector
+        - Hence, the time of ion flight differs according to the mass-to-charge ratio value of the ion
+- Sources of error with blood cultures
+    - Poor technique of collection
+    - Insufficient disinfection of skin (commensal skin flora)
+    - Antibiotic administration prior to culture collection can lead to negative results

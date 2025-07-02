@@ -1,0 +1,351 @@
+# Haemorrhagic Stroke (Anat, Path)
+
+## Case Protocol 40 – **Subarachnoid (aneurysm) Haemorrhage**
+
+**Case:**
+
+*A 47-year-old woman was hurrying for a bus when she experienced a sudden violent headache and collapsed. She was assisted by a friend, who noted that the patient was conscious but confused and in pain.*
+
+[](https://lh4.googleusercontent.com/oeJJrPRcbyVsg9dc9bvfMSQ_ociyePij4oZNvOEo6JTMLOZcfMUtG5M5Ec9-44EevpnooHIC14-uzLJGd8XYK_DyBxAMvS-BYztrPyT8fqhkSpp4aup_DqN0-HK4eTD88mUICqIpWOZp)
+
+*Examination in the Emergency Department revealed a thin female, disoriented in time and place, with prominent nuchal rigidity. The remainder of the examination was normal apart from a sub-hyaloid haemorrhage in the right optic fundus.*
+
+***Past Question:***
+
+*A 56yo man with a background of HTN and smoking presents with severe headache occurring suddenly after a heated argument with his wife. He now experiences photophobia and there is nuchal rigidity.*
+
+- PDx and DDx
+    - PDx: subarachnoid haemorrhage - likely due to rupture of a Berry aneurysm
+        - Meningism triad (nuchal rigidity, photophobia, headache) → consistent with SAH
+        - Hypertension and acute elevation of BP (argument) → rupture of aneurysm
+    - DDx for meningism
+        - Vascular
+            - Intracranial haemorrhage
+            - Ischaemic stroke
+            - Cerebral venous thrombosis
+        - Infective
+            - Meningitis (bacterial, viral, other), encephalitis, cerebral abscess
+        - Acute hypertensive crisis
+        - Neoplastic - brain tumours (e.g. pituitary + haemorrhage/apoplexy)
+- Subarachnoid haemorrhage - typical features
+    - Sudden, severe ‘thunderclap’ headache → often occipital or holocephalic which may radiate to the neck
+        - Reversible cerebral vasoconstriction syndrome (RCVS) is the most common mimic
+    - Meningism → headache, nausea, vomiting, photophobia, nuchal rigidity (suggests meningeal irritation)
+        - Neck stiffness → palpable resistance with passive neck flexion
+        - Brudzinski’s sign (tests aim to stretch the meninges and cause irritation → used more often in paediatrics)
+            - Passively flex the patient’s neck and watch for flexion of the hips and knees
+        - Kernig’s sign (tests aim to stretch the meninges and cause irritation → used more often in paediatrics)
+            - With the patient supine, and hips and knee flexed to 90 degrees, attempt leg extension
+            - If patient resists, experiences pain or cannot extend the knee beyond 135 degrees due to hamstring stiffness → test is positive
+    - Raised ICP
+        - Altered or decreased LoC → compression of reticular formation, herniation
+        - Pupillary dilation → compression of CnIII interrupts PSNS supply to sphincter pupillae
+        - Cushing’s triad (wide pulse pressure, bradycardia, irregular respirations)
+            - Late sign suggesting herniation
+        - Subacute or chronic signs
+            - Headache which is worse in the morning or with bending over
+            - Papilloedema
+    - Terson’s syndrome
+        - Intraocular haemorrhage secondary to intracranial bleeding
+        - ‘Sub-hyaloid’ refers to the area between the vitreous chamber and retina (hyaloid is the membrane around the vitreous chamber)
+- Causes of SAH
+    - Traumatic (most common, identified on history, not a stroke)
+    - Non-traumatic
+        - Aneurysm rupture (80% of non-traumatic)
+        - Vascular malformation (< 10% of non-traumatic)
+        - Intracranial artery dissection, extension of ICH
+- What is a berry aneurysm? Where do they form?
+    - Most non-traumatic SAH are caused by rupture of intracranial saccular (Berry) aneurysms (outpouchings)
+        - 85% are in the anterior circulation, mostly near major arterial branch points (due to high pressure turbulent flow)
+        - Risk of rupture is greatest when the aneurysm diameter is between 6-10mm
+    - Common sites (multiple may exist)
+        - Anterior
+            - Junction of AComm with ACA (40%)
+            - Junction of PComm with ICA (20%)
+            - Bifurcation of MCA (34%)
+        - Posterior
+            - Bifurcation of basilar artery (4%)
+            - Junction of basilar and SCA or AICA
+- Types of intracranial aneurysms
+    - Saccular (most common)
+        - Very thin or absent tunica media and internal elastic lamina
+    - Fusiform
+        - Dilation of entire circumference, associated with atherosclerosis
+    - Mycotic
+        - Due to infected emboli
+- Investigative approach for SAH
+    - Important to have a high index of suspicion → consider in any acute onset severe headache
+    - Principal diagnostic approach
+        - Concurrent assessment and resuscitation (ABCDE)
+            - Assess NIHSS stroke scale for likelihood of a stroke
+        - Key investigations
+            - Non-contrast CT → diagnostic for SAH in > 90% of cases
+            - If negative CT but clinical suspicion → LP
+                - May have elevated opening pressure
+                - Elevated RBC count (stays elevated across tube 1 → 4)
+                - Xanthochromia (pink or yellow tint representing haemoglobin degradation products)
+        - Identify source of bleeding
+            - Digital subtraction angiography
+                - May be both diagnostic and therapeutic → **best for detecting aneurysms**
+            - CT or MR angiography (DDx RCVS or cervical artery dissection)
+    - Ancillary investigations
+        - Bedside
+            - Vitals monitoring
+            - ECG
+        - Labs
+            - FBC
+            - Coags
+            - UEC and LFT
+            - CSF MCS
+            - Further imaging - MRI brain with contrast if a tumour is suspected
+- Pathophysiology of SAH - formation, rupture, manifestations
+    - Formation of aneurysms
+        - Acquired - degenerative process
+            - Absence or weakening of tunica media and internal elastic lamina of intracranial vessels
+            - Associated with chronic injury states (hypertension, smoking) **[multifactorial]**
+        - Predisposing conditions include ADPKD, fibromuscular dysplasia due to intrinsic defects in connective tissue
+    - Rupture
+        - Associated in many cases with systemic hypertension
+            - May be transient (physical exertion, emotional stress, caffeine consumption or cocaine)
+        - Most are caused by aneurysms which form quickly (hours - weeks) and rupture at a critical size)
+- Complications of SAH
+    - Life-threatening
+        - Raised ICP (blood, oedema) → herniation syndrome
+        - Complications from stroke and hospitalisation
+            - DVT or PE
+            - Aspiration pneumonia or infection → sepsis
+    - Acute
+        - Re-bleeding and extension of injury (5-15% of patients within 24h)
+        - Vasospasm (4-14 days later) due to breakdown of blood products releasing spasmogenic substances
+            - Leads to ischaemia and infarction
+        - Seizures
+        - Sterile meningitis (irritation of meninges by blood products)
+        - Intra-ocular haemorrhage (Terson’s syndrome)
+    - Subacute or chronic (weeks, months)
+        - Hydrocephalus
+            - Obstruction to CSF flow may present as a acute complication
+            - Blockage of reabsorption due to blood products or adhesions (late) [fibrosis of granulations or foramina]
+        - SIADH
+- Risk factors for SAH
+    - Non-modifiable
+        - PMHx
+            - CT diseases (Marfan’s, Ehler Danlos II, IV)
+            - ADPKD
+            - Neurofibromatosis I
+            - Coarctation of the aorta
+        - FHx
+    - Modifiable
+        - Hypertension
+        - Drugs
+            - Smoking, excess EtOH, amphetamine use
+- Prognosis of SAH
+    - Overall mortality is 50% within 2-3 weeks
+        - 1/3 of patients immediately die
+        - 1/3 left with permanent neurological damage
+        - 1/3 will recover
+    - Prognosis depends on the site of bleeding, severity, complications and treatment availability
+    - Predictors of mortality on admission
+        - Hunt and Hess scale → predictor of survival based on clinical features
+        - Modified Fisher score → predictor of likelihood of cerebral ischaemia due to vasospasm
+- Management of SAH
+    - Initial management
+        - Primary survey and concurrent resuscitation
+        - Call for senior help - multidisciplinary input (critical care, neurosurgery, etc.)
+    - Acute stabilisation of patient with ICH
+        - Airway management (intubate if GCS < 8 or anticipated decline)
+        - Standard neuroprotective measures
+            - Supplemental O2 (SpO2 > 94%, low-normal CO2 to decrease risk of raised ICP)
+            - Maintain normoglycaemia and normothermia
+        - Cerebral perfusion pressure management
+            - BP management
+                - Aim for SBP < 160mmHg (permissible hypertension if increased ICP)
+            - ICP management
+                - Head elevation to 30 degrees
+                - Hyperosmolar therapy (mannitol)
+                - Placement of external ventricular drain or decompressive craniotomy
+    - Special considerations for SAH
+        - Reverse coagulopathy
+        - Vasospasm prophylaxis → CCB (nimodipine)
+        - Consider seizure prophylaxis
+        - Identify and manage hyponatraemia
+    - Definitive management
+        - Aneurysm repair
+            - Endovascular coiling → INR
+                - Minimally invasive, good for poor surgical candidates and posterior circulation aneurysms
+                - Higher risk of recurrent bleeding and incomplete obliteration
+            - Microsurgical clipping → neurosurgery
+                - Lower rate of rebleeding and can treat large intracerebral haematoma at the same time
+    - Monitoring
+        - Regular neurological observations (GCS, signs of raised ICP)
+        - Continuous cardiac telemetry or invasive BP
+        - Glucose (hourly)
+        - Prophylaxis for VTE
+        - Supportive care (fluid and electrolytes, feeding)
+- How does SAH increase ICP?
+    - Numerous contributing factors
+        - Bleeding or rebleeding (space occupying lesion)
+        - Hydrocephalus (obstruction of CSF flow or reduction of CSF reabsorption due to blood products or adhesions)
+        - Other factors → reactive hyperaemia post-haemorrhage, brain swelling post infarction
+- Anatomy - layers of the scalp
+    - SCALP (first three layers are tightly adherent)
+        - Skin
+        - Connective tissue (dense)
+            - Richly vascularised and innervated to supply the skin and structures above
+            - Anastomotic network of ECA branches (superficial temporal, posterior auricular, occipital)
+            - Dense CT tends to hold lacerations open → greater tendency to bleed
+        - Aponeurosis (epicranial, galea)
+            - Intermediate section of the occipitofrontalis muscle
+        - Loose areolar connective tissue
+            - Contains numerous valveless emissary veins which communicate with scale and diploic (interosseous) veins of the skull
+            - This layer facilitates movement of the skull on the scalp
+        - Periosteum
+            - Continuous with endosteum at suture lines
+- Anatomy - Circle of Willis (function and structure)
+    - Function
+        - Anastomotic connection between the anterior and posterior circulations of the brain
+        - Allows equalisation of blood flow between two sides
+    - Structure
+        - Posterior cerebral arteries (terminal divisions of basilar artery at upper pons)
+        - Posterior communicating artery
+            - Arising from posterior cerebral and run in interpeduncular cistern to join ICA at anterior perforated substance
+        - Anterior cerebral artery
+            - Arises from ICA at anterior perforated substance
+        - Anterior communicating artery
+            - Unite the ACAs in the chiasmatic cistern
+            - Below the rostrum of the corpus callosum
+    - Encloses two structures
+        - Optic chiasm
+        - Pituitary stalk (infundibulum) and long hypophyseal portal veins
+    
+    ![Screenshot 2023-06-30 at 9.34.19 am.png](Haemorrhagic%20Stroke%20(Anat,%20Path)%201300acf2446a813daa46f746322cffbb/Screenshot_2023-06-30_at_9.34.19_am.png)
+    
+    ![Screenshot 2023-06-30 at 9.36.47 am.png](Haemorrhagic%20Stroke%20(Anat,%20Path)%201300acf2446a813daa46f746322cffbb/Screenshot_2023-06-30_at_9.36.47_am.png)
+    
+- Anatomy - venous drainage of the brain
+    - General
+        - Sinuses are valveless → drain by siphonage
+        - Lie between two layers of dura (except inferior sagittal and straight which are between two folds of the inner layer)
+    - Can be divided into superficial and deep drainage pathways
+        - Superficial structures → dural venous sinuses (channels between two dural layers)
+            - Via superior, superficial middle and inferior cerebral veins
+        - Deep structures → internal cerebral vein → great cerebral vein (of Galen) → straight sinus
+        - All ultimately drain to the internal jugular vein
+    - Venous sinuses
+        - Superior sagittal sinus (along falx cerebri)
+            - From frontal crest (or foramen caecum of frontal bone) to internal occipital protuberance
+                - Drains into right transverse sinus
+                - Receives arachnoid granulations
+            - Drains the cerebral hemispheres via superior cerebral veins
+        - Inferior sagittal sinus
+            - From crista galli to straight sinus
+        - Straight sinus (along attachment of falx cerebri and tentorium cerebelli)
+            - Receives inferior sagittal sinus, great cerebral vein (of Galen) and basal cerebral veins (L and R)
+            - Ends at internal occipital protuberance (into L transverse)
+        - Confluence of sinuses (superior sagittal, straight and occipital sinus)
+        - Transverse sinus
+            - Commences at the confluence of sinuses
+                - Runs lateral to the junction of petrous and mastoid parts of the temporal bone and curves downwards as the sigmoid sinus
+        - Sigmoid sinus
+            - Ends at jugular bulb
+            - Receives superior petrosal sinus (upper) and occipital sinus (lower)
+            - Connected to the external surface
+                - Mastoid emissary vein → posterior auricular
+                - Vein to suboccipital plexus
+        - Cavernous sinus
+            - On either side of the sella turcica
+            - Drain their respective pituitary, orbital and sphenoparietal sinuses
+    
+    ![Screenshot 2023-06-30 at 9.44.48 am.png](Haemorrhagic%20Stroke%20(Anat,%20Path)%201300acf2446a813daa46f746322cffbb/Screenshot_2023-06-30_at_9.44.48_am.png)
+    
+    ![Screenshot 2023-06-30 at 9.45.06 am.png](Haemorrhagic%20Stroke%20(Anat,%20Path)%201300acf2446a813daa46f746322cffbb/Screenshot_2023-06-30_at_9.45.06_am.png)
+    
+- Anatomy - ventricular system
+    - Pathway of CSF formation and drainage
+        - Produced from a filtrate of plasma by:
+            - Choroid plexus (mostly) in third, fourth and lateral ventricles
+                - Specialised blood vessel formed of capillaries, pia and cuboidal ependymal cells
+            - 30% from other brain capillaries which seep into the system by the ECF
+        - Pathway
+            - Lateral ventricles → interventricular foramen (Monro) → third ventricle → cerebral aqueduct → fourth ventricle → two lateral foramina (Luschka) or midline foramen (Magendie) → subarachnoid space
+        - Reabsorption (two pathways)
+            - Mostly to the venous circulation via the arachnoid granulations into the dural venous sinuses
+            - Some into the lymphatic system through the cribriform plate of the ethmoid (nasal tissues, lymphatics)
+        
+        ![Screenshot 2023-06-30 at 9.55.10 am.png](Haemorrhagic%20Stroke%20(Anat,%20Path)%201300acf2446a813daa46f746322cffbb/Screenshot_2023-06-30_at_9.55.10_am.png)
+        
+    - Volume and function of CSF
+        - Volume: 130mL of CSF (30mL in ventricles, 75mL in spinal subarachnoid space, 25mL in cranial subarachnoid space)
+            - 500mL/day produced however constant recirculation and absorption maintains steady volume
+        - Function
+            - Protective buffer for neural tissue
+            - Waterbath to support the weight of the brain
+            - Removal of brain metabolites (blood-CSF barrier formed by selective transport of ependymal cells)
+    - Hydrocephalus - types
+        - Communicating
+            - Increased CSF production (rare → papilloma of choroid plexus)
+            - Decreased reabsorption through scarring or obliteration of arachnoid villi)
+                - E.g. post meningitis or SAH
+            - **Normal pressure hydrocephalus → chronic process** (enlarged ventricles, relatively normal opening CSF pressure)
+                - Triad of dementia, apraxic gait and urinary incontinence
+        - Non-communicating
+            - Obstructive
+                - Congenital → Chiari malformations
+                - Acquired → obstruction secondary to space-occupying lesion
+        - Idiopathic (benign intracranial hypertension)
+
+## Memorandum: **Haemorrhagic (hypertensive) stroke**
+
+*A 65yo woman presents after a fall. She had recovered initially. She has a background of AF, HTN, and T2DM. Her medications include metformin, anti-hypertensives, and DOAC therapy. On exam, she had left lower limb weakness and loss of sensation. There was a left facial droop, as well as hyperreflexia and a positive Babinski reflex. HR 120, BP 230/110, T 37.6, RR 14.*
+
+- PDx and DDx
+    - Posterior limb of the internal capsule stroke
+        - Haemorrhagic given severe hypertension and anticoagulant therapy
+- Aetiologies of haemorrhagic stroke
+    - Intracerebral
+        - Trauma
+        - Non-traumatic
+            - Hypertension (Charcot-Bouchard microaneurysms)
+            - Cerebral amyloid angiopathy (important cause of lobar haemorrhage in adults)
+            - Vascular malformations (most common cause in children)
+            - Septic embolism
+            - Neoplasia
+            - Drugs
+    - Subarachnoid
+        - Trauma
+        - Non-traumatic
+            - Cerebral aneurysm
+            - AVM
+            - Drugs
+- Pathophysiology of hypertensive intracerebral haemorrhage
+    - Chronic hypertension results in the weakening of the walls of blood vessels
+        - Leads to the development of Charcot-Bouchard microaneurysms which are vulnerable to spontaneous rupture
+        - Produces a haematoma which acts as a space occupying lesion that causes a rapid increase in ICP (headache +/- focal neurological deficits)
+    - Common locations of microaneurysms
+        - Pons and midbrain (basilar artery penetrators)
+        - Thalamus (thalamostriate perforators of P1/P2)
+        - Basal ganglia and internal capsule (lenticulostriate perforates off M1)
+- Management approach for intracerebral haemorrhagic stroke
+    - Initial management
+        - Primary survey and concurrent resuscitation
+        - Call for senior help - multidisciplinary input (critical care, neurosurgery, etc.)
+    - Acute stabilisation of patient with ICH
+        - Airway management (intubate if GCS < 8 or anticipated decline)
+        - Standard neuroprotective measures
+            - Supplemental O2 (SpO2 > 94%, low-normal CO2 to decrease risk of raised ICP)
+            - Maintain normoglycaemia and normothermia
+        - Cerebral perfusion pressure management
+            - BP management
+                - Aim for SBP < 160mmHg (permissible hypertension if increased ICP)
+            - ICP management
+                - Head elevation to 30 degrees
+                - Hyperosmolar therapy (mannitol)
+                - Placement of external ventricular drain or decompressive craniotomy
+    - Definitive treatment - neurosurgical intervention
+        - Craniotomy (’burr hole’) → haematoma evacuation
+            - Consider in patients with supratentorial haemorrhage and declining GCS or signs of herniation
+        - Decompressive craniectomy
+            - Consider in patients with GCS < 8 or large haematoma with significant midline shift
+    - Monitoring
+        - Continuous cardiac telemetry, invasive BP monitoring, pulse oximetry
+        - Hourly BSL
+    - Supportive care (TPN, VTE and pressure sore prophylaxis)

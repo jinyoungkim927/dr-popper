@@ -1,0 +1,309 @@
+# Acute Myeloid Leukemia
+
+*A **45-year-old woman** presented to her local doctor with a three-week history of **easy bruising** and **menorrhagia**, associated with **increasing fatigue** and **intermittent fever**. Physical examination revealed a **pale, thin person** with **prominent ecchymoses** on her arms, legs and abdomen. The **spleen was “tippable”** beneath the costal margin and there was slight **bony tenderness** over the sternum.*
+
+- PDx and DDx
+    - PDx: leukaemia given patient’s features of anaemia (fatigue, pallor), thrombocytopaenia (bruising, menorrhagia), leukopaenia (intermittent fever) + bony tenderness and splenomegaly
+        - Acute course of Sx → acute leukaemia
+        - Age (45), splenomegaly makes AML most likely
+    - DDx for pancytopaenia
+        - Malignancies
+            - Other myeloproliferative
+                - ALL (more common in children)
+                - Blast crisis in CML
+            - Myelodisplastic disorders
+            - Bone marrow infiltration secondary to lymphoma
+            - Multiple myeloma
+        - Causes of bone marrow failure
+            - Aplastic anaemia
+                - Cause of pancytopaenia secondary to bone marrow suppression
+                    - 50% idiopathic
+                - Possible causes:
+                    - Fanconi’s anaemia (AR condition of impaired DNA cross-link repair)
+                    - Viral infections (EBV, CMV. HIV, hepatoviruses)
+                    - Ionising radiation
+                    - Medications or toxins
+                        - “Can’t Make New Blood cells Properly”
+                            - Carbamazepine
+                            - Methimazole (anti-thyroid)
+                            - NSAIDs
+                            - Benzenes
+                            - PTU (anti-thyroid)
+            - Evans syndrome
+                - Condition where the patient develops multiple immune-mediated cytopaenias
+                    - Often autoimmune haemolytic anaemia and immune thrombocytopaenia)
+            - Drug induced (cytotoxic)
+            - Nutritional
+                - Folate or B12 deficiency
+                - Excess alcohol
+        - Hypersplenism (CHINA)
+            - Congestive (cirrhosis, portal vein thrombosis)
+            - Haematological (haemoglobinopathies, enzymopathies, spherocytosis)
+            - Infection
+            - Neoplastic
+            - Autoimmune (SLE, Felty’s syndrome, sarcoidosis)
+        - Infections
+            - Viral (EBV, CMV, HIV, hepatoviruses)
+            - Malaria
+                - Protozoal infection by 5 spp. of Plasmodia carried by Anopheles mosquito (vector)
+                    - Falciparum (most virulent)
+                        - Severe and irregular fever patterns
+                        - Can cause cerebral malaria (parasitised RBCs occlude brain capillaries)
+                    - Vivax (most common)
+                    - Ovale (tends to be chronic)
+                - Clinical sumptoms
+                    - Fever
+                        - Tertian fever in P. vivax and P. ovale (48h apart)
+                        - Quartan fever in P. malariae (72h cycle)
+                    - Headache
+                    - Anaemia
+                    - Splenomegaly
+                - Life cycle:
+                    - Sporozoites injected into bloodstream and infect the liver
+                        - Hypnozoites (P. vivax and P. ovale) stay dormant and may produce relapses years layer
+                    - Asexual reproduction produces multinucleated hepatic schizonts
+                        - Schizonts rupture and release thousands of merozoites which infect RBCs
+                            - Merozoites → trophozoites → blood-stage schizont → merozoites
+                        - Rupture of schizonts correspond with fever (periodic)
+                - Treatment
+                    - Acute
+                        - Chloroquine (if sensitive)
+                            - Blocks detoxification of haem into haemozoin (haem accumulates and toxic to plasmodia)
+                            - Increased resistance with P. falciparum
+                        - Atovaquone / proguanil (Malarone)
+                            - Useful for resistant species
+                        - Primaquine
+                            - Add for hypnozoites (P. ovale, P. vivax)
+                        - If life-threatening
+                            - Consider IV artesunate or quinine (check G6PD deficiency)
+                    - Prophylaxis
+                        - Doxycycline
+                        - Atovaquone / proguanil
+- Investigative approach
+    - Principal diagnostic investigations
+        - FBC with differential
+            - Anaemia, leukocytosis, thrombocytopaenia
+        - Peripheral blood smear
+            - ≥ 20% blasts on blood film
+            - Presence of Auer rods and granules (AML)
+        - Bone marrow aspirate and trephine
+            - Blasts ≥ 20% OR specific cytogenetics (e.g. t(15;17)
+            - Flow cytometry and immunohistochemistry
+                - CD markers and differentiate subtype
+            - Cytogenetics
+                - Chromosomal abnormalities may determine prognosis
+        - Consider LP for CNS infiltration
+    - Ancillary
+        - Bedside
+            - ECG (pre-treatment baseline)
+        - Labs
+            - UEC
+                - Tumour lysis syndrome
+                - Baseline to guide chemotherapy
+            - LFT
+                - Dysfunction due to tumour
+                - Baseline for chemo
+            - Coags (risk of DIC in APML)
+            - Serology of viruses
+            - Serum LDH
+            - ANA
+        - CT
+            - CT CAP (metastases)
+            - CXR
+- AML - general information and subtypes
+    - Neoplastic accumulation of myeloblasts (>20%) in bone marrow
+        - Myeloblasts have MPO+ staining and MPO aggregates (Auer rods)
+        - More common in older adults
+    - Subclassified based on cytogenetic abnormalities, myeloid lineage and surface markers
+    - Important subtypes include:
+        - Acute promyelocytic leukaemia (APML)
+            - t(15;17) translocation
+            - Increased risk of DIC
+                - Release and upregulation of pro-coagulant factors by promyelocytes
+            - Excellent prognosis when treated with all-trans-retinoic acid (ATRA)
+        - Acute monocytic leukaemia
+            - Proliferation of monoblasts (lack MPO)
+            - Infiltrate gums
+- AML - diagnostic criteria
+    - Diagnosis is based on:
+        - Blast forms account for ≥ 20% of total cells on bone marrow or peripheral smear OR
+        - Specific genetic abnormalities (e.g. t(15;17))
+    - AND
+        - Blast forms must be myeloid
+            - Auer rods
+            - MPO+
+            - Other immunophenotypical markers
+- Interpret the following results (AML)
+    
+    ![clip_image002-534db8bb80c5faf720660ae15bf4e8de0882f4e1.png](Acute%20Myeloid%20Leukemia%201300acf2446a81b4a2c2e7119e9f2755/clip_image002-534db8bb80c5faf720660ae15bf4e8de0882f4e1.png)
+    
+    - Anaemia
+        - Due to bone marrow failure in the context of blast proliferation
+    - Leukocytosis
+        - Blast proliferation (immature, non-functional)
+        - Cytopaenia of all white cell subtypes
+    - Thrombocytopaenia
+        - Bone marrow failure in context of blast proliferation
+    - Film
+        - ≥ 20% myeloid precursors is diagnostic
+    - ESR elevated
+        - Tumour associated inflammatory response
+        - Upregulation of cytokines which promote tumour growth and survival
+- How would you differentiate AML and ALL on a blood smear
+    
+    
+    |  | AML | ALL |
+    | --- | --- | --- |
+    | Cell size | Large  | Small |
+    | Age | Adults | Children |
+    | Nucleoli size | Prominent | Small |
+    | Chromatin | Fine | Coarse |
+    | Features | Auer rods, granules | Neither |
+- AML - what would be expected on bone marrow? How are myeloblasts recognised?
+    - ≥ 20% myeloblasts as a proportion of total bone marrow cells would be expected
+        - Concomitant reduction in number of normal myeloid and lymphoid precursors
+    - Key features of myeloblasts:
+        - Morphology
+            - Large cells, granules
+            - Auer rods
+        - Cytochemical analysis
+            - MPO+and Tdt-
+        - Cytogenetics (e.g. t(15;17))
+        - Cell surface markers (e.g. CD117)
+    
+    ![clip_image002-4e3818f590d2ec62b4157b899e5ed2ff40e7d750.jpg](Acute%20Myeloid%20Leukemia%201300acf2446a81b4a2c2e7119e9f2755/clip_image002-4e3818f590d2ec62b4157b899e5ed2ff40e7d750.jpg)
+    
+- AML - risk factors
+    - Non-modifiable
+        - Age (40-60)
+        - Male sex
+        - FHx of leukaemia or AML
+        - Syndromes (Downs, Turners, Kleinfelters)
+        - History of haematological disorders (myeloproliferative, myelodysplastic)
+    - Modifiable
+        - Smoking
+        - Benzene exposure
+        - Chemotherapy or radiotherapy
+- AML - pathogenesis
+    - AML is characterised by clonal proliferation of myeloid precursors with maturation defects
+    - Pathophysiology is poorly understood
+        - Two-hit hypothesis
+            - Class 1: proliferative advantage
+            - Class 2: impaired differentiation
+        - May be primary or secondary to other disorders (e.g. myeloproliferative or myelodysplastic)
+    - Results in the accumulation of blasts
+        - Bone marrow failure
+            - May be due to secretion of inhibitory chemokines than physical replacement
+        - High WCC (blasts)
+- AML - complications
+    - Related to:
+        - **Pancytopaenia**
+            - Anaemia → fatigue and dyspnoea
+                - High output heart failure
+            - Leukopaenia → opportunistic infections
+            - Thrombocytopaenia → spontaneous haemorrhage
+        - **Proliferation of blasts**
+            - Leukostasis syndrome
+                - High blast concentration interferes with circulation and causes microvascular occlusion and tissue hypoxia
+                    - Leads to infarction
+                    - May present like DIC
+                - Medical emergency
+            - CNS infiltration → meningitis (leukaemic)
+            - Bone pain → lytic lesions, fracturres
+        - **Treatment related**
+            - Tumour lysis syndrome
+            - Cardiotoxicity
+            - Febrile neutropaenia
+- AML - approach to treatment
+    - Individualised based on patient factors (age, treatment preferences, functional status, comorbidities) and disease factors (e.g. subtype)
+    - General paradigm
+        - Induction therapy
+            - Aim to achieve complete remission
+            - Commonly use cytarabine and anthracyclines (e.g. daunorubicin)
+        - Consolidation therapy
+            - Post-remission to maintain remission
+            - Can consider haematopoietic stem cell transplantation in some patients
+        - Supportive therapy
+            - Avoid high infection risk
+            - Treat infections
+            - Ondansetron for nausea and vomiting
+    - Toxicities of chemotherapy drugs
+        
+        ![Screenshot 2023-10-20 at 3.35.28 pm.png](Acute%20Myeloid%20Leukemia%201300acf2446a81b4a2c2e7119e9f2755/Screenshot_2023-10-20_at_3.35.28_pm.png)
+        
+
+- Acute leukaemia
+    - Neoplastic proliferation of blasts (≥ 20% in bone marrow)
+        - Subdivided into ALL or AML based on blast phenotype
+    - Clinical presentation
+        - Bone marrow failure
+            - Anaemia, thrombocytopaenia, leukopaenia
+        - High WCC and leukostasis
+        - Accumulation of blasts in organs (e.g. spleen, testis, liver, gums)
+- ALL - general
+    - Neoplastic accumulation of lymphoblasts (≥ 20% in bone marrow)
+        - Lymphoblasts are characterised by Tdt+ (DNA polymerase which is absent in myeloblasts and mature lymphoblasts)
+    - More common in children
+    - Subdivided into B-ALL or T-ALL based on surface markers
+        - B-ALL
+            - Most common
+            - Lymphoblasts (Tdt+) with CD10, CD19, CD20
+            - Excellent response to chemotherapy
+            - Philadelphia chromosome is a poor prognostic sign
+        - T-ALL
+            - Less common
+            - No CD10 (express CD2, CD3, CD4, CD7)
+            - Often presents as a mediastinal mass in teenagers
+    - Often spreads to CNS and intrathecal chemotherapy is important to promote remission
+- CLL - general
+    - Neoplastic proliferation of mature, naive B cells which co-express CD5 and CD20
+        - Most common leukaemia overall
+    - Clinical information
+        - Generalised lymphadenopathy
+        - Increased infection risk (hypogammaglobulinaemia)
+        - Autoimmune haemolytic anaemia
+        - Transformation
+            - DLBCL (Richter transformation)
+                - Enlarging LN or spleen
+    - Investigations
+        - Blood smear
+            - Raised WCC
+            - Smudge cells
+- What is myelodysplastic syndrome?
+    - Causes of dysplasia within myeloid cell lines due to somatic mutation and exposure to alkylating agents or radiotherapy
+    - Presentation:
+        - Hypercellular bone marrow
+        - Cytopaenias
+        - Abnormal cellular maturation
+        - Increased blasts
+            - Less than AML (< 20%)
+    - Mortality is largely from infection
+- Where are platelets derived from? Life span
+    - Platelets are derived from the cytoplasm of megakaryocutes
+    - Origin of megakaryocytes
+        - Myeloid stem cell → megakaryoblast → megakaryocyte (common myeloid progenitor line)
+        - Production regulated by TPO (produced by liver and kindeys)
+    - Lifespan around 8-9 days
+        - Destroyed by phagocytosis in spleen and liver
+    
+    ![Screen Shot 2020-05-28 at 3.31.02 pm (1).png](Acute%20Myeloid%20Leukemia%201300acf2446a81b4a2c2e7119e9f2755/Screen_Shot_2020-05-28_at_3.31.02_pm_(1).png)
+    
+
+- Leukaemia - examination findings
+    - Haematological
+        - Anaemia
+        - Thrombocytopaenia (epistaxis, bleeding gums, petechiae)
+        - Lymphoadenopathy
+        - Splenomegaly
+        - Bony tenderness
+    - Signs of infiltration
+        - Myeloid sarcoma (nodular skin lesions)
+        - Gingival hyperplasia
+    - CNS involvement
+    - Signs of oncological emergencies
+        - Tumour lysis syndrome
+        - Hypercalcaemia
+        - Spinal cord compression
+- What is the Philadelphia chromosome
+    - Formed due to a translocation between chromosome 9 and 22
+        - c-abl proto-oncogene is translocated from chromosome 9 to the bcr of chromosome 22 to form the bcr-abl fusion gene (active tyrosine kinase)

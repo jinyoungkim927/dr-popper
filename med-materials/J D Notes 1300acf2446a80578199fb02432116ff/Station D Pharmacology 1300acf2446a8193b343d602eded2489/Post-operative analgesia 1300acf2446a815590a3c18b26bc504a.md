@@ -1,0 +1,297 @@
+# Post-operative analgesia
+
+An 80-year-old man comes in for a hemi-colectomy. He has biventricular heart failure. After the operation, he complains about abdominal pain. His pain medications are charted as below: 
+
+- Morphine IM q8h
+- Paracetamol PO
+- Ondansetron PO
+- Morphine PRN
+
+- What is wrong with his charted medications?
+    - Morphine IM Q8h and PRN
+        - Issues
+            - IM route is slower with more variable absorption
+                - Less effective and increased time for pain relief
+                - Painful to administer repeated IM injections
+            - PRN is inferior to PCA and increased time for patient to receive pain relief
+            - Constipation risk
+                - Consider adding movicol (osmotic laxative but NO promotility drugs)
+                    - Promotility drugs (e.g. senna) are contraindicated in bowel surgery as increased peristalsis leads to poorer outcomes and pain
+        - How should it be corrected?
+            - Morphine IV immediately post-op followed by morphine PCA
+                - 1-2mg IV boluses every 5 mins until satisfactory relief
+                - Follow with PCA (patient controlled analgesia)
+                    - Allows patient to self-administer small fixed doses of analgesia as required
+                - Set parameters such as:
+                    - Bolus dose (e.g. 1mg morphine)
+                    - Lockout time (often 5 mins to allow time for previous dose to take effect)
+            - Advantages of PCA
+                - Reduces breakthrough pain, nausea and drowsiness
+                    - Avoids peaks and troughs in morphine plasma concentration
+                - Patient in control as they are the best judge of their own pain
+    - Paracetamol PO
+        - Issues
+            - Cannot administer PO medications as the patient has recently had abdominal surgery and may have paralytic ileus
+            - Should be administered regularly as opposed to PRN whilst intensity of pain is moderate-high
+        - How should it be corrected?
+            - Dose 1g QID (max dose of 4g/24h)
+            - IV paracetamol should be used as it is opioid sparing and may reduce opioid requirements
+                - Multimodal therapy allows lowering of opioid dose and reduced AEs
+    - Ondansetron IM
+        - How should it be corrected
+            - Give IV
+            - Preferred over metoclopromide post-bowel surgery as it does not have prokinetic effects
+- What is the gold standard for post-operative analgesia
+    - Multimodal analgesia which is opioid sparing where possible
+        - Use a step-wise system to escalate analgesia where necessary
+    - Paracetamol 1g QID IV
+        - Shown to reduce opioid use and can use PO if no vomiting
+        - NSAIDs may be used in conjunction if there are no contraindications
+    - Opioids
+        - Any opioids can be used as long as the dose is titrated
+            - IV boluses at 5 mins intervals until satisfactory pain relief
+            - Follow with PCA
+        - Must monitor with sedation score (more sensitive than respiratory rate for respiratory depression)
+    - Consider adjuvants:
+        - Laxative or stool softener
+            - Prescribe with opioids (movicol preferred → hyperosmotic)
+            - Lactulose can also be chosen (poor taste)
+        - Anti-emetics (e.g. ondansetron)
+- Paracetamol (MOA, AE, overdose)
+    - Mechanism
+        - Inhibits production of prostaglandins via AA pathway (unclear mechanism)
+            - Analgesia
+                - Modulates descending inhibitory pathways
+            - Antipyretic
+                - Reduced production of PGE in the hypothalamus
+    - AEs
+        - Hepatic necrosis
+            - Toxic metabolite NAPQI depletes glutathione and increases oxidative stress and damage in the liver
+        - Rash
+        - Anaemia, leukopaenia, neutropaenia
+    - Management in overdose
+        - Activated charcoal in recent ingestions (<2h)
+        - N-acetylcysteine regenerates glutathione
+- Why is paracetamol monotherapy not suitable as an analgesic
+    - Paracetamol is not a suitable monotherapy for severe pain as it is a weak analgesic
+    - Useful in combination therapy to require opioid requirements
+- Compare paracetamol and NSAIDs as analgesia
+    - Efficacy
+        - Both shown to be opioid sparing
+        - Similar analgesic effects (NSAIDs slightly syperior)
+    - Safety
+        - Paracetamol has a better AE profile
+        - NSAIDs are less favourable (renal impairment, GI bleeding, thrombotic risk)
+    - Note:
+        - These agents may be used synergistically
+        - Paracetamol should be used routinely as 1g QID
+            - NSAIDs require assessment of each patient individually
+- Contraindications for NSAIDs (in this patient, general)
+    - Avoid NSAIDs in this patient due to:
+        - GI side effects with recent abdominal surgery
+        - Bleeding risk (antiplatelet effect)
+        - Patient has heart failure → risk of further decompensation secondary to fluid retention
+    - Absolute contraindications
+        - Known hypersensitivity to NSAIDs
+        - Asthma sensitive to NSAIDs (bronchospasm)
+        - Active GI bleeding
+        - Pregnant (teratogenic, closure of DA)
+    - Relative contraindications
+        - History of GI haemorrhage or PUD
+        - Hepatic, renal or cardiac impairment
+        - Asthma
+- COX 2 inhibitors (benefits compared to non-selective NSAIDs)
+    - COX-2 selective (e.g. celecoxib) were developed to provide less inhibition of COX1 constitutional effects
+    - Benefits
+        - Similar efficacy for analgesia, anti-inflammatory, anti-[yretic
+        - Reduced AEs
+            - Less GI upset and PUD
+            - Less bronchospasm
+            - Less bleeding risk
+    - AEs (COX2)
+        - Cardiac
+            - Increased risk of MI, heart failure, stroke
+            - Potential pro-thrombotic events
+        - **Renal**
+            - Interstitial nephritis
+- Morphine (mechanism, AE)
+    - Mechanism
+        - **Agonist at GPCR opioid receptors** (mu, kappa, delta)
+            - Mu
+                - Analgesia
+                - Respiratory depression, mioisis
+                - Constipation
+                - Euphoria, dependence
+            - Delta
+                - Analgesia, respiratory depression, euphoria
+            - Kappa
+                - Analgesia, miosis, dysphoria, sedation
+        - Effects of receptor binding
+            - Inhibits adenylyl cyclase and neurotransmitter release
+                - Reduced intracellular cAMP and hyperpolarisation of neurons
+            - Results in closure of presynaptic Ca channels and opening of post-synaptic K channels
+                - Decreases synaptic transmission (ACh, NA, 5-HT, glutamate, substance P) and inhibition of ascending nociceptive signals
+                - Potentiates descending inhibitor impulses
+        
+        ![Screen Shot 2020-09-08 at 2.42.14 pm.png](Post-operative%20analgesia%201300acf2446a815590a3c18b26bc504a/Screen_Shot_2020-09-08_at_2.42.14_pm.png)
+        
+    - AEs (MORPHINES)
+        - **Miosis**
+        - **Orthostatic hypotension**
+        - **Respiratory depression**
+        - Pruritus
+        - Hunger for drugs (**dependence**)
+        - Infrequent stools (**constipation**)
+        - **Nausea and vomiting**
+        - Euphoria
+        - **Sedation**
+    - Manage overdose with naloxone (IM)
+        - Opioid receptor antagonist with short half-life (1h) which rapidly reverses effects
+- What factors would you consider for opioid use? (APO, post-operative analgesia)
+    - patient factors
+        - preference
+        - prev opioids dependence → may have tolerance, need higher dose for effect
+        - drug seeking behaviour
+    - clinical factors
+        - WHO pain ladder
+        - co-morbidities
+        - side effects
+- Why is morphine a good choice for post-operative analgesia? Route of administration?
+    - Several factors support the use of morphine
+    - Pragmatic factors
+        - Cheap and widely available
+        - Familiar to many clinicians
+    - Pharmacological
+        - Full agonist at opioid receptors → good efficacy
+        - Various routes of administration
+            - IV
+                - Rapid onset and good for short term use
+            - IM
+                - Generally avoided due to irregular absorption and more painful
+            - Subcutaneous
+                - Equally effective to IM
+                - Less painful
+- Morphine use in CKD
+    - Morphine should not be used in non-dialysis chronic kidney disease
+        - Alternatives include fentanyl (no dose reduction required) or oxycodone/hydromorphone (dose reduction required)
+        - Risk of accumulating active metabolites and toxicity (sedation, confusion, myoclonus, respiratory depression)
+    - What other opioids would you give if low renal function
+        - Consider fentanyl or oxycodone
+            - Oxycodone preferred in renal impairment with adjusted dose
+            - Fentanyl metabolised in liver → no active or toxic metabolite accumulation
+- How do you minimise the risk of AEs with morphine
+    - Multimodal analgesia
+        - E.g. paracetamol, NSAIDs to reduce opioid requirement
+    - IV boluses followed with PCA (with lockout periods)
+    - Monitor sedation with a validated tool
+- What are the different types of opioids
+    - Strong opioids
+        - Oxycodone (1.5x)
+        - Hydromorphine (5x)
+        - Fentanyl (50-100x)
+    - Atypical
+        - Tramadol
+            - 1/10th morphine, acts on mu receptors
+            - NA and serotonin reuptake inhibition
+        - Tapentadol
+            - 1/3 morphine, acts on mu receptors
+            - NA reuptake inhibition
+    - Partial agonists
+        - Buprenorphine
+- Ondansetron (MOA, AE)
+    - Used in cancer chemotherapy and post-operative nausea and vomiting
+    - Mechanism
+        - 5-HT3 antagonist
+            - Centrally acting antiemetic
+                - Acts on chemoreceptor trigger zone (area postrema) in medulla
+            - Peripheral effect
+                - Decreases vagal stimulation to the vomiting centre in medulla (reflex)
+    - AEs
+        - Headache
+        - Constipation
+        - QT interval prolongation
+        - Risk of serotonin syndrome?
+- If the patient was IVDU, how would this change your approach
+    - Suggests that the patient may have acquired a tolerance and would require a higher dose of opioid therapy
+        - Concerns about withdrawal
+    - Management
+        - Consult a pain specialist
+        - Options for analgesia
+            - PCA with maintenance infusion
+            - Suboxone (buprenorphine + naloxone) may reverse opioid induced hyperalgesia
+                - Consider risk of precipitated withdrawal
+        - Contact opioid substitution program coordinator if involved
+        - Monitor for withdrawal
+            - Pupil dilation
+            - Sweating, tachycardia
+            - Diarrhoea
+        - Monitor for drug seeking behaviour
+- How would you manage an overdose
+    - Paracetamol
+        - If ≤ 4h, consider activated charcoal or NAC
+        - If 4-8h
+            - Check serum paracetamol level
+            - Consider NAC based on result
+        - ≥ 8h
+            - Start NAC immediately and check serum paracetamol level
+        - Monitor LFTs, coags, UEC, lactate
+    - NSAIDs
+        - Minimal clinical manifestations
+        - Supportive care
+    - Opioids
+        - Sedation, miosis, respiratory depression
+        - Primary survey and concurrent assessment and management
+            - Oxygenation
+            - IV fluids if hypotensive
+        - Definitive: naloxone
+- What one organ would you examine if the patient was unconscious
+    - Eye → pupillary constriction
+- WHO principles of pain management
+    - “By the clock, by the mouth, by the ladder”
+        - By the clock
+            - Drugs given regularly as opposed to only PRN to optimise analgesia
+        - By the mouth
+            - PO route preferred where possible
+            - Least invasive route should be considered if PO no possible
+                - e.g. subcutaneous before IV
+            - Avoid IM
+        - By the ladder
+            - Stepwise escalation of analgesia
+                - Non-opioids
+                - Mild opioids (codeine), atypicals (tramadol, tapentadol)
+                - Strong opioids
+            - Drug selection should be appropriate to the severity of the pain
+                - Maintain patient on the dose which is effective
+    - Adjuvants
+        - Antidepressants (amitriptyline, duloxetine)
+            - Strengthen inhibitor pathways (inhibit monoamine reuptake)
+            - First line in neuropathic pain, useful in chronic pain
+        - Gabapentinoids (gabapentin, pregabalin)
+            - Block Ca channels to modulate Ca influx into hyperexcitable neurons and reduce release of excitatory AAs
+            - First line in neuropathic pain, can be used perioperatively
+        - Corticosteroids
+            - Inhibit AA pathway and pain relief
+
+- Dopamine antagonists as anti-emetics
+    - e.g. metoclopromide (Maxolon), prochlorperazine (Stemetil)
+        - Prochlorperazine used for mild to moderate chemotherapy induced nausea
+            - Moderately effective
+        - Metoclopromide has central and peripheral D2 action
+    - Mechanism
+        - Antagonises D2 receptors
+        - Metoclopromide stimulates ACh receptors on gastric smooth muscle (enhanced release) which increases gastric emptying
+            - Peripheral action
+    - AE
+        - Risk of extrapyramidal reactions with prolonged use (dystonia, TD)
+        - Anxiety, restless, depression
+        - Hyperprolactinaemia
+    - CI
+        - Pro-kinetic agent and inappropriate for use in post-GI surgery
+- Compare fentanyl and morphine (pharm, half-life)
+    - Fentanyl
+        - 50-100x more potent than morphine
+            - Rapid onset of action due to fast tissue uptake
+        - **Hepatic metabolism (CYP)**
+            - Shorter half-life (30-60mins)
+    - Morphine half life
+        - 2-3 hours

@@ -1,0 +1,620 @@
+# Alcoholic liver disease
+
+## Case Protocol 22 – **Alcoholic Cirrhosis**
+
+*A 63-year-old woman was referred to her local hospital for assessment of ankle oedema and weakness. She had been divorced for 23 years and lived alone. She had previously worked as a cook in the local RSL club but had been on sickness benefits for the past 15 years because of depression. She smoked 40 cigarettes a day and drank 5-6 glasses of sherry per day.*
+
+*Examination revealed a woman who looked older than her stated age. Her gait was ataxic. Pitting oedema was present in both lower limbs. The abdomen was distended and tense, with shifting dullness. The liver was not palpable; however, the spleen was palpable 3 cm below the costal margin. Rectal examination revealed bleeding haemorrhoids.*
+
+- PDx and DDx
+    - PDx
+        - Cirrhosis secondary to chronic alcohol abuse
+        - Complicated by portal hypertension and hypoalbuminaemia
+    - DDx
+        - Other causes of cirrhosis
+            - Chronic viral hepatitis (HCV, HBV)
+            - NASH
+            - Inherited (haemochromatosis, Wilsons)
+            - Autoimmune (hepatitis, primary biliary cholangitis)
+        - Consider other causes of acute liver injury
+            - Drug induced
+            - Neoplasia (HCC, metastases)
+            - Vascular (thrombosis)
+        - Other causes of ascites (based on SAAG)
+            - Transudative (e.g. portal hypertension)
+                - Thrombosis
+                    - Portal vein (pre-hepatic)
+                    - Budd-Chiari (post-hepatic)
+                - Right heart failure
+            - Exudative
+                - Nephrotic syndrome (intravascular hypoalbuminaemia)
+                - Peritoneal malignancy
+                - Infection
+- Clinical manifestations of liver disease
+    - General observation
+        - Jaundice
+        - Scratch marks (excoriations)
+        - Bruising
+        - Muscle wasting
+    - Hands
+        - Palmar erythema
+        - Leukonychia
+        - Clubbing
+        - Asterixis
+    - Face
+        - Xanthelesmata
+        - Fetor hepaticus
+        - JVP (sign of RHF)
+    - Chest
+        - Spider naevi
+        - Gynaecomastia
+    - Abdomen
+        - Hepatosplenomegaly
+        - Ascites
+        - Caput medusae
+        - Haemorrhoids
+        - Testicular atrophy
+    - Legs
+        - Pitting oedema (bilateral)
+- Pathophysiology of cirrhosis
+    - Cirrhosis is a condition characterised by extensive scarring and fibrosis of the hepatic parenchyma
+        - Due to chronic inflammation and represents a maladaptive attempt at healing which produces peri-sinusoidal fibrosis
+        - Nodules of regenerating hepatocytes surrounded by fibrotic bands → presents with liver failure
+    - Results in portal hypertension and decreased metabolic function
+    - Explain ascites, oesohageal varices/haemorrhoids, splenomegaly
+        - Ascites
+            - Imbalance in Starling’s forces
+                - Increased hydrostatic forces
+                - Decreased intravascular oncotic force (decreased albumin)
+            - Diagnosed via U/S or ascitic tap
+        - Oesophageal varices or bleeding rectal varices
+            - **Related to formation of porto-systemic anastomoses**
+            - Risk of excess bleeding due to impaired synthesis of clotting factors (can be fatal)
+        - Splenomegaly
+            - Develops due to backflow from the portal vein into its tributaries (including splenic vein)
+                - Spleen becomes congested due to its large capacity to store blood
+- Common causes of cirrhosis
+    - Alcoholic liver disease
+    - Chronic viral hepatitis (B, C, B+D)
+    - Haemochromatosis
+    - NAFLD
+- Factors predisposing to variceal haemorrhage
+    - Variceal
+        - Location
+            - More superficial (e.g. gastro-oesophageal) → increased risk
+        - Size
+            - Increased diameter = increased risk
+        - Increased pressure (> 15mmHg)
+        - Appearance
+            - Red wale marks (longitudinal streaks)
+            - Cherry-red (flat) spots
+            - Haematocystic (raised → resemble blood blisters)
+        - History of previous haemorrhage
+- Investigative approach to a patient with cirrhosis
+    - LFTs
+        - May be raised or normal in severe cirrhosis
+        - Not sufficient to diagnose
+    - Identifying complications
+        - Synthetic function
+            - Albumin
+            - Coagulation studies
+            - Bilirubin (total and unconjugated)
+        - Metabolic function
+            - Serum ammonia
+        - Other general
+            - FBC (anaemic of chronic disease, thrombocytopaenia)
+            - Micronutrients (fat soluble (ADEK))
+            - UECs (hepatorenal syndrome)
+    - Specific to aetiology
+        - Alcoholism (B12, folate, thiamine)
+        - Viral (serology for HBV, HCV)
+        - Serum a1-antitrypsin
+        - Iron studies (haemochromatosis)
+        - Serum copper and ceruloplasmin (Wilsons)
+        - Smooth muscle antibody (autoimmune)
+            - Also anti-soluble liver antigen/liver pancreas (anti-SLA/LP)
+    - Imaging
+        - Transient elastography
+            - Ultrasound technique to assess severity of fibrosis
+        - CT abdomen
+            - Portal venous enlargement
+            - Splenomegaly
+            - Ascites
+    - Invasive
+        - Liver biopsy
+            - Gold-standard but invasive (may have high risk of haemorrhage)
+        - Paracentesis of ascites → cytology, MCS, biochemistry (protein, glucose)
+            - Serum-ascites albumin gradient (SAAG)
+                - Calculated by serum albumin - ascitic albumin
+                    - More than. 11 g/L = high SAAG = transudate
+                        - Seen in portal hypertension or RHF
+                    - < 11g/L = low SAAG = exudate
+                        - Seen in nephrotic syndrome or inflammatory conditions (e.g. malignancy)
+- How do you grade the severity of cirrhosis
+    - Child-Pugh classification
+        - Originally used to assess the risk of non-shunt operations in cirrhosis
+        - Associated with survival and development of complications
+        - Parameters (score between 1-3 for each based on severity)
+            - Albumin
+            - Bilirubin
+            - Ascites
+            - Encephalopathy
+            - INR
+    - MELD score
+        - Originally used to predict survival after TIPS
+        - Used to prioritise patients for liver transplantation
+        - Parameters
+            - Creatinine
+            - Bilirubin
+            - INR
+            - Serum sodium
+- Explain the following FBC and LFT (cirrhosis)
+    
+    ![clip_image002-3a2df45d0d6e6f5a963f2057ee9c587cbde39ba0.png](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/clip_image002-3a2df45d0d6e6f5a963f2057ee9c587cbde39ba0.png)
+    
+    - FBC
+        - Macrocytic anaemia
+            - Alcohol has a direct toxic effect on bone marrow
+            - May have folate or B12 deficiency (secondary to nutritional deficits from chronic alcoholism)
+                - Megaloblastic
+        - Leukopaenia
+            - May be due to reduced bone marrow production and sequestration
+        - Thrombocytopaenia
+            - Decreased TPO production
+            - Congestive hypersplenism due to portal hypertension
+            - Suppression of bone marrow from alcoholism
+    - LFTs
+        - Hyperbilirubinaemia → suggests severe liver damage as it is usually compensated well
+            - Hepatocellular damage (impaired conjugation)
+            - Intrahepatic biliary obstruction (fibrosis, oedema, swelling)
+        - Elevated ALP and GGT
+            - Cholestatic picture due to obstruction from fibrosis or cirrhosis resulting in irritation of biliary epithelium
+        - Normal transaminases
+            - Tend to be normal in cirrhosis (chronic liver disease) as there are fewer hepatocytes to release enzymes (often downregulated)
+        - Proteins
+            - Hypoalbuminaemia → decreased synthesis by liver
+            - Hypergammaglobulinaemia
+                - Shunting of portal blood systemically → intestinal bacteria and toxins bypass the liver → immune activation
+- How does excessive alcohol result in haematological abnormalities
+    - Excessive alcohol constitutes approximately ≥ 6 SDs (female) and ≥ 8 SDs (male) daily for ≥ 1-2 years
+    - Damage to all cell lines
+        - Direct toxic effect on haematopoietic cell lines (via acetaldehyde from alcohol DH)
+        - Folate deficiency with malnutrition
+- Would a liver biopsy be indicated in this patient? Contraindications to liver biopsy
+    - Not required in this case as a diagnosis of cirrhosis can be made by clinical history, examination and investigative findings
+        - Significant risk of haemorrhage with liver biopsy (coagulopathy + highly vascular)
+    - Contraindications
+        - Coagulopathy
+        - Suspicion of vascular tumour or haemangioma
+        - HCC (risk of seeding)
+        - Cholangitis (risk of peritonitis)
+        - Infection
+- Describe the spectrum of alcoholic liver disease (pathogenesis)
+    - Alcoholic liver disease refers to a spectrum of liver disorders associated with alcohol consumption
+        - Pathophysiology is complex and incompletely understood → may be related to dehydrogenation of ethanol to acetaldehyde
+            - Direct toxicity of alcohol on the liver → acetaldehyde damages proteins and cell membranes via oxidation → cell death
+            - **Intracellular accumulation of TAGs secondary to inhibition of B-oxidation by alcohol [alcohol dehydrogenase uses all the NAD+]**
+                - Bind to hepatocytes and evoke an immune response
+    - Steatosis
+        - Fatty infiltration into hepatocytes from impaired fatty acid oxidation and impaired lipoprotein transport
+    - Alcoholic steatohepatitis
+        - Swollen and necrotic hepatocytes with neutrophil infiltration
+            - May be associated with scar tissue formation
+        - Presents with fever, RUQ tenderness and jaundice
+    - Cirrhosis
+        - Inflammation causes activation of Kupffer cells which produce inflammatory cytokines → Stellate cells synthesise collagen
+            - Regenerative nodules surrounded by fibrous bands in response to chronic liver injury
+        - Liver shrinks and contracts
+- Histological findings across the spectrum of liver disease
+    - Steatosis (fatty liver)
+        - Fat accumulation in hepatocytes
+            - Initially microvesicular, then macrovesicular
+                - Compresses and displaces the nucleus to the periphery of the cell
+            - Change is initially centrilobular but can eventually affect the whole lobe
+            - Reversible until fibrosis
+    - Alcoholic steatohepatitis
+        - Fatty change with focal hepatocellular necrosis
+        - Prominent neutrophilic or lymphocytic infiltrate
+        - Mallory bodies
+            - Condensations of intracellular filaments or cytokeratins
+            - Important for hepatocyte cytoskeleton
+        - May have fibrosis (perivenular, perisinusoidal or pericellular distribution)
+    - Cirrhosis
+        - Disrupted hepatic architecture with loss of lobular organisation
+        - Formation of nodules of regenerating hepatocytes surrounded by uniform fibrous septa
+        - Micronodular cirrhosis (<3mm)
+            - Small regular nodules of hepatocytes
+            - Common in alcohol abuse
+        - Macronodular cirrhosis
+            - Post-necrotic cirrhosis → viral, Wilsons
+- What are systemic complications of alcohol use?
+    - Neurological
+        - **Withdrawal → anxiety, tremor, hallucinations, seizures, DTs**
+        - **Wernicke-Korsakoff syndrome**
+        - **Cerebellar degeneration**
+        - Cortical atrophy
+    - Cardiovascular
+        - **Alcohol-related dilated cardiomyopathy**
+        - Accelerated atherosclerosis
+        - Arrhythmias
+    - Gastrointestinal
+        - **Erosive gastritis and risk of PUD**
+        - **Acute or chronic pancreatitis**
+        - **Oropharyngeal cancer**
+        - Mallory-Weiss tear
+        - Boerhaave syndrome
+        - Oesophagitis
+        - Varices
+    - Haematological
+        - **Macrocytic anaemia (megaloblastic or non-megaloblastic)**
+        - Splenomegaly (congestive)
+        - Thrombocytopaenia
+    - Endocrine
+        - Testicular atrophy
+        - Gynaecomastia
+        - Loss of libido
+        - Impotence
+    - MSK
+        - Alcoholic rhabdomyolysis (acute)
+        - Proximal myopathy (chronic)
+- What are complications of cirrhosis
+    - Bolded are the causes which are likely to be fatal
+    - Impaired toxin, drug and hormone metabolism
+        - **Hyperammonaemia (asterixis, fetor)**
+            - **Can lead to hepatic encephalopathy → confusion and coma → death**
+        - Hyperbilirubinaemia
+        - Hyper-oestrogenism
+            - Gynaecomastia, spider naevi, palmar erythema
+        - Increased concentration and half-life of drugs
+    - Portal venous hypertension
+        - Ascites (also related to decreased oncotic pressure)
+            - **Spontaneous bacterial peritonitis**
+                - **May be due to translocation of enteric bacteria which are normally phagocytosed by Kupffer cells**
+        - Splenomegaly (causes thrombocytopaenia)
+        - **Varices and portosystemic anastomoses (haemorrhage)**
+        - Hepatorenal or hepatopulmonary syndrome
+    - Impaired of hepatic synthetic function
+        - Coagulopathy
+        - Hypoalbuminaemia (peripheral oedema, worsening ascites, pleural effusion)
+        - Infections
+    - **Hepatocellular carcinoma**
+- What events may precipitate decompensated cirrhosis
+    - Infection
+    - Alcohol binges
+    - Dehydration
+    - Toxic insults to liver (e.g. medication)
+    - Electrolyte abnormalities
+    - GI bleeding
+- Portal hypertension - definition and causes
+    - Increased pressure in the hepatic portal venous system due to increased resistance
+        - Possibly aggravated by increased portal collateral flow
+    - Diagnosis is often clinical but can be quantified using the hepatic venous pressure gradient
+    - Causes (by site of resistance)
+        - Pre-sinusoidal (more common in developing world)
+            - Portal vein thrombosis
+            - Schistosomiasis
+        - Sinusoidal
+            - Cirrhosis
+        - Post sinusoidal
+            - RHF
+            - Hepatic vein thrombosis
+- Hepatorenal syndrome
+    - Refers to the development of renal failure in patients with severe liver disease, with no intrinsic morphological or functional causes of renal failure
+        - Often renal function rapidly improves with reversal of liver failure
+    - Exact pathogenesis is poorly understood:
+        - Increased local NO and VEGF production in the context of portal hypertension
+        - Splanchnic vasodilation resulting in a decrease in effective circulating volume in the system
+        - Activation of RAAS and ADH
+            - Systemic vasoconstriction → renal ischaemia and AKI
+
+- Review the functional zones of cerebellum
+    - Cerebrocerebellum (lateral hemispheres)
+        - Planning and execution (”coordination”) of complex movements
+        - Results in
+            - Dysdiadochokinesia, dysmetria
+            - Intention tremor, scanning speech
+            - Falls to ipsilateral side (tandem gait)
+    - Spinocerebellum (vermis and intermediate zones)
+        - Coordination of trunk (vermis) and limbs (distal)
+        - Maintenance of muscular tone
+            - Ataxia and hypotonia
+    - Vestibulocerebellum (flocculonodular lobe)
+        - Balance (vertigo)
+        - Ocular movements and gaze stability
+            - Nystagmus and poor pursuit (not smooth)
+- Explain the neurological effects of alcohol
+    - Complex - likely due to direct neurotoxicity of alcohol and nutritional deficiencies
+    - Alcoholic cerebellar degeneration
+        - Involves Purkinje fibres of cerebellar cortex (especially midline - vermis)
+            - Often presents with gait ataxia
+            - May have upper limb deficits and/or speech or gaze deficits
+    - Peripheral neuropathy
+        - Often secondary to axonal degeneration and may affect motor, sensory or autonomic nerves
+        - Deficits are often symmetric and predominantly distal
+            - Patients may complain of numbness, paraesthesias, burning dysthesias, pain or weakness
+    - Myopathy (acute or chronic)
+        - Weakness, pain or tenderness
+        - Often proximal distribution
+
+### Past question: alcoholic liver disease (diagnostics)
+
+*An elderly divorced lady presents with bilateral pitting oedema and a tense abdomen. On closer examination you find that there is shifting dullness, splenomegaly and bleeding haemorrhoids on rectal examination. She drinks 6-8 glasses of sherry a day and smokes 10-15 cigarettes daily. Her liver function test results are below.*
+
+- Pathophysiology of bruising in cirrhosis
+    - Reduced synthesis of clotting factors and thrombopoietin
+    - Malnutrition (secondary to alcoholism)
+        - Vitamin K deficiency
+            - Reduced synthesis of clotting factors (II, VII, IX, X)
+        - Vitamin C deficiency
+            - Poor collagen synthesis → weak blood vessels
+- Pathophysiology of pitting oedema in cirrhosis
+    - Occurs with extravasation of protein-deficient fluid into the interstitial fluid (e.g. hepatic or renal hypoalbuminaemia)
+        - When clinician presses on the site of oedema, the manual pressure forces fluid back into capillaries and lymphatics
+            - When pressure is removed, it ‘pits’ as there is no immediate oncotic force pushing it back into interstitium
+    - The fluid will eventually leak out again (but slowly) → e.g. under hydrostatic force in legs due to gravity
+
+### Past question: alcoholic liver disease (pharmacology)
+
+*Gerard is a 36-year-old miner who works several months a year in the mines. He presents with nausea and vomiting to the ED. He also describes stools that do not “stick together”. He has palmar erythema, spider naevi and is jaundiced with a mild fever. His history is remarkable for alcohol consumption of 12-15 beers a day when he is “on the job”.*
+
+- Investigative approach for acute presentation of suspected alcoholic hepatitis
+    - Principal Dx
+        - LFTs
+            - Increased AST > ALT in alcoholic hepatitis (> 2:1 ratio)
+                - AST is in mitochondria which undergo oxidative damage due to alcohol
+            - Increased ALP and GGT
+                - Cholestasis
+            - Raised bilirubin
+            - Albumin
+                - If decreased → chronic picture
+        - Ammonia
+            - Risk of encephalopathy
+        - Coags
+            - Nutritional status → highlights risk for catastrophic haemorrhage
+    - Ancillary investigations
+        - Labs
+            - FBC (anaemia - macrocytic)
+            - UEC (derangement, hepatorenal syndrome)
+            - Lipase (DDx / complication)
+            - Urine drug screen
+            - Microbiology
+                - Serology (viral)
+                - HCV RNA PCR
+            - Consider a-fetoprotein as a serum marker for HCC
+        - Imaging
+            - Liver US (HCC)
+            - CT abdomen (complications, HCC)
+- Describe the clinical syndromes of acute alcohol withdrawal (signs)
+    - Mild withdrawal (6-36h)
+        - Anxiety, agitation
+        - Autonomic hyperactivity (sinus tachycardia, sweating, HTN)
+        - Insomnia, vivid dreams
+        - Nausea and vomiting
+        - NO DELIRIUM
+    - Withdrawal seizures (6h - 2 days)
+        - Typically brief generalised tonic-clonic seizures
+    - Alcoholic hallucinations (12h - 2 days)
+        - Visual (most common)
+        - Vitals are often normal
+    - Delirium tremens (3-5 days)
+        - CNS
+            - Impaired consciousness and disorientations
+            - Gross motor tremor
+            - Psychomotor agitation
+            - May have hallucinations and seizures
+        - Autonomic instability
+            - Tachycardia and hypertension
+            - Nausea and sweating
+            - Anxiety
+- What is delirium tremens
+    - Severe form of delirium associated with acute alcohol withdrawal
+        - Defined by persistent alteration of consciousness and SNS hyperactivity
+    - Onset is usually 72-96h after cessation of alcohol consumption
+        - Duration lasts 2-3 days
+    - High risk of death due to cardiovascular complications, hyperthermia, aspiration, severe fluid and electrolyte disorders
+- How do you manage acute alcohol withdrawal
+    - Monitoring
+        - Use the CIWA tool to assess the severity of withdrawal symptoms and guide appropriate treatment
+        - Reassess patient every 2-4 hours
+    - Supportive management
+        - 1-1 nursing in low stimulus environment with orienting tools
+        - Fluid and electrolytes to manage dehydration
+        - NBM to prevent aspiration
+        - Analgesia
+        - Antiemetics
+    - Pharmacological
+        - Benzodiazepines (e.g. diazepam)
+            - Administer every 2h until symptoms stabilise
+            - Anxiolytic and seizure prophylaxis
+        - Electrolyte and nutrition replacement
+            - Thiamine
+            - Folic acid
+            - Multivitamins
+        - Give glucose replacement after thiamine
+        - Consider antipsychotics if severe and refractory DT
+- How do you manage chronic alcohol use disorder
+    - Assess dependence using:
+        - AUDIT-C
+        - CAGE questionnaire
+    - Use motivational interviewing (5A approach)
+    - Biopsychosocial approach is optimal to manage alcoholism
+        - Non-pharmacological
+            - Patient education
+                - Involve family and friends for support
+            - Psychotherapy (e.g. CBT, group therapy)
+            - Support groups (AA)
+            - Social supports (employment, housing)
+            - Strategies to modify harmful drinking
+                - Spacing drinks (1 drink of water between)
+                - Keep a drink diary
+                - Avoid dangerous situations
+        - Pharmacological
+            - Naltrexone
+            - Acamprosate
+            - Disulfiram
+- Pharmacology of AUD (drugs used)
+    - Naltrexone
+        - Mechanism
+            - Mu opioid receptor antagonist
+                - Reduces reward and cravings by blocking mesolimbic dopaminergic reward pathway
+        - AE
+            - Headache
+            - Insomnia and anxiety
+            - GI intolerance
+                - Nausea, vomiting, diarrhoea, abdominal pain
+        - Contraindications
+            - Opioid therapy
+            - Hepatic impairment
+    - Acamprosate
+        - Mechanism
+            - Weak NMDA antagonist and weak GABA agonist
+                - Activates GABA receptors and reduces cravings
+        - AEs
+            - GI intolerance
+            - Insomnia, anxiety, headaches
+        - CI
+            - Renal impairment
+            - Breast feeding
+    - Disulfiram
+        - Mechanism
+            - Inhibits acetaldehyde dehydrogenase which results in build-up of acetaldehyde
+            - Results in flushing, headache, tachycardia, hyperventilation on EtOH consumption
+                - Aversion therapy
+        - AE
+            - Headache, drowsiness, fatigue
+            - Hepatotoxicity
+            - Neuropathy
+- What is Wernicke’s encephalopathy
+    - Common acute neurological disorder caused by thiamine deficiency
+    - Classic traid
+        - Confusion
+        - Oculomotor dysfunction (nystagmus, conjugate gaze palsies)
+        - Gait ataxia
+    - Pathophysiology
+        - Thiamine deficiency develops in the context of excess alcohol intake due to inadequate nutrition and decreased hepatic storage
+        - Active form of thiamine (TPP) is a co-factor for several enzymes including those in cellular glucose metabolism
+            - Brain is dependent on glucose metabolism and hence susceptible to injury
+    - Treatment
+        - IV thiamine 300mg TDS for 3 days and then wean
+        - Thiamine replacement life-long
+- What is Korsakoff syndrome
+    - Chronic thiamine deficiency leads to irreversible damage to the mammillary bodies and components of the limbic system
+    - Manifestations
+        - Anterograde and retrograde memory deficits
+        - Confabulation
+        - Personality changes (e.g. apathy)
+        - Lack of insight
+        - Psychosis
+        - Disorientation
+    - Often preserved long-term memory, attention and other executive skills
+
+### **Past question: alcoholic liver disease (anatomy)**
+
+- Describe the relational anatomy of the liver
+    - Visceral surface
+        - Porta hepatis and lesser omentum
+            - Portal vein (posterior); CBD (right anterior); hepatic artery (left anterior)
+            - Lie within lesser omentum → hepatoduodenal part
+        - Gallbladder
+        - Quadrate lobe
+        - Fissure for ligamentum teres (remnant of left umbilical vein)
+        - Impression for
+            - Right kidney and suprarenal gland
+            - 2nd part of the duodenum
+            - R colic flexure
+            - Stomach
+    - Posterior surface
+        - Bare area and surrounding ligaments
+        - Groove for IVC
+        - Caudate lobe and process
+        - Fissure for ligamentum venosum (remnant of ductus venosus)
+        - Impression for
+            - Right suprarenal gland
+            - Oesophagus
+            - Upper part of the stomach
+    
+    ![paste-9cbbc4affdcf162e626d6adf83562e9a3f404210.jpg](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/paste-9cbbc4affdcf162e626d6adf83562e9a3f404210.jpg)
+    
+- Describe ligaments associated with the liver
+    - Falciform ligament
+        - Peritoneal fold passing from the umbilicus or anterior abdominal wall (up to xiphisternum) to the visceral surface of the liver
+            - Free edge contains the ligamentum teres
+    - Left triangular ligament
+        - Formed by the left layer of the falciform
+    - Coronary ligament
+        - Upper layer is a continuation of the right layer of the falciform
+            - Surrounds th**e bare area of the liver**
+        - **Lower layer descends over the R kidney and R paracolic gutter to form the hepatorenal pouch (Morrison’s pouch)**
+            - Encloses the caudate lobe (only part of liver in the lesser sac)
+    - Right triangular ligament
+        - Formed by the union of the two layers of the coronary ligament
+    - Lesser omentum
+    
+    ![paste-34434e7d979e37a6e72692d336016f8ac42efd0e.jpg](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/paste-34434e7d979e37a6e72692d336016f8ac42efd0e.jpg)
+    
+    ![paste-9cbbc4affdcf162e626d6adf83562e9a3f404210.jpg](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/paste-9cbbc4affdcf162e626d6adf83562e9a3f404210%201.jpg)
+    
+- Describe the blood supply and portal triads of the liver
+    - Blood from two sources
+        - Arterial (oxygenated) from the hepatic artery (30% flow and 50% O2)
+            - L and R branches from the porta hepatis → divides into segmental branches
+        - Venous blood from the portal vein (70% flow and 50% O2)
+            - L and R branches in the porta
+    - There is no mixing between L and R halves in portal or hepatic artery flow
+- Describe the venous drainage of the liver
+    - Arterial and portal are mixed in the sinusoids → central vein (within each lobule) → hepatic veins
+    - Three main hepatic veins with no extra hepatic course
+        - Left
+        - Right
+        - Middle
+            - Runs in the plane between left and right and receives blood from both
+            - Often joins the left hepatic vein
+    - There is mixing from the left and right halves of the liver
+- Lymphatic drainage of liver
+    - Hepatic nodes (porta hepatis) → retropyloric nodes → coeliac nodes
+        - May be involved in retrograde metastasis if a cancer infiltrates the retropyloric nodes → obstructive jaundice
+    - Extraperitoneal lymphatics
+        - Travel through diaphragm → posterior mediastinal nodes (from bare area and triangular ligaments)
+- Lobes of the liver (anatomical, functional)
+    - Anatomical
+        - Falciform ligament and grooves for ligamentum teres and venosum divides into L and R lobes
+            - Quadrate and caudate in R lobe
+    - Functional
+        - Principal plane (between gallbladder fossa and IVC) divides lobes into functional halves which reflect blood and bile flow
+- Histology of the hepatic parenchyma
+    - Liver divided into lobules (hexagonal and arranged around a central vein)
+        - Hepatocytes arranged into cellular plates (2 cells thick) which radiate like spokes on a wheel
+    - At the corners of each lobule are portal canals
+        - Contain branches of the hepatic artery, portal vein and bile ductules
+        - Between hepatocytes exist bile canaliculi which form intralobular ducts → interlobular ducts
+    - Between cellular plates are sinusoids (lined by endothelium)
+        - Possess frequent intercellular spaces and fenestrations which allow plasma to enter the perisinusoidal spaces (of Disse)
+        - Blood in the sinusoids are from hepatic and portal systems (mixed)
+            - Hepatocytes nearest the central vein receive the lowest O2 tension
+    - Special cells
+        - Kupffer cells (phagocytes)
+        - Stellate cells (produce growth factors, collagen)
+    
+    ![Screenshot 2023-09-26 at 5.15.17 pm.png](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/Screenshot_2023-09-26_at_5.15.17_pm.png)
+    
+
+- Suprarenal gland (general anatomy, blood supply and venous drainage)
+    - Two glands which lie within their own compartment of renal fascia superior to the kidney
+        - Right
+            - Superior part is in contact with the bare area of liver and only the lower half is covered by peritoneum
+        - Left
+            - Inferior part is covered by pancreas and splenic artery
+            - Superior part covered by peritoneum
+    - Blood supply origin
+        - Inferior phrenic (superior suprarenal)
+        - Abdominal aorta (middle suprarenal)
+        - Renal (inferior suprarenal)
+    - Venous drainage (often a single vein)
+        - Right → IVC
+        - Left → left renal vein
+    
+    ![paste-f0496eb2353817453273b8e096ae8698168f62a0.jpg](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/paste-f0496eb2353817453273b8e096ae8698168f62a0.jpg)
+    
+- Histology of adrenal gland
+    
+    ![paste-7753a0e7f40b05a2e3367fb9c47dbfbaad2dba38.jpg](Alcoholic%20liver%20disease%201300acf2446a81a780fede00aa595d87/paste-7753a0e7f40b05a2e3367fb9c47dbfbaad2dba38.jpg)

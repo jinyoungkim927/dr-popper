@@ -1,0 +1,71 @@
+# Osteomyelitis
+
+- Definition
+    - Inflammation of bone and marrow
+    - Most common causes
+        - Pyogenic bacteria
+        - M. tuberculosis
+- Pyogenic osteomyelitis
+    - Causative organisms
+        - S. aureus is the most common
+            - Able to express adhesins to attach to bone matrix
+        - In neonates
+            - E. coli and GBS
+        - In trauma, anaerobes and mixed bacterial infections are common
+    - Routes of infection
+        - Haematogenous dissemination (most common)
+        - Extension from an infection in an adjacent joint or soft tissue
+        - Traumatic implantation after compound fracture or orthopaedic procedures
+    - Clinical features
+        - Throbbing pain over the affected region
+        - Acute systemic illness
+            - Malaise, fever, leukocytosis
+    - Investigative approach
+        - High degree of suspicion in new or worsening MSK pain + fever + bacteraemia + risk factors (trauma, recent surgery, septic arthritis)
+        - Principal diagnostic investigations
+            - Gold standard is biopsy and bone culture to identify the pathogen
+            - Blood cultures
+                - Identify likely pathogen (S. aureus) in context of clinical symptoms
+            - Bone X-ray
+                - Destructive lytic lesion with surrounding oedema and sclerotic rim
+        - Ancillary
+            - Bedside
+            - Labs
+                - FBC (raised WCC)
+                - Inflammatory markers (CRP)
+    - Pathology
+        - Acute
+            - Bacteria proliferate and induce an acute inflammatory reaction with necrosis
+                - Entrapped bone becomes necrotic and called a **sequestrum**
+            - Periosteal involvement as bacteria can percolate through Haversian systems
+                - Can impair blood supply to affected region → suppurative necrosis and infarction which causes segmental bone necrosis
+                - **Rupture of periosteum can result in surrounding abscess which can cause a draining sinus**
+        - Chronic
+            - Chronic inflammatory cells predominate and stimulate reactive bone formation
+                - Can form a shell around sequestrum and form a **involucrum**
+                - Viable organisms can persist in the sequestrum
+    - Management
+        - Antibiotics
+            - Empirical antibiotics
+                - Low risk of MRSA
+                    - **Flucloxacillin 2g IV Q6h**
+                    - If hypersensitivity to penicillins
+                        - Non-severe: cefazolin
+                        - Severe: vancomycin
+                - High risk of MRSA
+                    - **Vancomycin IV**
+            - Duration of therapy
+                - **4 weeks IV followed by ≥ 2 weeks oral**
+        - **Surgical debridement of infection**
+    - Complications
+        - Acute
+            - Infection can spread:
+                - Suppurative arthritis
+                - Vertebral osteomyelitis → destruction of intervertebral discs
+                - Abscess of surrounding tissue
+            - Sepsis
+        - Chronic osteomyelitis
+            - Sinus tract formation
+            - Pathological fractures and bone deformities
+            - Secondary amyloidosis
+            - Increased cancer risk (SCC if sinus tract, osteosarcoma)

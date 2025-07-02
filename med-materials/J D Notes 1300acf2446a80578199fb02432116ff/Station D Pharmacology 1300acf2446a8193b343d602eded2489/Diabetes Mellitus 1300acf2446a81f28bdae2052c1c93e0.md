@@ -1,0 +1,571 @@
+# Diabetes Mellitus
+
+Case 1 - *A **13-year-old** girl was seen at home by her local doctor. She had been unwell for the past week, with increasing **weakness** and **lethargy**, and had also complained of **thirst** and **vague abdominal pains**. Her mother noted that the patient had **not been eating**, and had **vomited** repeatedly over the past two days.*
+
+*Examination revealed a **pale, thin, drowsy** girl with **dry mucosae** and **ketotic foetor**. She was admitted to hospital. UA showed protein, glucose, ketones +++*
+
+Case 2 – *A 42M present to ED severely dehydrated with fluctuating consciousness. He has recently had the flu and been experienced polyuria and polydipsia. BMI 32. BSL elevated.*
+
+- PDx and DDx for each case
+    - PDx
+        - Case 1: DKA and first presentation of T1DM
+        - Case 2: HHS due to poorly controlled T2DM exacerbated by recent stressor (influenza)
+        - Keep alert of the following scenarios
+            - Hypovolaemic shock (look at vitals)
+            - Hyperglycaemic non-ketotic coma
+    - DDx
+        - DKA or HHS
+            - First presentation
+            - Poor compliance
+            - Precipitated by intercurrent illness
+        - Other causes of acidosis
+            - Other causes of ketoacidosis
+                - Starvation ketoacidosis
+                - Alcoholic ketoacidosis
+            - Other causes of non-ketotic acidosis
+                - Lactic acidosis
+                - Uraemic acidosis (CKD)
+                - Toxin poisoning (ethylene glycol, methanol)
+        - Other causes of shock
+            - Septic shock with lactic acidosis (primary acute abdomen) → appendicitis? pyelonephritis?
+            - Hypovolaemic shock (severe gastroenteritis, ectopic pregnancy)
+        - Causes of altered consciousness
+            - Toxicology → intoxication, paracetamol toxicity
+            - Infective → sepsis
+            - Vascular → stroke
+            - Autoimmune → encephalitis
+- What is diabetes? What are the different types?
+    - Diabetes is a metabolic condition in which there is decreased insulin function due to decreased production or increased resistance → hyperglycaemia
+        - T2DM (80%)
+            - Insulin resistance (can lead to deficiency following B-cell exhaustion)
+        - T1DM (5-10%)
+            - Immune-mediated B-cell destruction → insulin deficiency (absolute)
+        - Other
+            - GDM
+            - Drug-induced diabetes (e.g. glucocorticoids, thiazide diuretics, beta-agonists)
+            - Exocrine pancreatic disease (CF, chronic pancreatitis, haemochromatosis)
+            - Monogenic diabetes
+- Define polyuria and polydipsia
+    - Polyuria
+        - Urine volume > 3L in 24h
+        - Causes
+            - Diabetes mellitus
+            - Overhydration
+            - Diabetes insipidus
+            - Polyuric phase of renal failure
+    - Polydipsia (increased thirst)
+        - Stimulated by hypothalamic osmoreceptors or Ang II
+        - Causes
+            - DM, DI
+            - Dehydration
+            - Hypercalcaemia
+            - Psychogenic
+            - Hyperaldosteronism
+            - Anticholinergics
+- Diabetes - approach to Hx and exam
+    - HPC
+        - Characterise polyuria and polydipsia (onset, duration, precipitating factors)
+        - Other urinary symptoms (dysuria, haematuria)
+        - Assoc. symptoms (ulcers, neuropathy, vision changes)
+        - Intercurrent illness which could precipitate DKA or HHS
+    - PMHx
+        - Other comorbidities
+        - CV risk
+        - Ix (e.g. recent HbA1c)
+    - Medications (diabetes, compliance)
+    - FHx (T2DM, CVD, renal disease)
+    - SHx (smoking, nutrition, alcohol, physical activity, drugs)
+    - Examination
+        - Primary survey (prior to further Ix)
+        - CV exam (include PVE and foot)
+        - Neuro examination
+        - Fundoscopy (retinopathy)
+        - UA for proteinuria
+- Diabetes - Ix approach in acute hyperglycaemia
+    - Urgent primary survey and concurrent resuscitation as needed
+        - Admit to a high-acute bed or ward
+    - Principal investigations
+        - Capillary and urine BSL
+        - Capillary and urine ketones
+        - VBG
+    - Ancillary investigations
+        - Bedside
+            - ECG (arrhythmias, identify complications from K+)
+        - Labs
+            - HbA1c (less urgent)
+            - FBC (increased Hb due to hypovolaemia), WCC may be raised in infection
+            - UEC and CMP (electrolyte derangements)
+            - Lactate (ischaemia due to shock)
+        - Identify precipitant
+            - Septic screen
+            - LFTs or lipase (end-organ damage, acute abdomen)
+            - Toxicology, BAC
+            - Troponins (ACS)
+    - Note in a new diabetic, consider:
+        - C-peptide levels (marker of pancreas function)
+            - Low or absent in T1DM
+            - High in T2DM with residual B-cell function
+        - T1DM antibodies
+            - Islet cell antibodies
+            - Glutamic acid decarboxylase antibodies
+        - Consider autoimmune thyroid and coeliac screen (polyglandular autoimmune cluster)
+- Diabetes - Dx
+    
+    Diabetes is **diagnosed using lab tests**. Dx is achieved when:
+    
+    - Sxs + abnorm test result
+    - Two diff. abnorm test results
+    - Same abnorm test result on two diff. occasions
+    
+    The tests used include:
+    
+    - Fasting BSL: >7mmol/L
+    - Random BSL: >11.1 mmol/L
+    - HBA1c: > 6.5% - measure of glycosylated haemoglobin (repesents last 3-4 months of glycaemic control)
+    - OGTT (2 hours post 75g) > 11.1
+        - Only needed to confirm equivocal test results
+- Interpret the following
+    
+    ![clip_image002-d005b6505a93b719de0778f54073c10289452351.png](Diabetes%20Mellitus%201300acf2446a81f28bdae2052c1c93e0/clip_image002-d005b6505a93b719de0778f54073c10289452351.png)
+    
+    - Chemistry
+        - Hyponatraemia
+            - May be secondary to urinary losses and movement of water out of cells
+            - May be dilutional (pseudohyponatraemia)
+        - Hyperkalaemia (however likely loss of total body K+)
+            - Exchange of intracellular K+ for extracellular H+ in response to acidosis
+            - Lack of insulin driving Na/K/ATPase
+                - Note: giving insulin in management can precipitate hypokalaemia as a result
+            - Low GFR due to pre-renal AKI, increased urinary losses
+        - Hypochloridaemia
+            - Vomiting losses and dilutional effect
+        - Low HCO3 → metabolic acidosis
+        - Hyperglycaemia (insulin deficiency)
+        - High urea and creatinine (AKI (pre-renal) due to hypovolaemia and hypoperfusion)
+        - High osmolality
+            - Calculation: 2x Na + potassium + glucose + urea
+        - High anion gap (Na - Cl - HCO3)
+    - ABG
+        - Acidosis
+            - Low PaCO2 (respiratory compensation → hyperventilation)
+            - Low HCO3 (buffer for acidic ketones)
+        - Base excess (consistent with metabolic acidosis)
+- Pathophysiology of T1DM
+    - Complex and incompletely understood
+        - Interaction between genetic predisposition (FHx, HLA-DR3, HLA-DR4) and environmental factors (e.g. infection) resulting in an inappropriate cell-mediated immune response
+            - Targets B-cells of pancreas → destruction and impaired insulin production
+    - Autoantibodies are demonstratable in a majority of patients however these are likely a secondary phenomenon and not primarily responsible for the damage
+        - Islet cell antibodies (60-85%) → often glutamic acid decarboxylase
+        - Anti-insulin Ab (60%)
+- Clinical features of T1DM and DKA + pathophysiology of signs
+    - Osmotic Sxs
+        - Polyuria
+            - Glycosuria → osmotic diuresis
+        - Polydipsia
+            - Dehydration triggers thirst activation via RAAS activation and osmoreceptors
+            - Osmoreceptors in hypothalamus (low vol.)
+        - Nocturia
+    - Others
+        - Blurred vision
+        - N/V and abnorm pain
+            - Response to metabolic acidosis (may be adaptive as vomiting reduces acid)
+            - Note that the pain may be the precipitant (e.g. pancreatitis)
+        - Weakness and lethargy/fatigue
+            - Decreased glucose uptake in peripheral issues and brain
+    - Signs
+        - Weight loss (more common in T1DM)
+        - Infections (eg: Candida)
+        - Decreased LoC
+            - Dehydration
+            - Acidosis
+            - High serum osmolality (glucose and ketones)
+        - Ketotic fetor (ketone bodies on breath → fruity odour)
+        - Other signs of hypovolaemic shock (tachycardia, hypotension)
+- DKA Dx and pathophysiology
+    - DKA is characterised by a diagnostic triad of:
+        - Hyperglycaemia (> 11 mmol)
+        - Ketoacidosis (> 0.6mmol)
+        - High AGMA (pH < 7.3 or HCO3 < 15)
+    - Occurs in the presence of absolute insulin deficiency and increased counter-regulatory hormone levels (e.g. catecholamines, steroids)
+    - Ketone body formation
+        - Mobilisation of metabolic substrates (e.g. lipolysis of TAGs, liberation of FFAs)
+        - FFAs brought to liver
+            - Normal metabolism involves B-oxidation within mitochondria → acetyl CoA → citrate (bound to oxaloacetate) → TCA cycle
+            - Diverted to ketone body production (acetoacetate, B-hydroxybutyrate) for fuel to the brain
+                - Acidic → metabolic acidosis
+    - Other features
+        - Hyperglycaemia → osmotic diuresis → profound dehydration, shock, AKI
+        - Ketone body accumulation (exacerbated by renal failure)
+            - Acidosis
+            - Cerebral oedema
+            - Arrhythmias
+            - Death
+- Pathophysiology of T2DM
+    - T2DM is caused by insulin resistance
+        - Initially compensated however eventual exhaustion of pancreatic B-cells leads to resultant insulin deficiency
+    - Arises due to a combination of:
+        - Genetic factors (strong 90% twin concordance)
+        - Environmental factors (obesity, lack of physical activity, over-eating)
+- Management approach to T2DM
+    - Lifestyle modication (first-line)
+        - Diet, exercise, weight loss, optimise CVD risk factors)
+        - If failure after 3 months, consider pharmacotherapy
+    - First-line
+        - Metformin
+    - Second-line (if glycaemic control not achieved in 3 months, add one of the following):
+        - Sulphonylureas (risk of hypoglycaemia)
+        - SGLT2 inhibitors
+        - GLP-1 agonists
+        - DPP4 inhibitors
+        - Other:
+            - Acarbode
+            - Thiazolidinedione
+            - Insulin
+    - If target not achieved in 3 months, add or substitute a 3rd drug
+- What is hyperosmolar hyperglycaemic state? What is the pathophysiology? Clinical presentation?
+    - Definition
+        - A state of profound hyperglycaemia-induced dehydration with increased serum osmolallity
+            - More commonly a complication of T2DM
+    - Diagnostic criteria
+        - Serum Osm > 320 mOsm/L
+        - BSL > 33 mmol/L
+        - Dehydration (elevated urea:creatinine ratio)
+        - No ketoacidosis
+    - Pathophysiology
+        - Diabetes results in hyperglycaemia
+            - Impaired insulin function results in decreased uptake of glucose into the cell via GLUT4 transporter
+                - Increased GNG and glycogenolysis
+        - BSL exceeds renal threshold for absorption
+            - Hence, glycosuria → osmotic diuresis (water retained in tubular lumen)
+        - Non-ketotic as the residual insulin in T2DM is enough to suppress lipolysis and ketogenesis but not GNG
+    - Clinical presentation
+        - Polyuria
+        - Polydipsia
+        - Decreased level of consciousness and focal neurological deficits
+        - Note:
+            - Less nausea, vomiting, abdominal pain due to lack of ketoacidosis (may be lactic acidosis with sustained hypoperfusion secondary to dehydration)
+- Triggers for DKA and HHS
+    - Caused by low levels of insulin and high levels of counter-regulatory hormones (e.g. catecholamines, steroids)
+        - Insulin non-compliance or inappropriate therapy
+        - First presentation of diabetes
+        - Stressed states (acute illness, surgery, MI, pancreatitis)
+        - Iatrogenic adrenaline, glucocorticoids, olanzapine, lithium)
+    - Stressed states can precipitate hyperglycaemia as hormones (cortisol, catecholamines, glucagon) act to increase blood sugar to make metabolic fuel substrates for peripheral issues
+        - In insulin deficient states → rapid hyperglycaemia
+- Management approach to DKA and HHS
+    - Primary survey and concurrent resuscitation
+        - Admit to high acuity ward
+        - Regular monitoring of BSL (hourly) and ketones (VBG) 2hourly
+    - Management will reflect 4 core priorities
+        - Diagnose and treat precipitating agent (e.g. dehydration, stroke, ACS, surgery, infection)
+        - Haemodynamic stability
+        - Dehydration and electrolyte disturbances
+            - Restoration of blood volume (bolus of NaCl)
+            - Potassium replacement (total body deficit despite hyperkalaemia)
+                - Needs to be considered early as hypokalaemia with worsen with subsequent administration of insulin
+                - If K < 5mmol, administer replacement once urine output is achieved
+                - Consider administration of calcium gluconate first to stabilise the membrane
+        - Acidosis
+            - Correction achieved with insulin administration (suppresses lipolysis and ketogenesis)
+            - Consider HCO3 replacement (via 0.45% NaCl)
+                - pH < 7
+                - Hypotension
+                - Arrhythmia
+                - Coma
+        - Resolve hyperglycaemia
+            - Insulin therapy
+                - Do not correct glucose until K is > 3.5
+                - Once BSL is < 14 mmol/L (or falling > 5mmol per hour), give concomitant glucose
+            - Rehydration will aid this process as kidneys able to regulate and excrete excess glucose
+    - Long-term diabetes control
+- Explain changes in serum K+ levels in DKA
+    - In DKA, there are increased serum levels of K+ despite a total body deficit
+    - The increased serum [K] is explained by direct and indirect effects of insulin deficiency which ultimately causes decreased activity of Na/K/ATPase pump (normally, this pump exchanges Na+ out of the cell and K+ into the cell), secondary to decreased activity of the Na+/H+ exchanger (normally exchanges Na+ into the cell and H+ out of cell)
+        - Direct insulin deficiency
+            - Insulin normally stimulates the Na/H antiporter
+        - Indirect acidosis
+            - Extracellular H+ → inhibition of Na/H exchanger
+- Compare DKA and HHS
+    
+    ![Screenshot 2023-08-25 at 3.27.23 pm.png](Diabetes%20Mellitus%201300acf2446a81f28bdae2052c1c93e0/Screenshot_2023-08-25_at_3.27.23_pm.png)
+    
+- Complications of diabetes + pathophysiological basis
+    - Complications account for most of the morbidity and mortality associated with diabetes
+        - Arise due to sustained hyperglycaemia and consequences:
+            - Non-enzymatic glycosylation of the vascular basement membrane
+            - Intracellular sorbitol accumulation and osmotic damage
+        - Advanced glycation end products (AGEs) have receptor and non-receptor mediated effects
+            - Receptor: bind macrophages and T cells → activate immune response and smooth muscle/matrix proliferation
+                - Arteriolosclerosis
+            - Non-receptor: cross-link with matrix and trap proteins and fats
+                - Accelerated atherosclerosis
+    - Macrovascular
+        - Prolonged hyperglycaemia = accelerated atherosclerosis
+            - Stroke
+            - IHD
+            - PVD (contributes to gangrene, ulceration, poor wound healing)
+    - Microvascular
+        - Thickening of capillary and arteriolar walls + increased permeability
+        - Diabetic nephropathy
+            - Clinical: nephrotic syndrome (high albumin in urine)
+                - Proteinuria due to a change in GBM composition (loss of negative charge)
+            - Histology
+                - Hyaline arteriolosclerosis often present
+                    - Affects afferent AND efferent arterioles (hypertensive often affects afferent only)
+                - Glomerulosclerosis with mesangial hypercellularity and thickening of matrix and capillary basement membrane
+                - Kimmelstiel-Wilson lesions (nodular glomerulosclerosis)
+                    - Ball-like deposits of pink hyaline laminated matrix
+        - Diabetic neuropathy
+            - Inadequacy of vasa nervorum → osmotic damage → decreased neuronal transmission
+                - Peripheral neuropathy
+                - Autonomic neuropathy
+                - Mononeuropathy
+        - Diabetic retinopathy (blurry vision, blindness)
+            - Proliferative
+                - Neo-vascularisation, haemorrhages and retinal damage
+            - Non-proliferative
+                - Infarction and macular oedema
+    - Other complications
+        - Cataracts
+        - Impaired immune response
+        - Poor wound healing
+        - Recurrent UTIs (glycosuria)
+- Pathophysiology of diabetic foot ulcers
+    - Neuropathy
+        - Sensory → failure to notice wound and adapt behaviours (continue to walk on ulcer)
+        - Motor (severe cases) → joint deformities and formation of pressure wounds
+        - Autonomic → reduced sweating, dry skin, compromised epithelial barrier
+    - PVD → ischaemia and poor wound healing
+    - Impaired immune function → poor healing
+
+- What lifestyle modifications would you recommend for T2DM
+    - Lifestyle modifications may reverse insulin resistance
+        - Initiate drugs if glycaemic control is not achieved after 3 months
+    - Dietary
+        - Reduced saturated fats and refined sugars
+        - Increase omega-3
+        - Low GI foods
+    - Exercise
+        - 30-60 minutes of moderate intensity aerobic exercise 5 times/week
+    - Weight loss (aim for 5-20%)
+    - Other
+        - Optimisation of cardiovascular risk
+            - Cessation of smoking and alcohol
+            - Manage hypertension and dyslipidaemia
+        - Referral to dietitian, diabetes educator, endocrinologist
+- What glycaemic targets should patient’s aim for?
+    - Aim for HbA1c < 7%
+        - Can be individualised (e.g. < 6.5% in a young person on metformin, < 8% in older person at risk of hypoglycaemia)
+    - Fasting BSL (4-8mmol/L)
+        - May be individualised (risk of hypoglycaemia in older patients)
+    - Post-prandial BSL < 10 mmol/L
+- How do you monitor the effectiveness of treatment
+    - Managed through an MDT (GP coordinator, endocrinology, ophthalmologist, podiatrist, dietitian, exercise physiologist, nephrologist)
+        - Diabetes educator is important
+        - Regular appointments with physician (GP or endocrinologist) to assess effectiveness of treatment and make adjustments to medications (frequency depends on severity and level of control)
+    - Three main priorities in the monitoring of DM
+        - Glycaemic control
+            - Short-term
+                - BSL twice daily (mane before food, and 2h post-prandial nocte)
+                - Not necessary if good control
+            - Long-term
+                - HbA1c 3-monthly (aim < 7%)
+        - Complications of diabetes
+            - Retinopathy → ophthalmologist every 2 years
+            - Neuropathy → examination 3 monthly
+            - Nephropathy → urine ACR 3 monthly
+            - Diabetic foot → podiatry review, review foot
+        - CVD risk factors
+            - Hypertension
+            - Obesity
+            - Lipid levels
+            - Lifestyle (smoking, nutrition, alcohol, physical activity)
+- Metformin (MOA, AEs, CI)
+    - Biguanide oral hypoglycaemic agent → 1st line in T2DM
+    - Mechanism
+        - Reduces hepatic GNG (partially through inhibiting mitochondrial enzymes)
+        - Increases sensitivity of peripheral issues (e.g. muscle, fat) to insulin
+    - AEs
+        - GI upset (nausea, vomiting, diarrhoea)
+        - Lactic acidosis (if renal dysfunction or poorly perfused tissues)
+        - Can result in weight loss
+            - Minimal hypoglycaemia risk, improved CVD outcomes
+    - CI
+        - GFR < 30
+            - In patients with renal impairment, cease before surgery or contrast
+        - Use in caution in patients which a condition that may reduce tissue oxygenation (e.g. CCF)
+- Sulphonylureas (MOA, AEs, CI) **(2nd line agent)**
+    - e.g. glipizide, gliclazide
+    - Mechanism
+        - Binds to ATP-sensitive K+ channel on pancreatic B cells
+            - Inhibits K efflux and lowers threshold for depolarisation (with Ca influx) → increased insulin secretion
+    - AEs
+        - Hypoglycaemia
+        - Weight gain
+        - Rarely can cause nausea, jaundice, rash, agranulocytosis, anaemia
+    - CI
+        - Pregnancy
+        - Lactation
+        - Use in caution with GFR < 60; avoid in GFR < 30
+        - Caution in elderly
+- SGLT2 inhibitors (MOA, AEs, CI)
+    - e.g. dapagliflozin, empagliflozin
+    - Mechanism
+        - Inhibits Na-glucose co-transporter 2 in the PCT and blocks glucose reabsorption
+    - AEs
+        - Weak diuretic (dehydration, orthostatic hypotension)
+        - Increased rate of UTIs or genital infections (candidiasis)
+        - Euglycaemic ketoacidosis
+    - CI
+        - GFR < 30
+        - Avoid in fasting or periprocedural setting
+- GLP1 agonists (MOA, AEs)
+    - e.g. liraglutide, semaglutide
+    - Mechanism
+        - Mimics incretins and acts as an analogue at GLP1 receptor
+            - Decreased glucagon release (less GNG and glycogenolysis)
+            - Delayed gastric emptying
+            - Increased insulin release
+            - Increased satiety
+    - AEs
+        - Nausea and vomiting
+        - Pancreatitis
+        - Delayed gastric emptying (impaired OCP and antimicrobial use)
+        - Weight loss
+- DPP4 inhibitors (MOA, AEs)
+    - e.g. linagliptin, sitagliptin
+    - Mechanism
+        - Inhibits DPP4 (enzyme usually responsible for breaking down incretins (GLP1, GIP)
+            - Decreased glucagon release
+            - Delayed gastric emptying
+            - Increased insulin release
+            - Increased satiety
+    - AE
+        - Risk of pancreatitis
+        - Mild urinary or respiratory infections
+- Thiazolidinediones (glitazones) [mechanism, AEs] **(2nd or 3rd line agent)**
+    - e.g. pioglitazone
+    - Mechanism
+        - Activates PPAR-y (gamma) which is a nuclear receptor (delayed onset)
+            - Increases insulin sensitivity and adiponectin levels
+            - Reduced hepatic GNG and adipocyte lipolysis
+    - AEs
+        - Weight gain
+        - Oedema
+        - Increased risk of cardiac failure and fractures
+- Alpha glucosidase inhibitors (MOA, AEs, CI, use)
+    - e.g. acarbose
+    - Mechanism
+        - Inhibits a-glucosidase enzyme on the intestinal brush border
+            - Delayed carbohydrate hydrolysis and glucose absorption
+            - Decreased post-prandial hyperglycaemia
+    - AEs
+        - GI effects
+            - Malabsorption
+            - Diarrhoea
+            - Flatulence and bloating
+    - Caution in renal impairment
+- Insulin therapy
+    - Consider in T2DM if dependent on 3 oral hypoglycaemic agents
+    - Initiation of therapy in T2DM
+        - Basal (start with 10U or 0.1units/kg) at morning (or bedtime)
+            - Adjust by the patient’s mean BSL (varies due to variable insulin sensitivity)
+    - Basal-bolus system for T1DM
+        - Calculate total daily dose of insulin (approximately 0.55 x weight (kg))
+            - 40% of TDD (basal), 60% (total bolus doses)
+        - Basal (administer as long-acting or intermediate morning dose)
+            - If hypoglycaemia (reduce), if hyperglycaemia (increase) [often by 20%]
+        - Bolus adjustments (administer as rapid or short-acting before each meal)
+            - Rapid = 15 min before meal
+            - Short = 30 min before meal
+    - Note: sliding scale insulin used only in inpatient setting on patients with labile BSLs
+        - Dose is titrated to blood sugar
+    - Types
+        - Rapid acting (Lispro, Novorapid)
+        - Long-acting (insulin glargine)
+    - AEs
+        - Hypoglycaemia (if overdose)
+        - Weight gain
+        - Injection site reactions)
+
+- Interpretation of base excess and anion gap
+    - Base excess
+        - Defined as the amount of strong acid which must be added to return the pH to normal
+        - Interpretation
+            - High = metabolic alkalosis
+            - Low = metabolic acidosis
+    - Anion gap
+        - Anion gap represents the difference between the concentration of unmeasured anions and concentration of unmeasured cations
+        - AG = Na - (Cl - HCO3) [sometimes include K+ but negligible)
+            - Increased anion gap (excess H+ causes a decline in HCO3-) [KULT]
+                - Ketoacidosis
+                - Uraemia (or acid retention due to CKD)
+                - Lactic acidosis
+                - Toxins (e.g. methanol, aspirin)
+            - Normal anion gap (hyperchloraemic metabolic acidosis)
+                - Loss of HCO3
+                    - Diarrhoea
+                    - Carbonic anhydrase inhibitors
+                - Impaired renal acid excretion
+                    - Renal tubular acidosis (type 1, 2, 4)
+                    - CKD
+            - Reference range (assuming K+ is normal) is 6-12 mmol/L
+- Effects of acidosis on diff. organ systems?
+    - Cardiac (critical effect)
+        - Decreased CO and TPR
+            - Competitive inhibition of slow Ca current by H+ ions
+        - Arrhythmias
+    - Respiratory
+        - Increased respiratory drive
+        - Right shift of O2-Hb curve
+            - Immediate = decreased affinity (promotes O2 unloading)
+                - Can become problematic in long-term due to decreased production of 2,3-DPG and increase in affinity (delays release of O2 to tissues)
+    - Neurological
+        - Cerebral vasodilation (raised ICP)
+        - Change in mental status (hypovolaemia, acidosis, increased serum Osm)
+    - GIT
+        - Nausea and vomiting
+        - Gastroparesis (impaired muscle activity as above)
+    - Renal
+        - Increased NH3 production by kidneys
+    - Haematological
+        - Coagulopathy (impaired clotting function)
+        - Impaired platelet aggregation (high Cl)
+    - Electrolytes
+        - Hyperkalaemia (intracellular exchange of H+ for K+)
+- Causes of metabolic acidosis
+    - Causes of raised anion gap metabolic acidosis (MUDPILES) [AG > 12 mEq/L]
+        - Methanol (formic acid)
+        - Uraemia
+        - Diabetic ketoacidosis
+        - Propylene glycol
+        - Iron tablets
+        - Lactic acidosis
+        - Ethylene glycol
+        - Salicylates (late)
+    - Causes of normal anion gap (HARDASS) [AG = 8-12mEq/L]
+        - Hyperchloraemia or hyperalimentation
+        - Addison disease
+        - Renal tubular acidosis
+        - Diarrhoea
+        - Acetazolamide
+        - Spironolactone
+        - Saline infusion
+- Acid-base physiology (differences? H-H eqn? Winter’s formula for compensation)
+    
+    ![paste-38783554682881.jpg](Diabetes%20Mellitus%201300acf2446a81f28bdae2052c1c93e0/paste-38783554682881.jpg)
+    
+    - Note: Winter’s formula is important to calculate whether respiratory compensation is adequate
+        - Expected PCO2 = 1.5 x [HCO3] + 8 +/- 2
+            - If not equal, the patient may be decompensating and may need mechanical ventilation
+- What is C-peptide
+    - Cleaved from pro-insulin in the final stages of insulin synthesis
+    - Useful in two clinical contexts:
+        - New diagnosis of T1DM (surrogate marker of residual B-cell function
+        - Hypoglycaemia in the setting of excess insulin (can distinguish between exogenous and endogenous)
+
+Plasma vs Serum 
+
+coagulation proteins present in plasma; absent in serum
+
+i.e Serum = Plasma - clotting factors (1’ fibrinogen)

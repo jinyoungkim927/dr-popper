@@ -1,0 +1,578 @@
+# Ischaemic Stroke
+
+## Case Protocol 34a – Stroke (**lacunar**)
+
+*A 65-year-old female, who had a 10-year history of hypertension and a myocardial infarction three years previously, presented to the Emergency Department with sudden onset of weakness in the left arm and leg. On examination, her pulse was rapid and irregularly irregular. She had a left VII cranial nerve palsy of the upper motor neuron type and left spastic hemiparesis, with an ipsilateral upgoing plantar response.*
+
+- PDx and DDx, summary of findings
+    - Summary of findings
+        - UMN type weakness (spasticity, hyperreflexia) in the whole left body and lower face
+        - No sensory or cortical findings (aphasia, agnosia)
+    - PDx: stroke of the posterior limb and genu of the right internal capsule
+        - May be caused by pathology affecting the lenticulostriate perforators from M1
+            - Intracerebral haemorrhage (mostly related to hypertension - rupture of Charcot-Bouchard microaneurysms)
+            - Lacunar infarct (due to lipohyalinosis or microatheroma)
+        - May be a stroke of other vessels
+            - Anterior choroidal artery (supplies posterior limb of the internal capsule)
+    - DDx for acute neurological deficits
+        - TIA/stroke
+        - Seizure
+        - Migraine with aura, hemiplegic migraine
+        - Syncope
+        - Space occupying lesions
+            - Brain tumours
+            - Brain abscesses
+            - Subdural bleeds
+        - Demyelinating pathologies
+            - MS attacks (often develops subacutely)
+            - Acute disseminated encephalomyelitis (demyelination around veins following viral infection and hypersensitivity)
+        - Metabolic
+            - Non-ketotic hyperglycaemia
+            - Hypoglycaemia
+- Lacunar infarcts
+    - Definition and common locations
+        - Lacunar infarcts are small, non-cortical infarcts caused by occlusion of a penetrating branch from a large cerebral artery
+            - Ischaemic, not haemorrhagic
+        - Occur most commonly in the following locations (similar to ICH)
+            - Pons and midbrain (penetrating arteries from basilar)
+            - Thalamus (thalamostriate perforating arteries from PCA)
+            - Basal ganglia and internal capsule (lenticulostriate perforators from MCA)
+        - Note: these vessels arise from larger vessels at right angles (more vulnerable to hypertension)
+    - Pathogenesis
+        - Small vessel disease which results in vessel narrowing and also predisposes to small haemorrhages (risk factors - poorly controlled HTN, DM)
+            - Lipohyalinosis
+            - Hyaline arteriosclerosis
+            - Small vessel atherosclerosis
+        - Results in interruption of blood flow → downstream metabolic failure (low O2, glucose, ATP) and liquefactive necrosis
+    - Clinical features
+        - Highly predictive clinical syndromes for lacunar strokes include:
+            - Pure motor hemiparesis
+            - Pure sensory stroke (rare, often with thalamic infarction)
+            - Sensorimotor stroke (motor and sensory fibres in posterior limb of internal capsule)
+            - Ataxic hemiparesis
+            - Dysarthria-clumsy hand syndrome
+        - Absence of cortical signs (e.g. aphasia, agnosia, neglect, apraxia)
+- Risk factors for stroke
+    - Similar to risk factors for atherosclerosis and acute MI
+    - Non-modifiable
+        - Older age
+        - Male sex
+        - Personal or family history of stroke, TIA, IHD
+        - Systemic inflammatory conditions (SLE, RA)
+        - Specific pathologies
+            - Atrial fibrillation
+            - Carotid stenosis
+            - Migraine with aura
+    - Modifiable
+        - Smoking
+        - Hypercholesterolaemia, hypertension
+        - Diabetes
+        - Obesity
+        - Low levels of physical activity, poor nutrition, excessive alcohol consumption
+- Investigative approach to stroke
+    - Assessment and concurrent resuscitation as needed
+        - NIHSS stroke scale to determine pre-test probability for imaging
+    - Principal diagnostic investigations (acute stroke)
+        - Non-contrast CT brain (rule out haemorrhage (hyperdense))
+        - CT angiogram (identify large artery occlusion for tPA or thrombectomy)
+        - CT perfusion scan (identify ischaemic penumbra and any irreversible ischaemic injuries)
+        - Note for delayed presentation or normal CT but clinical suspicion for stroke
+            - MRI brain
+                - Diffusion-weighted imaging (DWI - white) and apparent diffusion coefficient (ADC - dark)
+                - Compare images and findings
+    - Ancillary investigations
+        - Bedside
+            - Vitals monitoring
+            - ECG → underlying arrhythmias may precipitate embolism
+            - Blood gas
+        - Labs
+            - FBC → platelet count, leukocytosis
+            - Coagulation studies
+            - UEC (electrolyte derangement)
+            - BSL (hypoglycaemia may mimic stroke)
+            - LP (SAH, infection)
+        - Imaging
+            - Echocardiogram (once stabilised)
+- Management approach to ischaemic stroke (and secondary prevention)
+    - Initial management
+        - Primary survey
+        - Fluid and electrolyte resuscitation and management
+        - Supplemental O2 if hypoxia
+        - Establish diagnosis and exclude differentials
+            - Rapid history and examination
+            - Neuroimaging
+            - Baseline bloods (BSL, platelets, coags)
+    - Definitive interventions
+        - Thrombolysis is first line
+            - Initiate with 4.5 hours of symptom onset
+            - Control severe hypertension before thrombolysis (<SBP 185/110) → labetalol, nicardipine
+        - Mechanical thrombectomy
+            - Indicated if large intracranial artery occlusion in proximal anterior circulation (even if tPA given)
+                - < 6 hours after last known neurological baseline
+                - 6-24h after last known baseline if there is salvageable brain tissue identify through imaging
+            - Give all patients aspirin within 48h (not within 24h of tPA)
+        - Supportive
+            - 30 degrees head up bed position if risk of raised ICP
+            - BP management
+            - Speech pathology input (dysphagia assessment, NG tube to prevent aspiration)
+            - DVT and PE prophylaxis (early mobilisation, calf compressors, LMWH)
+    - Long-term interventions for secondary prevention
+        - Non-pharmacological
+            - Tobacco cessation
+            - Exercise
+            - Diet modification
+            - Weight loss
+        - Pharmacological
+            - Dual antiplatelet therapy (aspirin, clopidogrel)
+            - Antihypertensive drugs
+            - Statins
+            - Anti-diabetic medications
+- Aetiologies for ischaemic stroke
+    - Thrombotic
+        - Large vessel disease
+            - Atherosclerosis
+            - Vasoconstriction
+            - Dissection
+            - Arteritis
+        - Small vessel disease
+            - Lipohyalinosis
+            - Microatheromas
+    - Embolic
+        - Cardiac source (AF, MI, valvular disease)
+        - Carotid artery atheromas
+        - DVT (with PFO or ASD)
+    - Systemic hypoperfusion
+        - Reduced CO due to MI, PE, tamponade, bleeding
+- Explain LoC in stroke?
+    - Not uncommon in stroke
+        - Localised disturbances in cerebral function (ischaemia, compression)
+        - Rise in intracranial pressure → global perfusion deficit or herniation syndromes
+            - Mass effect (haematoma) or cerebral oedema
+- Complications of stroke
+    - Neurological
+        - Haemorrhagic transformation of ischaemic stroke
+        - Ischaemic transformation after SAH
+            - Due to vasospasm (4-14 days post-bleed)
+        - Recurrent haemorrhage or extension of ischaemia
+        - Raised ICP → herniation
+        - Hydrocephalus
+    - Other medical complications
+        - Infection
+            - Pneumonia (hospital acquired, aspiration), UTI, sepsis
+        - Cardiac
+            - MI, arrhythmias
+        - Impaired mobility
+            - VTE, falls, fractures
+        - Psychiatric
+            - Depression, anxiety, fatigue, isolation
+- Measuring stroke severity
+    - Modified Rankin scale used to quantify the degree of disability and dependence in daily activities after a cerebral stroke
+        - 0 = no symptoms
+        - 1 = symptoms, no disability
+        - 2 = slight disability (unable to do previous activities, able to look after own affairs)
+        - 3 = moderate disability (needs assistance, independent ambulation)
+        - 4 = moderate/severe disability (needs assistance for ADLs)
+        - 5 = severe (bedridden, requires constant care)
+        - 6 = death
+- Autopsy findings in stroke
+    - Liquefactive necrosis occurs in the brain (as opposed to coagulative necrosis) due to higher concentration of intracellular lysosomes (digestive enzymes) and less structural components in neural tissue)
+    - Note:
+        - Pykonosis → irreversible condensation of chromatin in cells undergoing apoptosis or necrosis
+        - Nissl bodies → discrete granular structures consisting of rough ER
+    - Other findings
+        - Heart → may seen signs of emboli, old infarcts or mural thrombi
+            - LVH with systemic hypertension
+        - Vasculature → atherosclerosis (especially in carotid)
+        - Retina or kidneys (hypertensive change)
+        - Lungs → consolidation (pneumonia) or changes with PE (if contributory)
+    
+    | Time (post-infarction) | Macroscopic | Microscopic |
+    | --- | --- | --- |
+    | 12-24h | No abnormality detected | Red neurons (pykonosis, loss of Nissl bodies). Demyelination. Early oedema (cytotoxic or vasogenic) |
+    | 2-10 days | Necrotic tissue appears pale and soft → blurring of cortico-medullary junction. Severe oedema (peak at 2 days) | Leukocyte infiltration + lipid laden macrophages. Liquefaction. Early reactive gliosis (astrocytes proliferate, enlarge and produce more processes to wall off the infarction) |
+    | 10-21 days | Tissue liquefies and starts to leave a fluid filled cavity. Oedema decreased | Ongoing reactive gliosis, scattered blood vessels |
+    | months-years | Thin-walled cyst with thickened meninges | Cyst with rim of glial fibres produced by reactive astrocytes and macrophages. Healing by gliosis is preferred over contractile fibrous granulation tissue (no distortion of surviving architecture) |
+- Two days after stroke, patient becomes febrile and tachypnoeic. Causes? Investigations?
+    - DDx
+        - DVT or PE (immobilisation, background risk for coagulation)
+        - Pneumonia (HAI or aspiration)
+            - Impaired gag and cough reflexes due to comatose or neurological deficits → sepsis
+        - UTI (catheterisation) → sepsis
+    - Ix
+        - Vitals and thorough physical examination
+            - Consider blood gas for sepsis and acidosis
+        - Labs
+            - FBC, CRP, UEC, LFT
+        - Infection screen
+            - UA and urine MCS
+            - Swab of line, catheter
+            - Sputum cultures
+            - Blood cultures
+            - CXR
+        - Consider Well’s criteria for PE
+
+- Identify axial CT brain and identify features
+    
+    ![Screenshot 2023-06-30 at 12.52.33 pm.png](Ischaemic%20Stroke%201300acf2446a81a8882dd2faab5b00b2/Screenshot_2023-06-30_at_12.52.33_pm.png)
+    
+    1. Longitudinal fissure
+    2. Head of right caudate nucleus
+    3. Right lentiform nucleus
+    4. Right thalamus
+    5. Posterior horn of right lateral ventricle
+    6. Anterior limb of left internal capsule
+    7. Septum pellicidum
+    8. Posterior limb of left internal capsule
+- Stroke syndromes - PCA
+    - Area of lesion
+        - Occipital lobe
+        - Inferior part of temporal lobe
+            - Inferior temporal gyrus, occipito-temporal gyrus (fusiform), parahippocampal gyrus (hippocampus)
+    - Clinical manifestations
+        - Occipital lobe
+            - Homonymous hemianopia (+/- macular sparing)
+            - Alexia (inability to read) without agraphia (inability to write - MCA)
+            - Visual agnosia (loss of understanding for seen objects and use)
+        - Inferior temporal lobe
+            - Hippocampus - memory deficits in forming long-term declarative memories
+                - Note prefrontal cortex does short-term working memory
+            - Prosopagnosia (inability to recall faces) → fusiform gyrus (mainly on right)
+        - Deep nuclei
+            - Thalamus (pure sensory from VPL nucleus supplied by thalamogeniculate arteries)
+            - Basal ganglia → extrapyramidal motor dysfunction
+- Stroke syndromes - MCA
+    - Area of lesion and manifestations
+        - Frontal lobe
+            - Pre-central gyrus (contralateral face and upper limb motor paralysis)
+            - Inferior frontal gyrus (Broca’s area - dominant) → expressive aphasia
+        - Parietal lobe
+            - Post-central gyrus (contralateral face and upper limb somatosensory loss)
+            - Dominant
+                - Inferior parietal lobule (supramarginal gyrus, angular gyrus) → Gerstmann’s syndrome
+                    - Dysgraphia or agraphia (writing)
+                    - Dyscalculia or acalculia (learning or comprehending maths)
+                    - Finger agnosia (unable to distinguish fingers on the hand)
+                    - Left-right disorientation
+                - Wernicke’s area (posterior part of superior temporal gyrus, supramarginal gyrus, angular gyrus) → receptive aphasia
+            - Non-dominant
+                - Neglect
+                - Asomatognosia (inability to recognise body parts)
+                - Anosognosia (loss of insight into condition)
+        - Deep nuclei
+            - Basal ganglia - extrapyramidal motor dysfunction
+            - Thalamus (sensory loss)
+        - Superior tract of optic radiation
+            - Contralateral homonymous inferior quadrantonopia
+        - Note: auditory cortex affected however due to bilateral input, hearing is usually not affected
+- Stroke syndromes - ACA
+    - Area of lesion
+        - Frontal lobe
+            - Prefrontal area (personality changes - disinhibition, loss of motivation)
+            - Olfactory bulb and tract (anosmia)
+            - Supplemental motor area (motor apraxia)
+            - Primary motor cortex (lower limb weakness, incontinence)
+        - Parietal lobe - primary somatosensory cortex (lower limb sensory loss)
+- Stroke syndromes - basilar
+    - Area of lesion
+        - Pons, medulla and midbrain including
+            - Corticobulbar and corticospinal tracts
+            - Ocular cranial nerve nuclei
+            - Paramedian pontine reticular formation
+    - Clinical manifestations
+        - 6D’s
+            - Drop attacks
+            - Drowsiness (midbrain reticular formation)
+            - Diplopia (III, IV, VI)
+            - Dysphagia and dysarthria (IX, X)
+            - Dizziness (lateral, vestibular)
+        - 3N’s
+            - Numbness (sensory)
+            - Nausea and nystagmus (lateral, vestibular)
+- Stroke syndromes - AICA (lateral pons)
+    - Tracts
+        - Lateral spinothalamic (loss of contralateral pain and temperature in the body)
+        - Sympathetic (ipsilateral Horner’s)
+        - Spinocerebellar (ipsilateral limb ataxia)
+    - Nuclei
+        - Spinal trigeminal (sensory to face)
+        - VII (ipsilateral facial muscle weakness, decreased lacrimation and salivation, taste)
+        - VIII (ipsilateral nystagmus, vertigo, nausea and vomiting)
+    - Cerebellar signs (ICP) (DANISH)
+        - Dysmetria, dysdiadochokinesia
+        - Ataxia
+        - Nystagmus
+        - Intention tremor
+        - Staccato speech
+        - Hypotonia, pendular reflexes
+- Stroke syndromes - PICA (lateral medulla)
+    - Tracts
+        - Lateral spinothalamic (loss of contralateral pain and temperature in the body)
+        - Sympathetic (ipsilateral Horner’s)
+        - Spinocerebellar (ipsilateral limb ataxia)
+    - Nuclei
+        - Spinal CnV nucleus (loss of ipsilateral pain and temperature in face)
+        - CnVIII (ipsilateral nystagmus, vertigo, nausea and vomiting)
+        - CnIX, X (ipsilateral dysphagia, dysarthria, decreased gag reflex)
+    - Cerebellar signs (ICP)
+- Rule of 4 (brainstem)
+    - 4 cranial nerve nuclei per level
+        - Midbrain (I, II - above)
+            - III, IV
+        - Pons (V, VI, VII, VIII)
+        - Medulla (IX, X, XI, XII)
+    - 4 ‘M’ components in the Midline
+        - Motor nuclei (factors of 12) → 3, 4, 6, 12
+        - Motor tract (corticospinal)
+        - Medial lemniscus
+        - Medial longitudinal fasciculus (coordinates conjugate eye movements, VOR)
+    - 4 ‘S’ tracts on the side
+        - Spinothalamic (pain and temperature)
+        - Spinal trigeminal nucleus (crude touch, pain and temperature)
+        - Sympathetic fibres
+        - Spinocerebellar
+- Anatomy - basal ganglia definition and function
+    - Includes the caudate nucleus, lentiform nucleus (putamen, globus pallidus) and claustrum
+        - Substantia nigra (midbrain) and subthalamic nucleus are also often included as they are closely connected to the cerebral structures
+        - Striatum includes caudate nucleus and putamen
+    - Functions
+        - Motor
+            - Supraspinal control over skeletal muscle movements through influencing rate, range and coordination
+        - Executive function → inhibitory control and impulsivitiy
+        - Stimulus-response learning
+- Occipital lobe - function, blood supply, effects of ischaemia
+    - Function
+        - Primary visual cortex - involved in processing information
+        - Visual association area → involved in recognition of shapes, colours, etc.
+    - Blood supply
+        - PCA primarily (some contribution from MCA)
+    - Lesion
+        - Homonymous hemianopia with macular sparing
+            - Macula inputs are thought to project to both hemispheres (large cortical area of representation) and may be preserved if the other cortex is intact
+            - May also be due to collateral MCA supply
+        - Alexia without agraphia
+- Internal capsule - definition, basic anatomy, contents of each part
+    - One of the most important projection white matter tracts
+        - Afferent fibres (thalamus to cortex)
+        - Efferent fibres (cortex to cerebral peduncles)
+    - Anterior limb
+        - Frontopontine fibres
+        - Fibres from frontal eye field to oculomotor nucleus (and PPRF/VI)
+    - Genu
+        - Corticobulbar fibres
+    - Posterior limb
+        - Corticospinal fibres (anterior 2/3)
+        - Thalamocortical sensory fibres (beside and behind corticospinal fibres)
+        - Corticopontine fibres
+    - Retrolentiform part
+        - Corticopontine fibres
+        - Optic radiation (lateral geniculate nucleus → V1)
+    - Sublentiform part
+        - Auditory radiation (medial geniculate nucleus → A1)
+- Corpus callosum - definition, basic anatomy
+    - A mass of white commissural fibres (extend to all parts of the cerebral cortex and interconnect the two hemispheres)
+        - Commences at the anterior commissure (upper end of lamina terminalis of diencephalon)
+    - Parts
+        - Rostrum
+        - Genu
+            - Fibres from genu → frontal lobe (forceps minor)
+        - Body
+        - Splenium
+            - Fibres from splenium → occipital lobe (forceps major)
+- Cerebral blood supply - ACA
+    - Course
+        - Leaves the ICA at the anterior perforated substance
+        - Passes forward above the optic nerve and into the interhemispheric longitudinal fissure
+    - Branches
+        - A1 (horizontal or precommunicating) → terminates at AComm
+            - Anterior communicate
+            - Medial striate arteries and recurrent artery of Heubner
+        - A2 (vertical or post-communicating) → terminates at origin of callosomarginal artery
+            - Orbitofrontal and frontopolar artery
+        - A3
+            - Pericallosal and callosomarginal artery
+    - Distribution
+        - Orbital surface of the frontal lobe
+        - Medial surface of the cerebral hemispheres until the parieto-occipital sulcus
+            - Extends over the superior border until the area of middle cerebral artery
+                - Supplies the superior frontal gyrus and equal zone over parietal lobe at extremes
+        - Includes the motor and sensory areas for the leg, perineum and micturition and defecation areas
+    
+    ![Screenshot 2023-07-01 at 3.54.08 pm.png](Ischaemic%20Stroke%201300acf2446a81a8882dd2faab5b00b2/Screenshot_2023-07-01_at_3.54.08_pm.png)
+    
+    ![Screenshot 2023-07-01 at 3.54.37 pm.png](Ischaemic%20Stroke%201300acf2446a81a8882dd2faab5b00b2/Screenshot_2023-07-01_at_3.54.37_pm.png)
+    
+- Cerebral blood supply - PCA
+    - Origin: bifurcation of the basilar artery at the superior border of the pons
+        - Travel around the cerebral peduncles before wrapping around towards the medial aspect of their respective cerebral hemispheres
+        - Travel over tentorium cerebelli and continue posteriorly towards the occipital lobe on the inferior aspect of the temporal lobes
+    - Important branches
+        - Posterior communicating arteries
+        - Cortical: calcarine and parieto-occipital arteries
+        - Deep or penetrating: posterior choroidal arteries, thalamostriate perforating arteries
+    - Distribution
+        - Inferomedial surface of the temporal and occipital lobes (including inferior temporal gyrus)
+            - Meets ACA supply at parieto-occipital sulcus
+        - Thalamus (via perforating arteries)
+- Cerebral blood supply - MCA
+    - Largest and most direct branch of ICA (most susceptible to embolism)
+    - Origin
+        - Arises at anterior perforated substance and courses deep into lateral fissure
+            - Gives off penetrating branches to the basal ganglia and thalamus
+        - Emerges from lateral fissure and divides into superior and inferior division which travels out over the cortex
+            - Superior division
+                - Lateral frontal (orbitofrontal, precentral branches)
+                - Parietal (central and parietal branches)
+            - Inferior division
+                - Lateral temporal (anterior, middle, posterior temporal and angular branches)
+        - Does not supply inferior temporal gyrus or superior frontal gyrus
+    - Segments
+        - M1 (sphenoidal, horizontal)
+        - M2 (insular)
+        - M3 (opercular)
+        - M4 (cortical or terminal)
+    
+    ![Screenshot 2023-07-01 at 4.35.16 pm.png](Ischaemic%20Stroke%201300acf2446a81a8882dd2faab5b00b2/Screenshot_2023-07-01_at_4.35.16_pm.png)
+    
+- Cerebral blood supply - arterial supply to optic pathway
+    - Retina (central retinal artery)
+    - Optic nerve
+        - Anterior 1/3: central retinal
+        - Posterior 2/3: ophthalmic
+    - Optic chiasm (ACA and ICA)
+    - Optic tract (anterior choroidal artery - branch of ICA; some PComm)
+    - LGN of thalamus
+        - Deep branches of PCA (and anterior choroidal?)
+    - Optic radiation
+        - Deep branches of MCA and PCA
+    - Visual cortex
+        - Calcarine artery of PCA (predominant)
+        - Collateral branches of MCA (macular regions)
+- Caudate nucleus - parts and relations
+    - Divided into component parts which project into the lateral ventricle
+        - Head → lies in the floor of the frontal horn of the lateral ventricle
+        - Body → lies in the floor of the body of the lateral ventricle
+        - Tail → contributes to the roof of the inferior horn of the lateral ventricle
+    - Curled around the internal capsule (head is medial; tail is lateral)
+    
+    ![Screenshot 2023-07-01 at 4.26.36 pm.png](Ischaemic%20Stroke%201300acf2446a81a8882dd2faab5b00b2/Screenshot_2023-07-01_at_4.26.36_pm.png)
+    
+- Blood supply to internal capsule
+    - Lenticulostriate arteries
+        - Deep branches of the MCA
+        - Supply anterior and posterior limb
+    - Recurrent branch of Heubner (medial striate artery)
+        - Branch of ACA
+        - Supplies anterior limb and genu + basal ganglia
+    - Anterior choroidal artery
+        - Branch of ICA
+        - Supplies the posterior limb of the internal capsule
+- Cortical anatomy
+    - Frontal lobe
+    - Parietal and occipital lobe
+    - Inferior surface
+    - Limbic system
+
+## Case Protocol 34b – Stroke (**MCA**)
+
+*A 70yo woman is brought into ED after she was found by her husband with an inability to speak, right sided weakness (arms > legs) and right sided lower facial droop. Six months ago, she had had 5 minutes of transient loss of vision in her left eye. Her BP is 140/110mmHg.*
+
+- Localise this lesion and is it more likely to be thrombolic or embolic
+    - Summary of case:
+        - R sided weakness of arm and face
+        - Speech problem (?aphasia)
+        - Preceding episode of amaurosis fugax
+    - Given the R sided hemiplegia
+        - Cortex in left MCA territory or L posterior limb internal capsule
+        - Given the aphasia → more likely cortex
+    - The previous episode of transient visual loss suggests thromboembolic cause
+        - Consistent with carotid atherosclerosis (over cardiac course)
+        - MCA thrombosis is less likely given previous TIA and involvement of the ophthalmic artery is a different circulation (ACA)
+- What causes amaurosis fugax? What causes it?
+    - Definition: transient painless monocular (or binocular) visual disruption
+        - Ischaemia to the retina, optic nerve or both is the most common cause (specific type of TIA)
+    - Causes
+        - Ischaemic
+            - Thromboembolism from ipsilateral carotid atherosclerosis (enters ophthalmic artery)
+            - Hypoperfusion from fixed severe carotid stenosis
+                - More likely to present with recurrent episodes related to reduced ocular perfusion pressure
+            - Other
+                - Systemic hypoperfusion, vasculitis (temporal, polyarteritis nodosa)
+        - Non-ischaemic
+            - Optic neuropathy
+            - Retinal migraine
+- Explain incomprehensible speech? Discuss types of aphasia and causes of dysarthria
+    - May be due to cortical deficit (aphasia) or mechanical deficit (dysarthria)
+    - Expressive aphasia
+        - Lesion to dominant side’s inferior frontal gyrus → MCA superior division
+        - Findings
+            - Impaired speech production → non-fluent, aggramatical, sparse speech
+            - Abnormal prosody (rhythm)
+            - Relatively preserved comprehension or insight
+            - Impaired repetition
+    - Receptive aphasia (Wernicke’s)
+        - Lesion to dominant side’s (posterior superior temporal gyrus, supramarginal gyrus, angular gyrus) → MCA inferior division
+        - Findings
+            - Poor comprehension (and often poor insight of condition)
+            - Normal cadence and intonation (fluent speech) but nonsensical
+            - Impaired repetition
+    - Conductive aphasia
+        - Lesion to arcuate fasciculus within parietal lobe)
+        - Intact comprehension and accurate fluent speech production
+        - Impaired repetition with paraphrasing
+    - Anomic aphasia
+        - Lesion to posterior inferior temporal gyrus of dominant temporal lobe
+        - Findings → difficulty with word finding
+    - Dysarthria
+        - Condition of impaired articulation due to motor or neurological dysfunction of tongue, lips or vocal cords
+        - Causes
+            - Facial motor cortex lesion
+            - Lesion to vagus nerve (laryngeal muscles)
+            - Muscular disorder of larynx, mouth, oropharynx
+- Interpret imaging findings for infarction
+    
+    ![Screenshot 2023-06-30 at 12.54.34 pm.png](Ischaemic%20Stroke%201300acf2446a81a8882dd2faab5b00b2/Screenshot_2023-06-30_at_12.54.34_pm.png)
+    
+    - Non-contrast CT is used initially to exclude haemorrhage
+    - Findings can be useful in the assessment of ischaemic stroke
+        - Hyperdense vessel sign → thrombus (often in MCA)
+        - Early infarct signs (subtle)
+            - Loss of grey-white matter differentiation
+            - Sulcal effacement
+            - Focal parenchymal hypodensity
+            - Obscuration of Sylvian fissure
+    - On CT (axial, non-contrast)
+        - Significant area of hypodensity in the left temporal lobe
+        - Cerebral oedema, compression of lateral ventricle and some sulcal effacement
+- Pathogenesis of ischaemic stroke
+    - Acute interruption of blood flow → deprivation of oxygen and glucose in the vascular territory supplied → triggers cascade of events at a cellular level → cell death
+    - Mismatch between cerebral blood flow and metabolic demands (O2, glucose) leads to:
+        - Anaerobic metabolism (if sufficient glucose) → lactic acidosis → neuronal damage
+        - Electrical failure and pump failure
+            - Phospholipid breakdown into AA (inflammation)
+            - Free radical formation and neuronal damage
+    - Sequence of events
+        1. Focal ischaemia = decreased neuronal ATP production
+        2. Altered ion transport (increased intracellular Na and extracellular K) leading to cytotoxic swelling and depolarisation of neurons
+        3. Rise in intracellular [Ca] with release of excitatory neurotransmitters (glutamate) and phospholipase activation (increased free radical production)
+        4. Free radicals and lactic acidosis (anaerobic) damages cell membranes, proteins and DNA causing irreversible cell injury and liquefactive necrosis
+
+## Case Protocol 34c – Stroke (**PCA**)
+
+*A 62yo man comes to clinic with visual problems and a terrible headache which began earlier in the day. He reports bumping into objects and not being able to read half the printed page of the newspaper. He has a history of HTN and diabetes. On exam, there is right homonymous hemianopia with right face and limb sensory loss. A CT brain non-contrast is performed.*
+
+- MRI sequences used and findings in stroke
+    - Hyperacute (minutes)
+        - Diffusion weighted imaging
+            - Hyperintense signal (intracellular water increased in stroke and diffusion restricted)
+        - Apparent diffusion coefficient
+            - Hypointense in stroke (decreased water diffusion)
+            - Hyperintense in vasogenic oedema (also in DWI)
+        - Other sequences are sensitive for haemorrhage but won’t show ischaemic changes
+    - Acute (hours)
+        - High signal on T2
+        - Hyperintense on T2 FLAIR
+    - Chronic
+        - T1 → low signal
+        - T2 → high signal
+    - Note: perfusion weighted imaging quantifies the amount of MR contrast agent reaching the brain after intravenous bolus
+        - DWI-PWI mismatch → larger area of ischaemic but salvageable tissue (ischaemic penumbra) with core of critical ischaemia

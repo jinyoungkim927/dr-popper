@@ -1,0 +1,310 @@
+# Glioblastoma (Anat, Path)
+
+**Case:** *A 55-year-old man presents after a new onset seizure. His wife witnessed the episode, which involved twitching and weakness of the face that appeared to spread from the upper left limb. He recently had some terrible headaches. He also experienced sensory changes and decreased memory and his wife noted personality changes.*
+
+- PDx
+    - Focal seizure secondary to a space-occupying lesion in the R frontal and parietal lobes
+        - Headaches (raised ICP)
+            - Neurological signs (loss of motor and sensory function, memory, personality)
+- DDx for new onset seizure
+    - Neoplastic → brain tumours (benign, malignant, metastases)
+    - Infection
+        - Abscess, meningitis, encephalitis
+    - Vascular
+        - Intracranial haemorrhage, ischaemic stroke, TIA
+    - Metabolic
+        - Hypoglycaemia
+        - Hypocalcaemia, hypoMg
+        - Hypo/hyperNatraemia
+        - Hepatic or uraemic encephalopathy
+    - Migraine with aura
+    - Multiple sclerosis
+    - Psychogenic non-epileptic seizure
+    - Drug use or withdrawal
+- Approach to history for glioblastoma
+    - HOPC
+        - Seizure history
+            - Pre-ictal: trauma, triggers, aura or prodrome
+            - Ictal: witness, duration, LoC, incontinence or motor movements, injuries
+            - Post-ictal: neurological deficit, drowsiness, confusion, headache
+        - Headache history
+            - Worse in morning or with bending over/coughing or straining
+            - Associated nausea and vomiting or vision loss
+        - Sensory changes
+            - Onset, distribution, type
+        - Personality changes
+            - Onset, timeline, clarify spectrum
+        - Memory changes
+            - Onset and timeline
+            - Retrograde or anterograde
+            - Type
+                - Declarative (facts)
+                    - Episodic (personal)
+                    - General (semantic)
+                - Procedural (skills)
+        - Systems review (screen for cancer)
+        - Constitutional symptoms
+    - PMHx
+        - Previous strokes, IHD, head trauma
+        - Hx of epilepsy or seizures
+        - Hx of cancer
+    - Medications/Allergies/FHx.
+- Classification of seizures. What type of seizure did this patient have?
+    - Classification
+        - Focal
+            - Motor or non-motor
+            - Level of awareness
+                - Aware
+                - Impaired awareness
+            - Focal to bilateral tonic clonic
+        - Generalised
+            - Motor or non-motor (absence)
+        - Note: seizure classifications by motor v. non-motor onset
+            - Motor
+                - Automatisms: involuntary repetitive actions (e.g. lip smacking, chewing)
+                - Generalised
+                    - Atonic: “drop attacks”
+                    - Tonic (stiffening) or clonic (rhythmic jerking)
+                    - Myoclonic (non-rhythmic jerks)
+            - Non-motor
+                - Generalised: absence
+                - Focal: cortical (dyslexia, aphasia), limbic or emotional, sensory
+    - Patient had a focal-onset, motor seizure (unclear level of awareness)
+        - Jacksonian march or Jacksonian seizure is one which begins in the primary motor cortex and thus movements spread from one part of the body to another on same side) with increasing muscle involvement
+- Investigative approach to seizure/glioblastoma
+    - Principal diagnostic investigation
+        - Imaging to identify a space-occupying lesion
+            - CT non-contrast brain to exclude intracranial bleed
+            - MRI brain with gadolinium contrast
+        - Consider EEG to measure seizure activity
+    - Ancillary investigations
+        - Bedside
+            - BSL (hypoglycaemia)
+            - ECG (rule out arrhythmias, embolism risk)
+        - Labs
+            - FBC and CRP (infection)
+            - UEC, CMP (electrolyte disturbances, renal function for contrast)
+            - Coags (bleeding risk)
+            - LP MCS (rule out CNS infection)
+        - Imaging
+            - CT CAP for identifying any extracranial malignancy and staging
+- Label the following MRI
+    
+    ![clip_image002 (24).png](Glioblastoma%20(Anat,%20Path)%201300acf2446a8148a030ecd4542cf557/clip_image002_(24).png)
+    
+    A. Left lateral ventricle
+    
+    B. Vasogenic oedema surrouding the tumour
+    
+    C. Septum pellucidum
+    
+    D. Heterogenous ring-enhancing lesion with central necrosis
+    
+    This is an axial T1-weighted brain MRI with gadolinium contrast
+    
+    - There is a large heterogenous ring-enhancing lesion with significant vasogenic oedema and associated midline shift in the L frontal lobe. There is sulcal effacement and ventricular compression
+        - Heterogenous uptake (concern for central necrosis in rapid growing tumours or infectious lesions)
+    - DDx for ring-enhancing cerebral lesions (DR MAGICAL)
+        - Demyelinating disease
+        - Radiation necrosis or resolving haematoma
+        - Metastasis
+        - Abscess
+        - Glioblastoma
+        - Infarct (subacute)
+        - Contusion
+        - AIDS
+        - Lymphoma
+- Glioblastoma findings on MRI
+    - T1
+        - Mixed appearance (e.g. hypointense without contrast, heterogenous enhancement with contrast)
+    - T2 and T2 FLAIR
+        - Hypertension +/- multifocal enhancements
+        - Irregular margins
+        - Necrotic core
+        - Perifocal oedema
+- Explain the clinical symptoms and relate to anatomy in this case
+    - Given the left-sided motor and sensory changes of face and upper left arm, with cortical signs (memory and personality) → likely R frontoparietal region
+        - Motor defects → pre-central gyrus (frontal lobe)
+            - Given distribution, likely inferior and lateral portion
+        - Sensory defects → post-central gyrus (parietal lobe)
+    - Seizure
+        - Due to abnormal neuronal electrical discharge with an epileptic focus in the R frontal lobe (altered neuronal properties, synapses, environment)
+    - Headache
+        - Mass effect leading to compression and traction on pain-sensitive structures in the brain (e.g. meningeal arteries, venous sinuses, dura, cranial nerves)
+    - Personality changes and memory (see other card)
+- What is glioblastoma
+    - A type of astrocytoma (neuroepithelial tumour (glioma)) which arise from supportive tissue of the brain
+        - Most common malignant primary CNS cancer and majority of high-grade astrocytoma
+        - Rapidly progressive (days-weeks) due to rapid growth and angiogenesis
+    - Classified into four separate grades
+        - Low grade (I/II) or high grade (III, IV)
+        - Grade 1: pilocytic (common in < 20 years old, well-demarcated, cystic)
+        - Grade 2: diffuse (common in 20-40 years old, infiltrative)
+        - Grade 3: anaplastic (non-homogenous, often with oedema)
+        - Grade 4 (glioblastoma)
+    - Pathology
+        - Poorly defined, heterogenous mass with necrosis and surrounding vasogenic oedema
+        - Histology
+            - Pleomorphic anaplastic cells which form pseudopalisades due to necrosis or haemorrhage
+            - Microvascular proliferation
+        - Associated with EGFR mutations and often stain positive for GFAP
+- Explain the memory loss and personality change. What structures may be involved?
+    - Personality changes
+        - Mainly associated with the prefrontal cortex (**ventromedial** and **orbitofrontal**)
+        - Linked with the limbic system which helps regulate emotional expression and experience
+        - Note:
+            - Frontal lobe (general) responsible for executive function (decision making, thought, problem solving), judgement, regulation of emotion, personality
+            - **Dorsomedial** prefrontal cortex associated with decision making and reward seeking
+    - Memory
+        - Different brain regions encode different types of memory
+            - Declarative
+                - Episodic (personal) → hippocampus and limbic circuits
+                    - Hippocampus is important in encoding short-term to long-term declarative memories
+                    - Amygdala is important for fear conditioning (emotional associations)
+                - Semantic (general) → inferolateral temporal lobe
+                - Long-term storage → neocortex
+                - Working memory (’short-term’) → prefrontal cortex (**dorsolateral**)
+            - Procedural (skills)
+                - Basal ganglia, striatum
+        - Note: anterograde amnesia = dysfunction of working memory (dorsolateral prefrontal cortex)
+            - Hippocampus and mammillary bodies also important in encoding short-term to long-term memories
+- Describe the limbic system and Papez circuit?
+    - Papez circuit
+        - A model which described how a sensory experience is transformed into an emotional experience (affect) and emotional expression (behavioural, autonomic)
+        1. Sensory stimulus arrives from **periphery** and is processed by the **thalamus** and sent to **cortex**
+        2. **Cortex** processes sensory information (e.g. somatosensory - parietal, visual - occipital) 
+        3. **Cingulate gyrus** collects information from different parts of the cortex and sends information to the **hippocampus** 
+            - Travels via **cingulum** (white matter tract) → **parahippocampal gyrus** → **entorhinal cortex** → **subiculum**
+        4. Travels to l**ateral and medial mammillary nuclei of hypothalamus** via the **fornix** 
+            - **Mediates emotional expression (physiological response)**
+        5. Returns via **mammillothalamic tract** to **anterior thalamic nuclei** to **internal capsule** to **cingulate gyrus** to **cortex**
+            - **Mediates emotional experience**
+        
+        ![386-1477573950236.png](Glioblastoma%20(Anat,%20Path)%201300acf2446a8148a030ecd4542cf557/386-1477573950236.png)
+        
+    - Limbic system
+        - Papez circuit adapted to the concept of the limbic system which is the emotional epicentre of the brain and has a role in:
+            - Experience and expression of emotion
+            - Formation of memory (in association with emotions)
+            - Motivation pathways (reward, punishment)
+            - Attention
+        - Differences with the Papez circuit
+            - Decreased importance of the hippocampus in emotional experience (more of a memory role)
+            - Increased importance of the prefrontal cortex and amygdala
+        - Components
+            - Cortical
+                - Neocortex (involved in long-term memory storage)
+                - Prefrontal cortex
+                    - Orbitofrontal (smell perception, memory formation)
+                    - Ventromedial (personality, emotional regulation)
+                    - Dorsolateral (working memory, selective attention)
+                - Hippocampus
+                    - Consolidation of long-term memories (declarative))
+                - Insula
+                    - Role in desires, craving, addiction)
+                - Cingulate gyrus
+                    - Nociception
+                    - Processing of afferent and efferent signals which contribute to emotional experience and expression
+                    - Autonomic function
+                - Parahippocampal gyrus (medial temporal lobe)
+                    - Path of communication between cortical association areas and hippocampus
+            - Subcortical
+                - Olfactory bulb
+                - Amygdala
+                    - Fear and anxiety responses
+                    - Development and expression of innate and learned emotional responses
+                - Hypothalamus and mammillary bodies
+                    - Final output of limbic system, controls ANS
+                - Anterior and dorsomedial nuclei of thalamus (relay station)
+        
+        ![Screenshot 2023-08-10 at 4.02.29 pm.png](Glioblastoma%20(Anat,%20Path)%201300acf2446a8148a030ecd4542cf557/Screenshot_2023-08-10_at_4.02.29_pm.png)
+        
+- Prognosis of glioblastoma? How would you manage this patient?
+    - Prognosis is unfavourable → medial survival of 12-15 months due to rapid growth and short disease course
+    - Management principles
+        - Supportive management of raised ICP and cerebral oedema
+            - Glucocorticoids (dexamethasone)
+            - Mannitol (osmotherapy)
+            - Control of BP, BSL, electrolutes
+            - Drainage of CSF as needed
+        - Symptomatic management of seizures
+            - Carbamazepine (focal)
+            - Sodium valproate (generalised)
+        - Early palliative care involvement
+        - Surgical resection
+            - Often debulking, consideration for preservation of neurological function
+        - Adjuvant treatment (based on molecular characterisation)
+            - Radiotherapy
+            - Chemotherapy (temozolomide → oral alkylating agent)
+
+- Causes of death
+    - due to increased pressure in the cranial cavity, the cerebellar tonsils can be forced through the foramen magnum.
+        - these will compress the lower part of the brain stem and upper cervical cord. in particular, you are worried about the cardiorespiratory centres present in the medulla and brainstem → leading to death
+    - herniation → cardioresp failure → death
+    - die following a seizure
+    - haemorrhage into the tumour
+    - invasion of brainstem by tumour
+- Anatomy of arachnoid spaces
+    - Naturally occurring fluid-filled space
+        - The arachnoid mater clings to the inner surface of the dura mater and does not follow the contour of the brain (unlike pia mater)
+    - Contains CSF and blood vessels which surround the brain and spinal cord
+        - Occasionally enlarges into expanded areas (subarachnoid cisterns)
+    - CSF is produced by the choroid plexus (primarily in ventricles)
+        - Clear, colourless, cell-free fluid
+        - Returns to the venous system through arachnoid villi (project as clumps - arachnoid granulations) into the superior sagittal sinus and its lateral extensions (lacunae)
+- Multiple endocrine neoplasia
+    - MEN1
+        - Genetic mutation (MEN1 gene, autosomal dominant)
+        - 3 P’s
+            - Primary hyperparathyroidism (principal)
+            - Secondary
+                - Pancreatic tumours (gastrinomas, insulinomas)
+                - Pituitary adenoma
+                - Linked to carcinoid
+    - MEN2
+        - Genetic mutation (RET proto-oncogene)
+        - 1M, 2P’s
+            - Medullary thyroid carcinoma (principal)
+            - Secondary:
+                - Phaeochromocytoma (40%)
+                - Primary hyperparathyroidism (20-30%)
+- Describe brain tumours
+    - Epidemiology
+        - Can be either metastatic or primary (50% each)
+            - In children, often primary and infratentorial
+            - In adults, often secondary and supratentorial
+        - Most common primary tumours by age
+            - Children
+                - Benign: pilocytic astrocytoma
+                - Malignant: medulloblastoma
+            - Adult
+                - Benign: meningioma
+                - Malignant: glioblastoma multiforme
+        - Metastatic
+            - Often present as multiple, well-circumscribed lesions, often at grey-white junction
+            - Most common
+                - Lung cancer, CRC, RCC, melanoma
+                - Breast and prostate cancer
+    - Primary tumours
+        - Gliomas
+            - Astrocytomas (grade 1 - 4)
+                - Normal function is to contribute to BBB, maintain extracellular homeostasis, healing by gliosis
+            - Oligodendroglioma (rare)
+                - Normal function is to myelinate neurons
+            - Ependymoma
+                - Normal function to produce CSF
+        - Neuronal tumours
+            - Central neurocytoma
+            - Ganglioglioma
+        - Embryonic (primitive)
+            - Medulloblastoma (neuroectoderm)
+                - Often occurs in the midline of the cerebellum (roof of 4th ventricle)
+            - Craniopharyngioma
+                - Ectodermal cells of Rathke’s pouch (form adenohypophysis)
+                - Can compress pituitary gland, optic chiasm or interventricular foramen
+            - Primitive neuroectodermal tumour (PNET)
+        - Other intracranial tissues
+            - Meningioma (arachnoid meningothelial cells)
+            - Pituitary adenoma
+            - Primary CNS lymphoma
+            - Schwannoma, neurofibroma (cranial, paraspinal nerves)

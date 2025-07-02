@@ -1,0 +1,88 @@
+# Bronchiectasis
+
+- Definition
+    - Chronic lung disease characterised by:
+        - Permanent dilation of bronchi and bronchioles due to destruction of muscle and supporting elastic tissue
+        - Secondary to persistent, necrotising infections (impaired mucociliary clearance)
+    - Clinical manifestations
+        - **Cough**
+            - **Often productive and copious purulent sputum**
+        - Dyspnoea and intermittent wheezing
+        - Haemoptysis
+        - Pleuritic chest pain (due to chronic cough)
+        - **History of recurrent pulmonary infections which require antibiotics**
+- Causes
+    - Most common cause is thought to be an antecedent respiratory infection (often in childhood)
+        - Bacteria
+            - MTB or M avium complex
+            - H. influenzae
+            - Pseudomonas aeruginosa
+            - S. aureus
+        - Viral
+            - RSV
+    - Obstructive (localised to a lung segment)
+        - Tumours
+        - Foreign bodies
+    - Congenital
+        - Cystic fibrosis (diffuse)
+        - Primary ciliary dyskinesia
+            - AR condition associated with bronchiectasis and sterility in males (impaired cilia function)
+    - Inflammation
+        - Chronic aspiration or GORD
+        - Inhalation injury
+    - Pulmonary
+        - Asthma
+        - COPD
+        - Idiopathic pulmonary fibrosis
+- Pathology
+    - Three key pathogenetic mechanisms
+        - Recurrent infections
+        - Airway obstruction
+        - Peribronchial fibrosis
+    - Macrosopic
+        - Often affects lower lobes bilaterally (unless localised segment in tumor or aspiration)
+            - Airways dilated often to periphery
+        - In acute cases, may have intense acute and chronic inflammatory exudate within walls of bronchi and bronchioles
+        - Bronchial or bronchial necrosis can result in an abscess cavity → fungal ball
+    - Histological changes
+        - Cartilage destruction and fibrosis
+        - Mucosal and mucous gland hyperplasia
+            - Increased mucous and exudate
+        - Inflammatory cell infiltration
+            - Neutrophil predominant
+- Investigations
+    - Principal diagnostic investigations
+        - CXR
+            - Thickened and abnormally dilated bronchial walls
+                - Tram-track opacities
+                - Ring shadows
+                - Parallel linear densitiies
+            - Complications
+                - Patchy densities (mucoid impaction and consolidation)
+        - High-resolution CT chest is more sensitive and specific
+            - Bronchial dilation is cardinal
+                - Lack of bronchial tapering (does not decrease in calibre towards periphery)
+                - Broncho-arterial ratio > 1
+            - Tram-track sign (dilated airways)
+            - Signet ring (dilated airway adjacent to pulmonary artery branch)
+    - Ancillary
+        - Bedside
+            - ABG
+            - Consider lung function testing (FEV1 decreased and air trapping (raised FVC))
+        - Labs
+            - Sputum MCS
+            - FBC, UEC, LFT
+            - Consider CF testing (sweat test or genetic test) for patients ≤ 40
+- Management
+    - Identify and treat the underlying cause
+    - Non-pharmacological
+        - Chest physiotherapy to promote mucus clearance
+        - Smoking cessation
+        - Vaccination against influenza and pneumococcal
+    - Pharmacological
+        - Infection control
+            - Antibiotics for acute exacerbation
+                - Empirical: amoxicillin + doxycycline
+            - Consider long-term if indicated
+        - In obstruction
+            - ICS LABA

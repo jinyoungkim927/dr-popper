@@ -1,0 +1,192 @@
+# Extradural haemorrhage
+
+**Case:** *A 16-year-old boy was brought by ambulance to ED, after being kicked in the right side of the head during a football match one hour previously. The boy was unconscious but quickly regained consciousness on the field. He became increasingly drowsy, and began vomiting several times. ED saw a tender swelling over the right temporal region.*
+
+- PDx and DDx
+    - PDx: epidural haemorrhage secondary to traumatic fracture and rupture of middle meningeal artery (most common)
+        - Likely given the head trauma (temporal swelling), LoC with lucid intervals
+    - DDx (raised ICP → drowsiness and vomiting)
+        - Other pathologies secondary to head trauma
+            - Brain contusion (coup, contracoup)
+            - Other intracranial bleeds (subdural, SAH, ICH)
+            - Traumatic brain injury → diffuse axonal injury
+        - Identify any scalp lacerations, skull fractures, C-spine injuries
+        - Mass effect - tumour abscess
+- Investigative approach and findings?
+    - Concurrent assessment and resuscitation (primary survey → GCS assessment)
+    - Principal diagnostic investigation
+        - Urgent non-contrast CT brain
+        - Can use MRI (if uncertain CT and high clinical suspicion)
+    - Ancillary investigations
+        - FBC with platelet count (anaemia, thrombocytopaenia prior to surgery)
+        - Coags (PT, INR, aPTT prior to surgery)
+        - Group and hold (possible transfusion)
+        - UEC (hyponatraemia can cause or worsen cerebral oedema)
+    - CT findings for epidural haemorrhage
+        - Biconvex (lentiform) mass which does not cross suture lines
+            - Uniformly hyperdense but can be mixed (swirl sign → active bleeding)
+        - Evidence of mass effect
+            - Midline shift, sulcal effacement
+            - Compression of ventricles and basilar cisterns
+            - Cerebral oedema (loss of grey-white differentiation, evidence of herniation)
+        - Note: subdural haemorrhage
+            - Crescent-shaped mass which is not contained by suture lines
+        - Note: old haemorrhage appears hypodense
+- Relevance of scalp bruising and tenderness
+    - Scalp bruising and tenderness supports an extracranial pathology as opposed to an extradural collection spreading to the scalp via a skull fracture
+- Pathophysiological sequence of events in this case
+    1. Trauma to head
+    2. Fracture to pterion
+    3. Laceration or rupture of anterior division of middle meningeal artery
+    4. Bleeding into epidural space → LOC, neurological deficits
+    5. Growth of haematoma → raised ICP → herniation syndromes
+- Pathophysiology of extradural haemorrhage and location
+    - Extradural haemorrhages are often of traumatic origin
+        - More common in younger patients as they are more likely to partake in risky behaviour
+        - Occurs secondary to laceration of relevant vascular structures following a skull fracture
+    - Typical location is the pterion (junction of frontal, greater wing of sphenoid, temporal and parietal bones) which are in close proximity
+        - The bone in this area is thin and overlies the anterior division of the middle meningeal artery
+- Pathophysiology of subdural haemorrhage and location
+    - Develops due to shearing of the bridging veins (often after relatively minor trauma)
+        - Usually self-limiting as raised ICP compresses the bleeding veins (low pressure)
+    - Occurs more commonly in the elderly and alcoholics as cerebral atrophy causes stretching of the veins
+- Glasgow Coma Scale
+    - Standardised neurological scale, validated in trauma patients, to record the LoC
+        - Should be documented regularly (every 15 mins)
+    - Interpretation
+        - A drop of more than 2 points is significant
+        - Severe: 3-8 (usually indicates intubation)
+        - Moderate: 9-12
+        - Mild: 13-15
+    
+    |  | Eyes (4) | Verbal (5) | Motor (6) |
+    | --- | --- | --- | --- |
+    | Command | Open your eyes | Tell me where we are | Squeeze my fingers |
+    |  | 1 = none, 2 = painful stimuli, 3 = verbal stimuli, 4 = spontaneous | 1 = none, 2 = incoherent sounds, 3 = inappropriate words, 4 = confused, 5 = oriented | 1 = none, 2 = extension to pain or decerebrate, 3 = flexion to pain or decorticate, 4 = withdraws from pain, 5 = localises pain, 6 = obeys commands |
+- Intracranial pressure and volume
+    - Monro-Kellie Doctrine (P-V relationship between CSF volume, brain tissue, blood)
+        - States that the cranial compartment is inelastic (fixed) and there must be a volume equilibrium between its constituents
+        - Any increase in volume of its constituents (or addition of a new volume) must result in compensatory pressure changes in the other constituents
+    - Cerebral perfusion pressure = MAP - ICP
+        - Rise in ICP = reduced CPP (ischaemia, infarction, coma, death)
+- Herniation and cause of fixed dilated right pupil
+    - ICP is normally < 15mmHg in adults
+        - Pressure or volume increases in the skull is initially compensated (venous compression, CSF displacement) → raised ICP → displacement of brain tissue (Monro-Kellie) → herniation syndromes
+    - Herniation syndromes
+        - Cingulate (subfalcine) herniation under falx cerebri
+            - Compression of ACA → ischaemic stroke
+        - Central or downward transtentorial herniation
+            - Caudal displacement of brainstem → Cn III compression (ipsilateral blown pupil)
+            - Rupture of paramedian basilar branches → Duret haemorrhages (often fatal)
+        - Uncal transtentorial herniation
+            - Causal herniation of medial temporal lobe
+            - Early → Cn III compresson
+                - Ipsilateral fixed pupillary dilation (PSNS fibres on dorsum of Cn III and more vulnerable to compression)
+                - Down and out pupil
+            - Late → coma
+                - Kernohan phenomenon (contralateral blown pupil and ipsilateral hemiparesis)
+                    - Due to compression of contralateral cerebral crus (contain corticospinal and corticobulbar tracts) and CnIII against Kernohan notch
+        - Cerebellar tonsillar herniation
+            - Caudal herniation into foramen magnum
+            - Compression of cardiorespiratory centres in the medulla → coma and death
+    
+    ![Screenshot 2023-06-30 at 11.12.26 am.png](Extradural%20haemorrhage%201300acf2446a81558438fad8ece32502/Screenshot_2023-06-30_at_11.12.26_am.png)
+    
+- Outcomes if untreated
+    - In extradural haemorrhage, outcomes are poor without treatment (mortality extremely high if GCS < 8)
+    - Negative prognostic indicators include:
+        - Clinical - blown pupil, low GCS, late intervention
+        - Radiological - big haematoma, swirl sign, midline shift
+    - Expansion of extradural haematoma → raised ICP → death by tonsillar herniation
+- Skull base fracture - signs and clinical significance
+    - Haemotympanum (purple TM due to blood pooling)
+        - Caused by fracture to the petrous part of the temporal bone
+    - CSF rhinorrhoea or otorrhoea
+        - ‘Halo sign’ when blood and CSF separate when dropped onto paper or linen
+        - Caused by fracture of cribriform plate or petrous part of temporal bone
+    - Periorbital ecchymosis (raccoon eyes)
+        - Caused by anterior fossa fracture
+    - Retroauricular or mastoid ecchymosis (Battle sign)
+        - Caused by middle fossa fracture
+    - Significance: patients need dosing with ceftriaxone (prophylaxis for infection)
+- Anatomical and pathological basis for control of ventilation and cardiovascular function
+    - Anatomical centres for respiration and cardiovascular control are largely located in the medulla and pons of the brainstem → tonsillar herniation and compression of centres and ischaemia
+        - Medulla controls severe reflex actions
+            - Coughing, gagging, swallowing, vomiting (brainstem = no associated nausea)
+    - Respiration
+        - Changes in respiration based on chemoreceptors
+        - Respiratory centres located in both the medulla and pons
+            - Medulla
+                - Dorsal inspiratory centre
+                - Ventral expiratory centre
+            - Pons
+                - Pneumotaxic centre (upper pons) → controls rate and depth of breathing
+                - Apneustic centre (lower pons) → stimulates inspiration
+                    - Receives inhibitory impulses from pneumotaxis centre and lung stretch reflexes
+    - Cardiac
+        - Regulated by nuclei in the medulla which control output to SNS and PSNS supply to the heart
+            - Cardioinhibitory centre controls the activity of PSNS nerves
+            - Vasoconstrictor nuclei control the activity of SNS to vasculature and cardiac myocytes
+            - Vasodilator centres control the activity of the vasoconstrictor centres (inhibitory centres)
+- Course of oculomotor nerve, arrangement of fibres, lesion
+    - Course
+        - Nucleus in medial midbrain (level of superior colliculi)
+            - Edinger-Westphal nucleus (PSNS)
+            - Oculomotor nucleus (motor)
+        - Arise from brainstem in the interpeduncular fossa
+            - Traverses forward between PCA and SCA
+            - Pierces the arachnoid and dura mater of the roof of the cavernous sinus just behind the upward bend of the ICA
+                - Then courses straight, slopes downwards along the lateral wall of the cavernous sinus
+            - Splits into superior and inferior divisions at the anterior pole of the cavernous sinus
+                - Superior division → SR, LPS
+                - Inferior division → somatic (MR, IR, IO) and PSNS (ciliary ganglion)
+    - Arrangement of fibres
+        - Pupillary fibres lie on the dorsal surface of the nerve trunk
+            - Supplied by arteries which supply the sheath and not the main trunk
+            - Susceptible to pressure (PCA aneurysm, herniation) but not by infarction of nerve trunk (e.g. diabetes)
+    - Lesion
+        - Down and out pupil (overriding LR and SO)
+        - Fixed and dilated pupil and complete ptosis
+- Course of trochlear nerve, lesion
+    - Course
+        - Nucleus (motor) - located in midbrain at level of inferior colliculus, ventral to cerebral aqueduct
+            - Fibres decussate completely in the midbrain
+        - Emerges dorsally near the midline, behind the inferior colliculus through the superior medullary velum
+            - Wraps around the midbrain and courses along the free margin of tentorium cerebelli
+            - Passes between the SCA and PCA arteries
+        - Pierces the roof of the cavernous sinus (through arachnoid and dura mater)
+            - Runs forward in the lateral wall of the cavernous sinus below Cn III
+            - Then crossed medially by Cn III to become the uppermost nerve by the anterior end of the sinus
+        - Exits via SOF, lateral to common tendinous ring, passes over LPS to innervate SO
+    - Lesion
+        - Inability to move eye down effectively (vertical diplopia → reading, going down stairs)
+        - Extorsion (intorsion effect of trochlear nerve is impaired)
+            - Patient tends to tilt head towards opposite shoulder to compensate
+- Course of abducens nerve, lesion
+    - Course
+        - Nucleus in the medial lower pons
+            - Facial nerve fibres wrap around the nucleus dorsally and form the facial colliculus
+        - Emerges from the pontomedullary junction (lateral to midline)
+            - Pierces the arachnoid and dura mater on the clivus → long intradural course before entering cavernous sinus
+            - Passes straight forward in sinus, lateral to ICA and reaches medial end of SOF
+        - Enters common tendinous ring below the inferior division of Cn III
+            - Innervates LR muscle
+    - Lesion
+        - Convergent strabismus (cross-eyed), inability to abduct the eye
+        - Horizontal diplopia
+- Contents of the cavernous sinus
+    - Located laterally on either side of the sella turcica, lying alongside the body of the sphenoid bone
+        - Space between the periosteum of the sphenoid (outer layer of dura) and a fold of the inner layer of the dura
+    - Important structures include:
+        - Medial: ICA, abducens
+        - Lateral: oculomotor, trochlear, ophthalmic division, maxillary division
+- Jason underwent neurosurgery but a persistent left hemiparesis was noted three months after the injury. What are the most likely causes for this neurological deficit, and what other complications may develop after a severe head injury? What consequences might ensue from a less severe head injury that presents only with signs of concussion?
+    - Causes of neurological deficit
+        - Ischaemia secondary to raised ICP
+    - Severe complications include:
+        - Focal neurological deficits
+        - Seizures and/or epilepsy
+    - Complications from less significant injury
+        - Headaches
+        - Neuropsychiatric disturbances (mood, behavioural changes)
+        - Deficits in executive function (e.g. impaired focusing, memory dysfunction)

@@ -1,0 +1,64 @@
+# Full blood count
+
+## SPIEL
+
+- I observed an automated analysis of a full blood count
+    - FBC is a series of tests which is used to evaluate the composition and concentration of the cellular components of blood (RBC, WBC, platelets)
+    - This did not pertain to a particular patient but common indications included:
+        - Pre-operative test to ensure both adequate oxygen carrying capacity and haemostasis
+        - Identify persons who may have an infection
+        - Diagnose anaemia
+        - Identify acute and chronic illness, bleeding tendencies, WBC disorders (e.g. leukaemia)
+        - Determine the effects of chemotherapy or radiotherapy on bone marrow production
+- Collection
+    - Venous blood sample collected in an EDTA tube using aseptic technique
+    - **EDTA chelates calcium and prevents coagulation**
+- Process
+    - Specimen is barcoded and placed into the automated analyser
+        - A small sample of blood is aspirated into a chamber and diluted with balanced isotonic saline solution
+    - Diluted sample is split into 3 different chambers:
+        - Erythrocytes and platelets
+            - Platelets often counted by electrical impedence or manual haemocytometer
+        - Haemoglobin
+            - Reagant lyses the red cells to measure the Hb released
+        - Leukocytes
+            - Require a sample diluted in buffers which lyse RBCs and thus leave behind the WBCs
+            - Often differentiated by flow cytometry whereby:
+                - Cells in suspension are passed, single file, through an optical flow cell where each interacts with a laser beam
+                - Light is deflected differentially depending on cell size and complexity, or granularity
+                - These signals can be plotted on a scattergram
+                    - Cell types are then assigned based on the expected profile.
+            - Automated analysers are poor at identifying or typing abnormal or immature cells
+                - Unclassifiable cells will be flagged by **manual review of a blood film**
+            - Automated analysers may also erroneously count nucleated erythroblasts or stacked RBCs (due to increased antibodies) as WBCs due to their increase in size
+    - Small amount of each fluid is passed through an aperture where current is applied by two electrodes
+        - The cells act as resistors and increase the impedance according to size
+        - Hence, a pulse is created whereby its amplitude is proportional to size (Coulter Principle)
+    - Different cells produce different impedances and the machine will group them according to thresholds (e.g. RBC > 36fL and platelets = 2-20fL)
+        - Red cell data is formed into a bell curve
+            - AUC = RCC
+            - Width = RDW
+            - Mean = MCV
+        - Quantitative measurements from an automated FBC
+            - Haemoglobin
+            - Haematocrit
+            - RBC count
+        - Qualitative measurements calculated from these results
+            - MCV
+            - MCH and MCHC
+            - RDW
+    - Process is repeated three times
+        - If agreement is found between the results, then they are accepted and a result is calculated
+        - Significant abnormalities (low numbers) will flag the need for a manual count or differential
+- Sources of error
+    - RBCs and WBCs can be counted together (WBC normally have minimal contribution)
+        - Can lead to inaccurate RBC counts when a large number of WBCs are present
+    - RBC count can be decreased if RBCs are lysed as part of, or following, the collection process
+        - Clotting of sample can also lead to inaccurately low RBC counts
+    - MCV, MCH and MCHC are average calculations
+        - If RBCs have significantly different size of Hb content, these parameters may not reflect the mixed population
+        - Manual review is essential
+    - Haematocrit can be erroneously increased by the presence of giant platelets which can be falsely counted as RBCs
+
+- What does EDTA stand for
+    - Ethylenediaminetetraacetic acid

@@ -1,0 +1,46 @@
+# Diabetic foot ulcer
+
+- Aetiology
+    - Acute infections most commonly due to S. aureus or Streptococcus spp.
+        - If antibiotics given recently, higher risk of Gram-negative pathogens
+    - Chronic infections (≥ 4 weeks or more) are often polymicrobial
+        - Involve Gram-positive and Gram-negative aerobic and anaerobic bacteria
+- Assessment
+    - Criteria for an infected ulcer (IWGDF and IDSA)
+        - ≥ 2 of the following need to be present
+            - Local swelling or induration (1)
+            - Erythema extending ≥ 0.5cm in any direction from the wound (1)
+            - **Local tenderness, pain (1)**
+            - **Local warmth (1)**
+            - Purulent discharge (1)
+    - Criteria for infection severity (IWGDF and IDSA)
+        - Mild
+            - Involves skin and subcutaneous tissue AND erythema ≤ 2cm from wound margin
+            - No systemic signs of infection
+        - Moderate
+            - Involves deeper structures (muscle, bone, tendon) or erythema > 2cm from wound margin
+            - No SIRS response
+        - **Severe**
+            - **Associated with SIRS**
+    - **Do not collect specimens from non-infected ulcers**
+        - Can consider tissue samples via biopsy or aspiration to guide antibiotic therapy
+- Management
+    - Antibiotics should only be used for non-infected ulcers
+    - Mild diabetic foot + no recent antibiotics + low MRSA risk
+        - PO flucloxacillin QID
+            - Use cefalexin PO QID if delayed non-severe hypersensitivity
+            - Use TMP-SMX if high risk of MRSA
+        - If recent antibiotics or chronic infection
+            - Amoxicillin + clavulanic acid PO BD
+    - Moderate infection at low risk of MRSA
+        - Amoxicillin + clavulanic acid IV TDS
+            - Consider if hypersensitivity
+                - Cefazolin 2g IV TDS
+                - Metronidazole 500mg IV BD
+        - Total duration of 1-2 weeks (IV and oral) is sufficient however may require longer if deep issues involved
+    - Severe
+        - Piperacillin (4g) + tazobactam (0.5g) IV QID
+            - If hypersensivity
+                - Consider ciprofloxacin IV + clindamycin IV
+        - Vancomycin may be required for severe limb or life-threatening infection if MRSA risk
+        - Duration: 3 weeks is often sufficient but monitor response especially if deeper tissues are involved

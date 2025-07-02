@@ -1,0 +1,365 @@
+# Infective endocarditis
+
+### Memorandum: **infective endocarditis** (diagnostics)
+
+*A 30-year-old IVDU presented with pleuritic chest pain, haemoptysis, fever and a new onset murmur at the left sternal edge*
+
+OR
+
+*A 35-year-old woman presented to ED unwell with fever following a recent dental procedure. On examination she was unwell and had splinter haemorrhages on nail beds*
+
+- Provisional Dx and differentials
+    - PDx: infective endocarditis
+    - DDx
+        - Cardiac
+            - Rheumatic fever → new onset murmur, fever, pleuritic chest pain
+            - Pericarditis, myocarditis → pleuritic chest pain, fever
+            - Myocardial infarction → chest pain, pleuritic friction rub
+        - Respiratory
+            - Pneumonia → pleuritic chest pain, haemoptysis, fever
+            - Pulmonary embolus → pleuritic chest pain, haemoptysis
+            - Pneumothorax
+            - Lung cancer
+    - DDx for splinter haemorrhages
+        - Trauma
+        - Endocarditis
+        - Vasculitis (including autoimmune conditions → scleroderma, SLE, RA)
+        - Sepsis
+        - Haematological malignancy
+        - Profound anaemia
+- Non-bacterial thrombotic endocarditis
+    - Rare condition caused by sterile platelet thrombus formation (often on mitral and aortic valves)
+        - Vegetations are more likely to embolise than IE
+    - Generally caused by:
+        - Underlying malignancy (esp. mucin-producing adenocarcinomas)
+        - Hypercoagulable states
+        - SLE (+/- antiphospholipid syndrome) → Libman-Sacks endocarditis
+        - Previous rheumatic fever or trauma
+    - Treatment: anticoagulation (risk of systemic emboli)
+- Approach to Hx and exam for infective endocarditis
+    - History
+        - HOPC
+            - Screen for specific symptoms (chest pain, haemoptysis, dyspnoea)
+            - Constitutional Sx (high fever, night sweats, malaise, fatigue, anorexia, weight loss)
+            - Onset - acute
+            - Rule out DDx
+                - Recent illness (sore throat, URTI)
+                - Productive cough (pneumonia)
+                - Leg swelling (DVT, PE)
+        - PMHx
+            - Previous IE
+            - Prosthetic valves, valvular heart disease
+            - Immunocompromised state
+            - Chronic health conditions (HTN, HC) → risk of MI
+        - Medications
+            - Immunosuppressive medications
+        - SHx
+            - IVDU
+            - Smoking (risk of cancer)
+    - Examination
+        - Inspection - unwell patient
+        - Cardiovascular
+            - New onset murmur, classically regurgitation
+            - Osler nodes (painful, on finger pulps)
+            - Janeway lesions (painless, on palm)
+            - Splinter haemorrhages
+            - Roth spots (retina) (pale centres)
+        - Respiratory
+            - Rule out DDx
+            - May find evidence of PE
+- Risk factors for infective endocarditis
+    - Up to 50% of IE patients do not have a prior risk factor
+    - Cardiac lesions
+        - Congenital heart disease
+        - Rheumatic heart disease
+        - Valvular disease
+        - Prosthetic valves
+    - Sources of infection
+        - IVDU (tricuspid > aortic > mitral)
+        - High risk surgeries (dental, respiratory)
+        - Haemodialysis
+        - Iatrogenic (PICC, CVC, CL)
+    - Immunocompromised
+        - Bone marrow transplant
+        - Immunosuppressed
+- Clinical features of IE [FROM JANE]
+    - Fever
+    - New-onset murmur
+    - Roth spots
+    - Osler nodes (immune complex)
+    - Janeway lesions
+    - Splinter haemorrhages
+    - Glomerulonephritis
+    - Septic arterial or pulmonary emboli
+- Diagnostic criteria for infective endocarditis
+    - Duke’s Criteria
+        - Pathological Criteria (definitive diagnosis if either)
+            - Micro-organisms in a vegetation
+            - Pathologic lesions (e.g. vegetation or intracardiac abscess confirmed by histology)
+        - Clinical diagnosis if:
+            - 2 major
+            - 1 major and 3 minor
+            - 5 minor
+    - Major Criteria
+        - Separate blood cultures are positive for organisms typical of infective endocarditis
+            - S. viridans, S. aureus, S. gallolyticus
+        - Echocardiogram shows evidence of IE (abscess, vegetations, regurgitation)
+        - New valvular regurgitation
+    - Minor Criteria
+        - Predisposing heart condition or IVDU
+        - Fever > 38
+        - Vascular phenomena (arterial emboli, septic pulmonary infarct, Janeway lesions, splinter haemorrhages)
+        - Immunologic phenomena (glomerulonephritis, Osler nodes, Roth spots, rheumatoid factor)
+        - Microbiological evidence (not typical organism or not a double culture)
+    - Mnemonic: BE FEVER
+        - Blood culture (Major)
+        - Echocardiography (Major)
+        - Fever (> 38)
+        - Evidence of immunologic phenomena (Osler, Roth, GN)
+        - Vascular findings (splinter, Janeway)
+        - Evidence of microbiology (not major)
+        - Risk factors (predisposing heart conditions, IVDU)
+- Classification of IE
+    - Can be subclassified clinically or based on the location of infection
+        - Clinical
+            - Subacute (wks-mths)
+                - prev. damaged valves infected by organisms (e.g. S. viridans → express dextrans → bind to fibrin-platelet aggregates on damaged valves)
+            - Acute (days-wks)
+                - Serious infection on previously normal valve
+                - Destructive necrotising lesions
+                - Virulent organisms (e.g. S. aureus)
+        - Location
+            - Native valve (often S. aureus or enterococcus)
+            - Prosthetic valve (Staph. epidermidis, enterococci)
+            - Right sided endocarditis (IVDU - S. aureus, Pseudomonas, Candida)
+- Investigative approach to infective endocarditis
+    - Principal diagnostic investigations (guided by Duke’s Criteria)
+        - Blood cultures (3 sets; 3 different sites)
+            - At least **ONE** **before ABx** (don’t delay tx)
+        - Echocardiogram (TOE more sensitive than TTE)
+    - Ancillary
+        - Bedside
+            - ECG - pericarditis, PE
+            - Urinalysis → signs of secondary GN
+            - Blood gas - respiratory status
+        - Labs
+            - FBC
+            - UEC, LFT
+            - CRP
+            - Consider
+                - Full septic screen
+                - Serial troponins (MI)
+                - Coagulations panel and D-dimer (PE)
+                - Rheumatological screen
+        - Imaging
+            - CXR
+            - D-dimer or CTPA
+- Why is IE so difficult to treat?
+    - Vegetations contain densely packed bacteria interlocked within a biofilm composed of fibrin and platelets
+        - Creates a mechanical barrier which limits antibiotic penetration
+        - Valves receive poor blood supply
+    - Resistance
+        - Antibiotic resistance is a key challenge
+            - Note: S. mitis has a high resistance to penicillins (B-lactamase, PBP gene mutation to reduce binding affinity)
+- Echocardiogram findings in IE
+    - Hyperechoic mass located on the valve, prosthetic material, mural endocardium
+    - Complications
+        - New valvular vegetation
+        - Perivalvular abscess
+        - Prosthetic valve dehiscence
+    - Most likely affected → mitral > aortic
+- TTE v TOE
+    - TTE is preferred for all suspected IE initially
+        - Non-invasive, specific
+        - Cannot visualise vegetations < 2mm
+        - Should not use in emphysema patients, excess body habitus, prosthetic valves
+    - TOE
+        - Invasive but more sensitive and specific
+        - Better at visualising mitral lesions and development of possible aortic root abscess
+        - First-line for more high-risk patients or inconclusive TTE
+- CXR abnormalities in IE
+    - Chest findings are non-specific
+    - May identify:
+        - Calcification on valves
+        - Signs due to septic emboli to the lungs
+            - Diffuse unilateral or bilateral nodular opacities representing pneumonia or septic emboli impaction
+            - Lung abscess
+            - Pleural effusions
+            - Signs of PE (Hampton hump, Westernmark sign)
+        - Signs of CCF (ABCDE of APO)
+        - Pericardial effusion
+- Most commonly affected valve in IE
+    - IVDU - tricuspid valve
+        - Pathogens enter the venous circulation during non-sterile injecting practices
+            - S. aureus most likely - commensal skin flora
+        - Tricuspid is the first valve encountered (damaged from injected contents + lower pressures and turbulence contributes to infection)
+    - Non-IVDU
+        - Aortic valve (most common)
+            - Follows mitral degeneration in rheumatic heart disease or degenerative disease
+        - Mitral valve (native or rheumatic heart disease)
+- How are blood cultures performed
+    - Procedure: take multiple sets of cultures (aerobic, anaerobic) from different sites
+        - 3 sets of cultures from three different sites for IE → 96% chance for detecting bacteraemia
+            - 1 set prior to ABx (ideally 2)
+        - 2 sets from 2 different sites for other indications
+    - Steps
+        1. Collect equipment
+            1. Sterile gloves, small dressing pack, cotton balls, tape, tourniquet
+            2. 2% chlorhexidine and 70% alcohol swabs
+            3. Prepare vials by disinfecting top and marking 10mL above culture liquid level
+        2. Site preparation
+            1. Wear PPE
+            2. Apply tourniquet and find site
+            3. Wear sterile gloves
+            4. Swab area with wipe (aseptic technique)
+        3. Perform venepuncture
+            1. Fill aerobic before anaerobic (green first)
+            2. Send to lab ASAP
+    - Lab procedure
+        - Incubated at body temperature for up to 5 days
+        - Growth detected
+            - Bottom of the bottle changes colour when there is sufficient growth
+                - Due to production of CO2 and change in pH
+                - Negative = no colour change in 5 days
+            - Subcultures to isolate the pathogenic organism
+- Contents of blood cultures
+    - Aerobic first, then anaerobic
+        - Aerobic contains oxygen
+        - Anaerobic contains reducing agent (e.g. glucose) to aid growth
+    - Contents
+        - Nutrient broth
+            - Allows growth of organisms until there is enough to be cultured on agar
+            - Includes water, nitrogen, growth factors, trace elements
+        - Anti-coagulants
+            - Neutralises natural bactericidal action of blood
+        - Resin beads
+            - Inhibits antibiotics
+- Likely causative organisms in IE
+    - Most likely organism depends on the clinical situation
+        - Acute (days-weeks)
+            - Serious, destructive infection of previously normal valve
+            - E.g. S. aureus
+        - Subacute (weeks-months)
+            - Infection of previously damaged valves by Strep. viridans group (e.g. S. sanguinis)
+            - Other: S. epidermidis, enterococci, HACEK
+        - IVDU → S. aureus, pseudomonas spp., candida spp.
+        - Prosthetic valves → Staph. epidermidis, S. aureus, HACEK
+        - Colon cancer → strep. gallolyticus
+        - Culture negative → Coxiella burnetti (livestock, raw milk), Bartonella
+    - Other organisms
+        - Culture positive → enterococcus
+        - Culture difficult (fastidious) → HACEK group
+            - Haemophilus spp.
+            - Aggregatibacter
+            - Cardiobacterium hominis
+            - Eikenella corodens
+            - Kingella spp.
+        - Culture negative
+            - Coxiella burnetii
+            - Bartonella spp.
+            - Chlamydia
+            - Mycoplasma
+        - Other fungi → aspergillus spp.
+- Pathophysiology of IE
+    1. Bacteraemia (e.g. IVDU, post dental procedure)
+    2. Adherence of organism to valvular vegetation
+        - Low virulence organisms need to invade sterile fibrin-platelet vegetations
+            - Form from pre-existing valvular diseases or hypercoagulable conditions
+        - High virulence organisms can directly invade and injure endocardium (produces an infective fibrin-platelet vegetation)
+        - Adhesion of platelets and fibrin protect this vegetation from the immune system (also avascular valve leaflet)
+    3. Invasion of organism into valve leaflets
+        - Leukocytosis and subsequent release of proteolytic enzymes by neutrophils → friable vegetation
+        - Systemic cytokine release
+    4. Complications (e.g. septic emboli)
+        1. Embolisation associated with increased inflammation (proteolysis - PMNs)
+- Strep. viridans
+    - Gram positive, a-haemolytic coccus
+        - Optochin resistant (differentiates from S. pneumoniae → alpha-haemolytic)
+    - Normal flora of the oropharynx which cause dental caries (S. mutans, S. mitis) or subacute IE (S. sanguinis)
+        - S. sanguinis makes dextrans which bind to fibrin-platelet aggregates on damaged heart valves
+- S. aureus - virulence factors
+    - Evade immune defences
+        - Coagulase → converts fibrinogen to fibrin and encloses/walls off the organisms to protect from phagocytosis
+        - Catalase → protects from ROS
+        - Protein A → inhibits opsonisation, fixing complement and phagocytosis
+        - Haemolysins and leukocidins → destroy RBCs and WCs
+        - Antibiotic resistance (B-lactamase, mutated PBP)
+    - Local destruction
+        - Hyaluronidase → break down proteoglycans in connective tissue to enable local invasion
+        - Staphylokinase → activates plasminogen → plasmin
+        - Protease
+        - DNAse → breaks down DNA and reduces viscosity of infective materal
+        - Lipase → breaks down fats and oils for cutaneous colonisation
+    - Toxins
+        - Superantigens (toxic-shock syndrome toxin)
+- Treatment of IE
+    - Supportive treatment
+        - Continuous vital monitoring
+        - Fluid and electrolyte resuscitation as needed
+        - Analgesia
+    - Definitive management (antibiotics)
+        - Long duration of therapy (4-6 weeks)
+        - Empirical
+            - Native valve
+                - Benzylpenicillin (S. viridans)
+                - Flucloxacillin (MSSA)
+                    - Vancomycin (if MRSA risk) → known coloniser, IVDU, prosthetic valve, nosocomial infection
+                - Gentamicin (dosing interval based on renal function)
+            - Prosthetic valve, IVDU, sepsis
+                - Flucloxacillin + vancomycin + gentamicin
+        - **Directed therapy based on causative organism and sensitivities**
+            - Enterococcal → ampicillin + gentamicin
+            - HACEK organisms (atypical fastidious organisms associated with IE)
+                - Treat with cefotaxime (3rd generation)
+    - Adjunctive therapies
+        - Assess need to remove any infected implant devices or AV access
+        - Identify patients with a need for valvular surgery
+        - Preventative measures against recurrent IE
+- Complications of IE
+    - CV
+        - Valvular dehiscence/rupture/failure
+            - HF (2’ to valvular failure)
+        - Infection of heart structures
+            - Perivalvular abscess
+            - Mycotic aneurysm (infection reduces wall integrity)
+            - Suppurative pericarditis (vegetation reaches annulus → can spread)
+        - Fistula (cardiac chamber to aorta)
+        - Conduction defects
+    - Systemic
+        - Related to systemic embolisation and/or bacterial dissemination
+            - R) heart
+                - Lungs (abscess, septic embolism, obstruction)
+            - Left heart
+                - Brain (stroke, abscess, seizures)
+                - Kidney and spleen (infarction)
+                - Skin (splinter haemorrhages, Janeway lesions)
+            - Bacteraemia and septic shock (septic arthritis, vertebral osteomyelitis)
+        - Related to immune complex deposition
+            - Glomerulonephritis
+            - Osler’s nodes
+            - Roth spots (retina)
+    - Note: case mentioned stabbing chest pain and dyspnoea → likely due to septic pulmonary embolism
+
+- Rheumatic fever
+    - Inflammatory condition which affects the heart, joints, skin, and CNS
+        - Aetiology: recent (2-4 weeks) infection with S. pyogenes (Group A)
+        - Pathology: immune response against streptococcal M protein targets cardiac myosin
+    - Clinical diagnosis based on Jones Criteria + proven GAS infection
+        - Tests for GAS infection
+            - Serum antistreptolysin O (ASO) titre
+            - Antistreptococcal DNAase B (ADB) titre
+        - Jones criteria
+            - Positive if 2 major or 1 major and 2 minor (initial episode)
+            - Recurrent - positive if 3 minor
+        - Major criteria **[J** 🖤 **NES]**
+            - **J**oints → migratory polyarthritis (large joints)
+            - 🖤 → carditis (pancarditis including valvulitis)
+            - **N**odules → subcutaneous
+            - **E**rythema marginatum
+            - **S**ydenham chorea {CNS involvement)
+        - Minor criteria
+            - Polyarthralgia
+            - High fever (>38.5)
+            - Increase acute phase reactants (CRP > 30, ESR > 60)
+            - ECG showing prolonged PR interval
+    - Treatment: penicillin +/- NSAIDs for arthritis

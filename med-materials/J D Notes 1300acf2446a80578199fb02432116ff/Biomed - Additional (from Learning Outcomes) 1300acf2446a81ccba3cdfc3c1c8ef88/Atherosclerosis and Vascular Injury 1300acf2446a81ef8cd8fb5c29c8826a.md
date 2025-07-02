@@ -1,0 +1,100 @@
+# Atherosclerosis and Vascular Injury
+
+- Arteriolosclerosis
+    - Affects small arteries and arterioles → may cause downstream ischaemic injury
+        - Hyaline arteriolosclerosis
+            - Typical of benign hypertension
+                - Homogenous, pink hyaline thickening of arteriolar walls with loss of underlying structural detail and luminal narrowing
+            - Due to leakage of plasma components across injured endothelial cells into vessel walls and increased ECM production by smooth muscle cells in chronic haemodynamic stress
+        - Hyperplastic arteriolosclerosis
+            - Typical of severe hypertension
+            - Vessels exhibit “onion-skin” concentric laminated thickening of arteriolar walls and luminal narrowing
+                - Laminations consist of smooth muscle cells and thickened, reduplicated basement membrane
+            - In malignant hypertension, these changes are accompanied by fibrinoid deposits and vessel wall necrosis (necrotising arteriolitis)
+        
+        ![Screenshot 2023-11-06 at 8.25.37 pm.png](Atherosclerosis%20and%20Vascular%20Injury%201300acf2446a81ef8cd8fb5c29c8826a/Screenshot_2023-11-06_at_8.25.37_pm.png)
+        
+- Vascular response to injury
+    - Vascular injury leading to endothelial cell loss or dysfunction stimulates smooth muscle cell growth and associated matrix synthesis
+        - Healing of injured vessels involves the migration of smooth muscle cells or smooth muscle precursors into the intima
+            - These cells proliferate, and synthesise ECM similar to the action of fibroblasts (form a neointima covered by an intact endothelial layer)
+    - Intimal thickening is hence a stereotypical response of the vessel wall to insult
+        - Neointimal cells cannot contract like smooth muscle cells but are able to divide and proliferate
+            - Proliferative activity is regulated by growth factors and cytokines from platelets, endothelial cells and macrophages
+            - Return to a non-proliferative state with restoration and/or normalisation of the endothelial cell layer
+        - However, the healing response results in irreversible intimal thickening
+            - With persistent or recurrent insults, further thickening can result in vessel stenosis
+        - Note: although a normal process of ageing, this age-related intimal change is often of no consequence due to compensatory outward remodelling of the vessel → little net change in luminal diameter
+- Atherosclerosis
+    - Presence of intimal lesions (atheromas) which are composed of soft lipid cores (cholesterol + necrosis) covered with fibrous caps
+    - Pathogenesis
+        - Atherosclerosis is a chronic inflammatory response of the arterial wall to endothelial injury (response-to-injury hypothesis). The following events are involved:
+            - Endothelial injury and resultant dysfunction
+                - Leads to increased permeability, leukocyte adhesion and thrombosis
+            - Accumulation of lipoproteins in the vessel wall (oxidised LDL and cholesterol primarily)
+            - Platelet adhesion
+            - Monocyte adhesion to the endothelium, migration into the intima, differentiation into macrophages and foam cells
+            - Lipid accumulation within macrophages
+            - Smooth muscle cell recruitment due to factors released from activated platelets, macrophages and endothelium
+                - Smooth muscle proliferation and ECM production
+        - Endothelial injury
+            - Response to injury is intimal hyperplasia (cause may be mechanical, immune complex, chemical)
+                - Triggers of early lesions may be hypertension, hyperlipidaemia, cigarette toxins, infectious agents
+            - Haemodynamic disturbances
+                - Plaques tend to occur at ostia of exiting vessels, branch walls, posterior wall of aorta (turbulent blood flow)
+            - Lipids
+                - Typically transported in the bloodstream bound to apoproteins (form lipoprotein complexes)
+                    - Dominant lipids in atheromas are cholesterol and cholesterol esters
+                - How does dyslipidaemia contribute to atherogenesis
+                    - Chronic hyperlipidaemia (esp. hypercholesterolaemia) can directly impair endothelial cell function
+                        - Increases local O2 free radical production
+                            - Accelerate NO decay and reduce vasodilation
+                        - Lipoproteins accumulate in the intima and are thought to form oxidised LDL and cholesterol crystals (thought to be secondary to inflammatory cells)
+        - Inflammation
+            - Dysfunctional endothelial cells express adhesion molecules which promote leukocyte adhesion (esp. monocytes, T cells)
+                - After adhesion, cells migrate into the intima under the influence of locally produced chemokines
+            - Monocytes → macrophages → phagocytose lipoproteins (LDL, cholesterol)
+                - Become activated and produce ROS (more oxidised LDL) and inflammatory growth factors (smooth muscle proliferation)
+            - T lymphocytes recruited into intimal contribute to chronic inflammation and continuous macrophage activation (e.g. IFN-ysecretion)
+        - Smooth muscle proliferation and matrix synthesis
+            - Intimal smooth muscle cell proliferation and ECM deposition leads to conversion of the earliest lesion (fatty streak) into a mature atheroma
+                - Contributes to the progressive growth of lesions
+            - Can originate from media or circulating precursors (have a unique and distinct proliferative and synthetic phenotype)
+                - Synthesise ECM which stabilises plaques
+                - Activated inflammatory cells however can also cause apoptosis and breakdown of matrix → unstable plaques
+        
+        ![Screenshot 2023-11-11 at 3.55.13 pm.png](Atherosclerosis%20and%20Vascular%20Injury%201300acf2446a81ef8cd8fb5c29c8826a/Screenshot_2023-11-11_at_3.55.13_pm.png)
+        
+    - Morphology
+        - Fatty streaks
+            - Begin as yellow, minute, flat macules which coalesce into elongated lesions (≥ 1cm in length)
+                - Composed of lipid-filled foamy macrophages
+                - Do not cause significant flow disturbance
+            - Reversible however some can evolve into plaques
+        - Atherosclerotic plaque
+            - Intimal thickening and lipid accumulation
+                - White to yellow raised lesions, may coalesce to form larger masses
+                - Superimposed thrombus imparts a red-brown colour
+            - Patchy and eccentric lesions (may be due to local haemodynamic disturbances)
+            - Most commonly involves:
+                - Infrarenal AA
+                - Coronary arteries
+                - Popliteal arteries
+                - ICA
+                - Circle of Willis
+            - General appearance
+                - Superficial fibrous cap (smooth muscle, dense collagen)
+                - Shoulder (cellular region with inflammatory cells)
+                - Necrotic core (lipid, debris, foam cells, smooth muscle cells, fibrin)
+                - May have neovascularisation at the periphery
+    - Clinical consequences
+        - Occlusion of smaller vessels → ischaemia
+        - Plaque rupture → expose atherosclerotic debris (acute thrombosis or distal embolisation)
+            - Causes
+                - Rupture or fissuring (expose thrombogenic plaque constituents)
+                - Erosion or ulceration (expose subendothelial BM)
+                - Haemorrhage into atheroma (expands volume)
+                    - Rupture of fibrous cap or neovascularised vessels
+        - Destruction of underlying vessel wall → aneurysm formation (secondary rupture or thrombosis)
+            - Due to atherosclerosis induced pressure or ischaemic atrophy of underlying media
+                - Also loss of elastic tissue which causes structural weakening (aneurysmal dilation and rupture)

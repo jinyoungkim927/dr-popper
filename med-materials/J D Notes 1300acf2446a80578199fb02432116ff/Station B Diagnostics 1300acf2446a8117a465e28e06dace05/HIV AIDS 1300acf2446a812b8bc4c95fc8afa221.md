@@ -1,0 +1,417 @@
+# HIV/AIDS
+
+**Case:** *A 35-year-old man was seen in consultation because of progressive wasting, malaise and severe odynophagia for solids and liquids. He reported having unprotected sex with several male partners but had previously avoided screening for HIV.*
+
+*Physical examination revealed a wasted appearance, mild dehydration and a fever of 38.2°C. There were white plaques on the tonsils, palate and tongue. The remainder of the physical examination was normal.*
+
+*Investigations confirmed that he was HIV–positive. His CD4 count was 0.1 x 109/L (reference range 0.5-1.4 x 109/L). A full blood count was also performed (see opposite).*
+
+*OR*
+
+**Past Question:**
+
+*A man presented with a 3-week history of bilateral cervical lymphadenopathy, a sore throat, malaise and a generalised rash. He is a previous IVDU user.*
+
+- PDx and DDx
+    - PDx: HIV infection given presentation of acute infective symptoms on a background of IVDU
+        - Seroconversion stage
+    - DDx for generalised lymphadenopathy (MIAMI)
+        - Malignancy
+            - Leukaemias, lymphoma
+            - Metastases
+            - Skin neoplasms
+        - Infection
+            - Bacterial (e.g. TB)
+            - Viral (e.g. **EBV**, CMV, HIV)
+            - Other (e.g. fungal)
+        - Autoimmune
+            - RA, **SLE**
+        - Miscellaneous/unusual
+            - E.g. sarcoidosis, Kawasaki’s disease
+        - Iatrogenic causes
+            - E.g. serum sickness, medications
+    - DDx for generalised rash
+        - Infectious
+            - Viral exanthem
+                - Measles
+                - Rubella
+                - Parvovirus B19
+                - Ross River virus
+            - Bacterial
+                - STIs
+                    - HIV
+                    - Secondary syphilis
+                - Meningococcal
+                - Scarlet fever (S. pyogenes)
+                - Rickettsia infections (tick-borne)
+        - Adverse drug reaction
+            - Acute generalised exanthematous pustulosis (AGEP)
+            - DRESS
+        - Inflammatory
+            - Henoch-Schonlein purpura
+            - Kawasaki disease (adults)
+- What is the most likely cause of this man’s dysphagia/odynophagia
+    - Odynophagia + HIV + white plaques on tonsils and tongue suggests candida oesophagitis and pharyngitis
+        - AIDS defining illness (more likely when CD4+ ≤ 100/microL)
+    - **Diagnosis can be confirmed by endoscopy**
+        - Visualisation and scraping for wet-mount KOH preparation
+            - Branching pseudohyphae seen in Candida albicans
+        - Ancillary
+            - Consider manometry and barium swallow
+            - ANA and serology
+    - Manage with antifungals
+        - Fluconazole (high dose) OD for 3-5 days
+            - MOA: interferes with fungal CYP450 and inhibits ergosterol formation and cell membrane formation
+    - DDx for dysphagia or odynophagia in HIV
+        - Neoplastic
+            - Lymphoma
+            - Kaposi sarcoma
+        - Mechanical
+            - Strictures
+            - Oesophageal webs or rings
+            - Oesophageal carcinoma
+        - Neuromuscular
+            - Scleroderma
+            - Achalasia
+- What investigations would you order to substantiate your diagnosis
+    - **Principal diagnostic investigations**
+        - Screening test for HIV
+            - Combination HIV antigen-antibody tests (4th generation)
+                - HIV antibody (IgM, IgG) ELISA
+                - HIV p24 (capsid) antigen ELISA
+            - Rapid tests (POC testing)
+                - **Provide results in < 30 mins [less sensitive or specific]**
+                - Test for HIV antigen or antibody
+                - Used in high risk populations
+                    - MSM, remote communities, lack of access
+        - Confirmatory test
+            - Western blot
+                - Detection of antibodies to at least 2 different HIV protein bands
+                    - Can take 3 months to turn fully positive
+                - HIV-2 needs to be requested in addition
+            - HIV1/HIV2 antibody differentiation immunoassay
+                - Can determine the type of infection
+        - **Note: it is possible to test someone in the window period and thus, negative results should be followed up in 3 months for further testing**
+    - Monitoring HIV
+        - Plasma HIV RNA (viral RNA load)
+            - Surrogate marker of viral replication rate and ART response
+            - Prognostic marker
+        - CD4 counts
+            - Marker of overall immune function and risk of acquiring opportunistic infections
+        - CD4:CD8 ratio
+            - Used in immunological evaluation of long-term follow-up cases
+            - Expect an increase in ratio with successful antiretroviral therapy
+    - Ancillary investigations
+        - Labs
+            - FBC, UEC and LFT (baseline, monitor effects of treatment)
+            - Serum lipids, BGL, HbA1c (CVD risk)
+            - Infection screen
+                - Viral serology (hepatitis)
+                - Viral PCR (EBV, CMV)
+                - Latex agglutination test (cryptococcus)
+                - First pass urine, rectal swab and throat swab (STI)
+        - Imaging
+            - CXR for TB
+- What is AIDS? How is it defined?
+    - Acquired Immunodeficiency Syndrome (AIDS) is the outcome of chronic HIV infection and depletion of CD4 cells
+    - Defined by either of the following:
+        - CD4 cell count < 200 cells/microL
+        - AIDS-defining illness
+            - Opportunistic infections
+            - Certain malignancies
+                - Kaposi sarcoma
+                - Burkitt lymphoma
+                - Primary CNS lymphoma
+            - Other conditions (thought to be due to uncontrolled HIV infection)
+                - Wasting or encephalopathy
+- Complications seen in AIDS
+    - Opportunistic infections
+        - Infections which occur more frequently or severely in patients with impaired immune systems
+            - Depends on CD4 count
+        - Fungal infections
+            - Cryotococcus neoformans (pneumonia, meningitis)
+            - Pneumocystis jirovecii
+            - Candida albicans (oesophagitis, tracheitis, bronchitis)
+        - Bacterial
+            - MTB
+            - M. avium complex
+            - S. pneumoniae
+        - Viral
+            - HSV
+            - CMV
+            - HHV-8 → Kaposi sarcoma
+            - EBV → oral hairy leukoplakia, lymphomas
+            - HPV → SCC, cervical Ca
+    - Neoplastic
+        - Kaposi sarcoma (HHV-8)
+            - Endothelial malignancy most commonly affecting skin, mouth, GI, respiratory tract
+                - Raised painless firm puple nodules and plaques
+            - Investigations
+                - Excisional biopsy → lymphocytic infiltration
+        - Burkitt lymphoma (EBV)
+        - Primary CNS lymphoma (EBV)
+        - Invasive cervical Ca (HPV)
+    - Other
+        - Wasting syndrome
+        - Encephalopathy
+        - Cardiovascular disease
+- Explain the FBC abnormalities
+    
+    ![clip_image002-094275253aa8c27c170b7df9b3baec4ea80ea850.png](HIV%20AIDS%201300acf2446a812b8bc4c95fc8afa221/clip_image002-094275253aa8c27c170b7df9b3baec4ea80ea850.png)
+    
+    - Pancytopaenia
+        - Normochromic normocytic anaemia
+            - Anaemia of chronic disease
+            - Infiltration of bone marrow by opportunistic infection
+        - Lymphopaenia
+            - **Destruction of CD4+ T cells**
+            - Infiltration of bone marrow
+        - Thrombocytopaenia
+            - Infiltration of bone marrow
+    - Raised ESR
+        - Chronic inflammation
+- How is a Western blot and ELISA performed
+    - Western blot
+        - Sample’s proteins are extracted and denatured
+            - Undergo gel electrophoresis to separate by charge and size
+            - Sorted proteins are then transferred to the blot in the blotting tack
+        - Synthetic antibodies added which bind to specific target proteins
+            - Secondary antibody against the first is added, allowing visualisation by colorimetric, chemiluminescence or immunofluorescence
+        
+        ![paste-10ee71a51bde1b36e4aeca916b918cde904efb1f.jpg](HIV%20AIDS%201300acf2446a812b8bc4c95fc8afa221/paste-10ee71a51bde1b36e4aeca916b918cde904efb1f.jpg)
+        
+    - ELISA (enzyme linked immunosorbent immunoassay)
+        - Patient serum containing antigens is placed on a surface or in a well
+            - Synthetic antibody against the specific antigen is added to the sample with an enzyme linked to it
+            - Sample is washed to remove unbound substances
+        - A solution containing a substrate against the enzyme is then added which causes a reaction that produces a signal
+            - Commonly causes a change in the colour of the sample which can be measured using spectrometry
+        
+        ![paste-b4caad31a814458935740a77cdad8ed72a7d0f36.jpg](HIV%20AIDS%201300acf2446a812b8bc4c95fc8afa221/paste-b4caad31a814458935740a77cdad8ed72a7d0f36.jpg)
+        
+- Pathophysiology of HIV
+    - Cell entry
+        - Infection usually through sexual intercourse, perinatal transfer or exposure to infected blood
+        - HIV enters body (via mucosal lesions or infection of mucosal immune cells)
+            - **Gp120 binds to CD4 receptors** and sequentially binds a **co-receptor**
+                - **CCR5** on macrophages in early infection
+                - **CXCR4** on T cells in late infection
+            - **Exposes the fusogenic domain of gp41 which allows fusion and cell entry**
+    - Viral replication
+        - RNA genome of HIV is reverse transcribed using **reverse transcriptase** to make HIV dsDNA
+            - Incorporated into the host genome by **integrase**
+            - **Transcription and translation of viral proteins using host cell machinery**
+        - Virions are assembled and **HIV protease** cleaves polyproteins into active proteins
+        - **Budding**
+            - Virion repurposes a portion of the cell membrane as an envelope and leaves the cell to infect other cells
+    - Destruction of cells
+        - Increased membrane permeability due to budding of viruses
+        - Viral replication interfering with protein synthesis
+- Natural history of HIV infection
+    - Acute seroconversion
+        - Flu-like symptoms (e.g. malaise, fever, rash, generalised lymphadenopathy)
+        - Occurs within 2-3 weeks of infection
+    - Asymptomatic phase (or chronic)
+        - **Increase in CD8 T cells during this phase as they attempt to respond to the virus**
+            - **Viral load tends to drop after initial infection**
+        - Can last years
+    - AIDS
+        - Due to loss of functional T cells (< 200 CD4+ T cells = AIDS)
+        - Recurrent infections including opportunistic infections
+    
+    ![clip_image004-cd10ab7168b3908cf04ce32d4f7746b7cf986516.png](HIV%20AIDS%201300acf2446a812b8bc4c95fc8afa221/clip_image004-cd10ab7168b3908cf04ce32d4f7746b7cf986516.png)
+    
+- How does HIV infection lead to a reduced CD4 count
+    - HIV selectively infects CD4 helper T cells which may lead to:
+        - Increased rates of apoptosis
+        - Killing of HIV-infected cells by reactive CD8 cytotoxic T cells
+        - Direct cytopathic effect of HIV infection due to budding of virus particles and interference with host protein synthesis
+- Management of HIV (paradigm)
+    - Non-pharmacological
+        - Notifiable disease + contact tracing
+        - Patient education around risk of spread and importance of informing partners
+        - Public health initiatives
+            - Point of care testing
+            - PrEP and PEP
+    - Pharmacological
+        - All patients on ART as it reduces morbidity, mortality and risk of transmission
+        - Four main classes used
+            - NRTIs
+            - NNRTIs
+            - Protease inhibitors
+            - Integrase inhibitors
+            - Others include binding inhibitors, fusion inhibitors
+            - Later therapy
+                - Some patients may be changed to a two drug regimen based on expert advice
+        - Combination drugs due to HIV resistance
+            - Triumeq
+                - Dolutegravir (integrase) + abacavir (NRTI) + lamivudine (NRTI)
+                    - Avoid in high CVD risk and need genetic test for abacavir
+            - Biktarvy
+                - Tenofovir alafenamide (NRTI), emtricitabine (NRTI), bictegravir (integrase)
+        - Manage opportunistic infections as they arise
+- Monitoring antiretroviral therapy
+    - Require careful monitoring
+        - Review 2-4 weeks after starting treatment
+        - Review 3-6 months if stable
+    - Main concerns when monitoring
+        - Treatment adherence
+            - Consider MDT involvement
+        - Efficacy of ART
+            - HIV viral load → aim undetectable
+            - CD4 cell count → aim for ≥ 500 cells/microL
+        - Safety of ART
+            - Toxicity
+                - Perform FBC, UEC and LFT each visit
+            - Check for drug-drug interactions
+        - Screening for other disorders
+            - CVD
+            - HPV infection
+- Nucleoside reverse transcriptase inhibitors
+    - e.g. abacavir, tenofovir
+    - Mechanism
+        - Competitive inhibition of nucleotide binding to reverse transcriptase and terminate the DNA chain
+    - AEs
+        - Bone marrow suppression
+        - Peripheral neuropathy
+        - Lactic acidosis
+        - Pancreatitis
+    - Note: test for HLAB*5701 allele as it is highly predictive of hypersensitivity for abacavir
+- Non-nucleoside reverse transcriptase inhibitors
+    - e.g. delavirdine
+    - Mechanism
+        - Binds to reverse transcriptase to inhibit nucleotide binding and terminate the DNA chain
+    - AEs
+        - Rash
+        - Hepatotoxicity
+        - CNS symptoms
+        - Vivid dreams
+- Integrase inhibitors
+    - e.g. dolutegravir, elvitegravir
+    - Mechanism
+        - Inhibits HIV genome integration into the host cell chromosome by reversible inhibition of HIV integrase
+    - AEs
+        - Increased CK
+        - GI intolerance
+        - Headache
+- Protease inhibitors
+    - e.g. indinavir, atazanavir, darunavir (ends in NAVIR)
+    - Mechanism
+        - Inhibits protease mediated cleavage of HIV mRNA products into their functional parts
+            - Inhibits maturation of new viruses
+    - AE
+        - Hyperglycaemia
+        - GI intolerance
+        - Nephropathy
+        - Haematuria
+    - Note: concentration affected by rifampicin (CYP induction) → use rifabutin instead
+- What are some HIV prevention strategies
+    - Education
+        - Safe sex
+        - Harm reduction for IVDU (e.g. avoid needle sharing, needle exchange programs)
+    - Treatment of HIV+ positive women with HAART during T2 and T3 of pregnancy
+        - Treat infant for 6 weeks to reduce vertical transmission
+    - Universal blood and body precautions for HCWs
+        - PEP following needle=stick or sexual exposure
+            - Continue for 28 days
+    - PrEP and PEP for HIV prevention
+        - PrEP = daily medication to prevent infection for those at risk
+            - 2 x NRTI (Truvada = tenofovir + emtricitabine)
+- Microbiology of HIV
+    - Two species of lentivirus (subset of retrovirus) which cause AIDS
+        - HIV-1 (most common worldwide)
+        - HIV-2 (restricted to West Africa)
+    - Icosahedral with a conical capsid and spiked capsule
+    - Diploid genome (two RNA molecules) with 3 important structural genes
+        - Env → codes for structural glycoproteins
+            - Gp120
+                - Attaches to host CD4 cells
+            - Gp41
+                - Mediates fusion and entry
+        - Gag
+            - p24 → capsid protein
+            - p17 → matrix protein
+        - Pol (codes for polyprotein containing)
+            - Reverse transcriptase
+                - Synthesised dsDNA from genomic RNA
+            - Integrase
+                - Integrates dsDNA into host genome
+            - Protease
+    
+    ![Screen Shot 2020-08-24 at 8.43.22 pm.png](HIV%20AIDS%201300acf2446a812b8bc4c95fc8afa221/Screen_Shot_2020-08-24_at_8.43.22_pm.png)
+    
+
+Dan White HIV
+
+Case: A 35yo man presented with a 1-week history of malaise, generalised rash and a sore throat. He has a history of IVDU. On examination, you find that he has generalised lymphadenopathy. He’s worried he could have HIV.
+
+- What are your provisional and DDx. What would you look for in Hx and exam to assess for HIV and AIDS
+    - PDx: HIV and AIDS
+        - Acute seroconversion presents with malaise, rash, sore throat and lymphadenopathy
+            - 1-2 weeks post infection as the virus is detected and the body attempts a host defence (until CD4 depletes)
+            - Refers to the period when HIV antibodies first become detectable
+    - DDx
+        - Neoplastic
+            - AML or ALL
+            - Lymphoma
+        - Infectious
+            - Viral (EBV)
+            - Bacterial (GAS, N. meningitidis, S. aureus)
+                - Consider infectious endocarditis
+        - Autoimmune
+            - SLE
+    - Hx and exam
+        - General inspection
+            - Cachexia
+            - Oral mucocutaneous infections (oral and oesophageal candidiasis)
+        - Abdominal exam
+        - Lymph node examination
+        - Look for signs of AIDS defining illness
+            - Kaposi sarcoma (HHV-8)
+            - TB
+            - Pneumocystis jirovecii pneumonia
+            - Oesophageal candidiasis
+- Investigative approach
+    - HIV diagnostics
+        - Serology
+            - Rapid HIV antibody test
+            - 4th generation antibody/antigen test
+                - HIV1 and HIV2 antibodies
+                - p24 antigen (acute phase infection)
+        - Staging HIV infection
+            - FBC with WCC differential (CD4 count)
+            - Viral load (HIV RNA)
+    - Confirm diagnosis with Western blot
+    - Ancillary
+        - Viral serology
+            - HBV and HCV testing
+            - VDRL for syphilis
+        - STI screening
+        - Imaging
+            - CXR for TB and pneumonia
+- How does HIV exposure lead to reduced CD4 count
+    - gp120 binds to CD4
+        - Co-receptor binds and allows virus to enter the cell
+        - Viral RT enters cell and transcribes complementary DNA which is integrated into the genome
+        - Host cell produces HIV proteins and leads to production of new virions
+        - Lead to cell death
+- Cornerstones of HIV management
+    - Non-pharmacological (PENIS)
+        - Patient Education
+            - Needle exchange programs
+                - Education on pregnancy and reducing vertical transmission
+        - Notifiable disease
+            - HIV (also TB, pertussis) requires notification to public health units
+            - Contact tracing and
+        - Intimate tracing
+            - Contract tracing
+        - Sexual education
+            - Patient has a legal obligation to inform future partners about the diagnosis (when viral load is not 0)
+            - Importance of contraception with MSM and WSW (safe sex practices, selective partners)
+        - Monitoring and ask patient to revisit
+    - Pharmacological
+        - Anti-retroviral therapy
+            - 2NRTIs and 1 integrase inhibitor or 1 protease inhibitor
+        - PreP and PEP
+    - Vaccinations: HAV, HBV, tetanus, diphtheria, (dTPA), influenza, HCV (if tattoos or IV drugs), **yellow fever, JEV, consider rabies vaccine** (3 x shots over 6 weeks). Still need post-exposure shot after bitten (expensive), check vaccination status
+    - Malarone and doxycycline

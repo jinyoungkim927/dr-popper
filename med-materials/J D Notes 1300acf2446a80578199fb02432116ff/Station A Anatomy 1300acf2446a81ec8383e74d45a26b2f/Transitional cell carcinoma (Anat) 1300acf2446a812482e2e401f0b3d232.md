@@ -1,0 +1,203 @@
+# Transitional cell carcinoma (Anat)
+
+**Case:** *A 69 year old male patient presents with haematuria and nocturia.*
+
+- PDx and DDx
+    - PDx: urothelial carcinoma or transitional cell carcinoa
+    - DDx
+        - Haematuria
+            - Pre-renal (coagulopathy, exercise-induced, rhabdomyolysis)
+            - Renal (CISTIC)
+                - **Cancer (RCC)**
+                - **Infection or inflammation (UTI, GN, pyelonephritis)**
+                - **Stones**
+                - Trauma
+                - Infarction (emboli)
+                - Congenital (AVM, PCKD)
+            - Post-renal
+                - **Ureter (stone, malignancy)**
+                - Bladder (infection, malignancy)
+                - **Prostate (BPH, malignancy, trauma)**
+        - Nocturia
+            - BPH
+            - Malignancy (prostate, bladder)
+            - Diabetes insipidus
+            - Diabetes mellitus
+- What is transitional cell carcinoma?
+    - Malignant tumour arising from the transitional epithelium
+        - May be renal pelvis, ureters, bladder, proximal 2/3 of urethra
+        - Most common tumour of the urinary tract (bladder > renal pelvis > ureter)
+    - Clinical presentation
+        - Variable and non-specific
+            - Haematuria (most common PC)
+                - Classically painless and throughout micturition (suggests higher source)
+                - High clinical suspicion in unexplained haematuria in patient > 40
+            - Urinary symptoms (irritative)
+                - Frequency, dysuria
+        - Less common symptoms
+            - Obstructive symptoms (retention, hesitancy, straining, poor stream)
+            - Flank pain (if renal pelvis involved)
+        - If advanced disease
+            - Systemic symptoms (weight loss, fatigue)
+            - Signs of metastases
+    - Histological subtypes
+        - Two precursor lesions to invasive TCC
+            - Non-invasive papillary tumour
+                - Demonstrates a range of atypia
+            - Carcinoma in situ
+                - Cytologically malignant cells within a flat urothelium
+                - Often multifocal
+        - Macroscopic features
+            - In situ
+                - Focal or diffuse erythematous, flat, velvety lesion in mucosa
+            - Low grade tumour
+                - Pedunculated with papillary surface and non-invasive
+            - High grade tumour
+                - Sessile and nodular or solid and invasive
+        
+        ![Screenshot 2023-09-23 at 10.56.23 pm.png](Transitional%20cell%20carcinoma%20(Anat)%201300acf2446a812482e2e401f0b3d232/Screenshot_2023-09-23_at_10.56.23_pm.png)
+        
+- Risk factors for TCC
+    - Non-modifiable
+        - Male
+        - Older age
+        - PMHx or FHx of bladder cancer
+    - Modifiable (exposures)
+        - Smoking (50%)
+        - Toxic chemicals (e.g. aniline dyes)
+        - Iatrogenic (e.g. radiation therapy, cyclophosphamide, phenacetin)
+        - Chronic irritations (e.g. catheter, renal calculi, UTI)
+        - Infection (e.g. HPV)
+- Investigative approach to TCC
+    - Principal diagnostics
+        - Flexible cystoscopy + transurethral biopsy
+            - Histopathology is gold standard to confirm diagnosis
+        - CT urogram
+            - Non-contrast (mural thickening)
+            - Contrast (may show filling defect)
+    - Ancillary
+        - Bedside
+            - UA (DDx infection)
+        - Labs
+            - FBC (raised WCC, anaemia of chronic disease)
+            - UEC (renal involvement)
+            - LFT (end organ damage)
+            - CRP
+            - Tumour marker
+                - Bladder tumour antigen (BTA)
+            - Urine MCS
+                - **Cytology may show malignant cells (low sensitivity)**
+            - Swabs (endocervical, high vaginal) → PCR
+        - Imaging
+            - Renal or bladder US
+            - CT CAP
+- Management of urothelial bladder Ca
+    - Depends on patient and disease factors
+    - Low grade, does not invade muscle
+        - Surgery
+            - TURBT (transurethral resection of bladder tumour for low stage lesions)
+        - Intravesicular chemotherapy
+            - Mitomycin (alkylating agent), gemcitabine (antimetabolite)
+    - High grade, invades muscle
+        - Radical cystectomy with urinary diversion
+        - Chemotherapy (cisplatin based) + radiotherapy
+        - Checkpoint-inhibitors (immunotherapy)
+    - Consider involvement of palliative care
+- Mechanism of spread from urinary bladder + complications
+    - Local invasion (prostate, uterus, vagina, rectum, kidneys, bowel)
+        - Increased risk of recurrence
+        - Needs more invasive surgery (e.g. radical cystectomy with muscle invasion)
+        - Complications
+            - Ureteric obstruction
+                - Hydronephrosis, flank pain
+                - AKI or CKD
+            - Bladder outlet obstruction
+                - UTI
+                - AKI or CKD
+            - Bowel obstruction
+                - Third spacing + risk of perforation
+                - Arrhythmias
+    - Lymphatic spread → external or internal iliac LNs
+    - Haematogenous spread
+        - Liver, bone, brain, adrenals
+    - Note: urothelial tumours exhibit **polychronotropism**
+        - Tendency to recur over time in new locations in urothelial cells → may be due to tumour cell shedding
+- Other types of bladder tumours?
+    - Urothelial (transitional) cell carcinomas (90%)
+    - Adenocarcinoma (3-7%)
+    - Squamous cell carcinoma (2%)
+    - Small cell carcinoma (<1%)
+- Staging of bladder cancer
+    - Tumour (depth of invasion)
+        - **T2 = muscle invasion**
+        - **T4 = invasion into adjacent organs**
+    - Nodes
+        - Involvement of regional nodes
+    - Metastases (distant)
+- What structures are lined by urothelium
+    - Transitional epithelium in urinary tract (multiple layers of epithelial cells which can contract and expand to allow for distension)
+    - Seen in:
+        - Renal pelvis
+        - Ureter
+        - Urinary bladder
+        - Proximal 2/3 of ureter
+- What bleeding causes can cause haematuria
+    - Platelet disorders
+        - Thrombocytopaenia
+            - Consumptive (TTP, HUS, DIC)
+            - Destructive (ITP)
+            - Low production (liver failure)
+        - Platelet function abnormality (e.g. uraemia, aspirin, vWF)
+    - Coagulation disorders
+        - Factor defects (e.g. haemophilias, vitamin K deficiency)
+        - Excess fibrinolysis (e.g. tPA)
+    - Medications
+        - Antiplatelet or anticoagulant therapy
+
+- Anatomical structure of urinary bladder
+    - Wall
+        - Outer adventitia or serosa
+        - Muscular layer with detrusor muscle (smooth muscle)
+        - Inner mucosa
+    - Shape of three-sided pyramid when non-distended
+        - Apex → towards pubic symphysis
+            - Has remnants of urachus (median umbilical ligament)
+        - Base → posterior
+            - Ductus deferens and seminal vesicles are adherent laterally
+            - Ureters enter at superolateral corner
+                - Pass obliquely through wall to prevent reflux
+        - Neck
+            - Site of urethral opening
+        - Inferolateral surface
+        - Superior surface
+    - Internal features
+        - Trigone
+            - **Smooth, triangular area** at the base of the bladder between internal urethral orifice (central, inferior) and ureteric orifices (superolateral)
+            - Connected by interureteric crest
+        - Uvula may be present (in males)
+            - Prominence which represents the medial lobe of prostate
+        - Rugae (folds of mucosa)
+        - Trabeculation
+            - Smooth muscle ridges on the inside of the bladder wall when muscular band become hypertrophied with chronic obstruction
+        
+        ![paste-d5ca17a928891314bb76b84d45a0e64111c514e2.jpg](Transitional%20cell%20carcinoma%20(Anat)%201300acf2446a812482e2e401f0b3d232/paste-d5ca17a928891314bb76b84d45a0e64111c514e2.jpg)
+        
+    
+    ![Screenshot 2023-09-23 at 10.58.44 pm.png](Transitional%20cell%20carcinoma%20(Anat)%201300acf2446a812482e2e401f0b3d232/Screenshot_2023-09-23_at_10.58.44_pm.png)
+    
+- Nerve supply of urinary bladder
+    - Nerve supply via inferior hypogastric plexus
+    - SNS
+        - L1-L2 cell body → sympathetic trunk → lumbar and sacral splanchnic nerve → superior and inferior hypogastric plexus
+        - Vasomotor function
+            - **Relaxes detrusor muscle and promotes urine retention**
+            - Contracts internal urethral sphincter
+    - PSNS
+        - Cell bodies (S2-4) → pelvic splanchnic nerves
+        - Function
+            - Contracts detrusor muscle (stimulates micturition)
+    - Sensory afferents in bladder wall senses bladder fullness
+        - Signals the need to urinate → stretch reflex able to be overcome by higher centres
+    - Note: pudendal nerve provides voluntary control over micturition (external urethral sphincter)
+- Lymph drainage of urinary bladder
+    - Follows arterial supply to external and internal iliac LNs → common iliac LNs → cisterna chyli → thoracic duct

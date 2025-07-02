@@ -1,0 +1,535 @@
+# Rheumatoid Arthritis
+
+## Case Protocol 30 – **Rheumatoid Arthritis**
+
+*A 24-year-old woman was referred to the rheumatology clinic for investigation of her arthritis. She was previously well until she developed symmetrical painful swelling of the proximal interphalangeal, metacarpophalangeal, wrist*
+
+*and ankle joints. Examination revealed a thin, pale, ill-looking woman with warm, symmetrical swelling of all involved joints.*
+
+- PDx and DDx
+    - PDx: rheumatoid arthritis
+        - Risk factors include female, young age
+        - Clinical features
+            - Polyarthritis - classic distribution in small joint (IP, MCP, carpal)
+            - Joints were warm + symmetrical
+    - DDx of polyarthritis (≥ 5 joints)
+        - RA
+        - Seronegative spondyloarthropathies (dactylitis, enthesitis, uveitis)
+            - Psoriatic
+            - IBD-related
+        - Viral polyarthritis
+            - Ross river virus
+            - Parvovirus B19
+        - Systemic connective tissue disorders
+            - SLE, scleroderma, MCTD
+            - Sjogren’s
+            - Dermatomyositis, polymyositis
+    - DDx of mono/oligoarthritis (2-5 joints)
+        - Non-inflammatory
+            - Traumatic
+            - Osteoarthritis
+        - Inflammatory
+            - Seronegative spondyloarthropathies (AS, reactive)
+            - Crystalline
+                - Gout
+                - Calcium pyrophosphate deposition disease (pseudogout)
+                    - Deposition of Ca pyrophosphate crystals within the joint space
+                        - Often in patients > 50
+                        - M:F (1:1)
+                    - Features
+                        - Pain and swelling with acute inflammation (pseudogout)
+                            - May lead to chronic degeneration (pseudo-OA)
+                        - Knee is the most commonly affected joint
+                    - Findings on Ix
+                        - Chondrocalcinosis (calcification of cartilage) on XR
+                        - Crystals
+                            - Rhomboid
+                            - Weakly positive birefringence under polarised light
+                                - Blue when parallel
+                    - Management
+                        - Acute: NSAIDs, colchicine, glucocorticoids
+                        - Prophylaxis: colchicine
+                    
+                    ![paste-10166187589633.jpg](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/paste-10166187589633.jpg)
+                    
+            - Septic arthritis
+- Classic history findings
+    - SOCRATES of affected joints in HOPC
+        - Pattern: symmetrical, small joint polyarthritis
+            - MCP and PIPs affected
+            - Sparing of DIPs
+        - Joint stiffness
+            - Prominent and prolonged/worse after rest (or early morning)
+        - Joint pain improves with use
+    - PMHx
+        - IBD, psoriasis
+        - Other autoimmune conditions (e.g. SLE)
+        - Trauma
+        - Recent viral illness
+    - SHx
+        - Smoking
+- Examination findings in RA
+    - Check involved joints for features of synovitis, classic deformities, muscle wasting
+        - Hands
+            - Swan-neck
+                - Hyper-extension of PIP, fixed flexion at DIP
+            - Boutonniere
+                - Fixed flexion of PIP, hyperextension of DIP
+            - Z-deformity
+                - Boutonniere pattern in thumb
+            - Subluxation at PIP and MCP joints
+            - Ulnar deviation of fingers at MCP joints
+        - Feet
+            - Pes planus
+            - Claw, hammer and mallet toes (subluxation of MTPs and IP flexion)
+            - Hallux valgus (great toe points out)
+        - Test function of affected joints (may be reduced)
+    - Systemic
+        - Rheumatoid nodules (subcutaneous)
+        - Skin changes (e.g. digital infarcts)
+        - Cardiovascular and respiratory examination (complications)
+- Diagnostic criteria for RA
+    - Based on ACR/EULAR criteria (2010)
+    - Defined by:
+        - Presence of synovitis in at least one joint
+        - Absence of an alternative diagnosis
+        - **Achievement of a score ≥ 6 by clinical and laboratory criteria**
+            - Number and site of involved joints
+                - 2-10 large joints (1)
+                - 1-3 small joints (2)
+                - 4-10 small joints (3)
+                - More than 10 small joints (5)
+            - RF or anti-CCP positive
+                - Low positive (2)
+                - High positive (3)
+            - ESR or CRP positive (1)
+            - Duration ≥ 6 weeks (1)
+- Investigative approach to RA
+    - Diagnosis needs both clinical and laboratory investigations
+        - Thorough Hx and exam is critical
+    - Principal diagnostic investigations
+        - Serology
+            - Rheumatoid factor (positive in 70%)
+            - Anti-cyclic citrillinated peptide (more specific but less sensitive)
+        - CRP or ESR
+        - Xray or MRI of affected joints
+    - Ancillary
+        - Bedside
+            - ECG
+            - UA
+        - Labs
+            - FBC, UEC, LFT
+            - Other serology
+                - ANA
+                - ENA
+        - Invasive
+            - Synovial fluid aspiration
+                - Crystallography, MCS
+- Risk factors for RA
+    - Non-modifiable
+        - Female
+        - Older age
+        - FHx
+        - Genetic
+            - Shared epitope at HLA-DRB1 locus (5 AA sequence)
+                - For these patients, risk of RA is greatly increased with cigarette smoking
+    - Modifiable
+        - **Cigarette smoking**
+        - Obesity
+- Explain haematological abnormalities in RA
+    
+    ![clip_image002-87de2b838f424854e44329718de1505d686b93f8.png](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/clip_image002-87de2b838f424854e44329718de1505d686b93f8.png)
+    
+    - Normocytic, normochromic anaemia
+        - Anaemia of chronic disease
+        - Antibody-dependent cell-mediated cytotoxicity (destroys RBCs)
+        - AE from therapy (MTX causing myelosuppression)
+    - Leukocytosis
+    - Raised ESR
+        - May be due to fibrinogen synthesis by the liver (acute phase reactant in response to IL6)
+- Explain results of synovial fluid aspirate
+    - Macroscopic
+        - Cloudy and turbid in RA (not purulent)
+    - Microscopic
+        - White cells (predominantly PMNs)
+        - Reduced complement
+        - Low glucose
+        - High protein
+    - Culture and antibiotic sensitivities (no result)
+    - Polarising light microscopy (no result)
+        - Negative birefringence (gout)
+        - Positive birefringence (CPPD)
+- What are the clinical features of RA? Which joints could be involved? What would the joint feel and look like?
+    - RA is an inflammatory symmetrical polyarthritis
+        - Early (inflammatory - reversible)
+            - Boggy swelling
+            - Erythematous, warm, tender
+            - Classic morning stiffness > 1h
+        - Late (irreversible)
+            - Joint deformities in hands and knees
+            - Ankylosis
+            - May have atrophy of small muscles and feet (disuse, nerve compression)
+    - Tends to affect the small synovial joints of the hands and feet
+        - May spread to larger joints (e.g. wrist, ankle, knee)
+- Describe a normal synovial joint
+    - Key structures
+        - Articular capsule (continuous with periosteum) → fibrous and synovial layers
+        - Articular hyaline cartilage (relatively avascular)
+        - Synovial fluid
+            - Lubrication, shock absorption, nutrient exchange
+    - Accessory structures
+        - Ligaments
+        - Bursae
+            - Sac lined by synovial membrane and filled with fluid
+            - Located at key points of friction in a joint
+    - Types
+        - Hinge (movement in one plane) → elbow, knee
+        - Saddle (opposing surfaces have reciprocal concave-convex shape) → CMCP
+        - Plane (flat articular surfaces) → AC joint
+        - Pivot → radio-ulnar, atlanto-axial
+        - Condyloid (wrist, MCP, MTP)
+        - Ball and socket
+        
+        ![Screenshot 2023-09-23 at 10.00.43 pm.png](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/Screenshot_2023-09-23_at_10.00.43_pm.png)
+        
+- What the types of joints?
+    - Tissue type
+        - Fibrous
+            - Cranial sutures
+            - Syndesmoses (e.g. tibiofibular)
+            - Gomphoses (teeth)
+        - Cartilaginous
+            - Pubic symphysis
+            - Intervertebral disc
+        - Synovial
+    - By movement
+        - Synarthrosis (immovable)
+        - Amphiarthrosis (slight movement)
+        - Diarthrosis (free movement)
+- What is the pathophysiology of RA
+    - Systemic autoimmune disease with a complex and incompletely understood pathophysiology - caused by a combination of:
+        - Genetic factors (FHx, HLA-DRB1)
+        - Environmental factors (smoking, ?infection)
+    - Results in an autoimmune response characterised by type III and type IV hypersensitivity
+        - Deposition of antibody-antigen immune complexes (III)
+        - Cell-mediated damage (IV)
+        - **Damage to the synovium leads to hyperplasia (pannus) and inflammatory infiltrate (produce mediators which upregulate RANK-L and protease production)**
+            - **Destroy underlying cartilage and bone**
+    - In the joints, key features include:
+        - Synovial hyperplasia with resultant overproduction of synovial fluid and release of inflammatory mediators
+        - Recruitment of inflammatory cells
+            - Produce inflammatory cytokines and degradative enzymes (e.g. MMPs, RANK-L)
+            - In synovium → T lymphocytes and B lymphocytes
+            - In synovial fluid → neutrophils
+            - Underlying CT → antigen-presenting cells
+        - Formation of pannus
+            - **Fibroinflammatory mass composed of inflamed synovial cells, inflammatory cells and CT**
+        - Angiogenesis to support pannus
+        - **Destruction of cartilage, bone and surrounding tissues**
+            - **Cartilage due to MMP and pannus invasion**
+            - **Bone due to RANK-L (osteopaenia), pannus erosion, MMPs**
+            - **Tenosynovitis due to pannus**
+- What are complications of persistent synovitis?
+    - Local complications
+        - Tenosynovitis and tendon rupture
+        - Damage to ligaments
+            - Predispose to subluxation, contractures
+        - Septic arthritis
+    - Effect
+        - Loss of function → muscle wasting and weakness (disuse atrophy)
+        - Chronic joint deformities
+            - Subluxation, contractures
+            - Dislocations, ankylosis
+        - Compression of adjacent neurovascular structures
+- What is RF and anti-CCP
+    - Rheumatoid factor
+        - IgM antibody against the Fc portion of IgG
+    - Anti-CCP antibody
+        - Targets citrillunated arginine resides on synovial proteins
+            - Citrulline often makes proteins non-functional (when replacing arginine) and hence can elicit an immune response
+- What radiological findings may you see in RA?
+    - Decreased joint space
+        - Invasion of cartilage by pannus and increased production of cartilage MMP
+        - Breakdown of ECM
+    - Erosion of bone at joint margin
+        - Increased bone resorption from osteoclasts triggered by RANK-L
+        - Increased MMP secretion by synovial cells and erosion by pannys
+    - Juxta-articular or peri-articular osteopaenia
+        - Action of RANK-L resorption and MMPs
+    - Deformities (due to tendon or ligament rupture)
+    - Soft tissue swelling and inflammation of tissues surrounding involved joints
+        - Synovial cell hyperplasia and hypertrophy
+        - Increased vascularity due to angiogenesis
+    
+    ![Screen Shot 2020-03-15 at 7.44.36 pm.png](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/Screen_Shot_2020-03-15_at_7.44.36_pm.png)
+    
+- Histological appearance of synovial biopsy in RA
+    - Normal synovium
+        - Simple cellular layer of type A synovial cells (macrophage like) and type B (fibroblast)
+    - Inflamed synovium characterised by:
+        - **Hyperplastic synovial lining with enlarged synovial villi**
+        - **Marked infiltration of lymphocytes (in lymphoid follicles), plasma cells, macrophages**
+        - Pannus
+            - Fibroinflammatory mass of oedematous synovium, inflammatory cells and granulation tissue
+        - **Underlying granulation tissue**
+            - Vasodilation, angiogenesis and fibroblasts in collagenous stroma
+        - Fibrosis
+- Histopathological features of subcutaneous nodules in RA?
+    - Rheumatoid nodules
+        - Affect 20-40% over the course of the disease
+            - Often on extensor surfaces but may be internal (e.g. lungs)
+        - Firm and non-tender
+            - May be complicated by ulceration or infection
+    - Histology
+        - Central area of fibrinoid necrosis surrounded by palisading macrophages and lymphocytes
+        - Extensive fibrosis
+        - Histological features of vasculitis found in 1/3
+            - Ig, fibrin deposition, complement activation
+    
+    ![Rheumatoid_nodule_Low.jpg](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/Rheumatoid_nodule_Low.jpg)
+    
+- Rheumatoid arthritis - What are the likely causes of dry mucosal membranes + eyes, splenomegaly, and generalised lymphadenopathy in a patient with RA?
+    - What is sicca?
+        - Secondary Sjogrens syndrome
+            - Autoimmune condition affect exocrine glands (esp. salivary, lacrimal) with lymphocytic infiltration of flands
+            - May occur in isolation or combination with other CT disorders
+        - May also see lymphadenopathy or splenomegaly
+    - What is Felty syndrome?
+        - Triad of RA, splenomegaly and neutropaenia
+            - Rare complication in patients with long-standing disease
+        - Complications
+            - Recurrent infections
+            - Thrombocytopaenia or anaemia (hypersplenism)
+            - Lymphadenopathy
+- What are the extra-articular complications of RA?
+    - Constitutional symptoms due to inflammatory cytokine release
+        - Myalgia
+        - Fatigue
+        - Weight loss
+        - Fever
+    - Complications by organ system
+        - Respiratory
+            - Diffuse interstitial fibrosis
+            - Pleurisy
+            - Nodular lung disease
+        - Cardiac
+            - Pericarditis or myocarditis
+            - Valvular incompetence
+            - Pericardial effusion
+        - Haematological
+            - Anaemia
+            - Leukopaenia
+            - Thrombocytosis
+            - Diffuse lymphadenopathy (follicular hyperplasia)
+        - Skin
+            - Subcutaneous nodules
+            - Digital infarcts
+            - Ulcers
+        - Kidneys
+            - GN (Tx side effect)
+            - AIN (NSAID use)
+            - Vasculitis or amyloidosis
+        - Neurological
+            - Mononeuritis multiplex
+                - Nerve damage in ≥ 2 distinct nerves in different anatomical locations
+            - Cervical subluxation (nerve root impingement)
+
+- Seronegative spondyloarthropathies
+    - Arthritis without rheumatoid factor (no anti-IgG antibody)
+        - Strongly associated with HLA-B27
+        - Pathophysiologically characterised by inflammation of the entheses
+    - Subtypes share variable occurrence of:
+        - Inflammatory back pain (morning stiffness, improves with exercise)
+        - Peripheral arthritis
+        - Enthesitis (inflamed insertion site of tendons)
+        - Dactylitis
+        - Uveitis
+    - Psoriatic arthritis
+        - Associated with skin psoriasis and nail lesions (’pitting’) (A)
+        - Asymmetric and patchy involvement
+        - Dactylitis and ‘pencil-in-cup’ deformity of DIP on X-ray (B)
+    - Ankylosing spondylitis
+        - Symmetric involvement of the spine and sacroiliac joints
+            - Leads to ankylosis (joint fusion) → bamboo spine (vertebral spine)
+            - May cause restrictive lung disease due to limited chest wall expansion
+        - Also uveitis and aortic regurgitation
+        - More common in males
+    - IBD-associated
+    - Reactive arthritis
+        - Classic triad: conjunctivitis, urethritis, arthritis (can’t see, can’t pee, can’t bend knee)
+        - Associated with Shigella, Yersinia, Chlamydia, Campylobacter, Salmonella
+    
+    ![paste-10389525889025.jpg](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/paste-10389525889025.jpg)
+    
+- Polymyalgia rheumatica
+    - Inflammatory arthritis which tends to affect women ≥ 50 years
+    - Typically presents with shoulder, neck or hip pain associated with morning stiffness
+        - Strong correlation with giant cell arteritis (temporal) → ophthalmic emergency due to risk of blindness
+        - Raised ESR
+    - Responsive to glucocorticoids
+
+### Rheumatoid arthritis (pharmacology)
+
+**Case:**
+
+*A 32-year-old woman presented to her GP with a two-month history of stiffness in her knuckles and fingers. She also felt tired. Examination revealed swelling and tenderness of MCP 2-4 and PIP 1-5 bilaterally. There were small effusions in her knees. Over the counter ibuprofen has not assisted. Her vital signs are summarised in the table below.*
+
+- What are poor prognostic factors in RA
+    - High RF titre or positive anti-CCP antibody
+    - Persistent smoking
+    - Sustained raised CRP or ESR
+    - Swelling in ≥ 20 joints of large active joint count
+    - Impaired function or bony erosions early in disease
+    - Late initiation of treatment
+- Management of RA
+    - Goals of management
+        - Pain relief
+        - Disease modification
+            - Reduction of inflammation
+            - Protection of articular structures
+        - Maintenance of function
+        - Control of systemic involvement
+    - Rationale
+        - Non-pharmacological
+            - Physiotherapy and OT
+            - Patient and family education
+            - Smoking cessation
+            - Optimisation of cardiovascular health
+        - Pharmacological
+            - **Tight control treatment strategies**
+                - **Periodic assessment and adjustment of medication**
+                - **Aim for DMARD control and limit the use of steroids**
+            - Disease modifying anti-rheumatic drugs
+                - **Start early to reduce morbidity, mortality and slow disease progression**
+                    - Used alone or in combination
+                - Non-biologics
+                    - First line
+                        - Methotrexate (with folic acid supplementation)
+                        - Hydroxychloroquine (mild disease)
+                    - Second line
+                        - Lefluonomide
+                        - Sulfasalazine
+                - Biologics (3rd line)
+                    - TNF-a inhibitors (infliximab, adalilumab)
+                    - IL-6 inhibitors (tociluzumab)
+            - **Symptomatic treatments**
+                - **Used to treat active inflammation and pain (e.g. flares)**
+                    - Bridging therapy to DMARD efficacy (may take ≥ 6 weeks for effect)
+                - NSAIDs
+                - Glucocorticoids (short-term)
+        - Surgery
+            - Arthroscopic synovectomy to decrease pain (last-line)
+            - Joint replacement
+- How do you assess RA severity?
+    - No standardised measure for assessing disease activity. Individual measures include:
+        - Swollen and tender joint counts
+        - Patient assessment of pain
+        - Patient and evaluator global assessment of disease activity
+        - Acute phase reactants (CRP, ESR)
+    - Composite measures combine the above and the Clinical Disease Activity Index can guide severity
+    - Remission is defined as:
+        - CDAI ≤2.8
+        - Meet all of the following criteria:
+        •Swollen joint count ≤1
+        •Tender joint count ≤1
+        •Patient global assessment (on a 1 to 10 scale) ≤2
+- What would be your measures of treatment success?
+    - Remission defined as:
+        - Symptomatic relief AND
+        - Absence of joint swelling AND
+        - Normal CRP or ESR
+    - Hence, monitor clinical symptoms (activity levels), affected joints and CRP
+- NSAIDS (types, action, CIs)
+    - Types
+        - Non-selective (more GI, renal, resp AEs)
+            - Ibuprofen
+            - Diclofenac
+            - Indomethacin
+            - Naproxen
+        - COX-2 selective (more CVS AEs with bleeding risk)
+            - Celecoxib
+            - Meloxicam
+    - Absolute
+        - Known hypersensitivity to NSAIDs
+        - Asthma sensitive to aspirin or NSAIDs
+        - Active GI bleeding or PUD
+        - Trimester 3 pregnancy
+            - Can cause premature closure of DA
+    - Relative
+        - Previous Hx of GI haemorrhage, PUD or asthma
+        - Hepatic, renal or cardiac impairment
+        - IBD
+        - Other products containing aspirin or salicylates
+    
+    ![paste-236c35bf068fc119cd912e753e6fcc99fec31b0d.jpg](Rheumatoid%20Arthritis%201300acf2446a8149ad22e0eef09b4c05/paste-236c35bf068fc119cd912e753e6fcc99fec31b0d.jpg)
+    
+- Methotrexate
+    - Anti-folate anti-metabolite
+    - Use
+        - **Cancer (leukaemia, lymphoma, choriocarcinoma)**
+        - Ectopic pregnancy
+        - RA, psoriasis
+            - **Mainstay of RA therapy (given once weekly with folate to minimise AEs)**
+        - IBD
+    - Mechanism (in RA)
+        - Folic acid metabolism inhibition
+            - Competitive inhibition of dihydrofolate reductase → decreased tetrahydrofolate → inhibits DNA synthesis
+        - Adenosine receptor-mediated effects
+            - Increased adenosine → anti-inflammatory actions
+        - Other
+            - Suppression of B and T cell replication
+            - IL1 suppression
+    - AEs
+        - **Hepatotoxicity**
+        - **GI effects (nausea, vomiting, mucositis)**
+        - **Teratogenic**
+            - CI in pregnancy → neural tube defects
+        - **Myelosuppression**
+            - Leucovorin (rescue therapy to prevent or reverse)
+        - Interstitial pneumonitis
+        - Malignancy (lymphoproliferative)
+    - Monitoring
+        - FBC, UEC and LFTs (weekly for first 4 weeks, then bimonthly)
+- Lefluonomide
+    - **Anti-pyrimidine antimetabolite**
+    - Use
+        - RA, psoriatic arthritis
+    - Mechanism
+        - Inhibits **dihydro-orotate dehydrogenase**
+            - Inhibits pyrimidine synthesis and reproduction of rapidly dividing cells (e.g. T cells)
+    - AEs
+        - **GI intolerance (e.g. diarrhoea)**
+        - **Myelosuppression**
+        - **Hepatotoxicity (need LFT monitoring)**
+        - Rashes
+        - Hypertension
+        - **Teratogenic**
+            - Contraindicated in pregnancy
+- Biological agents in RA
+    - Commonly used as disease modifying agents in RA
+        - Reduce joint damage and alter disease progression
+    - Most effective when combined with MTX
+        - TNF-a inhibitors (infliximab, adalimumab)
+        - IL-1 inhibitors (tocilizumab)
+    - AEs (general)
+        - Headache
+        - GI upset (abdominal pain, nausea)
+        - Injection site reaction
+        - Predisposition to infection
+            - Screen for HBV, HCV, TB
+        - Can lead to drug-induced lupus
+- **What investigations would you do before commencing TNF-a inhibitors?**
+    - Patients on biologic DMARDs or tofacitinib (targeted synthetic DMARD) are at higher risk of infections, especially opportunistic infections)
+        - **Screen for active infection**
+            - **History of TB infection and environmental exposure**
+            - **Test for HBV and HCV**
+        - Assess vaccination status
+            - **Consider booster of influenza, pneumococcal, shingles as needed**
+            - Do not give live vaccines if on immunomodulator
+        - **Check UEC, LFT and FBC + CXR which may influence choice of drug + provide a baseline measurement for comparison**
+            - eTG states:
+                - Baseline test for dsDNA antibodies (may develop rise)
+                - CI in heart failure/demyelinating disorders with infliximab and adalumimab [AVOID]
+    - Dosing may vary but often weekly to every two week
+    - Drug interactions
+        - Do not co-administer with other biological immunosuppressive agents

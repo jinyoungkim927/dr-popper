@@ -1,0 +1,258 @@
+# Polycythaemia vera
+
+*A 56-year-old man was seen in the Haematology Clinic for review. He was diagnosed with polycythaemia vera six years ago, and had been treated with regular venesections. Over the past few months he had noticed increasing tiredness, early satiety, some weight loss and "discomfort" in the left upper quadrant of his abdomen.*
+
+[](https://lh7-us.googleusercontent.com/SY3Nz4bKpwJ4xYfxHLvvzgH05qy9PgCoFSUg5Nf5JRJrIdShdtOGi_gMJuutZmkMsXxwum3yNOuTWQO1eq2bSOKFY4j-2gtsYFhQZMdtAfhWdHOz9OaV9lBzdaqixwj460SR2hCBV-qV8eRwYgCfjw)
+
+*Examination revealed a cachectic man with conjunctival pallor. The splenic edge was palpable 10 cm below the costal margin in the mid-clavicular line. The remainder of his examination was normal.*
+
+- PDx and DDx
+    - PDx: polycythaemia (given age and plethora)
+        - Primary concern is polycythaemia rubro vera
+    - DDx to consider
+        - Causes of myeloproliferative disease
+            - Polycythaemia vera
+            - CML
+            - Essential thrombocytosis
+            - Primary myelofibrosis
+        - Causes of secondary polycythaemia
+            - Exogenous EPO
+            - EPO secretion by tumours (e.g. RCC)
+            - Chronic hypoxia (e.g. COPD, high altitude)
+- Explain clinical symptoms: *Over the past six months he had noticed **increasing tiredness**, and complained of a **"dragging pain" in the left upper quadrant of his abdomen**. Examination revealed an unwell looking, elderly-man, with **conjunctival pallor**.*
+    - LUQ discomfort and early satiety
+        - Splenomegaly resulting in compression of the stomach (gastric outlet obstruction)
+    - Fatigue and conjunctival pallor
+        - Anaemia → myelofibrotic transformation or leukaemic transformation
+    - Weight loss
+        - Catabolic state of malignancy due to leukaemia transformation
+- Investigative approach to myeloproliferative disease
+    - Diagnostic
+        - FBC with WCC differential
+        - Peripheral blood smear
+        - **EPO levels**
+            - Decreased in primary PV
+            - Increased in secondary
+        - **Bone marrow aspirate and trephine**
+            - Hypercellularity
+            - Degree of fibrosis
+    - Ancillary
+        - Labs
+            - UEC
+                - Hyperuricaemia
+            - LFT (metabolic baseline)
+            - LDH
+                - Highlights complications of increased cell turnover
+            - Iron studies
+                - May be reduced with excessive haematopoiesis
+            - Genetic tests
+                - JAK-2 mutation
+                - BCR-ABL translocation (CML)
+- Diagnostic criteria of polycythaemia rubro vera (WHO 2016)
+    - **Diagnostic if all 3 MAJOR or first 2 MAJOR + MINOR**
+    - Major
+        - **Evidence of increased RBCs**
+            - Hb > 165 OR
+            - Hct ≥ 49% (M) or 48% (F) OR
+            - Increased RCC
+        - **Bone marrow biopsy showing hypercellularity with tri-lineage growth**
+            - Erythropoiesis
+            - Granulopoiesis
+            - Megakaryopoiesis
+        - Evidence of genetic mutation in JAK2 gene
+    - Minor
+        - Lowered EPO levels
+- Interpret this FBC (myeloproliferative disorder → myelofibrosis)? What is the term for this appearance on film and what else could cause it?
+    
+    ![clip_image002-93d9a4be28a4d21888a27d1595237b520ce0b685.png](Polycythaemia%20vera%201300acf2446a815996b9dd0113bacca7/clip_image002-93d9a4be28a4d21888a27d1595237b520ce0b685.png)
+    
+    - Key findings
+        - Normocytic normochromic anaemia
+            - Bone marrow failure
+            - Sequestration and destruction in the enlarged spleen (due to abnormal RBC morphology)
+            - Haemorrhage or excess blood loss
+        - Leukocytosis
+            - WBCs variable in myelofibrosis
+        - Thrombocytosis
+            - Variable in myelofibrosis
+        - Leukoerythroblastic film
+            - Characterised by:
+                - Nucleated RBCs
+                - Immature granulocytes (metamyelocytes, normoblasts)
+                - Tear drop RBCs and anaemia
+            - Occurs in **infiltration of the bone marrow (myeloma, myelofibrosis, disseminated malignancy, TB)** or massive haemolysis
+        - High ESR
+            - Inflammatory response
+            - Hypocellularity of blood may reduce blood viscosity and increase sedimentation rate
+- What blood film results do you expect with early polycythaemia vera
+    - Haemoglobin > 185g/L.
+        - Normal (M) = 130-180, (F) = 120-160
+    - Haematocrit > 55%
+    - Total WCC > 10.5
+    - Platelet count > 450
+    - Elevated LDH
+- Why do patients with myeloproliferative disease often get painful joint swelling?
+    - Likely represents an episode of acute gout in the 1st MTP joint (podagra)
+    - High turnover of cells results in increased purine metabolism and hyperuricaemia which might manifest with crystal deposition and gout
+- What abnormalities may be seen in the bone marrow on aspiration and trephine
+    - Early active disease
+        - Hypercellularity and hyperplasia of myeloid cell lines
+    - Late stages
+        - Diffuse replacement of normal haematopoietic tissue by fibrous tissue
+            - May result in obliteration of marrow by osteoid and bone (osteosclerosis)
+        - Ineffective erythropoiesis and cytopaenias
+        - May have atypical megakaryocyte hyperplasia
+- Where are bone marrow biopsies taken?
+    - Preferred site is posterior iliac crest in adults and tibia in infants
+    - Sternum is second line
+
+- What are myeloproliferative disorders? What are their complications
+    - Myeloproliferative disorders are neoplastic proliferations of mature cells of the myeloid lineage
+        - Disease of late adulthood (50-60)
+        - Results in high WBC count and hypercellular bone marrow
+            - Myeloid WBCs are increased and classified by the dominant myeloid cell production
+        
+        ![paste-9e01f3ae93c6eaf89abdfc0e508762b3d671fc47.jpg](Polycythaemia%20vera%201300acf2446a815996b9dd0113bacca7/paste-9e01f3ae93c6eaf89abdfc0e508762b3d671fc47.jpg)
+        
+    - Main disorders in this term include:
+        - Chronic myeloid leukaemia (granulocytes)
+        - Polycythaemia vera (red cells)
+        - Essential thrombocytosis (platelets)
+        - Primary myelofibrosis (megakaryocytes)
+    - Complications
+        - Hyperuricaemia → gout (high cell turnover)
+        - Progression to marrow fibrosis
+        - Transformation to acute leukaemia
+- Polycythaemia vera (general, clinical manifestations, treatment)
+    - Neoplastic proliferation of mature myeloid cells (especially RBCs) → platelets and granulocytes are also increased
+        - Associated with JAK2 kinase mutations → results in autonomous EPO and TPO receptor stimulation
+        - EPO is LOW → negative feedback
+            - In reactive polycythaemia, EPO is high as compensation (e.g. in chronic hypoxia)
+    - Clinical features
+        - Mostly due to **hyperviscosity**
+            - **Slow rate of blood flow = poor oxygenation + increased thrombosis risk**
+                - Increased risk of venous thrombosis (hepatic vein, portal vein, dural venous sinuses)
+                - Blurry vision and headache
+            - Facial plethora due to congestion
+        - Itching (often after bathing)
+            - Due to histamine release from mast cells
+        - Erythromelalgia
+            - Severe burning pain and red-blue discoloration due to episodic blood clots in the extremities
+        - Splenomegaly (congestion and sequestration)
+    - Management
+        - Phlebotomy
+        - Hydroxyurea
+        - Ruxolitinib (JAK1/2 inhibitor)
+- CML - general
+    - Neoplastic proliferation of mature myeloid cells
+        - Classically basophils (or other granulocytes)
+    - Indolent clinical course which may be managed conservatively
+        - Hepatosplenomegaly is common
+    - Strongly associated with BCR-ABL gene (t(9;22)) which codes for an oncogene that acts via tyrosine kinase
+        - Blocked by imatinib
+    - Disease phases
+        - Chronic
+            - Easily controlled and responds to imatinib
+        - Blast crisis
+            - Converts to an acute leukaemia (AML 2/3, ALL 1/3)
+- Essential thrombocythaemia
+    - Neoplastic proliferation of mature myeloid cells (esp. platelets)
+        - Associated with JAK2 kinase mutations
+    - Symptoms relate to increased risk of bleeding and/or thrombosis
+    - Otherwise uncomplicated
+        - Rarely progresses to marrow fibrosis or leukaemia
+        - No significant gout risk
+- What is myelofibrosis? Why does it occur and what are its complications?
+    - Myelofibrosis is caused by the proliferation of megakaryocytes which produce excess PDGF (platelet derived growth factor) → marrow fibrosis
+    - Types
+        - Primary (associated with JAK2 kinase mutations)
+        - Secondary to another myeloproliferative disorder (e.g. polycythaemia vera)
+    - Complications
+        - Splenomegaly due to extramedullary haematopoiesis
+            - Splenic infarction as the spleen outgrows its blood supply and thrombosis due to hyperviscosity
+        - Leukoerythroblastic smear
+        - Bone marrow failure
+            - Anaemia, increased infection risk, bleeding and thrombosis
+    
+    ![clip_image002-b961d017b8871cc7b33c84d9dfd78c6778bf0eea.png](Polycythaemia%20vera%201300acf2446a815996b9dd0113bacca7/clip_image002-b961d017b8871cc7b33c84d9dfd78c6778bf0eea.png)
+    
+- Myelofibrosis - what is the natural Hx and common causes of death
+    - Myelofibrosis has a chronic course over 5-10 years
+    - Clinical manifestations include:
+        - Anaemia
+        - Symptomatic splenomegaly
+        - Thrombosis or haemorrhage
+        - Constitutional symptoms (fever, night sweats)
+    - Death mostly due to GI haemorrhage, ACS, CVA, transformation to acute leukaemia (mostly AML)
+- Myelofibrosis - management
+    - Depends on risk stratification
+        - Higher risk
+            - Allogenic HCST
+        - Lower risk
+            - Symptomatic treatment (ruxolitinib, hydroxyurea)
+            - Observation if asymptomatic
+        - Transfusion for anaemia
+
+- Normal anatomy of the spleen
+    - Spleen is an intraperitoneal organ located in the LUQ of the abdomen
+        - Underlies ribs 9-11
+        - Has a superior and inferior pole
+    - Supporting ligaments
+        - Gastrosplenic (part of greater omentum)
+        - Lienorenal
+    - Anatomical relations
+        - Superior: diaphragm
+        - Anterior: stomach, left colic flexure
+        - Medial: pancreatic tail
+        - Posterior: L kidney
+- Histology and internal structures of the spleen, function
+    - Red pulp
+        - Comprised of sinusoids
+            - Fenestrated capillaries which capture old and malformed RBCs and platelets
+        - Splenic cords (Billroth) wich contain macrophages
+    - White pulp
+        - Follicles → contain B lymphocytes
+        - Periarteriolar lymphoid sheaths
+            - Dense tissue containing T lymphocytes which surround arterioles
+    - Marginal zone
+        - Separates the red and white pulp
+        - Contains antigen-presenting cells (macrophages, B cells)
+    - Functions
+        - Major site of antigen presentation (immune)
+        - Haematological
+            - Blood reservoir
+            - Removes aged RBCs from circulation
+    
+    ![Screenshot 2023-10-21 at 10.20.58 am.png](Polycythaemia%20vera%201300acf2446a815996b9dd0113bacca7/Screenshot_2023-10-21_at_10.20.58_am.png)
+    
+- What abnormalities may be seen in the spleen in myeloproliferative disease?
+    - Macroscopic
+        - Enlarged spleen
+    - Microscopic
+        - Expansion of the red pulp due to extramedullary haematopoiesis
+        - Proportional loss of normal white pulp (myeloid precursors are prominent)
+        - Evidence of subcapsular infarcts
+            - Outgrowth of blood supply and possible thrombosis due to hyperviscosity
+- Lymph node → general anatomy
+    - A secondary lymphoid organ with many afferent lymphatics and 1 or more efferents
+        - Encapsulated with trabeculae
+    - Parts
+        - Follicle
+            - Site of B cell localisation and proliferation
+            - Secondary follicles have pale central germinal centres and are active
+        - Medulla
+            - Medullary cords (closely packed lymphocytes and plasma cells)
+            - Medullary sinuses
+                - Communicate with efferent lymphatics
+                - Contain reticular cells and macrophages
+        - Paracortex
+            - Contains T cells
+            - Region of cortex between medulla and follicles
+                - Contains high endothelial venules where T and B cells can enter from blood
+            - Enlarged in extreme cellular immune responses (e.g. EBV) → hyperplasia → lymphadenopathy
+    - Function
+        - Non-specific filtration by macrophages
+        - Circulation of B and T cells
+        - Activation of the immune response
+    
+    ![Screenshot 2023-10-21 at 10.24.08 am.png](Polycythaemia%20vera%201300acf2446a815996b9dd0113bacca7/Screenshot_2023-10-21_at_10.24.08_am.png)
