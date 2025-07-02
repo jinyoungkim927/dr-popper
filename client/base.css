@@ -22,3 +22,110 @@ body {
   font-size: 0.9rem;
   background-color: var(--color-base);
 }
+
+body {
+  @apply bg-gray-50;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-bold text-gray-900;
+}
+
+/* Medical exam app specific styles */
+.exam-mode-button {
+  @apply w-full p-3 text-left border rounded-lg hover:bg-blue-50 transition-colors;
+}
+
+.exam-mode-button.active {
+  @apply bg-blue-100 border-blue-500;
+}
+
+.case-card {
+  @apply p-4 border rounded-lg bg-white shadow-sm hover:shadow-md transition-shadow;
+}
+
+.status-indicator {
+  @apply inline-flex items-center px-2 py-1 rounded-full text-xs font-medium;
+}
+
+.status-indicator.connected {
+  @apply bg-green-100 text-green-800;
+}
+
+.status-indicator.disconnected {
+  @apply bg-red-100 text-red-800;
+}
+
+/* Event log styling for medical context */
+.event-log-item {
+  @apply p-3 mb-2 rounded-lg;
+}
+
+.event-log-item.user {
+  @apply bg-blue-50 ml-8;
+}
+
+.event-log-item.assistant {
+  @apply bg-gray-100 mr-8;
+}
+
+/* Medical case presentation */
+.case-presentation {
+  @apply p-4 bg-white rounded-lg shadow-sm border border-gray-200;
+}
+
+.case-presentation h4 {
+  @apply text-lg font-semibold mb-2 text-blue-900;
+}
+
+.case-presentation .section {
+  @apply mb-3;
+}
+
+.case-presentation .section-title {
+  @apply font-medium text-gray-700 mb-1;
+}
+
+/* Learning tips card */
+.learning-tips {
+  @apply bg-yellow-50 border border-yellow-200 rounded-lg p-4;
+}
+
+.learning-tips h4 {
+  @apply text-yellow-900 mb-2;
+}
+
+.learning-tips ul {
+  @apply text-yellow-800 text-sm space-y-1;
+}
+
+/* Quick reference buttons */
+.quick-ref-btn {
+  @apply w-full p-3 text-left border rounded-lg hover:bg-gray-50 transition-colors flex items-center gap-2;
+}
+
+.quick-ref-btn:hover {
+  @apply border-blue-300 bg-blue-50;
+}
+
+/* Session controls for medical app */
+.session-control-btn {
+  @apply px-6 py-3 rounded-lg font-medium transition-all;
+}
+
+.session-control-btn.primary {
+  @apply bg-blue-600 text-white hover:bg-blue-700;
+}
+
+.session-control-btn.danger {
+  @apply bg-red-600 text-white hover:bg-red-700;
+}
+
+.session-control-btn:disabled {
+  @apply opacity-50 cursor-not-allowed;
+}

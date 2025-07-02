@@ -1,0 +1,128 @@
+{
+  "total_cases": 45,
+  "cases_by_system": {
+    "cardiovascular": [
+      "1",
+      "9",
+      "10",
+      "36",
+      "41"
+    ],
+    "respiratory": [
+      "3",
+      "5",
+      "11",
+      "19",
+      "42"
+    ],
+    "neurological": [
+      "14",
+      "21",
+      "35",
+      "36",
+      "43"
+    ],
+    "gastrointestinal": [
+      "12",
+      "13",
+      "16",
+      "22",
+      "38",
+      "44"
+    ],
+    "renal": [
+      "17",
+      "18",
+      "28",
+      "39"
+    ],
+    "endocrine": [
+      "2",
+      "26",
+      "32",
+      "45"
+    ],
+    "hematology": [
+      "8",
+      "27",
+      "30",
+      "31"
+    ],
+    "infectious": [
+      "4",
+      "20",
+      "23",
+      "38"
+    ],
+    "musculoskeletal": [
+      "6",
+      "37"
+    ],
+    "oncology": [
+      "1",
+      "2",
+      "6",
+      "7",
+      "14",
+      "17",
+      "19",
+      "34"
+    ],
+    "rheumatology": [
+      "24",
+      "31",
+      "33"
+    ],
+    "psychiatry": [
+      "44",
+      "45"
+    ]
+  },
+  "case_titles": {
+    "1": "Ovarian mass with peritoneal spread",
+    "2": "Post-menopausal bleeding",
+    "3": "Post-operative respiratory distress",
+    "4": "Anaphylaxis and shock",
+    "5": "Post-operative pneumonia and PE",
+    "6": "Bone tumor in adolescent",
+    "7": "Breast lump evaluation",
+    "8": "Bleeding disorder",
+    "9": "Acute MI with diabetes",
+    "10": "Abdominal aortic aneurysm",
+    "11": "COPD exacerbation",
+    "12": "Ulcerative colitis",
+    "13": "Dysphagia with scleroderma",
+    "14": "Spinal cord compression",
+    "15": "Acute cholecystitis",
+    "16": "Upper GI bleeding",
+    "17": "Renal cell carcinoma",
+    "18": "Acute kidney injury",
+    "19": "Pleural effusion",
+    "20": "Meningococcal meningitis",
+    "21": "Brain tumor with seizure",
+    "22": "Alcoholic liver disease",
+    "23": "HIV with opportunistic infection",
+    "24": "SLE presentation",
+    "25": "Hypothyroidism",
+    "26": "HIV with thrush",
+    "27": "Chronic kidney disease",
+    "28": "Megaloblastic anemia",
+    "29": "Acute leukemia",
+    "30": "Rheumatoid arthritis",
+    "31": "Diabetic ketoacidosis",
+    "32": "Nephrotic syndrome",
+    "33": "Testicular tumor",
+    "34": "Stroke with AF",
+    "35": "Hip fracture and osteoporosis",
+    "36": "Acute hepatitis",
+    "37": "Renal colic",
+    "38": "Post-operative death",
+    "39": "Severe asthma exacerbation",
+    "40": "Subarachnoid hemorrhage",
+    "41": "Acromegaly",
+    "42": "Polycythemia vera complications",
+    "43": "Acute abdomen",
+    "44": "Major depression",
+    "45": "Schizophrenia with metabolic syndrome"
+  }
+}

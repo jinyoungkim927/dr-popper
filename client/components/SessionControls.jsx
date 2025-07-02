@@ -72,19 +72,131 @@ export default function SessionControls({
   sendTextMessage,
   serverEvents,
   isSessionActive,
+  onShowCaseSelector,
+  onQuickCaseSelect,
+  selectedCase,
+  caseTitles,
+  examMode,
+  onExamModeChange,
+  selectedSystem,
+  onSystemChange,
+  medicalSystems,
+  medicalCases,
 }) {
   return (
-    <div className="flex gap-4 border-t-2 border-gray-200 h-full rounded-md">
-      {isSessionActive ? (
-        <SessionActive
-          stopSession={stopSession}
-          sendClientEvent={sendClientEvent}
-          sendTextMessage={sendTextMessage}
-          serverEvents={serverEvents}
-        />
-      ) : (
-        <SessionStopped startSession={startSession} />
-      )}
+    <div className="bg-white rounded-lg shadow-md p-6">
+      <div className="flex flex-col space-y-4">
+        <div className="flex justify-between items-center">
+          <h2 className="text-xl font-semibold">Session Controls</h2>
+          {!isSessionActive ? (
+            <button
+              onClick={startSession}
+              className="px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors"
+            >
+              Start Session
+            </button>
+          ) : (
+            <button
+              onClick={stopSession}
+              className="px-6 py-3 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors"
+            >
+              End Session
+            </button>
+          )}
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-2">
+              Exam Mode
+            </label>
+            <select
+              value={examMode}
+              onChange={(e) => onExamModeChange(e.target.value)}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              disabled={isSessionActive}
+            >
+              <option value="random">Random Questions</option>
+              <option value="viva">Viva</option>
+              <option value="revise">Revise</option>
+            </select>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-2">
+              Medical System
+            </label>
+            <select
+              value={selectedSystem}
+              onChange={(e) => onSystemChange(e.target.value)}
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              disabled={isSessionActive}
+            >
+              {medicalSystems.map((system) => (
+                <option key={system.value} value={system.value}>
+                  {system.label}
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
+
+        <div className="flex gap-2 items-center flex-wrap">
+          <button
+            onClick={onShowCaseSelector}
+            className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors"
+            disabled={!isSessionActive}
+          >
+            Select Medical Case
+          </button>
+
+          {/* Quick case selector dropdown */}
+          {medicalCases && (
+            <select
+              className="px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              disabled={!isSessionActive}
+              onChange={(e) => {
+                if (e.target.value && onQuickCaseSelect) {
+                  const [system, caseIndex] = e.target.value.split('-');
+                  const caseData = medicalCases[system][parseInt(caseIndex)];
+                  if (caseData) {
+                    onQuickCaseSelect(caseData.id, caseData);
+                  }
+                }
+              }}
+              value=""
+            >
+              <option value="">Quick Select...</option>
+              {Object.entries(medicalCases).map(([system, cases]) => (
+                <optgroup key={system} label={system.charAt(0).toUpperCase() + system.slice(1)}>
+                  {cases.map((caseData, index) => (
+                    <option key={caseData.id} value={`${system}-${index}`}>
+                      {caseData.id} ({caseData.difficulty})
+                    </option>
+                  ))}
+                </optgroup>
+              ))}
+            </select>
+          )}
+
+          {selectedCase && (
+            <div className="px-4 py-2 bg-gray-200 rounded">
+              Current: {selectedCase}
+            </div>
+          )}
+        </div>
+
+        {isSessionActive ? (
+          <SessionActive
+            stopSession={stopSession}
+            sendClientEvent={sendClientEvent}
+            sendTextMessage={sendTextMessage}
+            serverEvents={serverEvents}
+          />
+        ) : (
+          <SessionStopped startSession={startSession} />
+        )}
+      </div>
     </div>
   );
 }
