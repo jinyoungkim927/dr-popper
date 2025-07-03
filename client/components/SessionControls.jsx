@@ -151,31 +151,28 @@ export default function SessionControls({
           </button>
 
           {/* Quick case selector dropdown */}
-          {medicalCases && (
+          {caseTitles && (
             <select
               className="px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
               disabled={!isSessionActive}
               onChange={(e) => {
-                if (e.target.value && onQuickCaseSelect) {
-                  const [system, caseIndex] = e.target.value.split('-');
-                  const caseData = medicalCases[system][parseInt(caseIndex)];
-                  if (caseData) {
-                    onQuickCaseSelect(caseData.id, caseData);
-                  }
+                if (e.target.value) {
+                  const caseNumber = parseInt(e.target.value);
+                  // Trigger case protocol loading via voice command handler
+                  sendTextMessage(`I want to solve case protocol ${caseNumber}`);
                 }
               }}
               value=""
             >
-              <option value="">Quick Select...</option>
-              {Object.entries(medicalCases).map(([system, cases]) => (
-                <optgroup key={system} label={system.charAt(0).toUpperCase() + system.slice(1)}>
-                  {cases.map((caseData, index) => (
-                    <option key={caseData.id} value={`${system}-${index}`}>
-                      {caseData.id} ({caseData.difficulty})
-                    </option>
-                  ))}
-                </optgroup>
-              ))}
+              <option value="">Quick Select Case...</option>
+              {Array.from({ length: 45 }, (_, i) => i + 1).map(num => {
+                const title = caseTitles[num] || `Case Protocol ${num}`;
+                return (
+                  <option key={num} value={num}>
+                    Case {num} - {title.length > 40 ? title.substring(0, 40) + '...' : title}
+                  </option>
+                );
+              })}
             </select>
           )}
 
