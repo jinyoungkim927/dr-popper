@@ -204,7 +204,10 @@ export default function LiveScoreTracker({
 
             const response = await fetch('/api/grade-subsection', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                },
                 body: JSON.stringify({
                     transcript: fullTranscript.trim(),
                     subsection: `Question ${questionNum}: ${questionInfo.text}`,

@@ -2,6 +2,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import casesReference from "../../cases_reference.json";
 import systemPromptData from "../../system_prompt.json";
 import { formatSessionDataForReport, generateSessionReport } from "../utils/pdfGenerator.js";
+import AuthWrapper from "./AuthWrapper";
 import LiveScoreTracker from "./LiveScoreTracker";
 import Profile from "./Profile";
 
@@ -303,6 +304,7 @@ ${preSelectedCase ? 'Start with the pre-selected case above.' : 'Begin immediate
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Authorization': `Bearer ${localStorage.getItem('token')}`
         },
         body: JSON.stringify({
           userResponse,
@@ -577,7 +579,10 @@ ${summary.weakAreas.length > 0 ? `Weak areas: ${summary.weakAreas.join(', ')}` :
 
       const response = await fetch('/api/generate-report', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${localStorage.getItem('token')}`
+        },
         body: JSON.stringify({
           sessionData,
           studentName: userProfile?.name || 'Student',
@@ -847,78 +852,53 @@ Begin by presenting the clinical scenario and then ask the first question.`;
   }, [dataChannel, isSessionActive]);
 
   return (
-    <>
-      <nav className="absolute top-0 left-0 right-0 h-16 flex items-center bg-white shadow-sm">
-        <div className="flex items-center gap-4 w-full m-4 pb-2 border-0 border-b border-solid border-gray-200">
-          <span style={{ fontSize: "24px" }}>🩻</span>
-          <h1 className="text-xl font-semibold">Dr. Popper</h1>
-          <div className="ml-auto">
-            <button
-              className="px-4 py-2 bg-gray-100 rounded hover:bg-gray-200"
-              onClick={() => setShowProfile(!showProfile)}
-            >
-              Profile
-            </button>
-          </div>
-        </div>
-      </nav>
-      <main className="absolute top-16 left-0 right-0 bottom-0">
-        <section className="absolute top-0 left-0 right-[380px] bottom-0 px-4 overflow-y-auto">
-            {!isSessionActive ? (
-            <div className="mt-8 p-6 bg-blue-50 rounded-lg">
-                <p className="mb-4">Select your practice mode and begin.</p>
-                <div className="grid grid-cols-3 gap-4">
-                  <div className="p-4 border rounded">
-                    <h3 className="font-bold">Random Questions</h3>
-                    <p className="text-sm">Mixed topics and difficulty</p>
-                  </div>
-                  <div className="p-4 border rounded">
-                    <h3 className="font-bold">Viva</h3>
-                    <p className="text-sm">Rapid-fire oral examination</p>
-                  </div>
-                  <div className="p-4 border rounded">
-                    <h3 className="font-bold">Revise</h3>
-                    <p className="text-sm">Focus on weak areas</p>
-                  </div>
-                </div>
+    <AuthWrapper>
+      <div className="flex h-screen bg-gray-100">
+        {/* Main content area */}
+        <main className="flex-1 flex flex-col">
+          {/* Audio element for playing AI responses */}
+          <audio ref={audioElement} autoPlay />
+
+          {/* Event log */}
+          <section className="flex-1 overflow-y-auto p-4">
+            {/* Live Score Tracker */}
+            {isSessionActive && (
+              <LiveScoreTracker
+                currentCase={currentCaseData}
+                events={events}
+                isActive={isSessionActive}
+                onSubsectionComplete={handleSubsectionComplete}
+              />
+            )}
+
+            {/* Connection status */}
+            <div className="mb-4">
+              <div className={`inline-flex items-center px-3 py-1 rounded-full text-sm font-medium ${isSessionActive
+                ? 'bg-green-100 text-green-800'
+                : 'bg-red-100 text-red-800'
+                }`}>
+                <div className={`w-2 h-2 rounded-full mr-2 ${isSessionActive ? 'bg-green-600' : 'bg-red-600'
+                  }`} />
+                {isSessionActive ? 'Connected' : 'Disconnected'}
               </div>
-            ) : (
-              <>
-                <div className="mt-4 mb-4 p-4 bg-gray-50 rounded-lg flex justify-between items-center">
-                  <div>
-                    {!currentCaseData && (
-                      <>
-                    <p className="font-semibold">Mode: {examMode}</p>
-                    <p className="text-sm">System: {selectedSystem}</p>
-                      </>
-                    )}
-                    {currentCaseData && (
-                      <p className="text-sm text-blue-600 font-medium">
-                        Current Case: {currentCaseData.caseNumber ? `Protocol ${currentCaseData.caseNumber}` : ''} - {currentCaseData.title}
-                      </p>
-                    )}
-                  </div>
-                  {currentScore !== null && (
-                    <div className="text-right">
-                      <p className="text-2xl font-bold">{currentScore}%</p>
-                      <p className="text-sm">Last Score</p>
-                    </div>
-                  )}
+            </div>
+
+            {/* Events display */}
+            <div className="space-y-4">
+              {events.length === 0 && (
+                <div className="text-center text-gray-500 py-8">
+                  <p>No conversation yet. Start a session to begin.</p>
                 </div>
+              )}
 
-                {/* Live Score Tracker */}
-                <LiveScoreTracker
-                  currentCase={currentCaseData || { id: 'general-session', title: 'General Session' }}
-                  events={events}
-                  isActive={isSessionActive}
-                  onSubsectionComplete={handleSubsectionComplete}
-                />
+              {events.map((event, index) => (
+                <EventDisplay key={`${event.event_id}-${index}`} event={event} />
+              ))}
+            </div>
+          </section>
+        </main>
 
-                {/* Hide EventLog to avoid showing API calls */}
-                {/* <EventLog events={events} /> */}
-              </>
-          )}
-        </section>
+        {/* Right sidebar */}
         <section className="absolute top-0 w-[380px] right-0 bottom-0 p-4 pt-0 overflow-y-auto border-l border-gray-200">
           <div className="mb-4">
             <h3 className="font-semibold mb-2">Practice Mode</h3>
@@ -1076,190 +1056,190 @@ Begin by presenting the clinical scenario and then ask the first question.`;
             </div>
           )}
         </section>
-      </main>
 
-      {/* Additional Context Dialog */}
-      {showContextDialog && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-6 max-w-2xl w-full max-h-[80vh] overflow-y-auto">
-            <h2 className="text-xl font-bold mb-4">
-              {isSessionActive ? 'View Context (Read-only)' : 'Add Additional Context'}
-            </h2>
-            {!isSessionActive && (
-              <p className="text-sm text-gray-600 mb-4">
-                Add context before starting the session. It will be included in the AI's instructions.
-              </p>
-            )}
-
-            <div className="mb-4">
-              <label className="block text-sm font-medium mb-2">
-                Text Context:
-                {isSessionActive && <span className="text-xs text-gray-500 ml-2">(Read-only during session)</span>}
-              </label>
-              <textarea
-                className={`w-full h-40 p-3 border rounded-lg ${isSessionActive ? 'bg-gray-100 cursor-not-allowed' : ''}`}
-                placeholder="Paste your notes or specific topics..."
-                value={additionalContext}
-                onChange={(e) => !isSessionActive && setAdditionalContext(e.target.value)}
-                disabled={isSessionActive}
-              />
-            </div>
-
-            <div className="mb-4">
-              <label className="block text-sm font-medium mb-2">
-                Upload Images:
-                {isSessionActive && <span className="text-xs text-gray-500 ml-2">(Disabled during session)</span>}
-              </label>
-              <input
-                ref={fileInputRef}
-                type="file"
-                accept="image/*"
-                multiple
-                onChange={handleImageUpload}
-                className={`mb-2 ${isSessionActive ? 'opacity-50 cursor-not-allowed' : ''}`}
-                disabled={isSessionActive}
-              />
-              {uploadedImages.length > 0 && (
-                <div className="mt-2">
-                  <p className="text-sm text-gray-600 mb-2">Uploaded images:</p>
-                  <div className="grid grid-cols-3 gap-2">
-                    {uploadedImages.map((img, idx) => (
-                      <div key={idx} className="relative">
-                        <img
-                          src={img.url}
-                          alt={img.name}
-                          className="w-full h-24 object-cover rounded border"
-                        />
-                        {!isSessionActive && (
-                        <button
-                          className="absolute top-0 right-0 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs"
-                          onClick={() => setUploadedImages(prev => prev.filter((_, i) => i !== idx))}
-                        >
-                          ×
-                        </button>
-                        )}
-                      </div>
-                    ))}
-                  </div>
-                </div>
+        {/* Additional Context Dialog */}
+        {showContextDialog && (
+          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+            <div className="bg-white rounded-lg p-6 max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+              <h2 className="text-xl font-bold mb-4">
+                {isSessionActive ? 'View Context (Read-only)' : 'Add Additional Context'}
+              </h2>
+              {!isSessionActive && (
+                <p className="text-sm text-gray-600 mb-4">
+                  Add context before starting the session. It will be included in the AI's instructions.
+                </p>
               )}
-            </div>
 
-            <div className="flex gap-2 justify-end">
-              <button
-                className="px-4 py-2 border rounded hover:bg-gray-50"
-                onClick={() => {
-                  setShowContextDialog(false);
-                  setAdditionalContext('');
-                  setUploadedImages([]);
-                }}
-              >
-                Cancel
-              </button>
-              <button
-                className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
-                onClick={submitAdditionalContext}
-              >
-                Add Context
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
+              <div className="mb-4">
+                <label className="block text-sm font-medium mb-2">
+                  Text Context:
+                  {isSessionActive && <span className="text-xs text-gray-500 ml-2">(Read-only during session)</span>}
+                </label>
+                <textarea
+                  className={`w-full h-40 p-3 border rounded-lg ${isSessionActive ? 'bg-gray-100 cursor-not-allowed' : ''}`}
+                  placeholder="Paste your notes or specific topics..."
+                  value={additionalContext}
+                  onChange={(e) => !isSessionActive && setAdditionalContext(e.target.value)}
+                  disabled={isSessionActive}
+                />
+              </div>
 
-      {/* Profile View */}
-      {showProfile && (
-        <Profile onClose={() => setShowProfile(false)} />
-      )}
-
-      {showCaseSelector && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-6 max-w-4xl w-full max-h-[80vh] overflow-y-auto">
-            <h3 className="text-2xl font-bold mb-4">Select a Medical Case</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-              {Array.from({ length: 45 }, (_, i) => i + 1).map(num => {
-                const title = casesReference.case_titles[num] || `Case Protocol ${num}`;
-                let category = 'Unknown';
-                for (const [system, cases] of Object.entries(casesReference.cases_by_system)) {
-                  if (cases.includes(String(num))) {
-                    category = system.charAt(0).toUpperCase() + system.slice(1);
-                    break;
-                  }
-                }
-
-                return (
-                      <button
-                    key={num}
-                    className="text-left p-3 hover:bg-gray-100 rounded border transition-colors"
-                    onClick={() => {
-                      setIsLoadingCase(true);
-                      // Load and start the case protocol
-                      fetch(`/api/case-protocol/${num}`)
-                        .then(response => response.json())
-                        .then(data => {
-                          if (!data.error) {
-                            const caseData = {
-                              id: `case-protocol-${num}`,
-                              caseNumber: num,
-                              title: data.title,
-                              category: data.category,
-                              content: data.content,
-                              difficulty: 'standard'
-                            };
-                            startCaseProtocolSession(num, caseData);
-                          }
-                        })
-                        .catch(error => {
-                          console.error('Error loading case protocol:', error);
-                          alert(`Failed to load case protocol ${num}`);
-                        })
-                        .finally(() => {
-                          setIsLoadingCase(false);
-                        });
-                    }}
-                  >
-                    <div className="flex flex-col">
-                      <span className="font-medium">Case {num}</span>
-                      <span className="text-xs text-gray-500">{category}</span>
-                      <p className="text-sm text-gray-600 mt-1 line-clamp-2">
-                        {title}
-                      </p>
+              <div className="mb-4">
+                <label className="block text-sm font-medium mb-2">
+                  Upload Images:
+                  {isSessionActive && <span className="text-xs text-gray-500 ml-2">(Disabled during session)</span>}
+                </label>
+                <input
+                  ref={fileInputRef}
+                  type="file"
+                  accept="image/*"
+                  multiple
+                  onChange={handleImageUpload}
+                  className={`mb-2 ${isSessionActive ? 'opacity-50 cursor-not-allowed' : ''}`}
+                  disabled={isSessionActive}
+                />
+                {uploadedImages.length > 0 && (
+                  <div className="mt-2">
+                    <p className="text-sm text-gray-600 mb-2">Uploaded images:</p>
+                    <div className="grid grid-cols-3 gap-2">
+                      {uploadedImages.map((img, idx) => (
+                        <div key={idx} className="relative">
+                          <img
+                            src={img.url}
+                            alt={img.name}
+                            className="w-full h-24 object-cover rounded border"
+                          />
+                          {!isSessionActive && (
+                            <button
+                              className="absolute top-0 right-0 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center text-xs"
+                              onClick={() => setUploadedImages(prev => prev.filter((_, i) => i !== idx))}
+                            >
+                              ×
+                            </button>
+                          )}
+                        </div>
+                      ))}
                     </div>
-                      </button>
-                );
-              })}
+                  </div>
+                )}
+              </div>
+
+              <div className="flex gap-2 justify-end">
+                <button
+                  className="px-4 py-2 border rounded hover:bg-gray-50"
+                  onClick={() => {
+                    setShowContextDialog(false);
+                    setAdditionalContext('');
+                    setUploadedImages([]);
+                  }}
+                >
+                  Cancel
+                </button>
+                <button
+                  className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                  onClick={submitAdditionalContext}
+                >
+                  Add Context
+                </button>
+              </div>
             </div>
-            <button
-              className="mt-4 px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-600"
-              onClick={() => setShowCaseSelector(false)}
-            >
-              Close
-            </button>
           </div>
-        </div>
-      )}
+        )}
 
-      {/* Loading Case Indicator */}
-      {isLoadingCase && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-8 text-center">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
-            <p className="text-lg font-semibold">Loading Case Protocol...</p>
-            <p className="text-sm text-gray-600 mt-2">Please wait while we prepare the case</p>
-          </div>
-        </div>
-      )}
+        {/* Profile View */}
+        {showProfile && (
+          <Profile onClose={() => setShowProfile(false)} />
+        )}
 
-      {/* Report Generation Loading */}
-      {isGeneratingReport && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-8 text-center">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-green-600 mx-auto mb-4"></div>
-            <p className="text-lg font-semibold">Grading Responses...</p>
-            <p className="text-sm text-gray-600 mt-2">Generating your performance report</p>
+        {showCaseSelector && (
+          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+            <div className="bg-white rounded-lg p-6 max-w-4xl w-full max-h-[80vh] overflow-y-auto">
+              <h3 className="text-2xl font-bold mb-4">Select a Medical Case</h3>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                {Array.from({ length: 45 }, (_, i) => i + 1).map(num => {
+                  const title = casesReference.case_titles[num] || `Case Protocol ${num}`;
+                  let category = 'Unknown';
+                  for (const [system, cases] of Object.entries(casesReference.cases_by_system)) {
+                    if (cases.includes(String(num))) {
+                      category = system.charAt(0).toUpperCase() + system.slice(1);
+                      break;
+                    }
+                  }
+
+                  return (
+                    <button
+                      key={num}
+                      className="text-left p-3 hover:bg-gray-100 rounded border transition-colors"
+                      onClick={() => {
+                        setIsLoadingCase(true);
+                        // Load and start the case protocol
+                        fetch(`/api/case-protocol/${num}`)
+                          .then(response => response.json())
+                          .then(data => {
+                            if (!data.error) {
+                              const caseData = {
+                                id: `case-protocol-${num}`,
+                                caseNumber: num,
+                                title: data.title,
+                                category: data.category,
+                                content: data.content,
+                                difficulty: 'standard'
+                              };
+                              startCaseProtocolSession(num, caseData);
+                            }
+                          })
+                          .catch(error => {
+                            console.error('Error loading case protocol:', error);
+                            alert(`Failed to load case protocol ${num}`);
+                          })
+                          .finally(() => {
+                            setIsLoadingCase(false);
+                          });
+                      }}
+                    >
+                      <div className="flex flex-col">
+                        <span className="font-medium">Case {num}</span>
+                        <span className="text-xs text-gray-500">{category}</span>
+                        <p className="text-sm text-gray-600 mt-1 line-clamp-2">
+                          {title}
+                        </p>
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+              <button
+                className="mt-4 px-4 py-2 bg-gray-500 text-white rounded hover:bg-gray-600"
+                onClick={() => setShowCaseSelector(false)}
+              >
+                Close
+              </button>
+            </div>
           </div>
-        </div>
-      )}
-    </>
+        )}
+
+        {/* Loading Case Indicator */}
+        {isLoadingCase && (
+          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+            <div className="bg-white rounded-lg p-8 text-center">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"></div>
+              <p className="text-lg font-semibold">Loading Case Protocol...</p>
+              <p className="text-sm text-gray-600 mt-2">Please wait while we prepare the case</p>
+            </div>
+          </div>
+        )}
+
+        {/* Report Generation Loading */}
+        {isGeneratingReport && (
+          <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+            <div className="bg-white rounded-lg p-8 text-center">
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-green-600 mx-auto mb-4"></div>
+              <p className="text-lg font-semibold">Grading Responses...</p>
+              <p className="text-sm text-gray-600 mt-2">Generating your performance report</p>
+            </div>
+          </div>
+        )}
+      </div>
+    </AuthWrapper>
   );
 }

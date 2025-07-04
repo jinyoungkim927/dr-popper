@@ -1,9 +1,17 @@
+import bcrypt from "bcryptjs";
+import cors from "cors";
 import "dotenv/config";
 import express from "express";
+import rateLimit from "express-rate-limit";
+import session from "express-session";
 import fs from "fs";
+import helmet from "helmet";
 import path from "path";
+import Stripe from "stripe";
 import { fileURLToPath } from 'url';
 import { createServer as createViteServer } from "vite";
+import { initializeDatabase, paymentDb, subscriptionDb, userDb } from './database.js';
+import { authenticateToken, generateToken, requireSubscription } from './middleware/auth.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -11,9 +19,55 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const port = process.env.PORT || 3000;
 const apiKey = process.env.OPENAI_API_KEY;
+const stripeSecretKey = process.env.STRIPE_SECRET_KEY;
+const stripeWebhookSecret = process.env.STRIPE_WEBHOOK_SECRET;
 
-// Add JSON parsing middleware
+if (!stripeSecretKey) {
+  console.error('STRIPE_SECRET_KEY is required');
+  process.exit(1);
+}
+
+const stripe = new Stripe(stripeSecretKey);
+
+// Security middleware
+app.use(helmet({
+  contentSecurityPolicy: false, // Disable for development
+  crossOriginEmbedderPolicy: false
+}));
+
+app.use(cors({
+  origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+  credentials: true
+}));
+
+// Rate limiting
+const limiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 100, // limit each IP to 100 requests per windowMs
+  message: 'Too many requests from this IP, please try again later.'
+});
+app.use('/api/', limiter);
+
+// Session configuration
+app.use(session({
+  secret: process.env.SESSION_SECRET || 'your-session-secret-change-this',
+  resave: false,
+  saveUninitialized: false,
+  cookie: {
+    secure: process.env.NODE_ENV === 'production',
+    httpOnly: true,
+    maxAge: 7 * 24 * 60 * 60 * 1000 // 7 days
+  }
+}));
+
+// Raw body parser for Stripe webhooks
+app.use('/api/stripe/webhook', express.raw({ type: 'application/json' }));
+
+// JSON parsing middleware for other routes
 app.use(express.json());
+
+// Initialize database
+await initializeDatabase();
 
 // Configure Vite middleware for React client
 const vite = await createViteServer({
@@ -22,8 +76,178 @@ const vite = await createViteServer({
 });
 app.use(vite.middlewares);
 
-// API route for token generation
-app.get("/token", async (req, res) => {
+// Authentication routes
+app.post('/api/auth/register', async (req, res) => {
+  try {
+    const { email, password, name } = req.body;
+
+    if (!email || !password || !name) {
+      return res.status(400).json({ error: 'Email, password, and name are required' });
+    }
+
+    // Check if user already exists
+    const existingUser = await userDb.findByEmail(email);
+    if (existingUser) {
+      return res.status(400).json({ error: 'User already exists with this email' });
+    }
+
+    // Hash password
+    const saltRounds = 12;
+    const passwordHash = await bcrypt.hash(password, saltRounds);
+
+    // Create user
+    const user = await userDb.create(email, passwordHash, name);
+    const token = generateToken(user);
+
+    res.status(201).json({
+      message: 'User created successfully',
+      user: { id: user.id, email: user.email, name: user.name },
+      token
+    });
+  } catch (error) {
+    console.error('Registration error:', error);
+    res.status(500).json({ error: 'Registration failed' });
+  }
+});
+
+app.post('/api/auth/login', async (req, res) => {
+  try {
+    const { email, password } = req.body;
+
+    if (!email || !password) {
+      return res.status(400).json({ error: 'Email and password are required' });
+    }
+
+    // Find user
+    const user = await userDb.findByEmail(email);
+    if (!user) {
+      return res.status(401).json({ error: 'Invalid credentials' });
+    }
+
+    // Check password
+    const isValidPassword = await bcrypt.compare(password, user.password_hash);
+    if (!isValidPassword) {
+      return res.status(401).json({ error: 'Invalid credentials' });
+    }
+
+    // Update last login
+    await userDb.updateLastLogin(user.id);
+
+    // Generate token
+    const token = generateToken(user);
+
+    res.json({
+      message: 'Login successful',
+      user: { id: user.id, email: user.email, name: user.name },
+      token
+    });
+  } catch (error) {
+    console.error('Login error:', error);
+    res.status(500).json({ error: 'Login failed' });
+  }
+});
+
+// User profile route
+app.get('/api/auth/profile', authenticateToken, async (req, res) => {
+  try {
+    const hasSubscription = await subscriptionDb.hasActiveSubscription(req.user.id);
+    const subscription = hasSubscription ? await subscriptionDb.findActiveByUserId(req.user.id) : null;
+
+    res.json({
+      user: {
+        id: req.user.id,
+        email: req.user.email,
+        name: req.user.name,
+        created_at: req.user.created_at,
+        last_login: req.user.last_login
+      },
+      subscription: {
+        hasActive: hasSubscription,
+        expiresAt: subscription?.expires_at
+      }
+    });
+  } catch (error) {
+    console.error('Profile fetch error:', error);
+    res.status(500).json({ error: 'Failed to fetch profile' });
+  }
+});
+
+// Stripe payment routes
+app.post('/api/payment/create-intent', authenticateToken, async (req, res) => {
+  try {
+    const paymentIntent = await stripe.paymentIntents.create({
+      amount: 5000, // $50.00 in cents
+      currency: 'usd',
+      metadata: {
+        userId: req.user.id.toString(),
+        email: req.user.email
+      }
+    });
+
+    res.json({
+      clientSecret: paymentIntent.client_secret,
+      paymentIntentId: paymentIntent.id
+    });
+  } catch (error) {
+    console.error('Payment intent creation error:', error);
+    res.status(500).json({ error: 'Failed to create payment intent' });
+  }
+});
+
+// Stripe webhook handler
+app.post('/api/stripe/webhook', async (req, res) => {
+  const sig = req.headers['stripe-signature'];
+  let event;
+
+  try {
+    event = stripe.webhooks.constructEvent(req.body, sig, stripeWebhookSecret);
+  } catch (err) {
+    console.error('Webhook signature verification failed:', err.message);
+    return res.status(400).send(`Webhook Error: ${err.message}`);
+  }
+
+  try {
+    switch (event.type) {
+      case 'payment_intent.succeeded':
+        const paymentIntent = event.data.object;
+        const userId = parseInt(paymentIntent.metadata.userId);
+
+        // Record payment
+        const payment = await paymentDb.create(
+          userId,
+          paymentIntent.id,
+          paymentIntent.amount,
+          'succeeded'
+        );
+
+        // Create subscription (1 year from now)
+        const expiresAt = new Date();
+        expiresAt.setFullYear(expiresAt.getFullYear() + 1);
+
+        await subscriptionDb.create(userId, payment.id, expiresAt.toISOString());
+
+        console.log(`Payment succeeded for user ${userId}, subscription created`);
+        break;
+
+      case 'payment_intent.payment_failed':
+        const failedPayment = event.data.object;
+        await paymentDb.updateStatus(failedPayment.id, 'failed');
+        console.log(`Payment failed for payment intent ${failedPayment.id}`);
+        break;
+
+      default:
+        console.log(`Unhandled event type ${event.type}`);
+    }
+
+    res.json({ received: true });
+  } catch (error) {
+    console.error('Webhook handler error:', error);
+    res.status(500).json({ error: 'Webhook handler failed' });
+  }
+});
+
+// Protected medical exam routes
+app.get("/token", authenticateToken, requireSubscription, async (req, res) => {
   try {
     const response = await fetch(
       "https://api.openai.com/v1/realtime/sessions",
@@ -48,7 +272,16 @@ app.get("/token", async (req, res) => {
   }
 });
 
-// Grading endpoint
+// Protect all medical exam API routes
+app.use('/api/grade', authenticateToken, requireSubscription);
+app.use('/api/grade-subsection', authenticateToken, requireSubscription);
+app.use('/api/validate-case-completion', authenticateToken, requireSubscription);
+app.use('/api/generate-report', authenticateToken, requireSubscription);
+app.use('/api/parse-case-questions', authenticateToken, requireSubscription);
+app.use('/api/case-protocol', authenticateToken, requireSubscription);
+app.use('/api/cases', authenticateToken, requireSubscription);
+
+// Existing medical exam routes (now protected)
 app.post("/api/grade", async (req, res) => {
   try {
     const { userResponse, context, criteria } = req.body;

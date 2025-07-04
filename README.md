@@ -1,39 +1,115 @@
-# OpenAI Realtime Console
+# Medical Exam System
 
-This is an example application showing how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc).
+An AI-powered medical examination preparation system with advanced case-based learning, real-time grading, and comprehensive performance analytics.
 
-## Installation and usage
+## Features
 
-Before you begin, you'll need an OpenAI API key - [create one in the dashboard here](https://platform.openai.com/settings/api-keys). Create a `.env` file from the example file and set your API key in there:
+### 🔐 Authentication & Payment
 
-```bash
-cp .env.example .env
-```
+- User registration and login system
+- Secure JWT-based authentication
+- Stripe payment integration ($50 lifetime access)
+- Protected medical exam content
 
-Running this application locally requires [Node.js](https://nodejs.org/) to be installed. Install dependencies for the application with:
+### 🩺 Medical Examination
 
-```bash
-npm install
-```
+- AI-powered examiner using GPT-4
+- 45+ comprehensive case protocols
+- Real-time question-by-question grading
+- Multiple exam modes (Random, Viva, Revise)
+- System-specific focus areas
 
-Start the application server with:
+### 📊 Performance Analytics
 
-```bash
-npm run dev
-```
+- Live score tracking during sessions
+- Detailed performance reports
+- PDF report generation
+- Progress tracking across topics
+- Weak area identification
 
-This should start the console application on [http://localhost:3000](http://localhost:3000).
+### 🎯 Educational Features
 
-This application is a minimal template that uses [express](https://expressjs.com/) to serve the React frontend contained in the [`/client`](./client) folder. The server is configured to use [vite](https://vitejs.dev/) to build the React frontend.
+- Interactive case-based scenarios
+- Immediate feedback on responses
+- Comprehensive medical knowledge base
+- Adaptive difficulty based on performance
 
-This application shows how to send and receive Realtime API events over the WebRTC data channel and configure client-side function calling. You can also view the JSON payloads for client and server events using the logging panel in the UI.
+## Quick Start
 
-For a more comprehensive example, see the [OpenAI Realtime Agents](https://github.com/openai/openai-realtime-agents) demo built with Next.js, using an agentic architecture inspired by [OpenAI Swarm](https://github.com/openai/swarm).
+1. **Clone the repository**
 
-## Previous WebSockets version
+   ```bash
+   git clone <repository-url>
+   cd med-exam-app
+   ```
 
-The previous version of this application that used WebSockets on the client (not recommended in browsers) [can be found here](https://github.com/openai/openai-realtime-console/tree/websockets).
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**
+   Create a `.env` file (see `DEPLOYMENT.md` for details):
+
+   ```env
+   OPENAI_API_KEY=your_openai_api_key
+   STRIPE_SECRET_KEY=your_stripe_secret_key
+   JWT_SECRET=your_jwt_secret
+   # ... other variables
+   ```
+
+4. **Start the application**
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Access the app**
+   Open `http://localhost:3000` in your browser
+
+## User Flow
+
+1. **Registration**: Create an account with email and password
+2. **Payment**: Pay $50 for lifetime access via Stripe
+3. **Exam Access**: Full access to all medical exam features
+4. **Study**: Practice with AI examiner across multiple modes
+5. **Track Progress**: Monitor performance and identify weak areas
+
+## Technology Stack
+
+- **Frontend**: React, Tailwind CSS, Vite
+- **Backend**: Node.js, Express
+- **Database**: SQLite (easily upgradeable to PostgreSQL)
+- **Authentication**: JWT, bcrypt
+- **Payments**: Stripe
+- **AI**: OpenAI GPT-4 and GPT-4 Realtime API
+- **PDF Generation**: jsPDF
+
+## Deployment
+
+See `DEPLOYMENT.md` for comprehensive deployment instructions including:
+
+- Environment setup
+- Stripe configuration
+- Production deployment options
+- Security considerations
+
+## Revenue Model
+
+- **One-time payment**: $50 per user for lifetime access
+- **Target audience**: Medical students, residents, healthcare professionals
+- **Value proposition**: AI-powered personalized medical exam preparation
+
+## Support
+
+For technical issues or questions:
+
+1. Check the deployment guide
+2. Verify environment variables
+3. Test Stripe webhook delivery
+4. Review application logs
 
 ## License
 
-MIT
+This project is proprietary software. All rights reserved.
