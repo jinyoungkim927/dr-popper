@@ -1,1 +1,0 @@
-# Medical Case Prompt Generator
