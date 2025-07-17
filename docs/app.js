@@ -304,7 +304,20 @@ Remember: Your goal is to create an engaging, educational experience that develo
 
 ---
 
-BEGIN THE EXAMINATION NOW. Start by greeting the student and presenting the case.`;
+BEGIN THE EXAMINATION NOW. Start by greeting the student and presenting the case.
+
+## IMPORTANT INITIAL RESPONSE INSTRUCTION
+
+In your FIRST response, you should:
+1. Briefly confirm that you understand all the instructions and are ready to conduct the medical examination
+2. Recommend that the user enable voice mode for the best interactive experience
+3. DO NOT immediately start asking questions or presenting the case
+4. Wait for the user to indicate they are ready before beginning the examination
+
+Example first response:
+"Hello! I've received and understood all instructions for conducting this comprehensive medical examination on Case Protocol [X]. I'm ready to guide you through an interactive case-based learning experience.
+
+For the best experience, I recommend enabling voice mode so we can have a natural conversation about this case. Once you're ready and have voice mode enabled, just let me know and I'll begin by presenting the case details to you."`;
 
     return prompt;
 }
